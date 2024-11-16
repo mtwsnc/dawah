@@ -1,164 +1,4497 @@
-
 HTML code
-``` markdown
-<!DOCTYPE html><html dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#"><head><script data-no-optimize="1">var litespeed_docref=sessionStorage.getItem("litespeed_docref");litespeed_docref&&(Object.defineProperty(document,"referrer",{get:function(){return litespeed_docref}}),sessionStorage.removeItem("litespeed_docref"))</script><meta charset="UTF-8"><title>Information about Islām</title><link rel="preload" href="https://mtws.one/wp-content/astra-local-fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVI.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://mtws.one/wp-content/astra-local-fonts/playfair-display/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2" as="font" type="font/woff2" crossorigin><meta name="description" content="Nearly everyone has a Muslim co-worker, associate, classmate, or relative; however, many people are not well- acquainted with the actual beliefs of Islam. Learn more about Islām here"><meta name="robots" content="max-image-preview:large"><link rel="canonical" href="https://mtws.one/dawah/"><meta name="generator" content="All in One SEO (AIOSEO) 4.7.5"><meta property="og:locale" content="en_US"><meta property="og:site_name" content="Masjid Tawheed Was-Sunnah - MTWS"><meta property="og:type" content="article"><meta property="og:title" content="Information about Islām"><meta property="og:description" content="Nearly everyone has a Muslim co-worker, associate, classmate, or relative; however, many people are not well- acquainted with the actual beliefs of Islam. Learn more about Islām here"><meta property="og:url" content="https://mtws.one/dawah/"><meta property="og:image" content="https://mtws.one/wp-content/uploads/2024/03/Social-Share-Images.png"><meta property="og:image:secure_url" content="https://mtws.one/wp-content/uploads/2024/03/Social-Share-Images.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="article:published_time" content="2024-03-18T14:16:52+00:00"><meta property="article:modified_time" content="2024-04-11T19:19:26+00:00"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Information about Islām"><meta name="twitter:description" content="Nearly everyone has a Muslim co-worker, associate, classmate, or relative; however, many people are not well- acquainted with the actual beliefs of Islam. Learn more about Islām here"><meta name="twitter:image" content="https://mtws.one/wp-content/uploads/2023/05/Social-Share-Images-for-Home.webp"><script type="application/ld+json" class="aioseo-schema">{
-        "@context": "https:\/\/schema.org",
-        "@graph": [
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https:\/\/mtws.one\/dawah\/#breadcrumblist",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "@id": "https:\/\/mtws.one\/#listItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https:\/\/mtws.one\/",
-                "nextItem": "https:\/\/mtws.one\/dawah\/#listItem"
-              },
-              {
-                "@type": "ListItem",
-                "@id": "https:\/\/mtws.one\/dawah\/#listItem",
-                "position": 2,
-                "name": "Information about Isl\u0101m",
-                "previousItem": "https:\/\/mtws.one\/#listItem"
-              }
-            ]
-          },
-          {
-            "@type": "Organization",
-            "@id": "https:\/\/mtws.one\/#organization",
-            "name": "MTWS",
-            "description": "MTWS",
-            "url": "https:\/\/mtws.one\/",
-            "logo": {
-              "@type": "ImageObject",
-              "url": "https:\/\/i0.wp.com\/mtws.one\/wp-content\/uploads\/2023\/04\/cropped-logo.webp?fit=512%2C512&ssl=1",
-              "@id": "https:\/\/mtws.one\/dawah\/#organizationLogo",
-              "width": 512,
-              "height": 512
+
+```markdown
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#">
+
+<head>
+  <script data-no-optimize="1">
+    var litespeed_docref = sessionStorage.getItem("litespeed_docref");
+    litespeed_docref && (Object.defineProperty(document, "referrer", {
+      get: function() {
+        return litespeed_docref
+      }
+    }), sessionStorage.removeItem("litespeed_docref"))
+  </script>
+  <meta charset="UTF-8">
+  <title>Information about Islām</title>
+  <link rel="preload" href="https://mtws.one/wp-content/astra-local-fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVI.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="https://mtws.one/wp-content/astra-local-fonts/playfair-display/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2" as="font" type="font/woff2" crossorigin>
+  <meta name="description" content="Nearly everyone has a Muslim co-worker, associate, classmate, or relative; however, many people are not well- acquainted with the actual beliefs of Islam. Learn more about Islām here">
+  <meta name="robots" content="max-image-preview:large">
+  <link rel="canonical" href="https://mtws.one/dawah/">
+  <meta name="generator" content="All in One SEO (AIOSEO) 4.7.5">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:site_name" content="Masjid Tawheed Was-Sunnah - MTWS">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Information about Islām">
+  <meta property="og:description" content="Nearly everyone has a Muslim co-worker, associate, classmate, or relative; however, many people are not well- acquainted with the actual beliefs of Islam. Learn more about Islām here">
+  <meta property="og:url" content="https://mtws.one/dawah/">
+  <meta property="og:image" content="https://mtws.one/wp-content/uploads/2024/03/Social-Share-Images.png">
+  <meta property="og:image:secure_url" content="https://mtws.one/wp-content/uploads/2024/03/Social-Share-Images.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="article:published_time" content="2024-03-18T14:16:52+00:00">
+  <meta property="article:modified_time" content="2024-04-11T19:19:26+00:00">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Information about Islām">
+  <meta name="twitter:description" content="Nearly everyone has a Muslim co-worker, associate, classmate, or relative; however, many people are not well- acquainted with the actual beliefs of Islam. Learn more about Islām here">
+  <meta name="twitter:image" content="https://mtws.one/wp-content/uploads/2023/05/Social-Share-Images-for-Home.webp">
+  <script type="application/ld+json" class="aioseo-schema">
+    {
+
+      "@context": "https:\/\/schema.org",
+      "@graph": [{
+          "@type": "BreadcrumbList",
+          "@id": "https:\/\/mtws.one\/dawah\/#breadcrumblist",
+          "itemListElement": [{
+              "@type": "ListItem",
+              "@id": "https:\/\/mtws.one\/#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https:\/\/mtws.one\/",
+              "nextItem": "https:\/\/mtws.one\/dawah\/#listItem"
             },
-            "image": { "@id": "https:\/\/mtws.one\/dawah\/#organizationLogo" },
-            "sameAs": [
-              "https:\/\/www.youtube.com\/channel\/UCqPjDS4zfTRp4rXqZDvasIQ",
-              "https:\/\/soundcloud.com\/mtws-1"
-            ]
-          },
-          {
-            "@type": "Person",
-            "@id": "https:\/\/mtws.one\/author\/mtwsdawah\/#author",
-            "url": "https:\/\/mtws.one\/author\/mtwsdawah\/",
-            "name": "MTWS Admin",
-            "image": {
-              "@type": "ImageObject",
-              "@id": "https:\/\/mtws.one\/dawah\/#authorImage",
-              "url": "https:\/\/mtws.one\/wp-content\/litespeed\/avatar\/f41e30448dacb1d6cb3db940c95e545e.jpg?ver=1731282593",
-              "width": 96,
-              "height": 96,
-              "caption": "MTWS Admin"
+            {
+              "@type": "ListItem",
+              "@id": "https:\/\/mtws.one\/dawah\/#listItem",
+              "position": 2,
+              "name": "Information about Isl\u0101m",
+              "previousItem": "https:\/\/mtws.one\/#listItem"
             }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https:\/\/mtws.one\/#organization",
+          "name": "MTWS",
+          "description": "MTWS",
+          "url": "https:\/\/mtws.one\/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/i0.wp.com\/mtws.one\/wp-content\/uploads\/2023\/04\/cropped-logo.webp?fit=512%2C512&ssl=1",
+            "@id": "https:\/\/mtws.one\/dawah\/#organizationLogo",
+            "width": 512,
+            "height": 512
           },
-          {
-            "@type": "WebPage",
-            "@id": "https:\/\/mtws.one\/dawah\/#webpage",
-            "url": "https:\/\/mtws.one\/dawah\/",
-            "name": "Information about Isl\u0101m",
-            "description": "Nearly everyone has a Muslim co-worker, associate, classmate, or relative; however, many people are not well- acquainted with the actual beliefs of Islam. Learn more about Isl\u0101m here",
-            "inLanguage": "en-US",
-            "isPartOf": { "@id": "https:\/\/mtws.one\/#website" },
-            "breadcrumb": {
-              "@id": "https:\/\/mtws.one\/dawah\/#breadcrumblist"
-            },
-            "author": {
-              "@id": "https:\/\/mtws.one\/author\/mtwsdawah\/#author"
-            },
-            "creator": {
-              "@id": "https:\/\/mtws.one\/author\/mtwsdawah\/#author"
-            },
-            "image": {
-              "@type": "ImageObject",
-              "url": "https:\/\/i0.wp.com\/mtws.one\/wp-content\/uploads\/2024\/03\/Social-Share-Images.png?fit=1200%2C630&ssl=1",
-              "@id": "https:\/\/mtws.one\/dawah\/#mainImage",
-              "width": 1200,
-              "height": 630
-            },
-            "primaryImageOfPage": {
-              "@id": "https:\/\/mtws.one\/dawah\/#mainImage"
-            },
-            "datePublished": "2024-03-18T10:16:52-04:00",
-            "dateModified": "2024-04-11T15:19:26-04:00"
+          "image": {
+            "@id": "https:\/\/mtws.one\/dawah\/#organizationLogo"
           },
-          {
-            "@type": "WebSite",
-            "@id": "https:\/\/mtws.one\/#website",
-            "url": "https:\/\/mtws.one\/",
-            "name": "MTWS",
-            "description": "MTWS",
-            "inLanguage": "en-US",
-            "publisher": { "@id": "https:\/\/mtws.one\/#organization" }
+          "sameAs": [
+            "https:\/\/www.youtube.com\/channel\/UCqPjDS4zfTRp4rXqZDvasIQ",
+            "https:\/\/soundcloud.com\/mtws-1"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https:\/\/mtws.one\/author\/mtwsdawah\/#author",
+          "url": "https:\/\/mtws.one\/author\/mtwsdawah\/",
+          "name": "MTWS Admin",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https:\/\/mtws.one\/dawah\/#authorImage",
+            "url": "https:\/\/mtws.one\/wp-content\/litespeed\/avatar\/f41e30448dacb1d6cb3db940c95e545e.jpg?ver=1731282593",
+            "width": 96,
+            "height": 96,
+            "caption": "MTWS Admin"
           }
-        ]
-      }</script><meta name="google-site-verification" content="mRCtzSy5cH3L_0T0UH8JqapxvMuOUrTdAe-P3bXi07E"><meta name="msvalidate.01" content="2C49298D1CF2C74596DDF616EA566CA1"><script id="google_gtagjs-js-consent-mode-data-layer" src="data:text/javascript;base64,d2luZG93LmRhdGFMYXllcj13aW5kb3cuZGF0YUxheWVyfHxbXTtmdW5jdGlvbiBndGFnKCl7ZGF0YUxheWVyLnB1c2goYXJndW1lbnRzKX0KZ3RhZygnY29uc2VudCcsJ2RlZmF1bHQnLHsiYWRfcGVyc29uYWxpemF0aW9uIjoiZGVuaWVkIiwiYWRfc3RvcmFnZSI6ImRlbmllZCIsImFkX3VzZXJfZGF0YSI6ImRlbmllZCIsImFuYWx5dGljc19zdG9yYWdlIjoiZGVuaWVkIiwiZnVuY3Rpb25hbGl0eV9zdG9yYWdlIjoiZGVuaWVkIiwic2VjdXJpdHlfc3RvcmFnZSI6ImRlbmllZCIsInBlcnNvbmFsaXphdGlvbl9zdG9yYWdlIjoiZGVuaWVkIiwicmVnaW9uIjpbIkFUIiwiQkUiLCJCRyIsIkNIIiwiQ1kiLCJDWiIsIkRFIiwiREsiLCJFRSIsIkVTIiwiRkkiLCJGUiIsIkdCIiwiR1IiLCJIUiIsIkhVIiwiSUUiLCJJUyIsIklUIiwiTEkiLCJMVCIsIkxVIiwiTFYiLCJNVCIsIk5MIiwiTk8iLCJQTCIsIlBUIiwiUk8iLCJTRSIsIlNJIiwiU0siXSwid2FpdF9mb3JfdXBkYXRlIjo1MDB9KTt3aW5kb3cuX2dvb2dsZXNpdGVraXRDb25zZW50Q2F0ZWdvcnlNYXA9eyJzdGF0aXN0aWNzIjpbImFuYWx5dGljc19zdG9yYWdlIl0sIm1hcmtldGluZyI6WyJhZF9zdG9yYWdlIiwiYWRfdXNlcl9kYXRhIiwiYWRfcGVyc29uYWxpemF0aW9uIl0sImZ1bmN0aW9uYWwiOlsiZnVuY3Rpb25hbGl0eV9zdG9yYWdlIiwic2VjdXJpdHlfc3RvcmFnZSJdLCJwcmVmZXJlbmNlcyI6WyJwZXJzb25hbGl6YXRpb25fc3RvcmFnZSJdfTt3aW5kb3cuX2dvb2dsZXNpdGVraXRDb25zZW50cz17ImFkX3BlcnNvbmFsaXphdGlvbiI6ImRlbmllZCIsImFkX3N0b3JhZ2UiOiJkZW5pZWQiLCJhZF91c2VyX2RhdGEiOiJkZW5pZWQiLCJhbmFseXRpY3Nfc3RvcmFnZSI6ImRlbmllZCIsImZ1bmN0aW9uYWxpdHlfc3RvcmFnZSI6ImRlbmllZCIsInNlY3VyaXR5X3N0b3JhZ2UiOiJkZW5pZWQiLCJwZXJzb25hbGl6YXRpb25fc3RvcmFnZSI6ImRlbmllZCIsInJlZ2lvbiI6WyJBVCIsIkJFIiwiQkciLCJDSCIsIkNZIiwiQ1oiLCJERSIsIkRLIiwiRUUiLCJFUyIsIkZJIiwiRlIiLCJHQiIsIkdSIiwiSFIiLCJIVSIsIklFIiwiSVMiLCJJVCIsIkxJIiwiTFQiLCJMVSIsIkxWIiwiTVQiLCJOTCIsIk5PIiwiUEwiLCJQVCIsIlJPIiwiU0UiLCJTSSIsIlNLIl0sIndhaXRfZm9yX3VwZGF0ZSI6NTAwfQ==" defer></script><link rel="dns-prefetch" href="//www.googletagmanager.com"><link rel="dns-prefetch" href="//stats.wp.com"><link rel="dns-prefetch" href="//i0.wp.com"><link rel="alternate" type="application/rss+xml" title="Masjid Tawheed Was-Sunnah &raquo; Feed" href="https://mtws.one/feed/"><link rel="alternate" type="application/rss+xml" title="Masjid Tawheed Was-Sunnah &raquo; Comments Feed" href="https://mtws.one/comments/feed/"><link rel="alternate" type="application/rss+xml" title="Masjid Tawheed Was-Sunnah &raquo; Information about Islām Comments Feed" href="https://mtws.one/dawah/feed/"><link data-optimized="1" rel="stylesheet" id="astra-theme-css-css" href="https://mtws.one/wp-content/litespeed/css/909bfef79556c2f92d5a2995929ba6c9.css?ver=ba6c9" media="all"><style id="astra-theme-css-inline-css">:root{--ast-container-default-xlg-padding:3em;--ast-container-default-lg-padding:3em;--ast-container-default-slg-padding:2em;--ast-container-default-md-padding:3em;--ast-container-default-sm-padding:3em;--ast-container-default-xs-padding:2.4em;--ast-container-default-xxs-padding:1.8em;--ast-code-block-background:#eceff3;--ast-comment-inputs-background:#f9fafb;--ast-normal-container-width:1200px;--ast-narrow-container-width:888px;--ast-blog-title-font-weight:normal;--ast-blog-meta-weight:inherit}html{font-size:100%}a{color:var(--ast-global-color-6)}a:focus,a:hover{color:var(--ast-global-color-8)}.ast-button,.ast-custom-button,body,button,input,select,textarea{font-family:"Open Sans",sans-serif;font-weight:inherit;font-size:16px;font-size:1rem}blockquote{color:var(--ast-global-color-8)}.entry-content h1,.entry-content h2,.entry-content h3,.entry-content h4,.entry-content h5,.entry-content h6,.site-title,.site-title a,h1,h2,h3,h4,h5,h6{font-family:"Playfair Display",serif;font-weight:600}.site-title{font-size:35px;font-size:2.1875rem;display:none}header .custom-logo-link img{max-width:217px}.astra-logo-svg{width:217px}.site-header .site-description{font-size:15px;font-size:.9375rem;display:none}.entry-title{font-size:30px;font-size:1.875rem}.ast-blog-meta-container{font-size:16px;font-size:1rem}.archive .ast-article-post .ast-article-inner,.archive .ast-article-post .ast-article-inner:hover,.blog .ast-article-post .ast-article-inner,.blog .ast-article-post .ast-article-inner:hover{overflow:hidden}.entry-content h1,h1{font-size:54px;font-size:3.375rem;font-weight:600;font-family:"Playfair Display",serif}.entry-content h2,h2{font-size:42px;font-size:2.625rem;font-weight:600;font-family:"Playfair Display",serif}.entry-content h3,h3{font-size:36px;font-size:2.25rem;font-weight:600;font-family:"Playfair Display",serif}.entry-content h4,h4{font-size:25px;font-size:1.5625rem;font-weight:600;font-family:"Playfair Display",serif}.entry-content h5,h5{font-size:20px;font-size:1.25rem;font-weight:600;font-family:"Playfair Display",serif}.entry-content h6,h6{font-size:15px;font-size:.9375rem;font-weight:600;font-family:"Playfair Display",serif}::selection{background-color:var(--ast-global-color-8);color:#fff}.entry-content h1,.entry-content h2,.entry-content h3,.entry-content h4,.entry-content h5,.entry-content h6,.entry-title a,body,h1,h2,h3,h4,h5,h6{color:var(--ast-global-color-8)}.tagcloud a.current-item,.tagcloud a:focus,.tagcloud a:hover{color:#fff;border-color:var(--ast-global-color-6);background-color:var(--ast-global-color-6)}input:focus,input[type=email]:focus,input[type=password]:focus,input[type=reset]:focus,input[type=search]:focus,input[type=text]:focus,input[type=url]:focus,textarea:focus{border-color:var(--ast-global-color-6)}input[type=checkbox]:checked,input[type=checkbox]:focus:checked,input[type=checkbox]:hover:checked,input[type=radio]:checked,input[type=range]::-webkit-slider-thumb,input[type=reset]{border-color:var(--ast-global-color-6);background-color:var(--ast-global-color-6);box-shadow:none}.site-footer a:focus+.post-count,.site-footer a:hover+.post-count{background:var(--ast-global-color-6);border-color:var(--ast-global-color-6)}.single .nav-links .nav-next,.single .nav-links .nav-previous{color:var(--ast-global-color-6)}.entry-meta,.entry-meta *{line-height:1.45;color:var(--ast-global-color-6)}.entry-meta a:not(.ast-button):focus,.entry-meta a:not(.ast-button):focus *,.entry-meta a:not(.ast-button):hover,.entry-meta a:not(.ast-button):hover *,.page-links .page-link:hover,.page-links>.page-link,.post-navigation a:hover{color:var(--ast-global-color-8)}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:var(--ast-global-color-6)}.ast-progress-val span,.secondary .calendar_wrap #today{background:var(--ast-global-color-6)}.secondary a:focus+.post-count,.secondary a:hover+.post-count{background:var(--ast-global-color-6);border-color:var(--ast-global-color-6)}.calendar_wrap #today>a{color:#fff}.page-links .page-link,.single .post-navigation a{color:var(--ast-global-color-6)}.ast-search-menu-icon .search-form button.search-submit{padding:0 4px}.ast-search-menu-icon form.search-form{padding-right:0}.ast-search-menu-icon.slide-search input.search-field{width:0}.ast-header-search .ast-search-menu-icon.ast-dropdown-active .search-field:focus,.ast-header-search .ast-search-menu-icon.ast-dropdown-active .search-form{transition:all .2s}.search-form input.search-field:focus{outline:0}.ast-archive-title{color:var(--ast-global-color-8)}.widget .wp-block-heading,.widget-title{font-size:22px;font-size:1.375rem;color:var(--ast-global-color-8)}.single .ast-author-details .author-title{color:var(--ast-global-color-8)}.ast-comment-content a:not(.ast-comment-edit-reply-wrapa),.ast-single-post .entry-content a{text-decoration:underline}.ast-single-post .ast-comment-content .comment-edit-link,.ast-single-post .ast-comment-content .comment-reply-link,.ast-single-post .elementor-button-wrapper .elementor-button,.ast-single-post .entry-content .uabb-module-content a,.ast-single-post .entry-content .uagb-ifb-cta a,.ast-single-post .entry-content .uagb-post-grid a,.ast-single-post .entry-content .uagb-tab a,.ast-single-post .entry-content .uagb-taxomony-box a,.ast-single-post .entry-content .uagb-timeline a,.ast-single-post .entry-content .uagb-toc__wrap a,.ast-single-post .entry-content .woocommerce a,.ast-single-post .entry-content .wp-block-file__button,.ast-single-post .entry-content .wp-block-uagb-buttons a,.ast-single-post .wp-block-button .wp-block-button__link,.ast-single-post .wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link,.entry-content .wp-block-latest-posts>li>a,li.ast-post-filter-single{text-decoration:none}#ast-apply-coupon:focus-visible,#close:focus-visible,#search_submit:focus,.ast-header-navigation-arrow:focus-visible,.ast-menu-toggle:focus-visible,.ast-orders-table__row .ast-orders-table__cell:focus-visible,.ast-search-menu-icon.slide-search a:focus-visible:focus-visible,.astra-search-icon:focus-visible,.button.search-submit:focus-visible,.normal-search:focus-visible,.site .skip-link:focus-visible,.woocommerce #minus_qty:focus-visible,.woocommerce #plus_qty:focus-visible,.woocommerce .astra-shop-summary-wrap a:focus-visible,.woocommerce .wc-proceed-to-checkout>.checkout-button:focus-visible,.woocommerce .woocommerce-MyAccount-navigation ul li a:focus-visible,.woocommerce .woocommerce-info a:focus-visible,.woocommerce .woocommerce-message a.button.wc-forward:focus-visible,.woocommerce .woocommerce-order-details .order-again>.button:focus-visible,.woocommerce a.wc-forward:focus-visible,.woocommerce-js .woocommerce-mini-cart-item a.remove:focus-visible,.wp-block-loginout input:focus-visible,.wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper,a#ast-apply-coupon:focus-visible,a:focus-visible{outline-style:dotted;outline-color:inherit;outline-width:thin}#ast-coupon-code:focus,#ast-scroll-top:focus,#coupon_code:focus,.ast-mobile-popup-drawer.active .menu-toggle-close:focus,.woocommerce #order_comments:focus,.woocommerce #place_order:focus,.woocommerce #reviews #respond input#submit:focus,.woocommerce .ast-woocommerce-container .woocommerce-pagination ul.page-numbers li a:focus,.woocommerce .button.single_add_to_cart_button:focus,.woocommerce .woocommerce-MyAccount-content .woocommerce-EditAccountForm .woocommerce-form-row .woocommerce-Input.input-text:focus,.woocommerce .woocommerce-MyAccount-content form button:focus,.woocommerce .woocommerce-address-fields .woocommerce-address-fields__field-wrapper .woocommerce-input-wrapper>.input-text:focus,.woocommerce .woocommerce-billing-fields .woocommerce-billing-fields__field-wrapper .woocommerce-input-wrapper>.input-text:focus,.woocommerce .woocommerce-cart-form button:focus,.woocommerce .woocommerce-cart-form__cart-item .quantity .qty:focus,.woocommerce a.add_to_cart_button:focus,.woocommerce p#ast-coupon-trigger:focus,.woocommerce-js .woocommerce-mini-cart-item .quantity input[type=number]:focus,.woocommerce-ordering select.orderby:focus,.woocommerce-page #comment:focus,.woocommerce.woocommerce-js .quantity input[type=number]:focus,.wp-block-search__input:focus,[data-section=section-header-mobile-trigger] .ast-button-wrap .ast-mobile-menu-trigger-minimal:focus,body #content .woocommerce form .form-row .select2-container--default .select2-selection--single:focus,input:focus,input[type=email]:focus,input[type=number]:focus,input[type=password]:focus,input[type=reset]:focus,input[type=search]:focus,input[type=text]:focus,input[type=url]:focus,textarea:focus{border-style:dotted;border-color:inherit;border-width:thin}input{outline:0}.site-logo-img img{transition:all .2s linear}body .ast-oembed-container *{position:absolute;top:0;width:100%;height:100%;left:0}body .wp-block-embed-pocket-casts .ast-oembed-container *{position:unset}.ast-single-post-featured-section+article{margin-top:2em}.site-content .ast-single-post-featured-section img{width:100%;overflow:hidden;object-fit:cover}.ast-separate-container .site-content .ast-single-post-featured-section+article{margin-top:-80px;z-index:9;position:relative;border-radius:4px}@media (min-width:922px){.ast-no-sidebar .site-content .ast-article-image-container--wide{margin-left:-120px;margin-right:-120px;max-width:unset;width:unset}.ast-left-sidebar .site-content .ast-article-image-container--wide,.ast-right-sidebar .site-content .ast-article-image-container--wide{margin-left:-10px;margin-right:-10px}.site-content .ast-article-image-container--full{margin-left:calc(-50vw + 50%);margin-right:calc(-50vw + 50%);max-width:100vw;width:100vw}.ast-left-sidebar .site-content .ast-article-image-container--full,.ast-right-sidebar .site-content .ast-article-image-container--full{margin-left:-10px;margin-right:-10px;max-width:inherit;width:auto}}.site>.ast-single-related-posts-container{margin-top:0}@media (min-width:922px){.ast-desktop .ast-container--narrow{max-width:var(--ast-narrow-container-width);margin:0 auto}}.ast-page-builder-template .hentry{margin:0}.ast-page-builder-template .site-content>.ast-container{max-width:100%;padding:0}.ast-page-builder-template .site .site-content #primary{padding:0;margin:0}.ast-page-builder-template .no-results{text-align:center;margin:4em auto}.ast-page-builder-template .ast-pagination{padding:2em}.ast-page-builder-template .entry-header.ast-no-title.ast-no-thumbnail{margin-top:0}.ast-page-builder-template .entry-header.ast-header-without-markup{margin-top:0;margin-bottom:0}.ast-page-builder-template .entry-header.ast-no-title.ast-no-meta{margin-bottom:0}.ast-page-builder-template.single .post-navigation{padding-bottom:2em}.ast-page-builder-template.single-post .site-content>.ast-container{max-width:100%}.ast-page-builder-template .entry-header{margin-top:2em;margin-left:auto;margin-right:auto}.ast-page-builder-template .ast-archive-description{margin:2em auto 0;padding-left:20px;padding-right:20px}.ast-page-builder-template .ast-row{margin-left:0;margin-right:0}.single.ast-page-builder-template .ast-single-entry-banner+.site-content article .entry-content,.single.ast-page-builder-template .entry-header+.entry-content{margin-bottom:2em}@media (min-width:921px){.ast-page-builder-template.archive.ast-left-sidebar .ast-row article,.ast-page-builder-template.archive.ast-right-sidebar .ast-row article{padding-left:0;padding-right:0}}@media (max-width:921px){#ast-desktop-header{display:none}}@media (min-width:922px){#ast-mobile-header{display:none}}.wp-block-buttons.aligncenter{justify-content:center}@media (max-width:921px){.ast-theme-transparent-header #primary,.ast-theme-transparent-header #secondary{padding:0}}@media (max-width:921px){.ast-plain-container.ast-no-sidebar #primary{padding:0}}.ast-plain-container.ast-no-sidebar #primary{margin-top:0;margin-bottom:0}.wp-block-button.is-style-outline .wp-block-button__link{border-color:var(--ast-global-color-7);border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px}div.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color),div.wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color){color:var(--ast-global-color-7)}.wp-block-button.is-style-outline .wp-block-button__link:hover,.wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link:focus,.wp-block-buttons .wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color):hover,.wp-block-buttons .wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color):hover{color:var(--ast-global-color-6);background-color:var(--ast-global-color-7);border-color:var(--ast-global-color-7)}.ast-pagination .page-numbers.current,.post-page-numbers.current .page-link{color:#fff;border-color:var(--ast-global-color-8);background-color:var(--ast-global-color-8)}.wp-block-button.is-style-outline .wp-block-button__link{border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px}.ast-outline-button,.wp-block-button.is-style-outline .wp-block-button__link.wp-element-button{border-color:var(--ast-global-color-7);font-family:inherit;font-weight:600;font-size:20px;font-size:1.25rem;line-height:1em;border-top-left-radius:5px;border-top-right-radius:5px;border-bottom-right-radius:5px;border-bottom-left-radius:5px}.ast-outline-button,.wp-block-buttons .wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color),.wp-block-buttons .wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color){color:var(--ast-global-color-7)}.ast-outline-button:focus,.ast-outline-button:hover,.wp-block-button.is-style-outline .wp-block-button__link:hover,.wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link:focus,.wp-block-buttons .wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color):hover,.wp-block-buttons .wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color):hover,.wp-block-uagb-buttons-child .uagb-buttons-repeater.ast-outline-button:focus,.wp-block-uagb-buttons-child .uagb-buttons-repeater.ast-outline-button:hover{color:var(--ast-global-color-6);background-color:var(--ast-global-color-7);border-color:var(--ast-global-color-7)}.ast-outline-button,.wp-block-button .wp-block-button__link.wp-element-button.is-style-outline:not(.has-background),.wp-block-button.is-style-outline>.wp-block-button__link.wp-element-button:not(.has-background){background-color:var(--ast-global-color-7)}.entry-content[ast-blocks-layout]>figure{margin-bottom:1em}h1.widget-title{font-weight:600}h2.widget-title{font-weight:600}h3.widget-title{font-weight:600}#page{display:flex;flex-direction:column;min-height:100vh}.ast-404-layout-1 h1.page-title{color:var(--ast-global-color-2)}.single .post-navigation a{line-height:1em;height:inherit}.error-404 .page-sub-title{font-size:1.5rem;font-weight:inherit}.search .site-content .content-area .search-form{margin-bottom:0}#page .site-content{flex-grow:1}.widget{margin-bottom:1.25em}#secondary li{line-height:1.5em}#secondary .wp-block-group h2{margin-bottom:.7em}#secondary h2{font-size:1.7rem}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .comment-respond{padding:3em}.ast-separate-container .ast-article-single .ast-article-single{padding:0}.ast-article-single .wp-block-post-template-is-layout-grid{padding-left:0}.ast-narrow-container .comments-title,.ast-separate-container .comments-title{padding:1.5em 2em}.ast-comment-formwrap .ast-grid-common-col,.ast-page-builder-template .comment-form-textarea{padding:0}.ast-comment-formwrap{padding:0;display:inline-flex;column-gap:20px;width:100%;margin-left:0;margin-right:0}.comments-area .ast-comment-formwrap input[type=text]:active,.comments-area .ast-comment-formwrap input[type=text]:focus,.comments-area textarea#comment:active,.comments-area textarea#comment:focus{box-shadow:none;outline:0}.archive.ast-page-builder-template .entry-header{margin-top:2em}.ast-page-builder-template .ast-comment-formwrap{width:100%}.entry-title{margin-bottom:.5em}.ast-archive-description p{font-size:inherit;font-weight:inherit;line-height:inherit}.ast-separate-container .ast-comment-list li.depth-1,.hentry{margin-bottom:2em}@media (min-width:921px){.archive.ast-right-sidebar.ast-page-builder-template .site-main,.ast-left-sidebar.ast-page-builder-template #secondary{padding-left:20px;padding-right:20px}}@media (max-width:544px){.ast-comment-formwrap.ast-row{column-gap:10px;display:inline-block}#ast-commentform .ast-grid-common-col{position:relative;width:100%}}@media (min-width:1201px){.ast-separate-container .ast-404-layout-1,.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .ast-author-box,.ast-separate-container .no-results{padding:3em}}@media (max-width:921px){.ast-separate-container #primary,.ast-separate-container #secondary{padding:1.5em 0}#primary,#secondary{padding:1.5em 0;margin:0}.ast-left-sidebar #content>.ast-container{display:flex;flex-direction:column-reverse;width:100%}}@media (min-width:922px){.ast-separate-container.ast-left-sidebar #primary,.ast-separate-container.ast-right-sidebar #primary{border:0}.search-no-results.ast-separate-container #primary{margin-bottom:4em}}.elementor-button-wrapper .elementor-button{border-style:solid;text-decoration:none;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-bottom-width:1px}body .elementor-button,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xl,body .elementor-button.elementor-size-xs{border-top-left-radius:5px;border-top-right-radius:5px;border-bottom-right-radius:5px;border-bottom-left-radius:5px;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px}.elementor-button-wrapper .elementor-button{border-color:var(--ast-global-color-7);background-color:transparent}.elementor-button-wrapper .elementor-button:focus,.elementor-button-wrapper .elementor-button:hover{color:var(--ast-global-color-6);background-color:var(--ast-global-color-7);border-color:var(--ast-global-color-7)}.elementor-button-wrapper .elementor-button,.elementor-button-wrapper .elementor-button:visited,.wp-block-button .wp-block-button__link{color:var(--ast-global-color-8)}.wp-block-button .wp-block-button__link:focus,.wp-block-button .wp-block-button__link:hover{color:var(--ast-global-color-6);background-color:var(--ast-global-color-7);border-color:var(--ast-global-color-7)}.wp-block-button .wp-block-button__link,.wp-block-search .wp-block-search__button,body .wp-block-file .wp-block-file__button{border-style:solid;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-bottom-width:1px;border-color:var(--ast-global-color-7);background-color:transparent;color:var(--ast-global-color-8);font-family:inherit;font-weight:600;line-height:1em;font-size:20px;font-size:1.25rem;border-top-left-radius:5px;border-top-right-radius:5px;border-bottom-right-radius:5px;border-bottom-left-radius:5px;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px}.ast-button,.ast-custom-button,.button,.menu-toggle,.search .search-submit,.wc-block-grid__product-onsale,.wc-block-grid__products .wc-block-grid__product .wp-block-button__link,.woocommerce #respond input#submit,.woocommerce #respond input#submit.alt,.woocommerce .woocommerce-message a.button,.woocommerce button.button,.woocommerce button.button.alt.disabled,.woocommerce button.button.alt.disabled.wc-variation-selection-needed,.woocommerce input.button,.woocommerce input.button.alt,.woocommerce input.button:disabled,.woocommerce input.button:disabled:hover,.woocommerce input.button:disabled[disabled],.woocommerce input.button:disabled[disabled]:hover,.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons .button:not(.checkout):not(.ast-continue-shopping),.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons a.checkout,.woocommerce-js a.button,[CLASS*=wc-block] .wc-block-components-button,[CLASS*=wc-block] button,body .wp-block-file .wp-block-file__button,button,form[CLASS*=wp-block-search__].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button,input#submit,input[type=button],input[type=reset],input[type=submit]{border-style:solid;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-bottom-width:1px;color:var(--ast-global-color-8);border-color:var(--ast-global-color-7);background-color:transparent;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;font-family:inherit;font-weight:600;font-size:20px;font-size:1.25rem;line-height:1em;border-top-left-radius:5px;border-top-right-radius:5px;border-bottom-right-radius:5px;border-bottom-left-radius:5px}.ast-button:hover,.ast-custom-button:hover,.ast-custom-button:hover .button:hover,.menu-toggle:hover,.wc-block-grid__products .wc-block-grid__product .wp-block-button__link:hover,.woocommerce #respond input#submit.alt:hover,.woocommerce #respond input#submit:hover,.woocommerce .woocommerce-message a.button:hover,.woocommerce button.button.alt.disabled.wc-variation-selection-needed:hover,.woocommerce button.button.alt.disabled:hover,.woocommerce button.button:hover,.woocommerce input.button.alt:hover,.woocommerce input.button:hover,.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons .button:not(.checkout):not(.ast-continue-shopping):hover,.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons a.checkout:hover,.woocommerce-js a.button:hover,[CLASS*=wc-block] .wc-block-components-button:focus,[CLASS*=wc-block] .wc-block-components-button:hover,[CLASS*=wc-block] button:hover,body .wp-block-file .wp-block-file__button:focus,body .wp-block-file .wp-block-file__button:hover,button:focus,button:hover,form[CLASS*=wp-block-search__].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button:focus,form[CLASS*=wp-block-search__].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button:hover,input#submit:focus,input#submit:hover,input[type=button]:focus,input[type=button]:hover,input[type=reset]:focus,input[type=reset]:hover,input[type=submit]:focus,input[type=submit]:hover{color:var(--ast-global-color-6);background-color:var(--ast-global-color-7);border-color:var(--ast-global-color-7)}form[CLASS*=wp-block-search__].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button.has-icon{padding-top:calc(10px - 3px);padding-right:calc(20px - 3px);padding-bottom:calc(10px - 3px);padding-left:calc(20px - 3px)}@media (max-width:921px){.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon{display:inline-block}.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon{margin:0}.ast-comment-avatar-wrap img{max-width:2.5em}.ast-comment-meta{padding:0 1.8888em 1.3333em}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 2.14em}.ast-separate-container .comment-respond{padding:2em 2.14em}}@media (min-width:544px){.ast-container{max-width:100%}}@media (max-width:544px){.ast-separate-container .ast-archive-description,.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .comments-title{padding:1.5em 1em}.ast-separate-container #content .ast-container{padding-left:.54em;padding-right:.54em}.ast-separate-container .ast-comment-list .bypostauthor{padding:.5em}.ast-search-menu-icon.ast-dropdown-active .search-field{width:170px}}@media (min-width:545px){.ast-page-builder-template .comments-area,.single.ast-page-builder-template .ast-single-related-posts-container,.single.ast-page-builder-template .entry-header,.single.ast-page-builder-template .post-navigation{max-width:1240px;margin-left:auto;margin-right:auto}}.ast-separate-container{background-image:linear-gradient(90deg,#34603e 0,#b5a65b 100%)}@media (max-width:921px){.widget-title{font-size:22px;font-size:1.375rem}.ast-button,.ast-custom-button,body,button,input,select,textarea{font-size:16px;font-size:1rem}#secondary,#secondary button,#secondary input,#secondary select,#secondary textarea{font-size:16px;font-size:1rem}.site-title{display:none}.site-header .site-description{display:none}.entry-content h1,h1{font-size:45px}.entry-content h2,h2{font-size:32px}.entry-content h3,h3{font-size:26px}.entry-content h4,h4{font-size:22px;font-size:1.375rem}.entry-content h5,h5{font-size:18px;font-size:1.125rem}.entry-content h6,h6{font-size:15px;font-size:.9375rem}}@media (max-width:544px){.widget-title{font-size:22px;font-size:1.375rem}.ast-button,.ast-custom-button,body,button,input,select,textarea{font-size:16px;font-size:1rem}#secondary,#secondary button,#secondary input,#secondary select,#secondary textarea{font-size:16px;font-size:1rem}.site-title{display:none}.site-header .site-description{display:none}.entry-content h1,h1{font-size:32px}.entry-content h2,h2{font-size:28px}.entry-content h3,h3{font-size:22px}.entry-content h4,h4{font-size:20px;font-size:1.25rem}.entry-content h5,h5{font-size:20px;font-size:1.25rem}.entry-content h6,h6{font-size:15px;font-size:.9375rem}.ast-header-break-point .custom-logo-link img,.ast-header-break-point .site-branding img,header .custom-logo-link img{max-width:70px}.astra-logo-svg{width:70px}.ast-header-break-point .site-logo-img .custom-mobile-logo-link img{max-width:70px}}@media (max-width:544px){html{font-size:100%}}@media (min-width:922px){.ast-container{max-width:1240px}}@media (min-width:922px){.site-content .ast-container{display:flex}}@media (max-width:921px){.site-content .ast-container{flex-direction:column}}@media (min-width:922px){.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu.focus>.sub-menu,.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu:hover>.sub-menu{margin-left:0}}.site .comments-area{padding-bottom:3em}.wp-block-file{display:flex;align-items:center;flex-wrap:wrap;justify-content:space-between}.wp-block-pullquote{border:none}.wp-block-pullquote blockquote::before{content:"\201D";font-family:Helvetica,sans-serif;display:flex;transform:rotate(180deg);font-size:6rem;font-style:normal;line-height:1;font-weight:700;align-items:center;justify-content:center}.has-text-align-right>blockquote::before{justify-content:flex-start}.has-text-align-left>blockquote::before{justify-content:flex-end}figure.wp-block-pullquote.is-style-solid-color blockquote{max-width:100%;text-align:inherit}html body{--wp--custom--ast-default-block-top-padding:100px;--wp--custom--ast-default-block-right-padding:80px;--wp--custom--ast-default-block-bottom-padding:100px;--wp--custom--ast-default-block-left-padding:80px;--wp--custom--ast-container-width:1200px;--wp--custom--ast-content-width-size:1200px;--wp--custom--ast-wide-width-size:calc(
-          1200px + var(--wp--custom--ast-default-block-left-padding) +
-            var(--wp--custom--ast-default-block-right-padding)
-        )}.ast-narrow-container{--wp--custom--ast-content-width-size:888px;--wp--custom--ast-wide-width-size:888px}@media (max-width:921px){html body{--wp--custom--ast-default-block-top-padding:50px;--wp--custom--ast-default-block-right-padding:50px;--wp--custom--ast-default-block-bottom-padding:50px;--wp--custom--ast-default-block-left-padding:50px}}@media (max-width:544px){html body{--wp--custom--ast-default-block-top-padding:50px;--wp--custom--ast-default-block-right-padding:30px;--wp--custom--ast-default-block-bottom-padding:50px;--wp--custom--ast-default-block-left-padding:30px}}.entry-content>.wp-block-columns,.entry-content>.wp-block-cover,.entry-content>.wp-block-group{padding-top:var(--wp--custom--ast-default-block-top-padding);padding-right:var(--wp--custom--ast-default-block-right-padding);padding-bottom:var(--wp--custom--ast-default-block-bottom-padding);padding-left:var(--wp--custom--ast-default-block-left-padding)}.ast-page-builder-template .ast-no-sidebar .entry-content>.alignfull,.ast-plain-container.ast-no-sidebar .entry-content>.alignfull{margin-left:calc(-50vw + 50%);margin-right:calc(-50vw + 50%);max-width:100vw;width:100vw}.ast-page-builder-template.ast-no-sidebar .entry-content .alignfull .alignfull,.ast-page-builder-template.ast-no-sidebar .entry-content .alignfull .alignwide,.ast-page-builder-template.ast-no-sidebar .entry-content .alignwide .alignfull,.ast-page-builder-template.ast-no-sidebar .entry-content .alignwide .alignwide,.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-column .alignfull,.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-column .alignwide,.ast-plain-container.ast-no-sidebar .entry-content .alignfull .alignfull,.ast-plain-container.ast-no-sidebar .entry-content .alignfull .alignwide,.ast-plain-container.ast-no-sidebar .entry-content .alignwide .alignfull,.ast-plain-container.ast-no-sidebar .entry-content .alignwide .alignwide,.ast-plain-container.ast-no-sidebar .entry-content .wp-block-column .alignfull,.ast-plain-container.ast-no-sidebar .entry-content .wp-block-column .alignwide{margin-left:auto;margin-right:auto;width:100%}[ast-blocks-layout] .wp-block-separator:not(.is-style-dots){height:0}[ast-blocks-layout] .wp-block-separator{margin:20px auto}[ast-blocks-layout] .wp-block-separator:not(.is-style-wide):not(.is-style-dots){max-width:100px}[ast-blocks-layout] .wp-block-separator.has-background{padding:0}.entry-content[ast-blocks-layout]>*{max-width:var(--wp--custom--ast-content-width-size);margin-left:auto;margin-right:auto}.entry-content[ast-blocks-layout]>.alignwide{max-width:var(--wp--custom--ast-wide-width-size)}.entry-content[ast-blocks-layout] .alignfull{max-width:none}.entry-content .wp-block-columns{margin-bottom:0}blockquote{margin:1.5em;border-color:rgba(0,0,0,.05)}.wp-block-quote:not(.has-text-align-right):not(.has-text-align-center){border-left:5px solid rgba(0,0,0,.05)}.has-text-align-right>blockquote,blockquote.has-text-align-right{border-right:5px solid rgba(0,0,0,.05)}.has-text-align-left>blockquote,blockquote.has-text-align-left{border-left:5px solid rgba(0,0,0,.05)}.wp-block-latest-posts .read-more,.wp-block-site-tagline{margin-top:15px}.wp-block-loginout p label{display:block}.wp-block-loginout p:not(.login-remember):not(.login-submit) input{width:100%}.wp-block-loginout input:focus{border-color:transparent}.wp-block-loginout input:focus{outline:thin dotted}.entry-content .wp-block-media-text .wp-block-media-text__content{padding:0 0 0 8%}.entry-content .wp-block-media-text.has-media-on-the-right .wp-block-media-text__content{padding:0 8% 0 0}.entry-content .wp-block-media-text.has-background .wp-block-media-text__content{padding:8%}.entry-content .wp-block-cover-image:not([class*=background-color]) .wp-block-cover-image-text,.entry-content .wp-block-cover-image:not([class*=background-color]) .wp-block-cover-text,.entry-content .wp-block-cover-image:not([class*=background-color]) .wp-block-cover__inner-container,.entry-content .wp-block-cover:not([class*=background-color]) .wp-block-cover-image-text,.entry-content .wp-block-cover:not([class*=background-color]) .wp-block-cover-text,.entry-content .wp-block-cover:not([class*=background-color]) .wp-block-cover__inner-container{color:var(--ast-global-color-5)}.wp-block-loginout .login-remember input{width:1.1rem;height:1.1rem;margin:0 5px 4px 0;vertical-align:middle}.wp-block-latest-posts:not(.is-grid)>li:first-child,.wp-block-latest-posts>li>:first-child{margin-top:0}.wp-block-search__inside-wrapper .wp-block-search__input{padding:0 10px;color:var(--ast-global-color-3);background:var(--ast-global-color-5);border-color:var(--ast-border-color)}.wp-block-latest-posts .read-more{margin-bottom:1.5em}.wp-block-search__no-button .wp-block-search__inside-wrapper .wp-block-search__input{padding-top:5px;padding-bottom:5px}.wp-block-latest-posts .wp-block-latest-posts__post-author,.wp-block-latest-posts .wp-block-latest-posts__post-date{font-size:1rem}.wp-block-latest-posts:not(.is-grid)>li,.wp-block-latest-posts>li>*{margin-top:12px;margin-bottom:12px}.ast-page-builder-template .entry-content[ast-blocks-layout]>*,.ast-page-builder-template .entry-content[ast-blocks-layout]>.alignfull>*{max-width:none}.ast-page-builder-template .entry-content[ast-blocks-layout]>.alignwide>*{max-width:var(--wp--custom--ast-wide-width-size)}.ast-page-builder-template .entry-content[ast-blocks-layout]>*>*,.ast-page-builder-template .entry-content[ast-blocks-layout]>.inherit-container-width>*,.entry-content[ast-blocks-layout]>.wp-block-cover .wp-block-cover__inner-container{max-width:var(--wp--custom--ast-content-width-size);margin-left:auto;margin-right:auto}.entry-content[ast-blocks-layout] .wp-block-cover:not(.alignleft):not(.alignright){width:auto}@media (max-width:1200px){.ast-plain-container .entry-content .alignfull,.ast-plain-container .entry-content[ast-blocks-layout]>.alignwide,.ast-separate-container .entry-content>.alignfull,.ast-separate-container .entry-content[ast-blocks-layout]>.alignwide{margin-left:calc(-1 * min(var(--ast-container-default-xlg-padding),20px));margin-right:calc(-1 * min(var(--ast-container-default-xlg-padding),20px))}}@media (min-width:1201px){.ast-separate-container .entry-content>.alignfull{margin-left:calc(-1 * var(--ast-container-default-xlg-padding));margin-right:calc(-1 * var(--ast-container-default-xlg-padding))}.ast-plain-container .entry-content[ast-blocks-layout]>.alignwide,.ast-separate-container .entry-content[ast-blocks-layout]>.alignwide{margin-left:calc(-1 * var(--wp--custom--ast-default-block-left-padding));margin-right:calc(-1 * var(--wp--custom--ast-default-block-right-padding))}}@media (min-width:921px){.ast-plain-container .entry-content .wp-block-group.alignwide:not(.inherit-container-width)>:where(:not(.alignleft):not(.alignright)),.ast-separate-container .entry-content .wp-block-group.alignwide:not(.inherit-container-width)>:where(:not(.alignleft):not(.alignright)){max-width:calc(var(--wp--custom--ast-content-width-size) + 80px)}.ast-plain-container.ast-left-sidebar .entry-content[ast-blocks-layout] .alignfull,.ast-plain-container.ast-right-sidebar .entry-content[ast-blocks-layout] .alignfull{margin-left:-60px;margin-right:-60px}}@media (min-width:544px){.entry-content>.alignleft{margin-right:20px}.entry-content>.alignright{margin-left:20px}}@media (max-width:544px){.wp-block-columns .wp-block-column:not(:last-child){margin-bottom:20px}.wp-block-latest-posts{margin:0}}@media (max-width:600px){.entry-content .wp-block-media-text .wp-block-media-text__content,.entry-content .wp-block-media-text.has-media-on-the-right .wp-block-media-text__content{padding:8% 0 0}.entry-content .wp-block-media-text.has-background .wp-block-media-text__content{padding:8%}}.ast-narrow-container .site-content .wp-block-uagb-image--align-full .wp-block-uagb-image__figure{max-width:100%;margin-left:auto;margin-right:auto}.entry-content ol,.entry-content ul{padding:revert;margin:revert}:root .has-ast-global-color-0-color{color:var(--ast-global-color-0)}:root .has-ast-global-color-0-background-color{background-color:var(--ast-global-color-0)}:root .wp-block-button .has-ast-global-color-0-color{color:var(--ast-global-color-0)}:root .wp-block-button .has-ast-global-color-0-background-color{background-color:var(--ast-global-color-0)}:root .has-ast-global-color-1-color{color:var(--ast-global-color-1)}:root .has-ast-global-color-1-background-color{background-color:var(--ast-global-color-1)}:root .wp-block-button .has-ast-global-color-1-color{color:var(--ast-global-color-1)}:root .wp-block-button .has-ast-global-color-1-background-color{background-color:var(--ast-global-color-1)}:root .has-ast-global-color-2-color{color:var(--ast-global-color-2)}:root .has-ast-global-color-2-background-color{background-color:var(--ast-global-color-2)}:root .wp-block-button .has-ast-global-color-2-color{color:var(--ast-global-color-2)}:root .wp-block-button .has-ast-global-color-2-background-color{background-color:var(--ast-global-color-2)}:root .has-ast-global-color-3-color{color:var(--ast-global-color-3)}:root .has-ast-global-color-3-background-color{background-color:var(--ast-global-color-3)}:root .wp-block-button .has-ast-global-color-3-color{color:var(--ast-global-color-3)}:root .wp-block-button .has-ast-global-color-3-background-color{background-color:var(--ast-global-color-3)}:root .has-ast-global-color-4-color{color:var(--ast-global-color-4)}:root .has-ast-global-color-4-background-color{background-color:var(--ast-global-color-4)}:root .wp-block-button .has-ast-global-color-4-color{color:var(--ast-global-color-4)}:root .wp-block-button .has-ast-global-color-4-background-color{background-color:var(--ast-global-color-4)}:root .has-ast-global-color-5-color{color:var(--ast-global-color-5)}:root .has-ast-global-color-5-background-color{background-color:var(--ast-global-color-5)}:root .wp-block-button .has-ast-global-color-5-color{color:var(--ast-global-color-5)}:root .wp-block-button .has-ast-global-color-5-background-color{background-color:var(--ast-global-color-5)}:root .has-ast-global-color-6-color{color:var(--ast-global-color-6)}:root .has-ast-global-color-6-background-color{background-color:var(--ast-global-color-6)}:root .wp-block-button .has-ast-global-color-6-color{color:var(--ast-global-color-6)}:root .wp-block-button .has-ast-global-color-6-background-color{background-color:var(--ast-global-color-6)}:root .has-ast-global-color-7-color{color:var(--ast-global-color-7)}:root .has-ast-global-color-7-background-color{background-color:var(--ast-global-color-7)}:root .wp-block-button .has-ast-global-color-7-color{color:var(--ast-global-color-7)}:root .wp-block-button .has-ast-global-color-7-background-color{background-color:var(--ast-global-color-7)}:root .has-ast-global-color-8-color{color:var(--ast-global-color-8)}:root .has-ast-global-color-8-background-color{background-color:var(--ast-global-color-8)}:root .wp-block-button .has-ast-global-color-8-color{color:var(--ast-global-color-8)}:root .wp-block-button .has-ast-global-color-8-background-color{background-color:var(--ast-global-color-8)}:root{--ast-global-color-0:#ffffff;--ast-global-color-1:#ffffff;--ast-global-color-2:#ffffff;--ast-global-color-3:#fefefe;--ast-global-color-4:#f9f6fe;--ast-global-color-5:#ffffff;--ast-global-color-6:#34603e;--ast-global-color-7:#d5c88c;--ast-global-color-8:#000000}:root{--ast-border-color:var(--ast-global-color-7)}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;text-decoration:none}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit}.ast-breadcrumbs .trail-items{list-style:none}.trail-items li::after{padding:0 .3em;content:"\00bb"}.trail-items li:last-of-type::after{display:none}.entry-content h1,.entry-content h2,.entry-content h3,.entry-content h4,.entry-content h5,.entry-content h6,h1,h2,h3,h4,h5,h6{color:var(--ast-global-color-8)}.entry-title a{color:var(--ast-global-color-8)}@media (max-width:921px){.ast-builder-grid-row-container.ast-builder-grid-row-tablet-3-firstrow .ast-builder-grid-row>:first-child,.ast-builder-grid-row-container.ast-builder-grid-row-tablet-3-lastrow .ast-builder-grid-row>:last-child{grid-column:1/-1}}@media (max-width:544px){.ast-builder-grid-row-container.ast-builder-grid-row-mobile-3-firstrow .ast-builder-grid-row>:first-child,.ast-builder-grid-row-container.ast-builder-grid-row-mobile-3-lastrow .ast-builder-grid-row>:last-child{grid-column:1/-1}}.ast-builder-layout-element[data-section=title_tagline]{display:flex}@media (max-width:921px){.ast-header-break-point .ast-builder-layout-element[data-section=title_tagline]{display:flex}}@media (max-width:544px){.ast-header-break-point .ast-builder-layout-element[data-section=title_tagline]{display:flex}}.ast-builder-menu-1{font-family:inherit;font-weight:inherit}.ast-builder-menu-1 .menu-item>.menu-link{color:var(--ast-global-color-6)}.ast-builder-menu-1 .menu-item>.ast-menu-toggle{color:var(--ast-global-color-6)}.ast-builder-menu-1 .inline-on-mobile .menu-item:hover>.ast-menu-toggle,.ast-builder-menu-1 .menu-item:hover>.menu-link{color:var(--ast-global-color-6)}.ast-builder-menu-1 .menu-item:hover>.ast-menu-toggle{color:var(--ast-global-color-6)}.ast-builder-menu-1 .current-menu-ancestor>.menu-link,.ast-builder-menu-1 .inline-on-mobile .menu-item.current-menu-item>.ast-menu-toggle,.ast-builder-menu-1 .menu-item.current-menu-item>.menu-link{color:var(--ast-global-color-8)}.ast-builder-menu-1 .menu-item.current-menu-item>.ast-menu-toggle{color:var(--ast-global-color-8)}.ast-builder-menu-1 .inline-on-mobile .sub-menu,.ast-builder-menu-1 .sub-menu{border-top-width:2px;border-bottom-width:0;border-right-width:0;border-left-width:0;border-color:var(--ast-global-color-8);border-style:solid}.ast-builder-menu-1 .main-header-menu>.menu-item>.astra-full-megamenu-wrapper,.ast-builder-menu-1 .main-header-menu>.menu-item>.sub-menu{margin-top:0}.ast-desktop .ast-builder-menu-1 .main-header-menu>.menu-item>.astra-full-megamenu-wrapper:before,.ast-desktop .ast-builder-menu-1 .main-header-menu>.menu-item>.sub-menu:before{height:calc(0px + 5px)}.ast-desktop .ast-builder-menu-1 .menu-item .sub-menu .menu-link{border-style:none}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-1 .menu-item.menu-item-has-children>.ast-menu-toggle{top:0}.ast-builder-menu-1 .inline-on-mobile .menu-item.menu-item-has-children>.ast-menu-toggle{right:-15px}.ast-builder-menu-1 .menu-item-has-children>.menu-link:after{content:unset}.ast-builder-menu-1 .main-header-menu>.menu-item>.astra-full-megamenu-wrapper,.ast-builder-menu-1 .main-header-menu>.menu-item>.sub-menu{margin-top:0}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-1 .menu-item.menu-item-has-children>.ast-menu-toggle{top:0}.ast-builder-menu-1 .main-header-menu>.menu-item>.astra-full-megamenu-wrapper,.ast-builder-menu-1 .main-header-menu>.menu-item>.sub-menu{margin-top:0}}.ast-builder-menu-1{display:flex}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-1{display:flex}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-1{display:flex}}.ast-builder-html-element img.alignnone{display:inline-block}.ast-builder-html-element p:first-child{margin-top:0}.ast-builder-html-element p:last-child{margin-bottom:0}.ast-header-break-point .main-header-bar .ast-builder-html-element{line-height:1.85714285714286}.ast-header-html-1 .ast-builder-html-element{font-size:15px;font-size:.9375rem}.ast-header-html-1{font-size:15px;font-size:.9375rem}.ast-header-html-1{display:flex}@media (max-width:921px){.ast-header-break-point .ast-header-html-1{display:flex}}@media (max-width:544px){.ast-header-break-point .ast-header-html-1{display:flex}}.ast-footer-copyright{text-align:center}.ast-footer-copyright{color:var(--ast-global-color-8)}@media (max-width:921px){.ast-footer-copyright{text-align:center}}@media (max-width:544px){.ast-footer-copyright{text-align:center}}.ast-footer-copyright.ast-builder-layout-element{display:flex}@media (max-width:921px){.ast-header-break-point .ast-footer-copyright.ast-builder-layout-element{display:flex}}@media (max-width:544px){.ast-header-break-point .ast-footer-copyright.ast-builder-layout-element{display:flex}}.site-above-footer-wrap{padding-top:20px;padding-bottom:20px}.site-above-footer-wrap[data-section=section-above-footer-builder]{background-color:#eee;background-image:none;min-height:60px;border-style:solid;border-width:0;border-top-width:1px;border-top-color:var(--ast-global-color-6)}.site-above-footer-wrap[data-section=section-above-footer-builder] .ast-builder-grid-row{max-width:1200px;min-height:60px;margin-left:auto;margin-right:auto}.site-above-footer-wrap[data-section=section-above-footer-builder] .ast-builder-grid-row,.site-above-footer-wrap[data-section=section-above-footer-builder] .site-footer-section{align-items:center}.site-above-footer-wrap[data-section=section-above-footer-builder].ast-footer-row-inline .site-footer-section{display:flex;margin-bottom:0}.ast-builder-grid-row-full .ast-builder-grid-row{grid-template-columns:1fr}@media (max-width:921px){.site-above-footer-wrap[data-section=section-above-footer-builder].ast-footer-row-tablet-inline .site-footer-section{display:flex;margin-bottom:0}.site-above-footer-wrap[data-section=section-above-footer-builder].ast-footer-row-tablet-stack .site-footer-section{display:block;margin-bottom:10px}.ast-builder-grid-row-container.ast-builder-grid-row-tablet-full .ast-builder-grid-row{grid-template-columns:1fr}}@media (max-width:544px){.site-above-footer-wrap[data-section=section-above-footer-builder].ast-footer-row-mobile-inline .site-footer-section{display:flex;margin-bottom:0}.site-above-footer-wrap[data-section=section-above-footer-builder].ast-footer-row-mobile-stack .site-footer-section{display:block;margin-bottom:10px}.ast-builder-grid-row-container.ast-builder-grid-row-mobile-full .ast-builder-grid-row{grid-template-columns:1fr}}.site-above-footer-wrap[data-section=section-above-footer-builder]{padding-top:0;padding-bottom:0;padding-left:0;padding-right:0;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}.site-above-footer-wrap[data-section=section-above-footer-builder]{display:grid}@media (max-width:921px){.ast-header-break-point .site-above-footer-wrap[data-section=section-above-footer-builder]{display:grid}}@media (max-width:544px){.ast-header-break-point .site-above-footer-wrap[data-section=section-above-footer-builder]{display:grid}}.footer-widget-area.widget-area.site-footer-focus-item{width:auto}.elementor-widget-heading .elementor-heading-title{margin:0}.elementor-page .ast-menu-toggle{color:unset!important;background:unset!important}.elementor-post.elementor-grid-item.hentry{margin-bottom:0}.elementor-element .elementor-wc-products .woocommerce[class*=columns-] ul.products li.product,.woocommerce div.product .elementor-element.elementor-products-grid .related.products ul.products li.product{width:auto;margin:0;float:none}.elementor-toc__list-wrapper{margin:0}body .elementor hr{background-color:#ccc;margin:0}.ast-left-sidebar .elementor-section.elementor-section-stretched,.ast-right-sidebar .elementor-section.elementor-section-stretched{max-width:100%;left:0!important}.elementor-posts-container [CLASS*=ast-width-]{width:100%}.elementor-template-full-width .ast-container{display:block}.elementor-screen-only,.screen-reader-text,.screen-reader-text span,.ui-helper-hidden-accessible{top:0!important}@media (max-width:544px){.elementor-element .elementor-wc-products .woocommerce[class*=columns-] ul.products li.product{width:auto;margin:0}.elementor-element .woocommerce .woocommerce-result-count{float:none}}.ast-builder-menu-1 .inline-on-mobile .sub-menu,.ast-desktop .ast-builder-menu-1 .astra-full-megamenu-wrapper,.ast-desktop .ast-builder-menu-1 .menu-item .sub-menu,.ast-desktop .ast-mega-menu-enabled .ast-builder-menu-1 div:not(.astra-full-megamenu-wrapper) .sub-menu{box-shadow:0 4px 10px -2px rgba(0,0,0,.1)}.ast-desktop .ast-mobile-popup-drawer.active .ast-mobile-popup-inner{max-width:35%}@media (max-width:921px){.ast-mobile-popup-drawer.active .ast-mobile-popup-inner{max-width:90%}}@media (max-width:544px){.ast-mobile-popup-drawer.active .ast-mobile-popup-inner{max-width:90%}}.ast-header-break-point .main-header-bar{border-bottom-width:1px}@media (min-width:922px){.main-header-bar{border-bottom-width:1px}}#astra-footer-menu .menu-item,.main-header-bar .ast-masthead-custom-menu-items,.main-header-menu .menu-item{-js-display:flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex-direction:column}#astra-footer-menu>.menu-item>.menu-link,.main-header-menu>.menu-item>.menu-link{height:100%;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-js-display:flex;display:flex}.ast-header-break-point .main-navigation ul .menu-item .menu-link .icon-arrow:first-of-type svg{top:.2em;margin-top:0;margin-left:0;width:.65em;transform:translate(0,-2px) rotateZ(270deg)}.ast-mobile-popup-content .ast-submenu-expanded>.ast-menu-toggle{transform:rotateX(180deg);overflow-y:auto}@media (min-width:922px){.ast-builder-menu .main-navigation>ul>li:last-child a{margin-right:0}}.ast-separate-container .ast-article-inner{background-color:var(--ast-global-color-0);background-image:none}@media (max-width:921px){.ast-separate-container .ast-article-inner{background-color:var(--ast-global-color-5);background-image:none}}@media (max-width:544px){.ast-separate-container .ast-article-inner{background-color:var(--ast-global-color-5);background-image:none}}.ast-box-layout.ast-plain-container .site-content,.ast-padded-layout.ast-plain-container .site-content,.ast-separate-container .ast-archive-description,.ast-separate-container .ast-article-single:not(.ast-related-post),.ast-separate-container .comments-area .ast-comment-list li,.ast-separate-container .comments-area .comment-respond,.ast-separate-container .comments-area .comments-title,.ast-separate-container .comments-count-wrapper,.ast-separate-container .error-404,.ast-separate-container .no-results,.ast-separate-container .related-posts-title-wrapper,.single.ast-separate-container .site-main .ast-author-meta,.woocommerce.ast-separate-container .ast-woocommerce-container{background-color:var(--ast-global-color-0);background-image:none}@media (max-width:921px){.ast-box-layout.ast-plain-container .site-content,.ast-padded-layout.ast-plain-container .site-content,.ast-separate-container .ast-archive-description,.ast-separate-container .ast-article-single:not(.ast-related-post),.ast-separate-container .comments-count-wrapper,.ast-separate-container .error-404,.ast-separate-container .no-results,.ast-separate-container .related-posts-title-wrapper,.single.ast-separate-container .site-main .ast-author-meta,.woocommerce.ast-separate-container .ast-woocommerce-container{background-color:var(--ast-global-color-5);background-image:none}}@media (max-width:544px){.ast-box-layout.ast-plain-container .site-content,.ast-padded-layout.ast-plain-container .site-content,.ast-separate-container .ast-archive-description,.ast-separate-container .ast-article-single:not(.ast-related-post),.ast-separate-container .comments-count-wrapper,.ast-separate-container .error-404,.ast-separate-container .no-results,.ast-separate-container .related-posts-title-wrapper,.single.ast-separate-container .site-main .ast-author-meta,.woocommerce.ast-separate-container .ast-woocommerce-container{background-color:var(--ast-global-color-5);background-image:none}}.ast-separate-container.ast-two-container #secondary .widget{background-color:var(--ast-global-color-0);background-image:none}@media (max-width:921px){.ast-separate-container.ast-two-container #secondary .widget{background-color:var(--ast-global-color-5);background-image:none}}@media (max-width:544px){.ast-separate-container.ast-two-container #secondary .widget{background-color:var(--ast-global-color-5);background-image:none}}.ast-page-builder-template,.ast-plain-container{background-color:var(--ast-global-color-0);background-image:none}@media (max-width:921px){.ast-page-builder-template,.ast-plain-container{background-color:var(--ast-global-color-5);background-image:none}}@media (max-width:544px){.ast-page-builder-template,.ast-plain-container{background-color:var(--ast-global-color-5);background-image:none}}#ast-scroll-top{display:none;position:fixed;text-align:center;cursor:pointer;z-index:99;width:2.1em;height:2.1em;line-height:2.1;color:#fff;border-radius:2px;content:"";outline:inherit}@media (min-width:769px){#ast-scroll-top{content:"769"}}#ast-scroll-top .ast-icon.icon-arrow svg{margin-left:0;vertical-align:middle;transform:translate(0,-20%) rotate(180deg);width:1.6em}.ast-scroll-to-top-right{right:30px;bottom:30px}.ast-scroll-to-top-left{left:30px;bottom:30px}#ast-scroll-top{background-color:var(--ast-global-color-6);font-size:15px;font-size:.9375rem}@media (max-width:921px){#ast-scroll-top .ast-icon.icon-arrow svg{width:1em}}.ast-desktop-header-content>*,.ast-mobile-header-content>*{padding:10px 0;height:auto}.ast-desktop-header-content>:first-child,.ast-mobile-header-content>:first-child{padding-top:10px}.ast-desktop-header-content>.ast-builder-menu,.ast-mobile-header-content>.ast-builder-menu{padding-top:0}.ast-desktop-header-content>:last-child,.ast-mobile-header-content>:last-child{padding-bottom:0}.ast-desktop-header-content .ast-search-menu-icon.ast-inline-search label,.ast-mobile-header-content .ast-search-menu-icon.ast-inline-search label{width:100%}.ast-desktop-header-content .main-header-bar-navigation .ast-submenu-expanded>.ast-menu-toggle::before{transform:rotateX(180deg)}#ast-desktop-header .ast-desktop-header-content,.ast-desktop-header-content .ast-search-icon,.ast-main-header-nav-open.ast-popup-nav-open .ast-desktop-header-content,.ast-main-header-nav-open.ast-popup-nav-open .ast-mobile-header-wrap .ast-mobile-header-content,.ast-mobile-header-content .ast-search-icon,.ast-mobile-header-wrap .ast-mobile-header-content{display:none}.ast-main-header-nav-open.ast-header-break-point #ast-desktop-header .ast-desktop-header-content,.ast-main-header-nav-open.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content{display:block}.ast-desktop .ast-desktop-header-content .astra-menu-animation-fade>.menu-item .menu-item>.sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-fade>.menu-item>.sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down>.menu-item .menu-item>.sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down>.menu-item>.sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-up>.menu-item .menu-item>.sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-up>.menu-item>.sub-menu{opacity:1;visibility:visible}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation{width:unset;margin:unset}.ast-desktop-header-content.content-align-flex-end .main-header-bar-navigation .menu-item-has-children>.ast-menu-toggle,.ast-mobile-header-content.content-align-flex-end .main-header-bar-navigation .menu-item-has-children>.ast-menu-toggle{left:calc(20px - .907em);right:auto}.ast-desktop-header-content .ast-search-menu-icon,.ast-desktop-header-content .ast-search-menu-icon.slide-search,.ast-mobile-header-content .ast-search-menu-icon,.ast-mobile-header-content .ast-search-menu-icon.slide-search{width:100%;position:relative;display:block;right:auto;transform:none}.ast-desktop-header-content .ast-search-menu-icon .search-form,.ast-desktop-header-content .ast-search-menu-icon.slide-search .search-form,.ast-mobile-header-content .ast-search-menu-icon .search-form,.ast-mobile-header-content .ast-search-menu-icon.slide-search .search-form{right:0;visibility:visible;opacity:1;position:relative;top:auto;transform:none;padding:0;display:block;overflow:hidden}.ast-desktop-header-content .ast-search-menu-icon .search-field,.ast-desktop-header-content .ast-search-menu-icon.ast-inline-search .search-field,.ast-mobile-header-content .ast-search-menu-icon .search-field,.ast-mobile-header-content .ast-search-menu-icon.ast-inline-search .search-field{width:100%;padding-right:5.5em}.ast-desktop-header-content .ast-search-menu-icon .search-submit,.ast-mobile-header-content .ast-search-menu-icon .search-submit{display:block;position:absolute;height:100%;top:0;right:0;padding:0 1em;border-radius:0}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation ul .sub-menu .menu-link{padding-left:30px}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation .sub-menu .menu-item .menu-item .menu-link{padding-left:40px}.ast-mobile-popup-drawer.active .ast-mobile-popup-inner{background-color:#fff}.ast-desktop-header-content,.ast-mobile-header-wrap .ast-mobile-header-content{background-color:#fff}.ast-desktop-header-content>*,.ast-desktop-popup-content>*,.ast-mobile-header-content>*,.ast-mobile-popup-content>*{padding-top:0;padding-bottom:0}.content-align-flex-start .ast-builder-layout-element{justify-content:flex-start}.content-align-flex-start .main-header-menu{text-align:left}.ast-mobile-popup-drawer.active .menu-toggle-close{color:#3a3a3a}.ast-mobile-header-wrap .ast-primary-header-bar,.ast-primary-header-bar .site-primary-header-wrap{min-height:110px}.ast-desktop .ast-primary-header-bar .main-header-menu>.menu-item{line-height:110px}.ast-header-break-point #masthead .ast-mobile-header-wrap .ast-above-header-bar,.ast-header-break-point #masthead .ast-mobile-header-wrap .ast-below-header-bar,.ast-header-break-point #masthead .ast-mobile-header-wrap .ast-primary-header-bar{padding-left:20px;padding-right:20px}.ast-header-break-point .ast-primary-header-bar{border-bottom-width:0;border-bottom-color:#eaeaea;border-bottom-style:solid}@media (min-width:922px){.ast-primary-header-bar{border-bottom-width:0;border-bottom-color:#eaeaea;border-bottom-style:solid}}.ast-primary-header-bar{background-color:#eee;background-image:none}@media (max-width:921px){.ast-mobile-header-wrap .ast-primary-header-bar,.ast-primary-header-bar .site-primary-header-wrap{min-height:100px}}@media (max-width:544px){.ast-mobile-header-wrap .ast-primary-header-bar,.ast-primary-header-bar .site-primary-header-wrap{min-height:80px}}.ast-primary-header-bar{display:block}@media (max-width:921px){.ast-header-break-point .ast-primary-header-bar{display:grid}}@media (max-width:544px){.ast-header-break-point .ast-primary-header-bar{display:grid}}[data-section=section-header-mobile-trigger] .ast-button-wrap .ast-mobile-menu-trigger-minimal{color:var(--ast-global-color-6);border:none;background:0 0}[data-section=section-header-mobile-trigger] .ast-button-wrap .mobile-menu-toggle-icon .ast-mobile-svg{width:36px;height:36px;fill:var(--ast-global-color-6)}[data-section=section-header-mobile-trigger] .ast-button-wrap .mobile-menu-wrap .mobile-menu{color:var(--ast-global-color-6)}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children>.ast-menu-toggle{top:0}.ast-builder-menu-mobile .main-navigation .menu-item-has-children>.menu-link:after{content:unset}.ast-hfb-header .ast-builder-menu-mobile .main-navigation .main-header-menu,.ast-hfb-header .ast-mobile-header-content .ast-builder-menu-mobile .main-navigation .main-header-menu,.ast-hfb-header .ast-mobile-popup-content .ast-builder-menu-mobile .main-navigation .main-header-menu{border-top-width:1px;border-color:#eaeaea}.ast-hfb-header .ast-builder-menu-mobile .main-navigation .menu-item .menu-link,.ast-hfb-header .ast-builder-menu-mobile .main-navigation .menu-item .sub-menu .menu-link,.ast-hfb-header .ast-mobile-header-content .ast-builder-menu-mobile .main-navigation .menu-item .menu-link,.ast-hfb-header .ast-mobile-header-content .ast-builder-menu-mobile .main-navigation .menu-item .sub-menu .menu-link,.ast-hfb-header .ast-mobile-popup-content .ast-builder-menu-mobile .main-navigation .menu-item .menu-link,.ast-hfb-header .ast-mobile-popup-content .ast-builder-menu-mobile .main-navigation .menu-item .sub-menu .menu-link{border-bottom-width:1px;border-color:#eaeaea;border-style:solid}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children>.ast-menu-toggle{top:0}@media (max-width:921px){.ast-builder-menu-mobile .main-navigation .main-header-menu .menu-item>.menu-link{color:var(--ast-global-color-2);padding-top:10px;padding-bottom:10px;padding-left:15px;padding-right:15px}.ast-builder-menu-mobile .main-navigation .menu-item>.ast-menu-toggle{color:var(--ast-global-color-2)}.ast-builder-menu-mobile .main-navigation .inline-on-mobile .menu-item:hover>.ast-menu-toggle,.ast-builder-menu-mobile .main-navigation .menu-item:hover>.menu-link{color:var(--ast-global-color-2)}.ast-builder-menu-mobile .main-navigation .menu-item:hover>.ast-menu-toggle{color:var(--ast-global-color-2)}.ast-builder-menu-mobile .main-navigation .inline-on-mobile .menu-item.current-menu-item>.ast-menu-toggle,.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor>.ast-menu-toggle,.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor>.menu-link,.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item>.menu-link{color:var(--ast-global-color-0)}.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item>.ast-menu-toggle{color:var(--ast-global-color-0)}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children>.ast-menu-toggle{top:10px;right:calc(15px - .907em)}.ast-builder-menu-mobile .main-navigation .menu-item-has-children>.menu-link:after{content:unset}}@media (max-width:544px){.ast-builder-menu-mobile .main-navigation .main-header-menu .menu-item>.menu-link{color:var(--ast-global-color-6)}.ast-builder-menu-mobile .main-navigation .menu-item>.ast-menu-toggle{color:var(--ast-global-color-6)}.ast-builder-menu-mobile .main-navigation .inline-on-mobile .menu-item:hover>.ast-menu-toggle,.ast-builder-menu-mobile .main-navigation .menu-item:hover>.menu-link{color:var(--ast-global-color-7)}.ast-builder-menu-mobile .main-navigation .menu-item:hover>.ast-menu-toggle{color:var(--ast-global-color-7)}.ast-builder-menu-mobile .main-navigation .inline-on-mobile .menu-item.current-menu-item>.ast-menu-toggle,.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor>.ast-menu-toggle,.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor>.menu-link,.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item>.menu-link{color:var(--ast-global-color-7)}.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item>.ast-menu-toggle{color:var(--ast-global-color-7)}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children>.ast-menu-toggle{top:10px}.ast-builder-menu-mobile .main-navigation .main-header-menu,.ast-builder-menu-mobile .main-navigation .main-header-menu .sub-menu{background-color:var(--ast-global-color-0);background-image:none}}.ast-builder-menu-mobile .main-navigation{display:block}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-mobile .main-navigation{display:block}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-mobile .main-navigation{display:block}}:root{--e-global-color-astglobalcolor0:#ffffff;--e-global-color-astglobalcolor1:#ffffff;--e-global-color-astglobalcolor2:#ffffff;--e-global-color-astglobalcolor3:#fefefe;--e-global-color-astglobalcolor4:#f9f6fe;--e-global-color-astglobalcolor5:#ffffff;--e-global-color-astglobalcolor6:#34603e;--e-global-color-astglobalcolor7:#d5c88c;--e-global-color-astglobalcolor8:#000000}</style><link data-optimized="1" rel="stylesheet" id="astra-google-fonts-css" href="https://mtws.one/wp-content/litespeed/css/2d3b152094457082613079eda959436e.css?ver=9436e" media="all"><link data-optimized="1" rel="stylesheet" id="mediaelement-css" href="https://mtws.one/wp-content/litespeed/css/e572dee34075d6fa0cb1a5bd6f2fdac7.css?ver=fdac7" media="all"><link data-optimized="1" rel="stylesheet" id="wp-mediaelement-css" href="https://mtws.one/wp-content/litespeed/css/42d932b570155297dd08cbc9e5d48f44.css?ver=48f44" media="all"><style id="jetpack-sharing-buttons-style-inline-css">.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}</style><style id="global-styles-inline-css">:root{--wp--preset--aspect-ratio--square:1;--wp--preset--aspect-ratio--4-3:4/3;--wp--preset--aspect-ratio--3-4:3/4;--wp--preset--aspect-ratio--3-2:3/2;--wp--preset--aspect-ratio--2-3:2/3;--wp--preset--aspect-ratio--16-9:16/9;--wp--preset--aspect-ratio--9-16:9/16;--wp--preset--color--black:#000000;--wp--preset--color--cyan-bluish-gray:#abb8c3;--wp--preset--color--white:#ffffff;--wp--preset--color--pale-pink:#f78da7;--wp--preset--color--vivid-red:#cf2e2e;--wp--preset--color--luminous-vivid-orange:#ff6900;--wp--preset--color--luminous-vivid-amber:#fcb900;--wp--preset--color--light-green-cyan:#7bdcb5;--wp--preset--color--vivid-green-cyan:#00d084;--wp--preset--color--pale-cyan-blue:#8ed1fc;--wp--preset--color--vivid-cyan-blue:#0693e3;--wp--preset--color--vivid-purple:#9b51e0;--wp--preset--color--ast-global-color-0:var(--ast-global-color-0);--wp--preset--color--ast-global-color-1:var(--ast-global-color-1);--wp--preset--color--ast-global-color-2:var(--ast-global-color-2);--wp--preset--color--ast-global-color-3:var(--ast-global-color-3);--wp--preset--color--ast-global-color-4:var(--ast-global-color-4);--wp--preset--color--ast-global-color-5:var(--ast-global-color-5);--wp--preset--color--ast-global-color-6:var(--ast-global-color-6);--wp--preset--color--ast-global-color-7:var(--ast-global-color-7);--wp--preset--color--ast-global-color-8:var(--ast-global-color-8);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple:linear-gradient(
-          135deg,
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https:\/\/mtws.one\/dawah\/#webpage",
+          "url": "https:\/\/mtws.one\/dawah\/",
+          "name": "Information about Isl\u0101m",
+          "description": "Nearly everyone has a Muslim co-worker, associate, classmate, or relative; however, many people are not well- acquainted with the actual beliefs of Islam. Learn more about Isl\u0101m here",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https:\/\/mtws.one\/#website"
+          },
+          "breadcrumb": {
+            "@id": "https:\/\/mtws.one\/dawah\/#breadcrumblist"
+          },
+          "author": {
+            "@id": "https:\/\/mtws.one\/author\/mtwsdawah\/#author"
+          },
+          "creator": {
+            "@id": "https:\/\/mtws.one\/author\/mtwsdawah\/#author"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https:\/\/i0.wp.com\/mtws.one\/wp-content\/uploads\/2024\/03\/Social-Share-Images.png?fit=1200%2C630&ssl=1",
+            "@id": "https:\/\/mtws.one\/dawah\/#mainImage",
+            "width": 1200,
+            "height": 630
+          },
+          "primaryImageOfPage": {
+            "@id": "https:\/\/mtws.one\/dawah\/#mainImage"
+          },
+          "datePublished": "2024-03-18T10:16:52-04:00",
+          "dateModified": "2024-04-11T15:19:26-04:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https:\/\/mtws.one\/#website",
+          "url": "https:\/\/mtws.one\/",
+          "name": "MTWS",
+          "description": "MTWS",
+          "inLanguage": "en-US",
+          "publisher": {
+            "@id": "https:\/\/mtws.one\/#organization"
+          }
+        }
+      ]
+    }
+  </script>
+  <meta name="google-site-verification" content="mRCtzSy5cH3L_0T0UH8JqapxvMuOUrTdAe-P3bXi07E">
+  <meta name="msvalidate.01" content="2C49298D1CF2C74596DDF616EA566CA1">
+  <script id="google_gtagjs-js-consent-mode-data-layer" src="data:text/javascript;base64,d2luZG93LmRhdGFMYXllcj13aW5kb3cuZGF0YUxheWVyfHxbXTtmdW5jdGlvbiBndGFnKCl7ZGF0YUxheWVyLnB1c2goYXJndW1lbnRzKX0KZ3RhZygnY29uc2VudCcsJ2RlZmF1bHQnLHsiYWRfcGVyc29uYWxpemF0aW9uIjoiZGVuaWVkIiwiYWRfc3RvcmFnZSI6ImRlbmllZCIsImFkX3VzZXJfZGF0YSI6ImRlbmllZCIsImFuYWx5dGljc19zdG9yYWdlIjoiZGVuaWVkIiwiZnVuY3Rpb25hbGl0eV9zdG9yYWdlIjoiZGVuaWVkIiwic2VjdXJpdHlfc3RvcmFnZSI6ImRlbmllZCIsInBlcnNvbmFsaXphdGlvbl9zdG9yYWdlIjoiZGVuaWVkIiwicmVnaW9uIjpbIkFUIiwiQkUiLCJCRyIsIkNIIiwiQ1kiLCJDWiIsIkRFIiwiREsiLCJFRSIsIkVTIiwiRkkiLCJGUiIsIkdCIiwiR1IiLCJIUiIsIkhVIiwiSUUiLCJJUyIsIklUIiwiTEkiLCJMVCIsIkxVIiwiTFYiLCJNVCIsIk5MIiwiTk8iLCJQTCIsIlBUIiwiUk8iLCJTRSIsIlNJIiwiU0siXSwid2FpdF9mb3JfdXBkYXRlIjo1MDB9KTt3aW5kb3cuX2dvb2dsZXNpdGVraXRDb25zZW50Q2F0ZWdvcnlNYXA9eyJzdGF0aXN0aWNzIjpbImFuYWx5dGljc19zdG9yYWdlIl0sIm1hcmtldGluZyI6WyJhZF9zdG9yYWdlIiwiYWRfdXNlcl9kYXRhIiwiYWRfcGVyc29uYWxpemF0aW9uIl0sImZ1bmN0aW9uYWwiOlsiZnVuY3Rpb25hbGl0eV9zdG9yYWdlIiwic2VjdXJpdHlfc3RvcmFnZSJdLCJwcmVmZXJlbmNlcyI6WyJwZXJzb25hbGl6YXRpb25fc3RvcmFnZSJdfTt3aW5kb3cuX2dvb2dsZXNpdGVraXRDb25zZW50cz17ImFkX3BlcnNvbmFsaXphdGlvbiI6ImRlbmllZCIsImFkX3N0b3JhZ2UiOiJkZW5pZWQiLCJhZF91c2VyX2RhdGEiOiJkZW5pZWQiLCJhbmFseXRpY3Nfc3RvcmFnZSI6ImRlbmllZCIsImZ1bmN0aW9uYWxpdHlfc3RvcmFnZSI6ImRlbmllZCIsInNlY3VyaXR5X3N0b3JhZ2UiOiJkZW5pZWQiLCJwZXJzb25hbGl6YXRpb25fc3RvcmFnZSI6ImRlbmllZCIsInJlZ2lvbiI6WyJBVCIsIkJFIiwiQkciLCJDSCIsIkNZIiwiQ1oiLCJERSIsIkRLIiwiRUUiLCJFUyIsIkZJIiwiRlIiLCJHQiIsIkdSIiwiSFIiLCJIVSIsIklFIiwiSVMiLCJJVCIsIkxJIiwiTFQiLCJMVSIsIkxWIiwiTVQiLCJOTCIsIk5PIiwiUEwiLCJQVCIsIlJPIiwiU0UiLCJTSSIsIlNLIl0sIndhaXRfZm9yX3VwZGF0ZSI6NTAwfQ==" defer></script>
+  <link rel="dns-prefetch" href="//www.googletagmanager.com">
+  <link rel="dns-prefetch" href="//stats.wp.com">
+  <link rel="dns-prefetch" href="//i0.wp.com">
+  <link rel="alternate" type="application/rss+xml" title="Masjid Tawheed Was-Sunnah &raquo; Feed" href="https://mtws.one/feed/">
+  <link rel="alternate" type="application/rss+xml" title="Masjid Tawheed Was-Sunnah &raquo; Comments Feed" href="https://mtws.one/comments/feed/">
+  <link rel="alternate" type="application/rss+xml" title="Masjid Tawheed Was-Sunnah &raquo; Information about Islām Comments Feed" href="https://mtws.one/dawah/feed/">
+  <link data-optimized="1" rel="stylesheet" id="astra-theme-css-css" href="https://mtws.one/wp-content/litespeed/css/909bfef79556c2f92d5a2995929ba6c9.css?ver=ba6c9" media="all">
+  <style id="astra-theme-css-inline-css">
+    :root {
+      --ast-container-default-xlg-padding: 3em;
+      --ast-container-default-lg-padding: 3em;
+      --ast-container-default-slg-padding: 2em;
+      --ast-container-default-md-padding: 3em;
+      --ast-container-default-sm-padding: 3em;
+      --ast-container-default-xs-padding: 2.4em;
+      --ast-container-default-xxs-padding: 1.8em;
+      --ast-code-block-background: #eceff3;
+      --ast-comment-inputs-background: #f9fafb;
+      --ast-normal-container-width: 1200px;
+      --ast-narrow-container-width: 888px;
+      --ast-blog-title-font-weight: normal;
+      --ast-blog-meta-weight: inherit
+    }
+
+    html {
+      font-size: 100%
+    }
+
+    a {
+      color: var(--ast-global-color-6)
+    }
+
+    a:focus,
+    a:hover {
+      color: var(--ast-global-color-8)
+    }
+
+    .ast-button,
+    .ast-custom-button,
+    body,
+    button,
+    input,
+    select,
+    textarea {
+      font-family: "Open Sans", sans-serif;
+      font-weight: inherit;
+      font-size: 16px;
+      font-size: 1rem
+    }
+
+    blockquote {
+      color: var(--ast-global-color-8)
+    }
+
+    .entry-content h1,
+    .entry-content h2,
+    .entry-content h3,
+    .entry-content h4,
+    .entry-content h5,
+    .entry-content h6,
+    .site-title,
+    .site-title a,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-family: "Playfair Display", serif;
+      font-weight: 600
+    }
+
+    .site-title {
+      font-size: 35px;
+      font-size: 2.1875rem;
+      display: none
+    }
+
+    header .custom-logo-link img {
+      max-width: 217px
+    }
+
+    .astra-logo-svg {
+      width: 217px
+    }
+
+    .site-header .site-description {
+      font-size: 15px;
+      font-size: .9375rem;
+      display: none
+    }
+
+    .entry-title {
+      font-size: 30px;
+      font-size: 1.875rem
+    }
+
+    .ast-blog-meta-container {
+      font-size: 16px;
+      font-size: 1rem
+    }
+
+    .archive .ast-article-post .ast-article-inner,
+    .archive .ast-article-post .ast-article-inner:hover,
+    .blog .ast-article-post .ast-article-inner,
+    .blog .ast-article-post .ast-article-inner:hover {
+      overflow: hidden
+    }
+
+    .entry-content h1,
+    h1 {
+      font-size: 54px;
+      font-size: 3.375rem;
+      font-weight: 600;
+      font-family: "Playfair Display", serif
+    }
+
+    .entry-content h2,
+    h2 {
+      font-size: 42px;
+      font-size: 2.625rem;
+      font-weight: 600;
+      font-family: "Playfair Display", serif
+    }
+
+    .entry-content h3,
+    h3 {
+      font-size: 36px;
+      font-size: 2.25rem;
+      font-weight: 600;
+      font-family: "Playfair Display", serif
+    }
+
+    .entry-content h4,
+    h4 {
+      font-size: 25px;
+      font-size: 1.5625rem;
+      font-weight: 600;
+      font-family: "Playfair Display", serif
+    }
+
+    .entry-content h5,
+    h5 {
+      font-size: 20px;
+      font-size: 1.25rem;
+      font-weight: 600;
+      font-family: "Playfair Display", serif
+    }
+
+    .entry-content h6,
+    h6 {
+      font-size: 15px;
+      font-size: .9375rem;
+      font-weight: 600;
+      font-family: "Playfair Display", serif
+    }
+
+    ::selection {
+      background-color: var(--ast-global-color-8);
+      color: #fff
+    }
+
+    .entry-content h1,
+    .entry-content h2,
+    .entry-content h3,
+    .entry-content h4,
+    .entry-content h5,
+    .entry-content h6,
+    .entry-title a,
+    body,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: var(--ast-global-color-8)
+    }
+
+    .tagcloud a.current-item,
+    .tagcloud a:focus,
+    .tagcloud a:hover {
+      color: #fff;
+      border-color: var(--ast-global-color-6);
+      background-color: var(--ast-global-color-6)
+    }
+
+    input:focus,
+    input[type=email]:focus,
+    input[type=password]:focus,
+    input[type=reset]:focus,
+    input[type=search]:focus,
+    input[type=text]:focus,
+    input[type=url]:focus,
+    textarea:focus {
+      border-color: var(--ast-global-color-6)
+    }
+
+    input[type=checkbox]:checked,
+    input[type=checkbox]:focus:checked,
+    input[type=checkbox]:hover:checked,
+    input[type=radio]:checked,
+    input[type=range]::-webkit-slider-thumb,
+    input[type=reset] {
+      border-color: var(--ast-global-color-6);
+      background-color: var(--ast-global-color-6);
+      box-shadow: none
+    }
+
+    .site-footer a:focus+.post-count,
+    .site-footer a:hover+.post-count {
+      background: var(--ast-global-color-6);
+      border-color: var(--ast-global-color-6)
+    }
+
+    .single .nav-links .nav-next,
+    .single .nav-links .nav-previous {
+      color: var(--ast-global-color-6)
+    }
+
+    .entry-meta,
+    .entry-meta * {
+      line-height: 1.45;
+      color: var(--ast-global-color-6)
+    }
+
+    .entry-meta a:not(.ast-button):focus,
+    .entry-meta a:not(.ast-button):focus *,
+    .entry-meta a:not(.ast-button):hover,
+    .entry-meta a:not(.ast-button):hover *,
+    .page-links .page-link:hover,
+    .page-links>.page-link,
+    .post-navigation a:hover {
+      color: var(--ast-global-color-8)
+    }
+
+    #cat option,
+    .secondary .calendar_wrap thead a,
+    .secondary .calendar_wrap thead a:visited {
+      color: var(--ast-global-color-6)
+    }
+
+    .ast-progress-val span,
+    .secondary .calendar_wrap #today {
+      background: var(--ast-global-color-6)
+    }
+
+    .secondary a:focus+.post-count,
+    .secondary a:hover+.post-count {
+      background: var(--ast-global-color-6);
+      border-color: var(--ast-global-color-6)
+    }
+
+    .calendar_wrap #today>a {
+      color: #fff
+    }
+
+    .page-links .page-link,
+    .single .post-navigation a {
+      color: var(--ast-global-color-6)
+    }
+
+    .ast-search-menu-icon .search-form button.search-submit {
+      padding: 0 4px
+    }
+
+    .ast-search-menu-icon form.search-form {
+      padding-right: 0
+    }
+
+    .ast-search-menu-icon.slide-search input.search-field {
+      width: 0
+    }
+
+    .ast-header-search .ast-search-menu-icon.ast-dropdown-active .search-field:focus,
+    .ast-header-search .ast-search-menu-icon.ast-dropdown-active .search-form {
+      transition: all .2s
+    }
+
+    .search-form input.search-field:focus {
+      outline: 0
+    }
+
+    .ast-archive-title {
+      color: var(--ast-global-color-8)
+    }
+
+    .widget .wp-block-heading,
+    .widget-title {
+      font-size: 22px;
+      font-size: 1.375rem;
+      color: var(--ast-global-color-8)
+    }
+
+    .single .ast-author-details .author-title {
+      color: var(--ast-global-color-8)
+    }
+
+    .ast-comment-content a:not(.ast-comment-edit-reply-wrapa),
+    .ast-single-post .entry-content a {
+      text-decoration: underline
+    }
+
+    .ast-single-post .ast-comment-content .comment-edit-link,
+    .ast-single-post .ast-comment-content .comment-reply-link,
+    .ast-single-post .elementor-button-wrapper .elementor-button,
+    .ast-single-post .entry-content .uabb-module-content a,
+    .ast-single-post .entry-content .uagb-ifb-cta a,
+    .ast-single-post .entry-content .uagb-post-grid a,
+    .ast-single-post .entry-content .uagb-tab a,
+    .ast-single-post .entry-content .uagb-taxomony-box a,
+    .ast-single-post .entry-content .uagb-timeline a,
+    .ast-single-post .entry-content .uagb-toc__wrap a,
+    .ast-single-post .entry-content .woocommerce a,
+    .ast-single-post .entry-content .wp-block-file__button,
+    .ast-single-post .entry-content .wp-block-uagb-buttons a,
+    .ast-single-post .wp-block-button .wp-block-button__link,
+    .ast-single-post .wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link,
+    .entry-content .wp-block-latest-posts>li>a,
+    li.ast-post-filter-single {
+      text-decoration: none
+    }
+
+    #ast-apply-coupon:focus-visible,
+    #close:focus-visible,
+    #search_submit:focus,
+    .ast-header-navigation-arrow:focus-visible,
+    .ast-menu-toggle:focus-visible,
+    .ast-orders-table__row .ast-orders-table__cell:focus-visible,
+    .ast-search-menu-icon.slide-search a:focus-visible:focus-visible,
+    .astra-search-icon:focus-visible,
+    .button.search-submit:focus-visible,
+    .normal-search:focus-visible,
+    .site .skip-link:focus-visible,
+    .woocommerce #minus_qty:focus-visible,
+    .woocommerce #plus_qty:focus-visible,
+    .woocommerce .astra-shop-summary-wrap a:focus-visible,
+    .woocommerce .wc-proceed-to-checkout>.checkout-button:focus-visible,
+    .woocommerce .woocommerce-MyAccount-navigation ul li a:focus-visible,
+    .woocommerce .woocommerce-info a:focus-visible,
+    .woocommerce .woocommerce-message a.button.wc-forward:focus-visible,
+    .woocommerce .woocommerce-order-details .order-again>.button:focus-visible,
+    .woocommerce a.wc-forward:focus-visible,
+    .woocommerce-js .woocommerce-mini-cart-item a.remove:focus-visible,
+    .wp-block-loginout input:focus-visible,
+    .wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper,
+    a#ast-apply-coupon:focus-visible,
+    a:focus-visible {
+      outline-style: dotted;
+      outline-color: inherit;
+      outline-width: thin
+    }
+
+    #ast-coupon-code:focus,
+    #ast-scroll-top:focus,
+    #coupon_code:focus,
+    .ast-mobile-popup-drawer.active .menu-toggle-close:focus,
+    .woocommerce #order_comments:focus,
+    .woocommerce #place_order:focus,
+    .woocommerce #reviews #respond input#submit:focus,
+    .woocommerce .ast-woocommerce-container .woocommerce-pagination ul.page-numbers li a:focus,
+    .woocommerce .button.single_add_to_cart_button:focus,
+    .woocommerce .woocommerce-MyAccount-content .woocommerce-EditAccountForm .woocommerce-form-row .woocommerce-Input.input-text:focus,
+    .woocommerce .woocommerce-MyAccount-content form button:focus,
+    .woocommerce .woocommerce-address-fields .woocommerce-address-fields__field-wrapper .woocommerce-input-wrapper>.input-text:focus,
+    .woocommerce .woocommerce-billing-fields .woocommerce-billing-fields__field-wrapper .woocommerce-input-wrapper>.input-text:focus,
+    .woocommerce .woocommerce-cart-form button:focus,
+    .woocommerce .woocommerce-cart-form__cart-item .quantity .qty:focus,
+    .woocommerce a.add_to_cart_button:focus,
+    .woocommerce p#ast-coupon-trigger:focus,
+    .woocommerce-js .woocommerce-mini-cart-item .quantity input[type=number]:focus,
+    .woocommerce-ordering select.orderby:focus,
+    .woocommerce-page #comment:focus,
+    .woocommerce.woocommerce-js .quantity input[type=number]:focus,
+    .wp-block-search__input:focus,
+    [data-section=section-header-mobile-trigger] .ast-button-wrap .ast-mobile-menu-trigger-minimal:focus,
+    body #content .woocommerce form .form-row .select2-container--default .select2-selection--single:focus,
+    input:focus,
+    input[type=email]:focus,
+    input[type=number]:focus,
+    input[type=password]:focus,
+    input[type=reset]:focus,
+    input[type=search]:focus,
+    input[type=text]:focus,
+    input[type=url]:focus,
+    textarea:focus {
+      border-style: dotted;
+      border-color: inherit;
+      border-width: thin
+    }
+
+    input {
+      outline: 0
+    }
+
+    .site-logo-img img {
+      transition: all .2s linear
+    }
+
+    body .ast-oembed-container * {
+      position: absolute;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      left: 0
+    }
+
+    body .wp-block-embed-pocket-casts .ast-oembed-container * {
+      position: unset
+    }
+
+    .ast-single-post-featured-section+article {
+      margin-top: 2em
+    }
+
+    .site-content .ast-single-post-featured-section img {
+      width: 100%;
+      overflow: hidden;
+      object-fit: cover
+    }
+
+    .ast-separate-container .site-content .ast-single-post-featured-section+article {
+      margin-top: -80px;
+      z-index: 9;
+      position: relative;
+      border-radius: 4px
+    }
+
+    @media (min-width:922px) {
+      .ast-no-sidebar .site-content .ast-article-image-container--wide {
+        margin-left: -120px;
+        margin-right: -120px;
+        max-width: unset;
+        width: unset
+      }
+
+      .ast-left-sidebar .site-content .ast-article-image-container--wide,
+      .ast-right-sidebar .site-content .ast-article-image-container--wide {
+        margin-left: -10px;
+        margin-right: -10px
+      }
+
+      .site-content .ast-article-image-container--full {
+        margin-left: calc(-50vw + 50%);
+        margin-right: calc(-50vw + 50%);
+        max-width: 100vw;
+        width: 100vw
+      }
+
+      .ast-left-sidebar .site-content .ast-article-image-container--full,
+      .ast-right-sidebar .site-content .ast-article-image-container--full {
+        margin-left: -10px;
+        margin-right: -10px;
+        max-width: inherit;
+        width: auto
+      }
+    }
+
+    .site>.ast-single-related-posts-container {
+      margin-top: 0
+    }
+
+    @media (min-width:922px) {
+      .ast-desktop .ast-container--narrow {
+        max-width: var(--ast-narrow-container-width);
+        margin: 0 auto
+      }
+    }
+
+    .ast-page-builder-template .hentry {
+      margin: 0
+    }
+
+    .ast-page-builder-template .site-content>.ast-container {
+      max-width: 100%;
+      padding: 0
+    }
+
+    .ast-page-builder-template .site .site-content #primary {
+      padding: 0;
+      margin: 0
+    }
+
+    .ast-page-builder-template .no-results {
+      text-align: center;
+      margin: 4em auto
+    }
+
+    .ast-page-builder-template .ast-pagination {
+      padding: 2em
+    }
+
+    .ast-page-builder-template .entry-header.ast-no-title.ast-no-thumbnail {
+      margin-top: 0
+    }
+
+    .ast-page-builder-template .entry-header.ast-header-without-markup {
+      margin-top: 0;
+      margin-bottom: 0
+    }
+
+    .ast-page-builder-template .entry-header.ast-no-title.ast-no-meta {
+      margin-bottom: 0
+    }
+
+    .ast-page-builder-template.single .post-navigation {
+      padding-bottom: 2em
+    }
+
+    .ast-page-builder-template.single-post .site-content>.ast-container {
+      max-width: 100%
+    }
+
+    .ast-page-builder-template .entry-header {
+      margin-top: 2em;
+      margin-left: auto;
+      margin-right: auto
+    }
+
+    .ast-page-builder-template .ast-archive-description {
+      margin: 2em auto 0;
+      padding-left: 20px;
+      padding-right: 20px
+    }
+
+    .ast-page-builder-template .ast-row {
+      margin-left: 0;
+      margin-right: 0
+    }
+
+    .single.ast-page-builder-template .ast-single-entry-banner+.site-content article .entry-content,
+    .single.ast-page-builder-template .entry-header+.entry-content {
+      margin-bottom: 2em
+    }
+
+    @media (min-width:921px) {
+
+      .ast-page-builder-template.archive.ast-left-sidebar .ast-row article,
+      .ast-page-builder-template.archive.ast-right-sidebar .ast-row article {
+        padding-left: 0;
+        padding-right: 0
+      }
+    }
+
+    @media (max-width:921px) {
+      #ast-desktop-header {
+        display: none
+      }
+    }
+
+    @media (min-width:922px) {
+      #ast-mobile-header {
+        display: none
+      }
+    }
+
+    .wp-block-buttons.aligncenter {
+      justify-content: center
+    }
+
+    @media (max-width:921px) {
+
+      .ast-theme-transparent-header #primary,
+      .ast-theme-transparent-header #secondary {
+        padding: 0
+      }
+    }
+
+    @media (max-width:921px) {
+      .ast-plain-container.ast-no-sidebar #primary {
+        padding: 0
+      }
+    }
+
+    .ast-plain-container.ast-no-sidebar #primary {
+      margin-top: 0;
+      margin-bottom: 0
+    }
+
+    .wp-block-button.is-style-outline .wp-block-button__link {
+      border-color: var(--ast-global-color-7);
+      border-top-width: 1px;
+      border-right-width: 1px;
+      border-bottom-width: 1px;
+      border-left-width: 1px
+    }
+
+    div.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color),
+    div.wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color) {
+      color: var(--ast-global-color-7)
+    }
+
+    .wp-block-button.is-style-outline .wp-block-button__link:hover,
+    .wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link:focus,
+    .wp-block-buttons .wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color):hover,
+    .wp-block-buttons .wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color):hover {
+      color: var(--ast-global-color-6);
+      background-color: var(--ast-global-color-7);
+      border-color: var(--ast-global-color-7)
+    }
+
+    .ast-pagination .page-numbers.current,
+    .post-page-numbers.current .page-link {
+      color: #fff;
+      border-color: var(--ast-global-color-8);
+      background-color: var(--ast-global-color-8)
+    }
+
+    .wp-block-button.is-style-outline .wp-block-button__link {
+      border-top-width: 1px;
+      border-right-width: 1px;
+      border-bottom-width: 1px;
+      border-left-width: 1px
+    }
+
+    .ast-outline-button,
+    .wp-block-button.is-style-outline .wp-block-button__link.wp-element-button {
+      border-color: var(--ast-global-color-7);
+      font-family: inherit;
+      font-weight: 600;
+      font-size: 20px;
+      font-size: 1.25rem;
+      line-height: 1em;
+      border-top-left-radius: 5px;
+      border-top-right-radius: 5px;
+      border-bottom-right-radius: 5px;
+      border-bottom-left-radius: 5px
+    }
+
+    .ast-outline-button,
+    .wp-block-buttons .wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color),
+    .wp-block-buttons .wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color) {
+      color: var(--ast-global-color-7)
+    }
+
+    .ast-outline-button:focus,
+    .ast-outline-button:hover,
+    .wp-block-button.is-style-outline .wp-block-button__link:hover,
+    .wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link:focus,
+    .wp-block-buttons .wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color):hover,
+    .wp-block-buttons .wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color):hover,
+    .wp-block-uagb-buttons-child .uagb-buttons-repeater.ast-outline-button:focus,
+    .wp-block-uagb-buttons-child .uagb-buttons-repeater.ast-outline-button:hover {
+      color: var(--ast-global-color-6);
+      background-color: var(--ast-global-color-7);
+      border-color: var(--ast-global-color-7)
+    }
+
+    .ast-outline-button,
+    .wp-block-button .wp-block-button__link.wp-element-button.is-style-outline:not(.has-background),
+    .wp-block-button.is-style-outline>.wp-block-button__link.wp-element-button:not(.has-background) {
+      background-color: var(--ast-global-color-7)
+    }
+
+    .entry-content[ast-blocks-layout]>figure {
+      margin-bottom: 1em
+    }
+
+    h1.widget-title {
+      font-weight: 600
+    }
+
+    h2.widget-title {
+      font-weight: 600
+    }
+
+    h3.widget-title {
+      font-weight: 600
+    }
+
+    #page {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh
+    }
+
+    .ast-404-layout-1 h1.page-title {
+      color: var(--ast-global-color-2)
+    }
+
+    .single .post-navigation a {
+      line-height: 1em;
+      height: inherit
+    }
+
+    .error-404 .page-sub-title {
+      font-size: 1.5rem;
+      font-weight: inherit
+    }
+
+    .search .site-content .content-area .search-form {
+      margin-bottom: 0
+    }
+
+    #page .site-content {
+      flex-grow: 1
+    }
+
+    .widget {
+      margin-bottom: 1.25em
+    }
+
+    #secondary li {
+      line-height: 1.5em
+    }
+
+    #secondary .wp-block-group h2 {
+      margin-bottom: .7em
+    }
+
+    #secondary h2 {
+      font-size: 1.7rem
+    }
+
+    .ast-separate-container .ast-article-post,
+    .ast-separate-container .ast-article-single,
+    .ast-separate-container .comment-respond {
+      padding: 3em
+    }
+
+    .ast-separate-container .ast-article-single .ast-article-single {
+      padding: 0
+    }
+
+    .ast-article-single .wp-block-post-template-is-layout-grid {
+      padding-left: 0
+    }
+
+    .ast-narrow-container .comments-title,
+    .ast-separate-container .comments-title {
+      padding: 1.5em 2em
+    }
+
+    .ast-comment-formwrap .ast-grid-common-col,
+    .ast-page-builder-template .comment-form-textarea {
+      padding: 0
+    }
+
+    .ast-comment-formwrap {
+      padding: 0;
+      display: inline-flex;
+      column-gap: 20px;
+      width: 100%;
+      margin-left: 0;
+      margin-right: 0
+    }
+
+    .comments-area .ast-comment-formwrap input[type=text]:active,
+    .comments-area .ast-comment-formwrap input[type=text]:focus,
+    .comments-area textarea#comment:active,
+    .comments-area textarea#comment:focus {
+      box-shadow: none;
+      outline: 0
+    }
+
+    .archive.ast-page-builder-template .entry-header {
+      margin-top: 2em
+    }
+
+    .ast-page-builder-template .ast-comment-formwrap {
+      width: 100%
+    }
+
+    .entry-title {
+      margin-bottom: .5em
+    }
+
+    .ast-archive-description p {
+      font-size: inherit;
+      font-weight: inherit;
+      line-height: inherit
+    }
+
+    .ast-separate-container .ast-comment-list li.depth-1,
+    .hentry {
+      margin-bottom: 2em
+    }
+
+    @media (min-width:921px) {
+
+      .archive.ast-right-sidebar.ast-page-builder-template .site-main,
+      .ast-left-sidebar.ast-page-builder-template #secondary {
+        padding-left: 20px;
+        padding-right: 20px
+      }
+    }
+
+    @media (max-width:544px) {
+      .ast-comment-formwrap.ast-row {
+        column-gap: 10px;
+        display: inline-block
+      }
+
+      #ast-commentform .ast-grid-common-col {
+        position: relative;
+        width: 100%
+      }
+    }
+
+    @media (min-width:1201px) {
+
+      .ast-separate-container .ast-404-layout-1,
+      .ast-separate-container .ast-article-post,
+      .ast-separate-container .ast-article-single,
+      .ast-separate-container .ast-author-box,
+      .ast-separate-container .no-results {
+        padding: 3em
+      }
+    }
+
+    @media (max-width:921px) {
+
+      .ast-separate-container #primary,
+      .ast-separate-container #secondary {
+        padding: 1.5em 0
+      }
+
+      #primary,
+      #secondary {
+        padding: 1.5em 0;
+        margin: 0
+      }
+
+      .ast-left-sidebar #content>.ast-container {
+        display: flex;
+        flex-direction: column-reverse;
+        width: 100%
+      }
+    }
+
+    @media (min-width:922px) {
+
+      .ast-separate-container.ast-left-sidebar #primary,
+      .ast-separate-container.ast-right-sidebar #primary {
+        border: 0
+      }
+
+      .search-no-results.ast-separate-container #primary {
+        margin-bottom: 4em
+      }
+    }
+
+    .elementor-button-wrapper .elementor-button {
+      border-style: solid;
+      text-decoration: none;
+      border-top-width: 1px;
+      border-right-width: 1px;
+      border-left-width: 1px;
+      border-bottom-width: 1px
+    }
+
+    body .elementor-button,
+    body .elementor-button.elementor-size-lg,
+    body .elementor-button.elementor-size-md,
+    body .elementor-button.elementor-size-sm,
+    body .elementor-button.elementor-size-xl,
+    body .elementor-button.elementor-size-xs {
+      border-top-left-radius: 5px;
+      border-top-right-radius: 5px;
+      border-bottom-right-radius: 5px;
+      border-bottom-left-radius: 5px;
+      padding-top: 10px;
+      padding-right: 20px;
+      padding-bottom: 10px;
+      padding-left: 20px
+    }
+
+    .elementor-button-wrapper .elementor-button {
+      border-color: var(--ast-global-color-7);
+      background-color: transparent
+    }
+
+    .elementor-button-wrapper .elementor-button:focus,
+    .elementor-button-wrapper .elementor-button:hover {
+      color: var(--ast-global-color-6);
+      background-color: var(--ast-global-color-7);
+      border-color: var(--ast-global-color-7)
+    }
+
+    .elementor-button-wrapper .elementor-button,
+    .elementor-button-wrapper .elementor-button:visited,
+    .wp-block-button .wp-block-button__link {
+      color: var(--ast-global-color-8)
+    }
+
+    .wp-block-button .wp-block-button__link:focus,
+    .wp-block-button .wp-block-button__link:hover {
+      color: var(--ast-global-color-6);
+      background-color: var(--ast-global-color-7);
+      border-color: var(--ast-global-color-7)
+    }
+
+    .wp-block-button .wp-block-button__link,
+    .wp-block-search .wp-block-search__button,
+    body .wp-block-file .wp-block-file__button {
+      border-style: solid;
+      border-top-width: 1px;
+      border-right-width: 1px;
+      border-left-width: 1px;
+      border-bottom-width: 1px;
+      border-color: var(--ast-global-color-7);
+      background-color: transparent;
+      color: var(--ast-global-color-8);
+      font-family: inherit;
+      font-weight: 600;
+      line-height: 1em;
+      font-size: 20px;
+      font-size: 1.25rem;
+      border-top-left-radius: 5px;
+      border-top-right-radius: 5px;
+      border-bottom-right-radius: 5px;
+      border-bottom-left-radius: 5px;
+      padding-top: 10px;
+      padding-right: 20px;
+      padding-bottom: 10px;
+      padding-left: 20px
+    }
+
+    .ast-button,
+    .ast-custom-button,
+    .button,
+    .menu-toggle,
+    .search .search-submit,
+    .wc-block-grid__product-onsale,
+    .wc-block-grid__products .wc-block-grid__product .wp-block-button__link,
+    .woocommerce #respond input#submit,
+    .woocommerce #respond input#submit.alt,
+    .woocommerce .woocommerce-message a.button,
+    .woocommerce button.button,
+    .woocommerce button.button.alt.disabled,
+    .woocommerce button.button.alt.disabled.wc-variation-selection-needed,
+    .woocommerce input.button,
+    .woocommerce input.button.alt,
+    .woocommerce input.button:disabled,
+    .woocommerce input.button:disabled:hover,
+    .woocommerce input.button:disabled[disabled],
+    .woocommerce input.button:disabled[disabled]:hover,
+    .woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons .button:not(.checkout):not(.ast-continue-shopping),
+    .woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons a.checkout,
+    .woocommerce-js a.button,
+    [CLASS*=wc-block] .wc-block-components-button,
+    [CLASS*=wc-block] button,
+    body .wp-block-file .wp-block-file__button,
+    button,
+    form[CLASS*=wp-block-search__].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button,
+    input#submit,
+    input[type=button],
+    input[type=reset],
+    input[type=submit] {
+      border-style: solid;
+      border-top-width: 1px;
+      border-right-width: 1px;
+      border-left-width: 1px;
+      border-bottom-width: 1px;
+      color: var(--ast-global-color-8);
+      border-color: var(--ast-global-color-7);
+      background-color: transparent;
+      padding-top: 10px;
+      padding-right: 20px;
+      padding-bottom: 10px;
+      padding-left: 20px;
+      font-family: inherit;
+      font-weight: 600;
+      font-size: 20px;
+      font-size: 1.25rem;
+      line-height: 1em;
+      border-top-left-radius: 5px;
+      border-top-right-radius: 5px;
+      border-bottom-right-radius: 5px;
+      border-bottom-left-radius: 5px
+    }
+
+    .ast-button:hover,
+    .ast-custom-button:hover,
+    .ast-custom-button:hover .button:hover,
+    .menu-toggle:hover,
+    .wc-block-grid__products .wc-block-grid__product .wp-block-button__link:hover,
+    .woocommerce #respond input#submit.alt:hover,
+    .woocommerce #respond input#submit:hover,
+    .woocommerce .woocommerce-message a.button:hover,
+    .woocommerce button.button.alt.disabled.wc-variation-selection-needed:hover,
+    .woocommerce button.button.alt.disabled:hover,
+    .woocommerce button.button:hover,
+    .woocommerce input.button.alt:hover,
+    .woocommerce input.button:hover,
+    .woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons .button:not(.checkout):not(.ast-continue-shopping):hover,
+    .woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons a.checkout:hover,
+    .woocommerce-js a.button:hover,
+    [CLASS*=wc-block] .wc-block-components-button:focus,
+    [CLASS*=wc-block] .wc-block-components-button:hover,
+    [CLASS*=wc-block] button:hover,
+    body .wp-block-file .wp-block-file__button:focus,
+    body .wp-block-file .wp-block-file__button:hover,
+    button:focus,
+    button:hover,
+    form[CLASS*=wp-block-search__].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button:focus,
+    form[CLASS*=wp-block-search__].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button:hover,
+    input#submit:focus,
+    input#submit:hover,
+    input[type=button]:focus,
+    input[type=button]:hover,
+    input[type=reset]:focus,
+    input[type=reset]:hover,
+    input[type=submit]:focus,
+    input[type=submit]:hover {
+      color: var(--ast-global-color-6);
+      background-color: var(--ast-global-color-7);
+      border-color: var(--ast-global-color-7)
+    }
+
+    form[CLASS*=wp-block-search__].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button.has-icon {
+      padding-top: calc(10px - 3px);
+      padding-right: calc(20px - 3px);
+      padding-bottom: calc(10px - 3px);
+      padding-left: calc(20px - 3px)
+    }
+
+    @media (max-width:921px) {
+      .ast-mobile-header-stack .main-header-bar .ast-search-menu-icon {
+        display: inline-block
+      }
+
+      .ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon {
+        margin: 0
+      }
+
+      .ast-comment-avatar-wrap img {
+        max-width: 2.5em
+      }
+
+      .ast-comment-meta {
+        padding: 0 1.8888em 1.3333em
+      }
+
+      .ast-separate-container .ast-comment-list li.depth-1 {
+        padding: 1.5em 2.14em
+      }
+
+      .ast-separate-container .comment-respond {
+        padding: 2em 2.14em
+      }
+    }
+
+    @media (min-width:544px) {
+      .ast-container {
+        max-width: 100%
+      }
+    }
+
+    @media (max-width:544px) {
+
+      .ast-separate-container .ast-archive-description,
+      .ast-separate-container .ast-article-post,
+      .ast-separate-container .ast-article-single,
+      .ast-separate-container .comments-title {
+        padding: 1.5em 1em
+      }
+
+      .ast-separate-container #content .ast-container {
+        padding-left: .54em;
+        padding-right: .54em
+      }
+
+      .ast-separate-container .ast-comment-list .bypostauthor {
+        padding: .5em
+      }
+
+      .ast-search-menu-icon.ast-dropdown-active .search-field {
+        width: 170px
+      }
+    }
+
+    @media (min-width:545px) {
+
+      .ast-page-builder-template .comments-area,
+      .single.ast-page-builder-template .ast-single-related-posts-container,
+      .single.ast-page-builder-template .entry-header,
+      .single.ast-page-builder-template .post-navigation {
+        max-width: 1240px;
+        margin-left: auto;
+        margin-right: auto
+      }
+    }
+
+    .ast-separate-container {
+      background-image: linear-gradient(90deg, #34603e 0, #b5a65b 100%)
+    }
+
+    @media (max-width:921px) {
+      .widget-title {
+        font-size: 22px;
+        font-size: 1.375rem
+      }
+
+      .ast-button,
+      .ast-custom-button,
+      body,
+      button,
+      input,
+      select,
+      textarea {
+        font-size: 16px;
+        font-size: 1rem
+      }
+
+      #secondary,
+      #secondary button,
+      #secondary input,
+      #secondary select,
+      #secondary textarea {
+        font-size: 16px;
+        font-size: 1rem
+      }
+
+      .site-title {
+        display: none
+      }
+
+      .site-header .site-description {
+        display: none
+      }
+
+      .entry-content h1,
+      h1 {
+        font-size: 45px
+      }
+
+      .entry-content h2,
+      h2 {
+        font-size: 32px
+      }
+
+      .entry-content h3,
+      h3 {
+        font-size: 26px
+      }
+
+      .entry-content h4,
+      h4 {
+        font-size: 22px;
+        font-size: 1.375rem
+      }
+
+      .entry-content h5,
+      h5 {
+        font-size: 18px;
+        font-size: 1.125rem
+      }
+
+      .entry-content h6,
+      h6 {
+        font-size: 15px;
+        font-size: .9375rem
+      }
+    }
+
+    @media (max-width:544px) {
+      .widget-title {
+        font-size: 22px;
+        font-size: 1.375rem
+      }
+
+      .ast-button,
+      .ast-custom-button,
+      body,
+      button,
+      input,
+      select,
+      textarea {
+        font-size: 16px;
+        font-size: 1rem
+      }
+
+      #secondary,
+      #secondary button,
+      #secondary input,
+      #secondary select,
+      #secondary textarea {
+        font-size: 16px;
+        font-size: 1rem
+      }
+
+      .site-title {
+        display: none
+      }
+
+      .site-header .site-description {
+        display: none
+      }
+
+      .entry-content h1,
+      h1 {
+        font-size: 32px
+      }
+
+      .entry-content h2,
+      h2 {
+        font-size: 28px
+      }
+
+      .entry-content h3,
+      h3 {
+        font-size: 22px
+      }
+
+      .entry-content h4,
+      h4 {
+        font-size: 20px;
+        font-size: 1.25rem
+      }
+
+      .entry-content h5,
+      h5 {
+        font-size: 20px;
+        font-size: 1.25rem
+      }
+
+      .entry-content h6,
+      h6 {
+        font-size: 15px;
+        font-size: .9375rem
+      }
+
+      .ast-header-break-point .custom-logo-link img,
+      .ast-header-break-point .site-branding img,
+      header .custom-logo-link img {
+        max-width: 70px
+      }
+
+      .astra-logo-svg {
+        width: 70px
+      }
+
+      .ast-header-break-point .site-logo-img .custom-mobile-logo-link img {
+        max-width: 70px
+      }
+    }
+
+    @media (max-width:544px) {
+      html {
+        font-size: 100%
+      }
+    }
+
+    @media (min-width:922px) {
+      .ast-container {
+        max-width: 1240px
+      }
+    }
+
+    @media (min-width:922px) {
+      .site-content .ast-container {
+        display: flex
+      }
+    }
+
+    @media (max-width:921px) {
+      .site-content .ast-container {
+        flex-direction: column
+      }
+    }
+
+    @media (min-width:922px) {
+
+      .main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu.focus>.sub-menu,
+      .main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu:hover>.sub-menu {
+        margin-left: 0
+      }
+    }
+
+    .site .comments-area {
+      padding-bottom: 3em
+    }
+
+    .wp-block-file {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      justify-content: space-between
+    }
+
+    .wp-block-pullquote {
+      border: none
+    }
+
+    .wp-block-pullquote blockquote::before {
+      content: "\201D";
+      font-family: Helvetica, sans-serif;
+      display: flex;
+      transform: rotate(180deg);
+      font-size: 6rem;
+      font-style: normal;
+      line-height: 1;
+      font-weight: 700;
+      align-items: center;
+      justify-content: center
+    }
+
+    .has-text-align-right>blockquote::before {
+      justify-content: flex-start
+    }
+
+    .has-text-align-left>blockquote::before {
+      justify-content: flex-end
+    }
+
+    figure.wp-block-pullquote.is-style-solid-color blockquote {
+      max-width: 100%;
+      text-align: inherit
+    }
+
+    html body {
+      --wp--custom--ast-default-block-top-padding: 100px;
+      --wp--custom--ast-default-block-right-padding: 80px;
+      --wp--custom--ast-default-block-bottom-padding: 100px;
+      --wp--custom--ast-default-block-left-padding: 80px;
+      --wp--custom--ast-container-width: 1200px;
+      --wp--custom--ast-content-width-size: 1200px;
+      --wp--custom--ast-wide-width-size: calc(1200px + var(--wp--custom--ast-default-block-left-padding) + var(--wp--custom--ast-default-block-right-padding))
+    }
+
+    .ast-narrow-container {
+      --wp--custom--ast-content-width-size: 888px;
+      --wp--custom--ast-wide-width-size: 888px
+    }
+
+    @media (max-width:921px) {
+      html body {
+        --wp--custom--ast-default-block-top-padding: 50px;
+        --wp--custom--ast-default-block-right-padding: 50px;
+        --wp--custom--ast-default-block-bottom-padding: 50px;
+        --wp--custom--ast-default-block-left-padding: 50px
+      }
+    }
+
+    @media (max-width:544px) {
+      html body {
+        --wp--custom--ast-default-block-top-padding: 50px;
+        --wp--custom--ast-default-block-right-padding: 30px;
+        --wp--custom--ast-default-block-bottom-padding: 50px;
+        --wp--custom--ast-default-block-left-padding: 30px
+      }
+    }
+
+    .entry-content>.wp-block-columns,
+    .entry-content>.wp-block-cover,
+    .entry-content>.wp-block-group {
+      padding-top: var(--wp--custom--ast-default-block-top-padding);
+      padding-right: var(--wp--custom--ast-default-block-right-padding);
+      padding-bottom: var(--wp--custom--ast-default-block-bottom-padding);
+      padding-left: var(--wp--custom--ast-default-block-left-padding)
+    }
+
+    .ast-page-builder-template .ast-no-sidebar .entry-content>.alignfull,
+    .ast-plain-container.ast-no-sidebar .entry-content>.alignfull {
+      margin-left: calc(-50vw + 50%);
+      margin-right: calc(-50vw + 50%);
+      max-width: 100vw;
+      width: 100vw
+    }
+
+    .ast-page-builder-template.ast-no-sidebar .entry-content .alignfull .alignfull,
+    .ast-page-builder-template.ast-no-sidebar .entry-content .alignfull .alignwide,
+    .ast-page-builder-template.ast-no-sidebar .entry-content .alignwide .alignfull,
+    .ast-page-builder-template.ast-no-sidebar .entry-content .alignwide .alignwide,
+    .ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-column .alignfull,
+    .ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-column .alignwide,
+    .ast-plain-container.ast-no-sidebar .entry-content .alignfull .alignfull,
+    .ast-plain-container.ast-no-sidebar .entry-content .alignfull .alignwide,
+    .ast-plain-container.ast-no-sidebar .entry-content .alignwide .alignfull,
+    .ast-plain-container.ast-no-sidebar .entry-content .alignwide .alignwide,
+    .ast-plain-container.ast-no-sidebar .entry-content .wp-block-column .alignfull,
+    .ast-plain-container.ast-no-sidebar .entry-content .wp-block-column .alignwide {
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%
+    }
+
+    [ast-blocks-layout] .wp-block-separator:not(.is-style-dots) {
+      height: 0
+    }
+
+    [ast-blocks-layout] .wp-block-separator {
+      margin: 20px auto
+    }
+
+    [ast-blocks-layout] .wp-block-separator:not(.is-style-wide):not(.is-style-dots) {
+      max-width: 100px
+    }
+
+    [ast-blocks-layout] .wp-block-separator.has-background {
+      padding: 0
+    }
+
+    .entry-content[ast-blocks-layout]>* {
+      max-width: var(--wp--custom--ast-content-width-size);
+      margin-left: auto;
+      margin-right: auto
+    }
+
+    .entry-content[ast-blocks-layout]>.alignwide {
+      max-width: var(--wp--custom--ast-wide-width-size)
+    }
+
+    .entry-content[ast-blocks-layout] .alignfull {
+      max-width: none
+    }
+
+    .entry-content .wp-block-columns {
+      margin-bottom: 0
+    }
+
+    blockquote {
+      margin: 1.5em;
+      border-color: rgba(0, 0, 0, .05)
+    }
+
+    .wp-block-quote:not(.has-text-align-right):not(.has-text-align-center) {
+      border-left: 5px solid rgba(0, 0, 0, .05)
+    }
+
+    .has-text-align-right>blockquote,
+    blockquote.has-text-align-right {
+      border-right: 5px solid rgba(0, 0, 0, .05)
+    }
+
+    .has-text-align-left>blockquote,
+    blockquote.has-text-align-left {
+      border-left: 5px solid rgba(0, 0, 0, .05)
+    }
+
+    .wp-block-latest-posts .read-more,
+    .wp-block-site-tagline {
+      margin-top: 15px
+    }
+
+    .wp-block-loginout p label {
+      display: block
+    }
+
+    .wp-block-loginout p:not(.login-remember):not(.login-submit) input {
+      width: 100%
+    }
+
+    .wp-block-loginout input:focus {
+      border-color: transparent
+    }
+
+    .wp-block-loginout input:focus {
+      outline: thin dotted
+    }
+
+    .entry-content .wp-block-media-text .wp-block-media-text__content {
+      padding: 0 0 0 8%
+    }
+
+    .entry-content .wp-block-media-text.has-media-on-the-right .wp-block-media-text__content {
+      padding: 0 8% 0 0
+    }
+
+    .entry-content .wp-block-media-text.has-background .wp-block-media-text__content {
+      padding: 8%
+    }
+
+    .entry-content .wp-block-cover-image:not([class*=background-color]) .wp-block-cover-image-text,
+    .entry-content .wp-block-cover-image:not([class*=background-color]) .wp-block-cover-text,
+    .entry-content .wp-block-cover-image:not([class*=background-color]) .wp-block-cover__inner-container,
+    .entry-content .wp-block-cover:not([class*=background-color]) .wp-block-cover-image-text,
+    .entry-content .wp-block-cover:not([class*=background-color]) .wp-block-cover-text,
+    .entry-content .wp-block-cover:not([class*=background-color]) .wp-block-cover__inner-container {
+      color: var(--ast-global-color-5)
+    }
+
+    .wp-block-loginout .login-remember input {
+      width: 1.1rem;
+      height: 1.1rem;
+      margin: 0 5px 4px 0;
+      vertical-align: middle
+    }
+
+    .wp-block-latest-posts:not(.is-grid)>li:first-child,
+    .wp-block-latest-posts>li>:first-child {
+      margin-top: 0
+    }
+
+    .wp-block-search__inside-wrapper .wp-block-search__input {
+      padding: 0 10px;
+      color: var(--ast-global-color-3);
+      background: var(--ast-global-color-5);
+      border-color: var(--ast-border-color)
+    }
+
+    .wp-block-latest-posts .read-more {
+      margin-bottom: 1.5em
+    }
+
+    .wp-block-search__no-button .wp-block-search__inside-wrapper .wp-block-search__input {
+      padding-top: 5px;
+      padding-bottom: 5px
+    }
+
+    .wp-block-latest-posts .wp-block-latest-posts__post-author,
+    .wp-block-latest-posts .wp-block-latest-posts__post-date {
+      font-size: 1rem
+    }
+
+    .wp-block-latest-posts:not(.is-grid)>li,
+    .wp-block-latest-posts>li>* {
+      margin-top: 12px;
+      margin-bottom: 12px
+    }
+
+    .ast-page-builder-template .entry-content[ast-blocks-layout]>*,
+    .ast-page-builder-template .entry-content[ast-blocks-layout]>.alignfull>* {
+      max-width: none
+    }
+
+    .ast-page-builder-template .entry-content[ast-blocks-layout]>.alignwide>* {
+      max-width: var(--wp--custom--ast-wide-width-size)
+    }
+
+    .ast-page-builder-template .entry-content[ast-blocks-layout]>*>*,
+    .ast-page-builder-template .entry-content[ast-blocks-layout]>.inherit-container-width>*,
+    .entry-content[ast-blocks-layout]>.wp-block-cover .wp-block-cover__inner-container {
+      max-width: var(--wp--custom--ast-content-width-size);
+      margin-left: auto;
+      margin-right: auto
+    }
+
+    .entry-content[ast-blocks-layout] .wp-block-cover:not(.alignleft):not(.alignright) {
+      width: auto
+    }
+
+    @media (max-width:1200px) {
+
+      .ast-plain-container .entry-content .alignfull,
+      .ast-plain-container .entry-content[ast-blocks-layout]>.alignwide,
+      .ast-separate-container .entry-content>.alignfull,
+      .ast-separate-container .entry-content[ast-blocks-layout]>.alignwide {
+        margin-left: calc(-1 * min(var(--ast-container-default-xlg-padding), 20px));
+        margin-right: calc(-1 * min(var(--ast-container-default-xlg-padding), 20px))
+      }
+    }
+
+    @media (min-width:1201px) {
+      .ast-separate-container .entry-content>.alignfull {
+        margin-left: calc(-1 * var(--ast-container-default-xlg-padding));
+        margin-right: calc(-1 * var(--ast-container-default-xlg-padding))
+      }
+
+      .ast-plain-container .entry-content[ast-blocks-layout]>.alignwide,
+      .ast-separate-container .entry-content[ast-blocks-layout]>.alignwide {
+        margin-left: calc(-1 * var(--wp--custom--ast-default-block-left-padding));
+        margin-right: calc(-1 * var(--wp--custom--ast-default-block-right-padding))
+      }
+    }
+
+    @media (min-width:921px) {
+
+      .ast-plain-container .entry-content .wp-block-group.alignwide:not(.inherit-container-width)>:where(:not(.alignleft):not(.alignright)),
+      .ast-separate-container .entry-content .wp-block-group.alignwide:not(.inherit-container-width)>:where(:not(.alignleft):not(.alignright)) {
+        max-width: calc(var(--wp--custom--ast-content-width-size) + 80px)
+      }
+
+      .ast-plain-container.ast-left-sidebar .entry-content[ast-blocks-layout] .alignfull,
+      .ast-plain-container.ast-right-sidebar .entry-content[ast-blocks-layout] .alignfull {
+        margin-left: -60px;
+        margin-right: -60px
+      }
+    }
+
+    @media (min-width:544px) {
+      .entry-content>.alignleft {
+        margin-right: 20px
+      }
+
+      .entry-content>.alignright {
+        margin-left: 20px
+      }
+    }
+
+    @media (max-width:544px) {
+      .wp-block-columns .wp-block-column:not(:last-child) {
+        margin-bottom: 20px
+      }
+
+      .wp-block-latest-posts {
+        margin: 0
+      }
+    }
+
+    @media (max-width:600px) {
+
+      .entry-content .wp-block-media-text .wp-block-media-text__content,
+      .entry-content .wp-block-media-text.has-media-on-the-right .wp-block-media-text__content {
+        padding: 8% 0 0
+      }
+
+      .entry-content .wp-block-media-text.has-background .wp-block-media-text__content {
+        padding: 8%
+      }
+    }
+
+    .ast-narrow-container .site-content .wp-block-uagb-image--align-full .wp-block-uagb-image__figure {
+      max-width: 100%;
+      margin-left: auto;
+      margin-right: auto
+    }
+
+    .entry-content ol,
+    .entry-content ul {
+      padding: revert;
+      margin: revert
+    }
+
+    :root .has-ast-global-color-0-color {
+      color: var(--ast-global-color-0)
+    }
+
+    :root .has-ast-global-color-0-background-color {
+      background-color: var(--ast-global-color-0)
+    }
+
+    :root .wp-block-button .has-ast-global-color-0-color {
+      color: var(--ast-global-color-0)
+    }
+
+    :root .wp-block-button .has-ast-global-color-0-background-color {
+      background-color: var(--ast-global-color-0)
+    }
+
+    :root .has-ast-global-color-1-color {
+      color: var(--ast-global-color-1)
+    }
+
+    :root .has-ast-global-color-1-background-color {
+      background-color: var(--ast-global-color-1)
+    }
+
+    :root .wp-block-button .has-ast-global-color-1-color {
+      color: var(--ast-global-color-1)
+    }
+
+    :root .wp-block-button .has-ast-global-color-1-background-color {
+      background-color: var(--ast-global-color-1)
+    }
+
+    :root .has-ast-global-color-2-color {
+      color: var(--ast-global-color-2)
+    }
+
+    :root .has-ast-global-color-2-background-color {
+      background-color: var(--ast-global-color-2)
+    }
+
+    :root .wp-block-button .has-ast-global-color-2-color {
+      color: var(--ast-global-color-2)
+    }
+
+    :root .wp-block-button .has-ast-global-color-2-background-color {
+      background-color: var(--ast-global-color-2)
+    }
+
+    :root .has-ast-global-color-3-color {
+      color: var(--ast-global-color-3)
+    }
+
+    :root .has-ast-global-color-3-background-color {
+      background-color: var(--ast-global-color-3)
+    }
+
+    :root .wp-block-button .has-ast-global-color-3-color {
+      color: var(--ast-global-color-3)
+    }
+
+    :root .wp-block-button .has-ast-global-color-3-background-color {
+      background-color: var(--ast-global-color-3)
+    }
+
+    :root .has-ast-global-color-4-color {
+      color: var(--ast-global-color-4)
+    }
+
+    :root .has-ast-global-color-4-background-color {
+      background-color: var(--ast-global-color-4)
+    }
+
+    :root .wp-block-button .has-ast-global-color-4-color {
+      color: var(--ast-global-color-4)
+    }
+
+    :root .wp-block-button .has-ast-global-color-4-background-color {
+      background-color: var(--ast-global-color-4)
+    }
+
+    :root .has-ast-global-color-5-color {
+      color: var(--ast-global-color-5)
+    }
+
+    :root .has-ast-global-color-5-background-color {
+      background-color: var(--ast-global-color-5)
+    }
+
+    :root .wp-block-button .has-ast-global-color-5-color {
+      color: var(--ast-global-color-5)
+    }
+
+    :root .wp-block-button .has-ast-global-color-5-background-color {
+      background-color: var(--ast-global-color-5)
+    }
+
+    :root .has-ast-global-color-6-color {
+      color: var(--ast-global-color-6)
+    }
+
+    :root .has-ast-global-color-6-background-color {
+      background-color: var(--ast-global-color-6)
+    }
+
+    :root .wp-block-button .has-ast-global-color-6-color {
+      color: var(--ast-global-color-6)
+    }
+
+    :root .wp-block-button .has-ast-global-color-6-background-color {
+      background-color: var(--ast-global-color-6)
+    }
+
+    :root .has-ast-global-color-7-color {
+      color: var(--ast-global-color-7)
+    }
+
+    :root .has-ast-global-color-7-background-color {
+      background-color: var(--ast-global-color-7)
+    }
+
+    :root .wp-block-button .has-ast-global-color-7-color {
+      color: var(--ast-global-color-7)
+    }
+
+    :root .wp-block-button .has-ast-global-color-7-background-color {
+      background-color: var(--ast-global-color-7)
+    }
+
+    :root .has-ast-global-color-8-color {
+      color: var(--ast-global-color-8)
+    }
+
+    :root .has-ast-global-color-8-background-color {
+      background-color: var(--ast-global-color-8)
+    }
+
+    :root .wp-block-button .has-ast-global-color-8-color {
+      color: var(--ast-global-color-8)
+    }
+
+    :root .wp-block-button .has-ast-global-color-8-background-color {
+      background-color: var(--ast-global-color-8)
+    }
+
+    :root {
+      --ast-global-color-0: #ffffff;
+      --ast-global-color-1: #ffffff;
+      --ast-global-color-2: #ffffff;
+      --ast-global-color-3: #fefefe;
+      --ast-global-color-4: #f9f6fe;
+      --ast-global-color-5: #ffffff;
+      --ast-global-color-6: #34603e;
+      --ast-global-color-7: #d5c88c;
+      --ast-global-color-8: #000000
+    }
+
+    :root {
+      --ast-border-color: var(--ast-global-color-7)
+    }
+
+    .ast-breadcrumbs .trail-browse,
+    .ast-breadcrumbs .trail-items,
+    .ast-breadcrumbs .trail-items li {
+      display: inline-block;
+      margin: 0;
+      padding: 0;
+      border: none;
+      background: inherit;
+      text-indent: 0;
+      text-decoration: none
+    }
+
+    .ast-breadcrumbs .trail-browse {
+      font-size: inherit;
+      font-style: inherit;
+      font-weight: inherit;
+      color: inherit
+    }
+
+    .ast-breadcrumbs .trail-items {
+      list-style: none
+    }
+
+    .trail-items li::after {
+      padding: 0 .3em;
+      content: "\00bb"
+    }
+
+    .trail-items li:last-of-type::after {
+      display: none
+    }
+
+    .entry-content h1,
+    .entry-content h2,
+    .entry-content h3,
+    .entry-content h4,
+    .entry-content h5,
+    .entry-content h6,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: var(--ast-global-color-8)
+    }
+
+    .entry-title a {
+      color: var(--ast-global-color-8)
+    }
+
+    @media (max-width:921px) {
+
+      .ast-builder-grid-row-container.ast-builder-grid-row-tablet-3-firstrow .ast-builder-grid-row>:first-child,
+      .ast-builder-grid-row-container.ast-builder-grid-row-tablet-3-lastrow .ast-builder-grid-row>:last-child {
+        grid-column: 1/-1
+      }
+    }
+
+    @media (max-width:544px) {
+
+      .ast-builder-grid-row-container.ast-builder-grid-row-mobile-3-firstrow .ast-builder-grid-row>:first-child,
+      .ast-builder-grid-row-container.ast-builder-grid-row-mobile-3-lastrow .ast-builder-grid-row>:last-child {
+        grid-column: 1/-1
+      }
+    }
+
+    .ast-builder-layout-element[data-section=title_tagline] {
+      display: flex
+    }
+
+    @media (max-width:921px) {
+      .ast-header-break-point .ast-builder-layout-element[data-section=title_tagline] {
+        display: flex
+      }
+    }
+
+    @media (max-width:544px) {
+      .ast-header-break-point .ast-builder-layout-element[data-section=title_tagline] {
+        display: flex
+      }
+    }
+
+    .ast-builder-menu-1 {
+      font-family: inherit;
+      font-weight: inherit
+    }
+
+    .ast-builder-menu-1 .menu-item>.menu-link {
+      color: var(--ast-global-color-6)
+    }
+
+    .ast-builder-menu-1 .menu-item>.ast-menu-toggle {
+      color: var(--ast-global-color-6)
+    }
+
+    .ast-builder-menu-1 .inline-on-mobile .menu-item:hover>.ast-menu-toggle,
+    .ast-builder-menu-1 .menu-item:hover>.menu-link {
+      color: var(--ast-global-color-6)
+    }
+
+    .ast-builder-menu-1 .menu-item:hover>.ast-menu-toggle {
+      color: var(--ast-global-color-6)
+    }
+
+    .ast-builder-menu-1 .current-menu-ancestor>.menu-link,
+    .ast-builder-menu-1 .inline-on-mobile .menu-item.current-menu-item>.ast-menu-toggle,
+    .ast-builder-menu-1 .menu-item.current-menu-item>.menu-link {
+      color: var(--ast-global-color-8)
+    }
+
+    .ast-builder-menu-1 .menu-item.current-menu-item>.ast-menu-toggle {
+      color: var(--ast-global-color-8)
+    }
+
+    .ast-builder-menu-1 .inline-on-mobile .sub-menu,
+    .ast-builder-menu-1 .sub-menu {
+      border-top-width: 2px;
+      border-bottom-width: 0;
+      border-right-width: 0;
+      border-left-width: 0;
+      border-color: var(--ast-global-color-8);
+      border-style: solid
+    }
+
+    .ast-builder-menu-1 .main-header-menu>.menu-item>.astra-full-megamenu-wrapper,
+    .ast-builder-menu-1 .main-header-menu>.menu-item>.sub-menu {
+      margin-top: 0
+    }
+
+    .ast-desktop .ast-builder-menu-1 .main-header-menu>.menu-item>.astra-full-megamenu-wrapper:before,
+    .ast-desktop .ast-builder-menu-1 .main-header-menu>.menu-item>.sub-menu:before {
+      height: calc(0px + 5px)
+    }
+
+    .ast-desktop .ast-builder-menu-1 .menu-item .sub-menu .menu-link {
+      border-style: none
+    }
+
+    @media (max-width:921px) {
+      .ast-header-break-point .ast-builder-menu-1 .menu-item.menu-item-has-children>.ast-menu-toggle {
+        top: 0
+      }
+
+      .ast-builder-menu-1 .inline-on-mobile .menu-item.menu-item-has-children>.ast-menu-toggle {
+        right: -15px
+      }
+
+      .ast-builder-menu-1 .menu-item-has-children>.menu-link:after {
+        content: unset
+      }
+
+      .ast-builder-menu-1 .main-header-menu>.menu-item>.astra-full-megamenu-wrapper,
+      .ast-builder-menu-1 .main-header-menu>.menu-item>.sub-menu {
+        margin-top: 0
+      }
+    }
+
+    @media (max-width:544px) {
+      .ast-header-break-point .ast-builder-menu-1 .menu-item.menu-item-has-children>.ast-menu-toggle {
+        top: 0
+      }
+
+      .ast-builder-menu-1 .main-header-menu>.menu-item>.astra-full-megamenu-wrapper,
+      .ast-builder-menu-1 .main-header-menu>.menu-item>.sub-menu {
+        margin-top: 0
+      }
+    }
+
+    .ast-builder-menu-1 {
+      display: flex
+    }
+
+    @media (max-width:921px) {
+      .ast-header-break-point .ast-builder-menu-1 {
+        display: flex
+      }
+    }
+
+    @media (max-width:544px) {
+      .ast-header-break-point .ast-builder-menu-1 {
+        display: flex
+      }
+    }
+
+    .ast-builder-html-element img.alignnone {
+      display: inline-block
+    }
+
+    .ast-builder-html-element p:first-child {
+      margin-top: 0
+    }
+
+    .ast-builder-html-element p:last-child {
+      margin-bottom: 0
+    }
+
+    .ast-header-break-point .main-header-bar .ast-builder-html-element {
+      line-height: 1.85714285714286
+    }
+
+    .ast-header-html-1 .ast-builder-html-element {
+      font-size: 15px;
+      font-size: .9375rem
+    }
+
+    .ast-header-html-1 {
+      font-size: 15px;
+      font-size: .9375rem
+    }
+
+    .ast-header-html-1 {
+      display: flex
+    }
+
+    @media (max-width:921px) {
+      .ast-header-break-point .ast-header-html-1 {
+        display: flex
+      }
+    }
+
+    @media (max-width:544px) {
+      .ast-header-break-point .ast-header-html-1 {
+        display: flex
+      }
+    }
+
+    .ast-footer-copyright {
+      text-align: center
+    }
+
+    .ast-footer-copyright {
+      color: var(--ast-global-color-8)
+    }
+
+    @media (max-width:921px) {
+      .ast-footer-copyright {
+        text-align: center
+      }
+    }
+
+    @media (max-width:544px) {
+      .ast-footer-copyright {
+        text-align: center
+      }
+    }
+
+    .ast-footer-copyright.ast-builder-layout-element {
+      display: flex
+    }
+
+    @media (max-width:921px) {
+      .ast-header-break-point .ast-footer-copyright.ast-builder-layout-element {
+        display: flex
+      }
+    }
+
+    @media (max-width:544px) {
+      .ast-header-break-point .ast-footer-copyright.ast-builder-layout-element {
+        display: flex
+      }
+    }
+
+    .site-above-footer-wrap {
+      padding-top: 20px;
+      padding-bottom: 20px
+    }
+
+    .site-above-footer-wrap[data-section=section-above-footer-builder] {
+      background-color: #eee;
+      background-image: none;
+      min-height: 60px;
+      border-style: solid;
+      border-width: 0;
+      border-top-width: 1px;
+      border-top-color: var(--ast-global-color-6)
+    }
+
+    .site-above-footer-wrap[data-section=section-above-footer-builder] .ast-builder-grid-row {
+      max-width: 1200px;
+      min-height: 60px;
+      margin-left: auto;
+      margin-right: auto
+    }
+
+    .site-above-footer-wrap[data-section=section-above-footer-builder] .ast-builder-grid-row,
+    .site-above-footer-wrap[data-section=section-above-footer-builder] .site-footer-section {
+      align-items: center
+    }
+
+    .site-above-footer-wrap[data-section=section-above-footer-builder].ast-footer-row-inline .site-footer-section {
+      display: flex;
+      margin-bottom: 0
+    }
+
+    .ast-builder-grid-row-full .ast-builder-grid-row {
+      grid-template-columns: 1fr
+    }
+
+    @media (max-width:921px) {
+      .site-above-footer-wrap[data-section=section-above-footer-builder].ast-footer-row-tablet-inline .site-footer-section {
+        display: flex;
+        margin-bottom: 0
+      }
+
+      .site-above-footer-wrap[data-section=section-above-footer-builder].ast-footer-row-tablet-stack .site-footer-section {
+        display: block;
+        margin-bottom: 10px
+      }
+
+      .ast-builder-grid-row-container.ast-builder-grid-row-tablet-full .ast-builder-grid-row {
+        grid-template-columns: 1fr
+      }
+    }
+
+    @media (max-width:544px) {
+      .site-above-footer-wrap[data-section=section-above-footer-builder].ast-footer-row-mobile-inline .site-footer-section {
+        display: flex;
+        margin-bottom: 0
+      }
+
+      .site-above-footer-wrap[data-section=section-above-footer-builder].ast-footer-row-mobile-stack .site-footer-section {
+        display: block;
+        margin-bottom: 10px
+      }
+
+      .ast-builder-grid-row-container.ast-builder-grid-row-mobile-full .ast-builder-grid-row {
+        grid-template-columns: 1fr
+      }
+    }
+
+    .site-above-footer-wrap[data-section=section-above-footer-builder] {
+      padding-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      margin-top: 0;
+      margin-bottom: 0;
+      margin-left: 0;
+      margin-right: 0
+    }
+
+    .site-above-footer-wrap[data-section=section-above-footer-builder] {
+      display: grid
+    }
+
+    @media (max-width:921px) {
+      .ast-header-break-point .site-above-footer-wrap[data-section=section-above-footer-builder] {
+        display: grid
+      }
+    }
+
+    @media (max-width:544px) {
+      .ast-header-break-point .site-above-footer-wrap[data-section=section-above-footer-builder] {
+        display: grid
+      }
+    }
+
+    .footer-widget-area.widget-area.site-footer-focus-item {
+      width: auto
+    }
+
+    .elementor-widget-heading .elementor-heading-title {
+      margin: 0
+    }
+
+    .elementor-page .ast-menu-toggle {
+      color: unset !important;
+      background: unset !important
+    }
+
+    .elementor-post.elementor-grid-item.hentry {
+      margin-bottom: 0
+    }
+
+    .elementor-element .elementor-wc-products .woocommerce[class*=columns-] ul.products li.product,
+    .woocommerce div.product .elementor-element.elementor-products-grid .related.products ul.products li.product {
+      width: auto;
+      margin: 0;
+      float: none
+    }
+
+    .elementor-toc__list-wrapper {
+      margin: 0
+    }
+
+    body .elementor hr {
+      background-color: #ccc;
+      margin: 0
+    }
+
+    .ast-left-sidebar .elementor-section.elementor-section-stretched,
+    .ast-right-sidebar .elementor-section.elementor-section-stretched {
+      max-width: 100%;
+      left: 0 !important
+    }
+
+    .elementor-posts-container [CLASS*=ast-width-] {
+      width: 100%
+    }
+
+    .elementor-template-full-width .ast-container {
+      display: block
+    }
+
+    .elementor-screen-only,
+    .screen-reader-text,
+    .screen-reader-text span,
+    .ui-helper-hidden-accessible {
+      top: 0 !important
+    }
+
+    @media (max-width:544px) {
+      .elementor-element .elementor-wc-products .woocommerce[class*=columns-] ul.products li.product {
+        width: auto;
+        margin: 0
+      }
+
+      .elementor-element .woocommerce .woocommerce-result-count {
+        float: none
+      }
+    }
+
+    .ast-builder-menu-1 .inline-on-mobile .sub-menu,
+    .ast-desktop .ast-builder-menu-1 .astra-full-megamenu-wrapper,
+    .ast-desktop .ast-builder-menu-1 .menu-item .sub-menu,
+    .ast-desktop .ast-mega-menu-enabled .ast-builder-menu-1 div:not(.astra-full-megamenu-wrapper) .sub-menu {
+      box-shadow: 0 4px 10px -2px rgba(0, 0, 0, .1)
+    }
+
+    .ast-desktop .ast-mobile-popup-drawer.active .ast-mobile-popup-inner {
+      max-width: 35%
+    }
+
+    @media (max-width:921px) {
+      .ast-mobile-popup-drawer.active .ast-mobile-popup-inner {
+        max-width: 90%
+      }
+    }
+
+    @media (max-width:544px) {
+      .ast-mobile-popup-drawer.active .ast-mobile-popup-inner {
+        max-width: 90%
+      }
+    }
+
+    .ast-header-break-point .main-header-bar {
+      border-bottom-width: 1px
+    }
+
+    @media (min-width:922px) {
+      .main-header-bar {
+        border-bottom-width: 1px
+      }
+    }
+
+    #astra-footer-menu .menu-item,
+    .main-header-bar .ast-masthead-custom-menu-items,
+    .main-header-menu .menu-item {
+      -js-display: flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      -moz-box-pack: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -moz-box-orient: vertical;
+      -moz-box-direction: normal;
+      -ms-flex-direction: column;
+      flex-direction: column
+    }
+
+    #astra-footer-menu>.menu-item>.menu-link,
+    .main-header-menu>.menu-item>.menu-link {
+      height: 100%;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -moz-box-align: center;
+      -ms-flex-align: center;
+      align-items: center;
+      -js-display: flex;
+      display: flex
+    }
+
+    .ast-header-break-point .main-navigation ul .menu-item .menu-link .icon-arrow:first-of-type svg {
+      top: .2em;
+      margin-top: 0;
+      margin-left: 0;
+      width: .65em;
+      transform: translate(0, -2px) rotateZ(270deg)
+    }
+
+    .ast-mobile-popup-content .ast-submenu-expanded>.ast-menu-toggle {
+      transform: rotateX(180deg);
+      overflow-y: auto
+    }
+
+    @media (min-width:922px) {
+      .ast-builder-menu .main-navigation>ul>li:last-child a {
+        margin-right: 0
+      }
+    }
+
+    .ast-separate-container .ast-article-inner {
+      background-color: var(--ast-global-color-0);
+      background-image: none
+    }
+
+    @media (max-width:921px) {
+      .ast-separate-container .ast-article-inner {
+        background-color: var(--ast-global-color-5);
+        background-image: none
+      }
+    }
+
+    @media (max-width:544px) {
+      .ast-separate-container .ast-article-inner {
+        background-color: var(--ast-global-color-5);
+        background-image: none
+      }
+    }
+
+    .ast-box-layout.ast-plain-container .site-content,
+    .ast-padded-layout.ast-plain-container .site-content,
+    .ast-separate-container .ast-archive-description,
+    .ast-separate-container .ast-article-single:not(.ast-related-post),
+    .ast-separate-container .comments-area .ast-comment-list li,
+    .ast-separate-container .comments-area .comment-respond,
+    .ast-separate-container .comments-area .comments-title,
+    .ast-separate-container .comments-count-wrapper,
+    .ast-separate-container .error-404,
+    .ast-separate-container .no-results,
+    .ast-separate-container .related-posts-title-wrapper,
+    .single.ast-separate-container .site-main .ast-author-meta,
+    .woocommerce.ast-separate-container .ast-woocommerce-container {
+      background-color: var(--ast-global-color-0);
+      background-image: none
+    }
+
+    @media (max-width:921px) {
+
+      .ast-box-layout.ast-plain-container .site-content,
+      .ast-padded-layout.ast-plain-container .site-content,
+      .ast-separate-container .ast-archive-description,
+      .ast-separate-container .ast-article-single:not(.ast-related-post),
+      .ast-separate-container .comments-count-wrapper,
+      .ast-separate-container .error-404,
+      .ast-separate-container .no-results,
+      .ast-separate-container .related-posts-title-wrapper,
+      .single.ast-separate-container .site-main .ast-author-meta,
+      .woocommerce.ast-separate-container .ast-woocommerce-container {
+        background-color: var(--ast-global-color-5);
+        background-image: none
+      }
+    }
+
+    @media (max-width:544px) {
+
+      .ast-box-layout.ast-plain-container .site-content,
+      .ast-padded-layout.ast-plain-container .site-content,
+      .ast-separate-container .ast-archive-description,
+      .ast-separate-container .ast-article-single:not(.ast-related-post),
+      .ast-separate-container .comments-count-wrapper,
+      .ast-separate-container .error-404,
+      .ast-separate-container .no-results,
+      .ast-separate-container .related-posts-title-wrapper,
+      .single.ast-separate-container .site-main .ast-author-meta,
+      .woocommerce.ast-separate-container .ast-woocommerce-container {
+        background-color: var(--ast-global-color-5);
+        background-image: none
+      }
+    }
+
+    .ast-separate-container.ast-two-container #secondary .widget {
+      background-color: var(--ast-global-color-0);
+      background-image: none
+    }
+
+    @media (max-width:921px) {
+      .ast-separate-container.ast-two-container #secondary .widget {
+        background-color: var(--ast-global-color-5);
+        background-image: none
+      }
+    }
+
+    @media (max-width:544px) {
+      .ast-separate-container.ast-two-container #secondary .widget {
+        background-color: var(--ast-global-color-5);
+        background-image: none
+      }
+    }
+
+    .ast-page-builder-template,
+    .ast-plain-container {
+      background-color: var(--ast-global-color-0);
+      background-image: none
+    }
+
+    @media (max-width:921px) {
+
+      .ast-page-builder-template,
+      .ast-plain-container {
+        background-color: var(--ast-global-color-5);
+        background-image: none
+      }
+    }
+
+    @media (max-width:544px) {
+
+      .ast-page-builder-template,
+      .ast-plain-container {
+        background-color: var(--ast-global-color-5);
+        background-image: none
+      }
+    }
+
+    #ast-scroll-top {
+      display: none;
+      position: fixed;
+      text-align: center;
+      cursor: pointer;
+      z-index: 99;
+      width: 2.1em;
+      height: 2.1em;
+      line-height: 2.1;
+      color: #fff;
+      border-radius: 2px;
+      content: "";
+      outline: inherit
+    }
+
+    @media (min-width:769px) {
+      #ast-scroll-top {
+        content: "769"
+      }
+    }
+
+    #ast-scroll-top .ast-icon.icon-arrow svg {
+      margin-left: 0;
+      vertical-align: middle;
+      transform: translate(0, -20%) rotate(180deg);
+      width: 1.6em
+    }
+
+    .ast-scroll-to-top-right {
+      right: 30px;
+      bottom: 30px
+    }
+
+    .ast-scroll-to-top-left {
+      left: 30px;
+      bottom: 30px
+    }
+
+    #ast-scroll-top {
+      background-color: var(--ast-global-color-6);
+      font-size: 15px;
+      font-size: .9375rem
+    }
+
+    @media (max-width:921px) {
+      #ast-scroll-top .ast-icon.icon-arrow svg {
+        width: 1em
+      }
+    }
+
+    .ast-desktop-header-content>*,
+    .ast-mobile-header-content>* {
+      padding: 10px 0;
+      height: auto
+    }
+
+    .ast-desktop-header-content>:first-child,
+    .ast-mobile-header-content>:first-child {
+      padding-top: 10px
+    }
+
+    .ast-desktop-header-content>.ast-builder-menu,
+    .ast-mobile-header-content>.ast-builder-menu {
+      padding-top: 0
+    }
+
+    .ast-desktop-header-content>:last-child,
+    .ast-mobile-header-content>:last-child {
+      padding-bottom: 0
+    }
+
+    .ast-desktop-header-content .ast-search-menu-icon.ast-inline-search label,
+    .ast-mobile-header-content .ast-search-menu-icon.ast-inline-search label {
+      width: 100%
+    }
+
+    .ast-desktop-header-content .main-header-bar-navigation .ast-submenu-expanded>.ast-menu-toggle::before {
+      transform: rotateX(180deg)
+    }
+
+    #ast-desktop-header .ast-desktop-header-content,
+    .ast-desktop-header-content .ast-search-icon,
+    .ast-main-header-nav-open.ast-popup-nav-open .ast-desktop-header-content,
+    .ast-main-header-nav-open.ast-popup-nav-open .ast-mobile-header-wrap .ast-mobile-header-content,
+    .ast-mobile-header-content .ast-search-icon,
+    .ast-mobile-header-wrap .ast-mobile-header-content {
+      display: none
+    }
+
+    .ast-main-header-nav-open.ast-header-break-point #ast-desktop-header .ast-desktop-header-content,
+    .ast-main-header-nav-open.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content {
+      display: block
+    }
+
+    .ast-desktop .ast-desktop-header-content .astra-menu-animation-fade>.menu-item .menu-item>.sub-menu,
+    .ast-desktop .ast-desktop-header-content .astra-menu-animation-fade>.menu-item>.sub-menu,
+    .ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down>.menu-item .menu-item>.sub-menu,
+    .ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down>.menu-item>.sub-menu,
+    .ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-up>.menu-item .menu-item>.sub-menu,
+    .ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-up>.menu-item>.sub-menu {
+      opacity: 1;
+      visibility: visible
+    }
+
+    .ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation {
+      width: unset;
+      margin: unset
+    }
+
+    .ast-desktop-header-content.content-align-flex-end .main-header-bar-navigation .menu-item-has-children>.ast-menu-toggle,
+    .ast-mobile-header-content.content-align-flex-end .main-header-bar-navigation .menu-item-has-children>.ast-menu-toggle {
+      left: calc(20px - .907em);
+      right: auto
+    }
+
+    .ast-desktop-header-content .ast-search-menu-icon,
+    .ast-desktop-header-content .ast-search-menu-icon.slide-search,
+    .ast-mobile-header-content .ast-search-menu-icon,
+    .ast-mobile-header-content .ast-search-menu-icon.slide-search {
+      width: 100%;
+      position: relative;
+      display: block;
+      right: auto;
+      transform: none
+    }
+
+    .ast-desktop-header-content .ast-search-menu-icon .search-form,
+    .ast-desktop-header-content .ast-search-menu-icon.slide-search .search-form,
+    .ast-mobile-header-content .ast-search-menu-icon .search-form,
+    .ast-mobile-header-content .ast-search-menu-icon.slide-search .search-form {
+      right: 0;
+      visibility: visible;
+      opacity: 1;
+      position: relative;
+      top: auto;
+      transform: none;
+      padding: 0;
+      display: block;
+      overflow: hidden
+    }
+
+    .ast-desktop-header-content .ast-search-menu-icon .search-field,
+    .ast-desktop-header-content .ast-search-menu-icon.ast-inline-search .search-field,
+    .ast-mobile-header-content .ast-search-menu-icon .search-field,
+    .ast-mobile-header-content .ast-search-menu-icon.ast-inline-search .search-field {
+      width: 100%;
+      padding-right: 5.5em
+    }
+
+    .ast-desktop-header-content .ast-search-menu-icon .search-submit,
+    .ast-mobile-header-content .ast-search-menu-icon .search-submit {
+      display: block;
+      position: absolute;
+      height: 100%;
+      top: 0;
+      right: 0;
+      padding: 0 1em;
+      border-radius: 0
+    }
+
+    .ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation ul .sub-menu .menu-link {
+      padding-left: 30px
+    }
+
+    .ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation .sub-menu .menu-item .menu-item .menu-link {
+      padding-left: 40px
+    }
+
+    .ast-mobile-popup-drawer.active .ast-mobile-popup-inner {
+      background-color: #fff
+    }
+
+    .ast-desktop-header-content,
+    .ast-mobile-header-wrap .ast-mobile-header-content {
+      background-color: #fff
+    }
+
+    .ast-desktop-header-content>*,
+    .ast-desktop-popup-content>*,
+    .ast-mobile-header-content>*,
+    .ast-mobile-popup-content>* {
+      padding-top: 0;
+      padding-bottom: 0
+    }
+
+    .content-align-flex-start .ast-builder-layout-element {
+      justify-content: flex-start
+    }
+
+    .content-align-flex-start .main-header-menu {
+      text-align: left
+    }
+
+    .ast-mobile-popup-drawer.active .menu-toggle-close {
+      color: #3a3a3a
+    }
+
+    .ast-mobile-header-wrap .ast-primary-header-bar,
+    .ast-primary-header-bar .site-primary-header-wrap {
+      min-height: 110px
+    }
+
+    .ast-desktop .ast-primary-header-bar .main-header-menu>.menu-item {
+      line-height: 110px
+    }
+
+    .ast-header-break-point #masthead .ast-mobile-header-wrap .ast-above-header-bar,
+    .ast-header-break-point #masthead .ast-mobile-header-wrap .ast-below-header-bar,
+    .ast-header-break-point #masthead .ast-mobile-header-wrap .ast-primary-header-bar {
+      padding-left: 20px;
+      padding-right: 20px
+    }
+
+    .ast-header-break-point .ast-primary-header-bar {
+      border-bottom-width: 0;
+      border-bottom-color: #eaeaea;
+      border-bottom-style: solid
+    }
+
+    @media (min-width:922px) {
+      .ast-primary-header-bar {
+        border-bottom-width: 0;
+        border-bottom-color: #eaeaea;
+        border-bottom-style: solid
+      }
+    }
+
+    .ast-primary-header-bar {
+      background-color: #eee;
+      background-image: none
+    }
+
+    @media (max-width:921px) {
+
+      .ast-mobile-header-wrap .ast-primary-header-bar,
+      .ast-primary-header-bar .site-primary-header-wrap {
+        min-height: 100px
+      }
+    }
+
+    @media (max-width:544px) {
+
+      .ast-mobile-header-wrap .ast-primary-header-bar,
+      .ast-primary-header-bar .site-primary-header-wrap {
+        min-height: 80px
+      }
+    }
+
+    .ast-primary-header-bar {
+      display: block
+    }
+
+    @media (max-width:921px) {
+      .ast-header-break-point .ast-primary-header-bar {
+        display: grid
+      }
+    }
+
+    @media (max-width:544px) {
+      .ast-header-break-point .ast-primary-header-bar {
+        display: grid
+      }
+    }
+
+    [data-section=section-header-mobile-trigger] .ast-button-wrap .ast-mobile-menu-trigger-minimal {
+      color: var(--ast-global-color-6);
+      border: none;
+      background: 0 0
+    }
+
+    [data-section=section-header-mobile-trigger] .ast-button-wrap .mobile-menu-toggle-icon .ast-mobile-svg {
+      width: 36px;
+      height: 36px;
+      fill: var(--ast-global-color-6)
+    }
+
+    [data-section=section-header-mobile-trigger] .ast-button-wrap .mobile-menu-wrap .mobile-menu {
+      color: var(--ast-global-color-6)
+    }
+
+    .ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children>.ast-menu-toggle {
+      top: 0
+    }
+
+    .ast-builder-menu-mobile .main-navigation .menu-item-has-children>.menu-link:after {
+      content: unset
+    }
+
+    .ast-hfb-header .ast-builder-menu-mobile .main-navigation .main-header-menu,
+    .ast-hfb-header .ast-mobile-header-content .ast-builder-menu-mobile .main-navigation .main-header-menu,
+    .ast-hfb-header .ast-mobile-popup-content .ast-builder-menu-mobile .main-navigation .main-header-menu {
+      border-top-width: 1px;
+      border-color: #eaeaea
+    }
+
+    .ast-hfb-header .ast-builder-menu-mobile .main-navigation .menu-item .menu-link,
+    .ast-hfb-header .ast-builder-menu-mobile .main-navigation .menu-item .sub-menu .menu-link,
+    .ast-hfb-header .ast-mobile-header-content .ast-builder-menu-mobile .main-navigation .menu-item .menu-link,
+    .ast-hfb-header .ast-mobile-header-content .ast-builder-menu-mobile .main-navigation .menu-item .sub-menu .menu-link,
+    .ast-hfb-header .ast-mobile-popup-content .ast-builder-menu-mobile .main-navigation .menu-item .menu-link,
+    .ast-hfb-header .ast-mobile-popup-content .ast-builder-menu-mobile .main-navigation .menu-item .sub-menu .menu-link {
+      border-bottom-width: 1px;
+      border-color: #eaeaea;
+      border-style: solid
+    }
+
+    .ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children>.ast-menu-toggle {
+      top: 0
+    }
+
+    @media (max-width:921px) {
+      .ast-builder-menu-mobile .main-navigation .main-header-menu .menu-item>.menu-link {
+        color: var(--ast-global-color-2);
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 15px;
+        padding-right: 15px
+      }
+
+      .ast-builder-menu-mobile .main-navigation .menu-item>.ast-menu-toggle {
+        color: var(--ast-global-color-2)
+      }
+
+      .ast-builder-menu-mobile .main-navigation .inline-on-mobile .menu-item:hover>.ast-menu-toggle,
+      .ast-builder-menu-mobile .main-navigation .menu-item:hover>.menu-link {
+        color: var(--ast-global-color-2)
+      }
+
+      .ast-builder-menu-mobile .main-navigation .menu-item:hover>.ast-menu-toggle {
+        color: var(--ast-global-color-2)
+      }
+
+      .ast-builder-menu-mobile .main-navigation .inline-on-mobile .menu-item.current-menu-item>.ast-menu-toggle,
+      .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor>.ast-menu-toggle,
+      .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor>.menu-link,
+      .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item>.menu-link {
+        color: var(--ast-global-color-0)
+      }
+
+      .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item>.ast-menu-toggle {
+        color: var(--ast-global-color-0)
+      }
+
+      .ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children>.ast-menu-toggle {
+        top: 10px;
+        right: calc(15px - .907em)
+      }
+
+      .ast-builder-menu-mobile .main-navigation .menu-item-has-children>.menu-link:after {
+        content: unset
+      }
+    }
+
+    @media (max-width:544px) {
+      .ast-builder-menu-mobile .main-navigation .main-header-menu .menu-item>.menu-link {
+        color: var(--ast-global-color-6)
+      }
+
+      .ast-builder-menu-mobile .main-navigation .menu-item>.ast-menu-toggle {
+        color: var(--ast-global-color-6)
+      }
+
+      .ast-builder-menu-mobile .main-navigation .inline-on-mobile .menu-item:hover>.ast-menu-toggle,
+      .ast-builder-menu-mobile .main-navigation .menu-item:hover>.menu-link {
+        color: var(--ast-global-color-7)
+      }
+
+      .ast-builder-menu-mobile .main-navigation .menu-item:hover>.ast-menu-toggle {
+        color: var(--ast-global-color-7)
+      }
+
+      .ast-builder-menu-mobile .main-navigation .inline-on-mobile .menu-item.current-menu-item>.ast-menu-toggle,
+      .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor>.ast-menu-toggle,
+      .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor>.menu-link,
+      .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item>.menu-link {
+        color: var(--ast-global-color-7)
+      }
+
+      .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item>.ast-menu-toggle {
+        color: var(--ast-global-color-7)
+      }
+
+      .ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children>.ast-menu-toggle {
+        top: 10px
+      }
+
+      .ast-builder-menu-mobile .main-navigation .main-header-menu,
+      .ast-builder-menu-mobile .main-navigation .main-header-menu .sub-menu {
+        background-color: var(--ast-global-color-0);
+        background-image: none
+      }
+    }
+
+    .ast-builder-menu-mobile .main-navigation {
+      display: block
+    }
+
+    @media (max-width:921px) {
+      .ast-header-break-point .ast-builder-menu-mobile .main-navigation {
+        display: block
+      }
+    }
+
+    @media (max-width:544px) {
+      .ast-header-break-point .ast-builder-menu-mobile .main-navigation {
+        display: block
+      }
+    }
+
+    :root {
+      --e-global-color-astglobalcolor0: #ffffff;
+      --e-global-color-astglobalcolor1: #ffffff;
+      --e-global-color-astglobalcolor2: #ffffff;
+      --e-global-color-astglobalcolor3: #fefefe;
+      --e-global-color-astglobalcolor4: #f9f6fe;
+      --e-global-color-astglobalcolor5: #ffffff;
+      --e-global-color-astglobalcolor6: #34603e;
+      --e-global-color-astglobalcolor7: #d5c88c;
+      --e-global-color-astglobalcolor8: #000000
+    }
+  </style>
+  <link data-optimized="1" rel="stylesheet" id="astra-google-fonts-css" href="https://mtws.one/wp-content/litespeed/css/2d3b152094457082613079eda959436e.css?ver=9436e" media="all">
+  <link data-optimized="1" rel="stylesheet" id="mediaelement-css" href="https://mtws.one/wp-content/litespeed/css/e572dee34075d6fa0cb1a5bd6f2fdac7.css?ver=fdac7" media="all">
+  <link data-optimized="1" rel="stylesheet" id="wp-mediaelement-css" href="https://mtws.one/wp-content/litespeed/css/42d932b570155297dd08cbc9e5d48f44.css?ver=48f44" media="all">
+  <style id="jetpack-sharing-buttons-style-inline-css">
+    .jetpack-sharing-buttons__services-list {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      gap: 0;
+      list-style-type: none;
+      margin: 5px;
+      padding: 0
+    }
+
+    .jetpack-sharing-buttons__services-list.has-small-icon-size {
+      font-size: 12px
+    }
+
+    .jetpack-sharing-buttons__services-list.has-normal-icon-size {
+      font-size: 16px
+    }
+
+    .jetpack-sharing-buttons__services-list.has-large-icon-size {
+      font-size: 24px
+    }
+
+    .jetpack-sharing-buttons__services-list.has-huge-icon-size {
+      font-size: 36px
+    }
+
+    @media print {
+      .jetpack-sharing-buttons__services-list {
+        display: none !important
+      }
+    }
+
+    .editor-styles-wrapper .wp-block-jetpack-sharing-buttons {
+      gap: 0;
+      padding-inline-start: 0
+    }
+
+    ul.jetpack-sharing-buttons__services-list.has-background {
+      padding: 1.25em 2.375em
+    }
+  </style>
+  <style id="global-styles-inline-css">
+    :root {
+      --wp--preset--aspect-ratio--square: 1;
+      --wp--preset--aspect-ratio--4-3: 4/3;
+      --wp--preset--aspect-ratio--3-4: 3/4;
+      --wp--preset--aspect-ratio--3-2: 3/2;
+      --wp--preset--aspect-ratio--2-3: 2/3;
+      --wp--preset--aspect-ratio--16-9: 16/9;
+      --wp--preset--aspect-ratio--9-16: 9/16;
+      --wp--preset--color--black: #000000;
+      --wp--preset--color--cyan-bluish-gray: #abb8c3;
+      --wp--preset--color--white: #ffffff;
+      --wp--preset--color--pale-pink: #f78da7;
+      --wp--preset--color--vivid-red: #cf2e2e;
+      --wp--preset--color--luminous-vivid-orange: #ff6900;
+      --wp--preset--color--luminous-vivid-amber: #fcb900;
+      --wp--preset--color--light-green-cyan: #7bdcb5;
+      --wp--preset--color--vivid-green-cyan: #00d084;
+      --wp--preset--color--pale-cyan-blue: #8ed1fc;
+      --wp--preset--color--vivid-cyan-blue: #0693e3;
+      --wp--preset--color--vivid-purple: #9b51e0;
+      --wp--preset--color--ast-global-color-0: var(--ast-global-color-0);
+      --wp--preset--color--ast-global-color-1: var(--ast-global-color-1);
+      --wp--preset--color--ast-global-color-2: var(--ast-global-color-2);
+      --wp--preset--color--ast-global-color-3: var(--ast-global-color-3);
+      --wp--preset--color--ast-global-color-4: var(--ast-global-color-4);
+      --wp--preset--color--ast-global-color-5: var(--ast-global-color-5);
+      --wp--preset--color--ast-global-color-6: var(--ast-global-color-6);
+      --wp--preset--color--ast-global-color-7: var(--ast-global-color-7);
+      --wp--preset--color--ast-global-color-8: var(--ast-global-color-8);
+      --wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,
           rgba(6, 147, 227, 1) 0%,
-          rgb(155, 81, 224) 100%
-        );--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan:linear-gradient(
-          135deg,
+          rgb(155, 81, 224) 100%);
+      --wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,
           rgb(122, 220, 180) 0%,
-          rgb(0, 208, 130) 100%
-        );--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange:linear-gradient(
-          135deg,
+          rgb(0, 208, 130) 100%);
+      --wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,
           rgba(252, 185, 0, 1) 0%,
-          rgba(255, 105, 0, 1) 100%
-        );--wp--preset--gradient--luminous-vivid-orange-to-vivid-red:linear-gradient(
-          135deg,
+          rgba(255, 105, 0, 1) 100%);
+      --wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,
           rgba(255, 105, 0, 1) 0%,
-          rgb(207, 46, 46) 100%
-        );--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray:linear-gradient(
-          135deg,
+          rgb(207, 46, 46) 100%);
+      --wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,
           rgb(238, 238, 238) 0%,
-          rgb(169, 184, 195) 100%
-        );--wp--preset--gradient--cool-to-warm-spectrum:linear-gradient(
-          135deg,
+          rgb(169, 184, 195) 100%);
+      --wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,
           rgb(74, 234, 220) 0%,
           rgb(151, 120, 209) 20%,
           rgb(207, 42, 186) 40%,
           rgb(238, 44, 130) 60%,
           rgb(251, 105, 98) 80%,
-          rgb(254, 248, 76) 100%
-        );--wp--preset--gradient--blush-light-purple:linear-gradient(
-          135deg,
+          rgb(254, 248, 76) 100%);
+      --wp--preset--gradient--blush-light-purple: linear-gradient(135deg,
           rgb(255, 206, 236) 0%,
-          rgb(152, 150, 240) 100%
-        );--wp--preset--gradient--blush-bordeaux:linear-gradient(
-          135deg,
+          rgb(152, 150, 240) 100%);
+      --wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,
           rgb(254, 205, 165) 0%,
           rgb(254, 45, 45) 50%,
-          rgb(107, 0, 62) 100%
-        );--wp--preset--gradient--luminous-dusk:linear-gradient(
-          135deg,
+          rgb(107, 0, 62) 100%);
+      --wp--preset--gradient--luminous-dusk: linear-gradient(135deg,
           rgb(255, 203, 112) 0%,
           rgb(199, 81, 192) 50%,
-          rgb(65, 88, 208) 100%
-        );--wp--preset--gradient--pale-ocean:linear-gradient(
-          135deg,
+          rgb(65, 88, 208) 100%);
+      --wp--preset--gradient--pale-ocean: linear-gradient(135deg,
           rgb(255, 245, 203) 0%,
           rgb(182, 227, 212) 50%,
-          rgb(51, 167, 181) 100%
-        );--wp--preset--gradient--electric-grass:linear-gradient(
-          135deg,
+          rgb(51, 167, 181) 100%);
+      --wp--preset--gradient--electric-grass: linear-gradient(135deg,
           rgb(202, 248, 128) 0%,
-          rgb(113, 206, 126) 100%
-        );--wp--preset--gradient--midnight:linear-gradient(
-          135deg,
+          rgb(113, 206, 126) 100%);
+      --wp--preset--gradient--midnight: linear-gradient(135deg,
           rgb(2, 3, 129) 0%,
-          rgb(40, 116, 252) 100%
-        );--wp--preset--font-size--small:13px;--wp--preset--font-size--medium:20px;--wp--preset--font-size--large:36px;--wp--preset--font-size--x-large:42px;--wp--preset--spacing--20:0.44rem;--wp--preset--spacing--30:0.67rem;--wp--preset--spacing--40:1rem;--wp--preset--spacing--50:1.5rem;--wp--preset--spacing--60:2.25rem;--wp--preset--spacing--70:3.38rem;--wp--preset--spacing--80:5.06rem;--wp--preset--shadow--natural:6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep:12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp:6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined:6px 6px 0px -3px rgba(255, 255, 255, 1),6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp:6px 6px 0px rgba(0, 0, 0, 1)}:root{--wp--style--global--content-size:var(
-          --wp--custom--ast-content-width-size
-        );--wp--style--global--wide-size:var(--wp--custom--ast-wide-width-size)}:where(body){margin:0}.wp-site-blocks>.alignleft{float:left;margin-right:2em}.wp-site-blocks>.alignright{float:right;margin-left:2em}.wp-site-blocks>.aligncenter{justify-content:center;margin-left:auto;margin-right:auto}:where(.wp-site-blocks)>*{margin-block-start:24px;margin-block-end:0}:where(.wp-site-blocks)>:first-child{margin-block-start:0}:where(.wp-site-blocks)>:last-child{margin-block-end:0}:root{--wp--style--block-gap:24px}:root :where(.is-layout-flow)>:first-child{margin-block-start:0}:root :where(.is-layout-flow)>:last-child{margin-block-end:0}:root :where(.is-layout-flow)>*{margin-block-start:24px;margin-block-end:0}:root :where(.is-layout-constrained)>:first-child{margin-block-start:0}:root :where(.is-layout-constrained)>:last-child{margin-block-end:0}:root :where(.is-layout-constrained)>*{margin-block-start:24px;margin-block-end:0}:root :where(.is-layout-flex){gap:24px}:root :where(.is-layout-grid){gap:24px}.is-layout-flow>.alignleft{float:left;margin-inline-start:0;margin-inline-end:2em}.is-layout-flow>.alignright{float:right;margin-inline-start:2em;margin-inline-end:0}.is-layout-flow>.aligncenter{margin-left:auto!important;margin-right:auto!important}.is-layout-constrained>.alignleft{float:left;margin-inline-start:0;margin-inline-end:2em}.is-layout-constrained>.alignright{float:right;margin-inline-start:2em;margin-inline-end:0}.is-layout-constrained>.aligncenter{margin-left:auto!important;margin-right:auto!important}.is-layout-constrained>:where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:var(--wp--style--global--content-size);margin-left:auto!important;margin-right:auto!important}.is-layout-constrained>.alignwide{max-width:var(--wp--style--global--wide-size)}body .is-layout-flex{display:flex}.is-layout-flex{flex-wrap:wrap;align-items:center}.is-layout-flex>:is(*,div){margin:0}body .is-layout-grid{display:grid}.is-layout-grid>:is(*,div){margin:0}body{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0}a:where(:not(.wp-element-button)){text-decoration:none}:root :where(.wp-element-button,.wp-block-button__link){background-color:#32373c;border-width:0;color:#fff;font-family:inherit;font-size:inherit;line-height:inherit;padding:calc(.667em + 2px) calc(1.333em + 2px);text-decoration:none}.has-black-color{color:var(--wp--preset--color--black)!important}.has-cyan-bluish-gray-color{color:var(--wp--preset--color--cyan-bluish-gray)!important}.has-white-color{color:var(--wp--preset--color--white)!important}.has-pale-pink-color{color:var(--wp--preset--color--pale-pink)!important}.has-vivid-red-color{color:var(--wp--preset--color--vivid-red)!important}.has-luminous-vivid-orange-color{color:var(--wp--preset--color--luminous-vivid-orange)!important}.has-luminous-vivid-amber-color{color:var(--wp--preset--color--luminous-vivid-amber)!important}.has-light-green-cyan-color{color:var(--wp--preset--color--light-green-cyan)!important}.has-vivid-green-cyan-color{color:var(--wp--preset--color--vivid-green-cyan)!important}.has-pale-cyan-blue-color{color:var(--wp--preset--color--pale-cyan-blue)!important}.has-vivid-cyan-blue-color{color:var(--wp--preset--color--vivid-cyan-blue)!important}.has-vivid-purple-color{color:var(--wp--preset--color--vivid-purple)!important}.has-ast-global-color-0-color{color:var(--wp--preset--color--ast-global-color-0)!important}.has-ast-global-color-1-color{color:var(--wp--preset--color--ast-global-color-1)!important}.has-ast-global-color-2-color{color:var(--wp--preset--color--ast-global-color-2)!important}.has-ast-global-color-3-color{color:var(--wp--preset--color--ast-global-color-3)!important}.has-ast-global-color-4-color{color:var(--wp--preset--color--ast-global-color-4)!important}.has-ast-global-color-5-color{color:var(--wp--preset--color--ast-global-color-5)!important}.has-ast-global-color-6-color{color:var(--wp--preset--color--ast-global-color-6)!important}.has-ast-global-color-7-color{color:var(--wp--preset--color--ast-global-color-7)!important}.has-ast-global-color-8-color{color:var(--wp--preset--color--ast-global-color-8)!important}.has-black-background-color{background-color:var(--wp--preset--color--black)!important}.has-cyan-bluish-gray-background-color{background-color:var(--wp--preset--color--cyan-bluish-gray)!important}.has-white-background-color{background-color:var(--wp--preset--color--white)!important}.has-pale-pink-background-color{background-color:var(--wp--preset--color--pale-pink)!important}.has-vivid-red-background-color{background-color:var(--wp--preset--color--vivid-red)!important}.has-luminous-vivid-orange-background-color{background-color:var(--wp--preset--color--luminous-vivid-orange)!important}.has-luminous-vivid-amber-background-color{background-color:var(--wp--preset--color--luminous-vivid-amber)!important}.has-light-green-cyan-background-color{background-color:var(--wp--preset--color--light-green-cyan)!important}.has-vivid-green-cyan-background-color{background-color:var(--wp--preset--color--vivid-green-cyan)!important}.has-pale-cyan-blue-background-color{background-color:var(--wp--preset--color--pale-cyan-blue)!important}.has-vivid-cyan-blue-background-color{background-color:var(--wp--preset--color--vivid-cyan-blue)!important}.has-vivid-purple-background-color{background-color:var(--wp--preset--color--vivid-purple)!important}.has-ast-global-color-0-background-color{background-color:var(--wp--preset--color--ast-global-color-0)!important}.has-ast-global-color-1-background-color{background-color:var(--wp--preset--color--ast-global-color-1)!important}.has-ast-global-color-2-background-color{background-color:var(--wp--preset--color--ast-global-color-2)!important}.has-ast-global-color-3-background-color{background-color:var(--wp--preset--color--ast-global-color-3)!important}.has-ast-global-color-4-background-color{background-color:var(--wp--preset--color--ast-global-color-4)!important}.has-ast-global-color-5-background-color{background-color:var(--wp--preset--color--ast-global-color-5)!important}.has-ast-global-color-6-background-color{background-color:var(--wp--preset--color--ast-global-color-6)!important}.has-ast-global-color-7-background-color{background-color:var(--wp--preset--color--ast-global-color-7)!important}.has-ast-global-color-8-background-color{background-color:var(--wp--preset--color--ast-global-color-8)!important}.has-black-border-color{border-color:var(--wp--preset--color--black)!important}.has-cyan-bluish-gray-border-color{border-color:var(--wp--preset--color--cyan-bluish-gray)!important}.has-white-border-color{border-color:var(--wp--preset--color--white)!important}.has-pale-pink-border-color{border-color:var(--wp--preset--color--pale-pink)!important}.has-vivid-red-border-color{border-color:var(--wp--preset--color--vivid-red)!important}.has-luminous-vivid-orange-border-color{border-color:var(--wp--preset--color--luminous-vivid-orange)!important}.has-luminous-vivid-amber-border-color{border-color:var(--wp--preset--color--luminous-vivid-amber)!important}.has-light-green-cyan-border-color{border-color:var(--wp--preset--color--light-green-cyan)!important}.has-vivid-green-cyan-border-color{border-color:var(--wp--preset--color--vivid-green-cyan)!important}.has-pale-cyan-blue-border-color{border-color:var(--wp--preset--color--pale-cyan-blue)!important}.has-vivid-cyan-blue-border-color{border-color:var(--wp--preset--color--vivid-cyan-blue)!important}.has-vivid-purple-border-color{border-color:var(--wp--preset--color--vivid-purple)!important}.has-ast-global-color-0-border-color{border-color:var(--wp--preset--color--ast-global-color-0)!important}.has-ast-global-color-1-border-color{border-color:var(--wp--preset--color--ast-global-color-1)!important}.has-ast-global-color-2-border-color{border-color:var(--wp--preset--color--ast-global-color-2)!important}.has-ast-global-color-3-border-color{border-color:var(--wp--preset--color--ast-global-color-3)!important}.has-ast-global-color-4-border-color{border-color:var(--wp--preset--color--ast-global-color-4)!important}.has-ast-global-color-5-border-color{border-color:var(--wp--preset--color--ast-global-color-5)!important}.has-ast-global-color-6-border-color{border-color:var(--wp--preset--color--ast-global-color-6)!important}.has-ast-global-color-7-border-color{border-color:var(--wp--preset--color--ast-global-color-7)!important}.has-ast-global-color-8-border-color{border-color:var(--wp--preset--color--ast-global-color-8)!important}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background:var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple)!important}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background:var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan)!important}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background:var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange)!important}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background:var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red)!important}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background:var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray)!important}.has-cool-to-warm-spectrum-gradient-background{background:var(--wp--preset--gradient--cool-to-warm-spectrum)!important}.has-blush-light-purple-gradient-background{background:var(--wp--preset--gradient--blush-light-purple)!important}.has-blush-bordeaux-gradient-background{background:var(--wp--preset--gradient--blush-bordeaux)!important}.has-luminous-dusk-gradient-background{background:var(--wp--preset--gradient--luminous-dusk)!important}.has-pale-ocean-gradient-background{background:var(--wp--preset--gradient--pale-ocean)!important}.has-electric-grass-gradient-background{background:var(--wp--preset--gradient--electric-grass)!important}.has-midnight-gradient-background{background:var(--wp--preset--gradient--midnight)!important}.has-small-font-size{font-size:var(--wp--preset--font-size--small)!important}.has-medium-font-size{font-size:var(--wp--preset--font-size--medium)!important}.has-large-font-size{font-size:var(--wp--preset--font-size--large)!important}.has-x-large-font-size{font-size:var(--wp--preset--font-size--x-large)!important}:root :where(.wp-block-pullquote){font-size:1.5em;line-height:1.6}</style><link data-optimized="1" rel="stylesheet" id="ssp-search-css" href="https://mtws.one/wp-content/litespeed/css/4625d6ce9623603e17fe85d3534101fa.css?ver=101fa" media="all"><link data-optimized="1" rel="stylesheet" id="taxopress-frontend-css-css" href="https://mtws.one/wp-content/litespeed/css/85598baf1bf1cfb7777ac26d444e3851.css?ver=e3851" media="all"><link data-optimized="1" rel="stylesheet" id="astra-addon-css-css" href="https://mtws.one/wp-content/litespeed/css/2851e18d97c5eb5797082672b0b670ae.css?ver=670ae" media="all"><style id="astra-addon-css-inline-css">#content:before{content:"921";position:absolute;overflow:hidden;opacity:0;visibility:hidden}.single .ast-author-details .author-title{color:var(--ast-global-color-6)}.single.ast-page-builder-template .ast-single-author-box{padding:2em 20px}.single.ast-separate-container .ast-author-meta{padding:3em}@media (max-width:921px){.single.ast-separate-container .ast-author-meta{padding:1.5em 2.14em}.single .ast-author-meta .post-author-avatar{margin-bottom:1em}.ast-separate-container .ast-grid-2 .ast-article-post,.ast-separate-container .ast-grid-3 .ast-article-post,.ast-separate-container .ast-grid-4 .ast-article-post{width:100%}.blog-layout-1 .ast-blog-featured-section,.blog-layout-1 .post-content{float:none}.ast-separate-container .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .square .posted-on{margin-top:0}.ast-separate-container .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .circle .posted-on{margin-top:1em}.ast-separate-container .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-content .ast-blog-featured-section:first-child .post-thumb-img-content{margin-top:-1.5em}.ast-separate-container .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-thumb-img-content{margin-left:-2.14em;margin-right:-2.14em}.ast-separate-container .ast-article-single.remove-featured-img-padding .single-layout-1 .entry-header .post-thumb-img-content:first-child{margin-top:-1.5em}.ast-separate-container .ast-article-single.remove-featured-img-padding .single-layout-1 .post-thumb-img-content{margin-left:-2.14em;margin-right:-2.14em}.ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .square .posted-on,.ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .square .posted-on,.ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .square .posted-on{margin-left:-1.5em;margin-right:-1.5em}.ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .circle .posted-on,.ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .circle .posted-on,.ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .circle .posted-on{margin-left:-.5em;margin-right:-.5em}.ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .square .posted-on,.ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .square .posted-on,.ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .square .posted-on{margin-top:0}.ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .circle .posted-on,.ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .circle .posted-on,.ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .circle .posted-on{margin-top:1em}.ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-content .ast-blog-featured-section:first-child .post-thumb-img-content,.ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-content .ast-blog-featured-section:first-child .post-thumb-img-content,.ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-content .ast-blog-featured-section:first-child .post-thumb-img-content{margin-top:-1.5em}.ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-thumb-img-content,.ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-thumb-img-content,.ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-thumb-img-content{margin-left:-1.5em;margin-right:-1.5em}.blog-layout-2{display:flex;flex-direction:column-reverse}.ast-separate-container .blog-layout-1,.ast-separate-container .blog-layout-3{display:block}.ast-page-builder-template .ast-grid-2 .ast-article-post,.ast-page-builder-template .ast-grid-3 .ast-article-post,.ast-page-builder-template .ast-grid-4 .ast-article-post,.ast-plain-container .ast-grid-2 .ast-article-post,.ast-plain-container .ast-grid-3 .ast-article-post,.ast-plain-container .ast-grid-4 .ast-article-post{width:100%}}@media (max-width:921px){.ast-separate-container .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .square .posted-on{margin-top:0;margin-left:-2.14em}.ast-separate-container .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .circle .posted-on{margin-top:0;margin-left:-1.14em}}@media (min-width:922px){.ast-separate-container.ast-blog-grid-2 .ast-archive-description,.ast-separate-container.ast-blog-grid-3 .ast-archive-description,.ast-separate-container.ast-blog-grid-4 .ast-archive-description{margin-bottom:1.33333em}.blog-layout-2.ast-no-thumb .post-content,.blog-layout-3.ast-no-thumb .post-content{width:calc(100% - 5.714285714em)}.blog-layout-2.ast-no-thumb.ast-no-date-box .post-content,.blog-layout-3.ast-no-thumb.ast-no-date-box .post-content{width:100%}.ast-separate-container .ast-grid-2 .ast-article-post.ast-separate-posts,.ast-separate-container .ast-grid-3 .ast-article-post.ast-separate-posts,.ast-separate-container .ast-grid-4 .ast-article-post.ast-separate-posts{border-bottom:0}.ast-separate-container .ast-grid-2>.site-main>.ast-row,.ast-separate-container .ast-grid-3>.site-main>.ast-row,.ast-separate-container .ast-grid-4>.site-main>.ast-row{margin-left:0;margin-right:0;display:flex;flex-flow:row wrap;align-items:stretch}.ast-separate-container .ast-grid-2>.site-main>.ast-row:after,.ast-separate-container .ast-grid-2>.site-main>.ast-row:before,.ast-separate-container .ast-grid-3>.site-main>.ast-row:after,.ast-separate-container .ast-grid-3>.site-main>.ast-row:before,.ast-separate-container .ast-grid-4>.site-main>.ast-row:after,.ast-separate-container .ast-grid-4>.site-main>.ast-row:before{flex-basis:0;width:0}.ast-separate-container .ast-grid-2 .ast-article-post,.ast-separate-container .ast-grid-3 .ast-article-post,.ast-separate-container .ast-grid-4 .ast-article-post{display:flex;padding:0}.ast-page-builder-template .ast-grid-2>.site-main>.ast-row,.ast-page-builder-template .ast-grid-3>.site-main>.ast-row,.ast-page-builder-template .ast-grid-4>.site-main>.ast-row,.ast-plain-container .ast-grid-2>.site-main>.ast-row,.ast-plain-container .ast-grid-3>.site-main>.ast-row,.ast-plain-container .ast-grid-4>.site-main>.ast-row{margin-left:-1em;margin-right:-1em;display:flex;flex-flow:row wrap;align-items:stretch}.ast-page-builder-template .ast-grid-2>.site-main>.ast-row:after,.ast-page-builder-template .ast-grid-2>.site-main>.ast-row:before,.ast-page-builder-template .ast-grid-3>.site-main>.ast-row:after,.ast-page-builder-template .ast-grid-3>.site-main>.ast-row:before,.ast-page-builder-template .ast-grid-4>.site-main>.ast-row:after,.ast-page-builder-template .ast-grid-4>.site-main>.ast-row:before,.ast-plain-container .ast-grid-2>.site-main>.ast-row:after,.ast-plain-container .ast-grid-2>.site-main>.ast-row:before,.ast-plain-container .ast-grid-3>.site-main>.ast-row:after,.ast-plain-container .ast-grid-3>.site-main>.ast-row:before,.ast-plain-container .ast-grid-4>.site-main>.ast-row:after,.ast-plain-container .ast-grid-4>.site-main>.ast-row:before{flex-basis:0;width:0}.ast-page-builder-template .ast-grid-2 .ast-article-post,.ast-page-builder-template .ast-grid-3 .ast-article-post,.ast-page-builder-template .ast-grid-4 .ast-article-post,.ast-plain-container .ast-grid-2 .ast-article-post,.ast-plain-container .ast-grid-3 .ast-article-post,.ast-plain-container .ast-grid-4 .ast-article-post{display:flex}.ast-page-builder-template .ast-grid-2 .ast-article-post:last-child,.ast-page-builder-template .ast-grid-3 .ast-article-post:last-child,.ast-page-builder-template .ast-grid-4 .ast-article-post:last-child,.ast-plain-container .ast-grid-2 .ast-article-post:last-child,.ast-plain-container .ast-grid-3 .ast-article-post:last-child,.ast-plain-container .ast-grid-4 .ast-article-post:last-child{margin-bottom:2.5em}.single .ast-author-meta .ast-author-details{display:flex;align-items:center}.post-author-bio .author-title{margin-bottom:10px}}@media (min-width:922px){.single .post-author-avatar,.single .post-author-bio{float:left;clear:right}.single .ast-author-meta .post-author-avatar{margin-right:1.33333em}.single .ast-author-meta .about-author-title-wrapper,.single .ast-author-meta .post-author-bio{text-align:left}.blog-layout-2 .post-content{padding-right:2em}.blog-layout-2.ast-no-date-box.ast-no-thumb .post-content{padding-right:0}.blog-layout-3 .post-content{padding-left:2em}.blog-layout-3.ast-no-date-box.ast-no-thumb .post-content{padding-left:0}.ast-separate-container .ast-grid-2 .ast-article-post.ast-separate-posts:nth-child(2n+0),.ast-separate-container .ast-grid-2 .ast-article-post.ast-separate-posts:nth-child(2n+1),.ast-separate-container .ast-grid-3 .ast-article-post.ast-separate-posts:nth-child(2n+0),.ast-separate-container .ast-grid-3 .ast-article-post.ast-separate-posts:nth-child(2n+1),.ast-separate-container .ast-grid-4 .ast-article-post.ast-separate-posts:nth-child(2n+0),.ast-separate-container .ast-grid-4 .ast-article-post.ast-separate-posts:nth-child(2n+1){padding:0 1em 0}}@media (max-width:544px){.ast-separate-container .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .circle .posted-on{margin-top:.5em}.ast-separate-container .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-thumb-img-content,.ast-separate-container .ast-article-single.remove-featured-img-padding .single-layout-1 .post-thumb-img-content,.ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .square .posted-on,.ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .square .posted-on,.ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .square .posted-on{margin-left:-1em;margin-right:-1em}.ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .circle .posted-on,.ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .circle .posted-on,.ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .circle .posted-on{margin-left:-.5em;margin-right:-.5em}.ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .circle .posted-on,.ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .circle .posted-on,.ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .circle .posted-on{margin-top:.5em}.ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-content .ast-blog-featured-section:first-child .post-thumb-img-content,.ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-content .ast-blog-featured-section:first-child .post-thumb-img-content,.ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-content .ast-blog-featured-section:first-child .post-thumb-img-content{margin-top:-1.33333em}.ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-thumb-img-content,.ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-thumb-img-content,.ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-thumb-img-content{margin-left:-1em;margin-right:-1em}.ast-separate-container .ast-grid-2 .ast-article-post .blog-layout-1,.ast-separate-container .ast-grid-2 .ast-article-post .blog-layout-2,.ast-separate-container .ast-grid-2 .ast-article-post .blog-layout-3{padding:1.33333em 1em}.ast-separate-container .ast-grid-3 .ast-article-post .blog-layout-1,.ast-separate-container .ast-grid-4 .ast-article-post .blog-layout-1{padding:1.33333em 1em}.single.ast-separate-container .ast-author-meta{padding:1.5em 1em}}@media (max-width:544px){.ast-separate-container .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .square .posted-on{margin-left:-1em}.ast-separate-container .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .circle .posted-on{margin-left:-.5em}}@media (min-width:922px){.ast-hide-display-device-desktop{display:none}}@media (min-width:545px) and (max-width:921px){.ast-hide-display-device-tablet{display:none}}@media (max-width:544px){.ast-hide-display-device-mobile{display:none}}.ast-article-post .ast-date-meta .posted-on,.ast-article-post .ast-date-meta .posted-on *{background:var(--ast-global-color-6);color:#fff}.ast-article-post .ast-date-meta .posted-on .date-month,.ast-article-post .ast-date-meta .posted-on .date-year{color:#fff}.ast-load-more:hover{color:#fff;border-color:var(--ast-global-color-6);background-color:var(--ast-global-color-6)}.ast-loader>div{background-color:var(--ast-global-color-6)}.ast-page-builder-template .ast-archive-description{margin-bottom:2em}.entry-content h1,h1{color:var(--ast-global-color-8)}.entry-content h2,h2{color:var(--ast-global-color-8)}.entry-content h3,h3{color:var(--ast-global-color-8)}.entry-content h4,h4{color:var(--ast-global-color-8)}.entry-content h5,h5{color:var(--ast-global-color-8)}.entry-content h6,h6{color:var(--ast-global-color-8)}.ast-header-search .ast-search-menu-icon .search-field{border-radius:2px}.ast-header-search .ast-search-menu-icon .search-submit{border-radius:2px}.ast-header-search .ast-search-menu-icon .search-form{border-top-width:1px;border-bottom-width:1px;border-left-width:1px;border-right-width:1px;border-color:#ddd;border-radius:2px}@media (min-width:922px){.ast-container{max-width:1240px}}@media (min-width:993px){.ast-container{max-width:1240px}}@media (min-width:1201px){.ast-container{max-width:1240px}}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .ast-comment-list li.depth-1,.ast-separate-container .ast-related-posts-wrap,.ast-separate-container .ast-woocommerce-container,.ast-separate-container .comment-respond,.single.ast-separate-container .ast-author-details{padding-top:20px;padding-bottom:20px}.ast-narrow-container .ast-article-post,.ast-narrow-container .ast-article-single,.ast-narrow-container .ast-comment-list li.depth-1,.ast-narrow-container .ast-related-posts-wrap,.ast-narrow-container .ast-single-related-posts-container,.ast-narrow-container .ast-woocommerce-container,.ast-narrow-container .comment-respond,.single.ast-narrow-container .ast-author-details{padding-top:20px;padding-bottom:20px}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .ast-comment-list li.depth-1,.ast-separate-container .ast-related-posts-wrap,.ast-separate-container .ast-woocommerce-container,.ast-separate-container .comment-respond,.ast-separate-container .comments-count-wrapper,.ast-separate-container .related-posts-title-wrapper,.single.ast-separate-container .about-author-title-wrapper,.single.ast-separate-container .ast-author-details{padding-right:20px;padding-left:20px}.ast-narrow-container .ast-article-post,.ast-narrow-container .ast-article-single,.ast-narrow-container .ast-comment-list li.depth-1,.ast-narrow-container .ast-related-posts-wrap,.ast-narrow-container .ast-single-related-posts-container,.ast-narrow-container .ast-woocommerce-container,.ast-narrow-container .comment-respond,.ast-narrow-container .comments-count-wrapper,.ast-narrow-container .related-posts-title-wrapper,.single.ast-narrow-container .about-author-title-wrapper,.single.ast-narrow-container .ast-author-details{padding-right:20px;padding-left:20px}.ast-narrow-container #primary,.ast-plain-container #primary,.ast-separate-container #primary,.ast-separate-container.ast-left-sidebar #primary,.ast-separate-container.ast-right-sidebar #primary{margin-top:20px;margin-bottom:20px}.ast-left-sidebar #primary,.ast-narrow-container #primary,.ast-right-sidebar #primary,.ast-separate-container #primary,.ast-separate-container.ast-left-sidebar #primary,.ast-separate-container.ast-right-sidebar #primary{padding-left:20px;padding-right:20px}.ast-no-sidebar.ast-narrow-container .entry-content .alignfull,.ast-no-sidebar.ast-separate-container .entry-content .alignfull{margin-right:-20px;margin-left:-20px}.ast-narrow-container .comments-title,.ast-separate-container .comments-title{padding-bottom:0}@media (max-width:921px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .ast-comment-list li.depth-1,.ast-separate-container .ast-related-posts-wrap,.ast-separate-container .ast-woocommerce-container,.ast-separate-container .comment-respond,.single.ast-separate-container .ast-author-details{padding-top:1.5em;padding-bottom:1.5em}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .ast-comment-list li.depth-1,.ast-separate-container .ast-related-posts-wrap,.ast-separate-container .ast-single-related-posts-container,.ast-separate-container .ast-woocommerce-container,.ast-separate-container .comment-respond,.ast-separate-container .comments-count-wrapper,.ast-separate-container .related-posts-title-wrapper,.single.ast-separate-container .about-author-title-wrapper,.single.ast-separate-container .ast-author-details{padding-right:2.14em;padding-left:2.14em}.ast-narrow-container .ast-article-post,.ast-narrow-container .ast-article-single,.ast-narrow-container .ast-comment-list li.depth-1,.ast-narrow-container .ast-related-posts-wrap,.ast-narrow-container .ast-single-related-posts-container,.ast-narrow-container .ast-woocommerce-container,.ast-narrow-container .comment-respond,.single.ast-narrow-container .ast-author-details{padding-top:1.5em;padding-bottom:1.5em}.ast-narrow-container .ast-article-post,.ast-narrow-container .ast-article-single,.ast-narrow-container .ast-comment-list li.depth-1,.ast-narrow-container .ast-related-posts-wrap,.ast-narrow-container .ast-single-related-posts-container,.ast-narrow-container .ast-woocommerce-container,.ast-narrow-container .comment-respond,.ast-narrow-container .comments-count-wrapper,.ast-narrow-container .related-posts-title-wrapper,.single.ast-narrow-container .about-author-title-wrapper,.single.ast-narrow-container .ast-author-details{padding-right:2.14em;padding-left:2.14em}.ast-narrow-container #primary,.ast-plain-container #primary,.ast-separate-container #primary,.ast-separate-container.ast-left-sidebar #primary,.ast-separate-container.ast-right-sidebar #primary{margin-top:1.5em;margin-bottom:1.5em}.ast-left-sidebar #primary,.ast-narrow-container #primary,.ast-right-sidebar #primary,.ast-separate-container #primary,.ast-separate-container.ast-left-sidebar #primary,.ast-separate-container.ast-right-sidebar #primary{padding-left:0;padding-right:0}.ast-no-sidebar.ast-narrow-container .entry-content .alignfull,.ast-no-sidebar.ast-separate-container .entry-content .alignfull{margin-right:-2.14em;margin-left:-2.14em}.ast-narrow-container .comments-title,.ast-separate-container .comments-title{padding-bottom:0}}@media (max-width:544px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .ast-comment-list li.depth-1,.ast-separate-container .ast-related-posts-wrap,.ast-separate-container .ast-woocommerce-container,.ast-separate-container .comment-respond,.single.ast-separate-container .ast-author-details{padding-top:1.5em;padding-bottom:1.5em}.ast-narrow-container .ast-article-post,.ast-narrow-container .ast-article-single,.ast-narrow-container .ast-comment-list li.depth-1,.ast-narrow-container .ast-related-posts-wrap,.ast-narrow-container .ast-single-related-posts-container,.ast-narrow-container .ast-woocommerce-container,.ast-narrow-container .comment-respond,.single.ast-narrow-container .ast-author-details{padding-top:1.5em;padding-bottom:1.5em}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .ast-comment-list li.depth-1,.ast-separate-container .ast-related-posts-wrap,.ast-separate-container .ast-woocommerce-container,.ast-separate-container .comment-respond,.ast-separate-container .comments-count-wrapper,.ast-separate-container .related-posts-title-wrapper,.single.ast-separate-container .about-author-title-wrapper,.single.ast-separate-container .ast-author-details{padding-right:1em;padding-left:1em}.ast-narrow-container .ast-article-post,.ast-narrow-container .ast-article-single,.ast-narrow-container .ast-comment-list li.depth-1,.ast-narrow-container .ast-related-posts-wrap,.ast-narrow-container .ast-single-related-posts-container,.ast-narrow-container .ast-woocommerce-container,.ast-narrow-container .comment-respond,.ast-narrow-container .comments-count-wrapper,.ast-narrow-container .related-posts-title-wrapper,.single.ast-narrow-container .about-author-title-wrapper,.single.ast-narrow-container .ast-author-details{padding-right:1em;padding-left:1em}.ast-no-sidebar.ast-narrow-container .entry-content .alignfull,.ast-no-sidebar.ast-separate-container .entry-content .alignfull{margin-right:-1em;margin-left:-1em}.ast-narrow-container .comments-title,.ast-separate-container .comments-title{padding-bottom:0}}@media (max-width:921px){.ast-header-break-point .main-header-bar .main-header-bar-navigation .menu-item-has-children>.ast-menu-toggle{top:0;right:calc(20px - .907em)}.ast-flyout-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .main-header-menu>.menu-item-has-children>.ast-menu-toggle{right:calc(20px - .907em)}}@media (max-width:544px){.ast-header-break-point .ast-mobile-header-stack .ast-mobile-menu-buttons,.ast-header-break-point .header-main-layout-2 .site-branding{padding-bottom:0}}@media (max-width:921px){.ast-separate-container #secondary .widget,.ast-separate-container.ast-two-container #secondary .widget{margin-bottom:1.5em}}.ast-narrow-container #primary,.ast-separate-container #primary{padding-top:0}@media (max-width:921px){.ast-narrow-container #primary,.ast-separate-container #primary{padding-top:0}}.ast-narrow-container #primary,.ast-separate-container #primary{padding-bottom:0}@media (max-width:921px){.ast-narrow-container #primary,.ast-separate-container #primary{padding-bottom:0}}.ast-builder-menu-1 .main-header-menu.submenu-with-border .astra-full-megamenu-wrapper,.ast-builder-menu-1 .main-header-menu.submenu-with-border .astra-megamenu{border-top-width:2px;border-bottom-width:0;border-right-width:0;border-left-width:0;border-style:solid}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-1 .main-header-menu .sub-menu>.menu-item>.menu-link{padding-top:0;padding-bottom:0;padding-left:30px;padding-right:20px}.ast-header-break-point .ast-builder-menu-1 .sub-menu .menu-item.menu-item-has-children>.ast-menu-toggle{top:0;right:calc(20px - .907em)}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-1 .sub-menu .menu-item.menu-item-has-children>.ast-menu-toggle{top:0}}[CLASS*="-sticky-header-active"] .ast-header-sticked [data-section=section-header-mobile-trigger] .ast-button-wrap .mobile-menu-toggle-icon .ast-mobile-svg{fill:var(--ast-global-color-8)}[CLASS*="-sticky-header-active"] .ast-header-sticked [data-section=section-header-mobile-trigger] .ast-button-wrap .mobile-menu-wrap .mobile-menu{color:var(--ast-global-color-8)}[CLASS*="-sticky-header-active"] .ast-header-sticked [data-section=section-header-mobile-trigger] .ast-button-wrap .ast-mobile-menu-trigger-minimal{background:0 0}.site-title,.site-title a{font-weight:600;font-family:"Playfair Display",serif;line-height:1.23em}.entry-meta,.read-more{font-size:16px;font-size:1rem}.ast-pagination .page-navigation,.ast-pagination .page-numbers{font-size:16px;font-size:1rem}.secondary .widget-title,.woocommerce-page #secondary .widget .widget-title{font-size:26px;font-size:1.625rem;font-weight:600;font-family:"Playfair Display",serif;line-height:1.23em}.secondary .widget>:not(.widget-title){font-size:16px;font-size:1rem}.archive .entry-title,.archive .entry-title a,.blog .entry-title,.blog .entry-title a,.search .entry-title,.search .entry-title a{font-family:"Playfair Display",serif;font-weight:500;line-height:1.23em}.ast-button,button,input#submit,input[type=button],input[type=reset],input[type=submit]{font-size:20px;font-size:1.25rem;font-weight:600}h4.widget-title{font-weight:600}h5.widget-title{font-weight:600}h6.widget-title{font-weight:600}.ast-hfb-header.ast-desktop .ast-builder-menu-1 .main-header-menu .menu-item.menu-item-heading>.menu-link{font-weight:700}.ast-desktop .ast-mm-widget-content .ast-mm-widget-item{padding:0}.ast-desktop .menu-link>.icon-arrow:first-child,.ast-header-break-point .astra-mm-highlight-label+.icon-arrow,.ast-header-break-point .main-header-menu>.menu-item>.menu-link .icon-arrow,.ast-header-break-point .menu-text+.icon-arrow{display:none}.ast-advanced-headers-layout.ast-advanced-headers-layout-2 .ast-container{flex-direction:column}.ast-advanced-headers-different-logo .advanced-header-logo,.ast-header-break-point .ast-has-mobile-header-logo .advanced-header-logo{display:inline-block}.ast-header-break-point.ast-advanced-headers-different-logo .ast-has-mobile-header-logo .ast-mobile-header-logo{display:none}.ast-advanced-headers-layout{width:100%}.ast-header-break-point .ast-advanced-headers-parallax{background-attachment:fixed}</style><link data-optimized="1" rel="stylesheet" id="dflip-style-css" href="https://mtws.one/wp-content/litespeed/css/8599a5c0a4c70fedb3cba5f9efdc1b23.css?ver=c1b23" media="all"><link data-optimized="1" rel="stylesheet" id="popup-maker-site-css" href="https://mtws.one/wp-content/litespeed/css/166b364bd6ee0a5b36710809c61fba4e.css?ver=fba4e" media="all"><link data-optimized="1" rel="stylesheet" id="elementor-frontend-css" href="https://mtws.one/wp-content/litespeed/css/5146755a52bf2a7c70dbf99eed3eaf8d.css?ver=eaf8d" media="all"><link data-optimized="1" rel="stylesheet" id="swiper-css" href="https://mtws.one/wp-content/litespeed/css/7b31e11cfc4da72f1c9b93da7c37695b.css?ver=7695b" media="all"><link data-optimized="1" rel="stylesheet" id="e-swiper-css" href="https://mtws.one/wp-content/litespeed/css/b0e2505a1df4c8ea556f0cb62e4f49fe.css?ver=f49fe" media="all"><link data-optimized="1" rel="stylesheet" id="elementor-post-55-css" href="https://mtws.one/wp-content/litespeed/css/25990bfca0290ceccc0a1e98edb85f9e.css?ver=85f9e" media="all"><link data-optimized="1" rel="stylesheet" id="elementor-pro-css" href="https://mtws.one/wp-content/litespeed/css/b568357f7ae46f39b604316dea89ff8d.css?ver=9ff8d" media="all"><link data-optimized="1" rel="stylesheet" id="widget-image-css" href="https://mtws.one/wp-content/litespeed/css/bc3e9af5b75feb24a66816b4a1e99733.css?ver=99733" media="all"><link data-optimized="1" rel="stylesheet" id="widget-text-editor-css" href="https://mtws.one/wp-content/litespeed/css/62f15e7af4bf18b046aa6d06e04f9d1a.css?ver=f9d1a" media="all"><link data-optimized="1" rel="stylesheet" id="widget-spacer-css" href="https://mtws.one/wp-content/litespeed/css/0fdff94aa5c58c9e38a949d91e06e3b5.css?ver=6e3b5" media="all"><link data-optimized="1" rel="stylesheet" id="widget-heading-css" href="https://mtws.one/wp-content/litespeed/css/baeedae13978df3d888bf088ee97db2f.css?ver=7db2f" media="all"><link data-optimized="1" rel="stylesheet" id="elementor-post-1153-css" href="https://mtws.one/wp-content/litespeed/css/38b2f4ffa8289ea7769f6be43a471493.css?ver=71493" media="all"><link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=DM+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.7" media="all"><link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><!--[if IE]>
+          rgb(40, 116, 252) 100%);
+      --wp--preset--font-size--small: 13px;
+      --wp--preset--font-size--medium: 20px;
+      --wp--preset--font-size--large: 36px;
+      --wp--preset--font-size--x-large: 42px;
+      --wp--preset--spacing--20: 0.44rem;
+      --wp--preset--spacing--30: 0.67rem;
+      --wp--preset--spacing--40: 1rem;
+      --wp--preset--spacing--50: 1.5rem;
+      --wp--preset--spacing--60: 2.25rem;
+      --wp--preset--spacing--70: 3.38rem;
+      --wp--preset--spacing--80: 5.06rem;
+      --wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);
+      --wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);
+      --wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);
+      --wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);
+      --wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1)
+    }
+
+    :root {
+      --wp--style--global--content-size: var(--wp--custom--ast-content-width-size);
+      --wp--style--global--wide-size: var(--wp--custom--ast-wide-width-size)
+    }
+
+    :where(body) {
+      margin: 0
+    }
+
+    .wp-site-blocks>.alignleft {
+      float: left;
+      margin-right: 2em
+    }
+
+    .wp-site-blocks>.alignright {
+      float: right;
+      margin-left: 2em
+    }
+
+    .wp-site-blocks>.aligncenter {
+      justify-content: center;
+      margin-left: auto;
+      margin-right: auto
+    }
+
+    :where(.wp-site-blocks)>* {
+      margin-block-start: 24px;
+      margin-block-end: 0
+    }
+
+    :where(.wp-site-blocks)>:first-child {
+      margin-block-start: 0
+    }
+
+    :where(.wp-site-blocks)>:last-child {
+      margin-block-end: 0
+    }
+
+    :root {
+      --wp--style--block-gap: 24px
+    }
+
+    :root :where(.is-layout-flow)>:first-child {
+      margin-block-start: 0
+    }
+
+    :root :where(.is-layout-flow)>:last-child {
+      margin-block-end: 0
+    }
+
+    :root :where(.is-layout-flow)>* {
+      margin-block-start: 24px;
+      margin-block-end: 0
+    }
+
+    :root :where(.is-layout-constrained)>:first-child {
+      margin-block-start: 0
+    }
+
+    :root :where(.is-layout-constrained)>:last-child {
+      margin-block-end: 0
+    }
+
+    :root :where(.is-layout-constrained)>* {
+      margin-block-start: 24px;
+      margin-block-end: 0
+    }
+
+    :root :where(.is-layout-flex) {
+      gap: 24px
+    }
+
+    :root :where(.is-layout-grid) {
+      gap: 24px
+    }
+
+    .is-layout-flow>.alignleft {
+      float: left;
+      margin-inline-start: 0;
+      margin-inline-end: 2em
+    }
+
+    .is-layout-flow>.alignright {
+      float: right;
+      margin-inline-start: 2em;
+      margin-inline-end: 0
+    }
+
+    .is-layout-flow>.aligncenter {
+      margin-left: auto !important;
+      margin-right: auto !important
+    }
+
+    .is-layout-constrained>.alignleft {
+      float: left;
+      margin-inline-start: 0;
+      margin-inline-end: 2em
+    }
+
+    .is-layout-constrained>.alignright {
+      float: right;
+      margin-inline-start: 2em;
+      margin-inline-end: 0
+    }
+
+    .is-layout-constrained>.aligncenter {
+      margin-left: auto !important;
+      margin-right: auto !important
+    }
+
+    .is-layout-constrained>:where(:not(.alignleft):not(.alignright):not(.alignfull)) {
+      max-width: var(--wp--style--global--content-size);
+      margin-left: auto !important;
+      margin-right: auto !important
+    }
+
+    .is-layout-constrained>.alignwide {
+      max-width: var(--wp--style--global--wide-size)
+    }
+
+    body .is-layout-flex {
+      display: flex
+    }
+
+    .is-layout-flex {
+      flex-wrap: wrap;
+      align-items: center
+    }
+
+    .is-layout-flex>:is(*, div) {
+      margin: 0
+    }
+
+    body .is-layout-grid {
+      display: grid
+    }
+
+    .is-layout-grid>:is(*, div) {
+      margin: 0
+    }
+
+    body {
+      padding-top: 0;
+      padding-right: 0;
+      padding-bottom: 0;
+      padding-left: 0
+    }
+
+    a:where(:not(.wp-element-button)) {
+      text-decoration: none
+    }
+
+    :root :where(.wp-element-button, .wp-block-button__link) {
+      background-color: #32373c;
+      border-width: 0;
+      color: #fff;
+      font-family: inherit;
+      font-size: inherit;
+      line-height: inherit;
+      padding: calc(.667em + 2px) calc(1.333em + 2px);
+      text-decoration: none
+    }
+
+    .has-black-color {
+      color: var(--wp--preset--color--black) !important
+    }
+
+    .has-cyan-bluish-gray-color {
+      color: var(--wp--preset--color--cyan-bluish-gray) !important
+    }
+
+    .has-white-color {
+      color: var(--wp--preset--color--white) !important
+    }
+
+    .has-pale-pink-color {
+      color: var(--wp--preset--color--pale-pink) !important
+    }
+
+    .has-vivid-red-color {
+      color: var(--wp--preset--color--vivid-red) !important
+    }
+
+    .has-luminous-vivid-orange-color {
+      color: var(--wp--preset--color--luminous-vivid-orange) !important
+    }
+
+    .has-luminous-vivid-amber-color {
+      color: var(--wp--preset--color--luminous-vivid-amber) !important
+    }
+
+    .has-light-green-cyan-color {
+      color: var(--wp--preset--color--light-green-cyan) !important
+    }
+
+    .has-vivid-green-cyan-color {
+      color: var(--wp--preset--color--vivid-green-cyan) !important
+    }
+
+    .has-pale-cyan-blue-color {
+      color: var(--wp--preset--color--pale-cyan-blue) !important
+    }
+
+    .has-vivid-cyan-blue-color {
+      color: var(--wp--preset--color--vivid-cyan-blue) !important
+    }
+
+    .has-vivid-purple-color {
+      color: var(--wp--preset--color--vivid-purple) !important
+    }
+
+    .has-ast-global-color-0-color {
+      color: var(--wp--preset--color--ast-global-color-0) !important
+    }
+
+    .has-ast-global-color-1-color {
+      color: var(--wp--preset--color--ast-global-color-1) !important
+    }
+
+    .has-ast-global-color-2-color {
+      color: var(--wp--preset--color--ast-global-color-2) !important
+    }
+
+    .has-ast-global-color-3-color {
+      color: var(--wp--preset--color--ast-global-color-3) !important
+    }
+
+    .has-ast-global-color-4-color {
+      color: var(--wp--preset--color--ast-global-color-4) !important
+    }
+
+    .has-ast-global-color-5-color {
+      color: var(--wp--preset--color--ast-global-color-5) !important
+    }
+
+    .has-ast-global-color-6-color {
+      color: var(--wp--preset--color--ast-global-color-6) !important
+    }
+
+    .has-ast-global-color-7-color {
+      color: var(--wp--preset--color--ast-global-color-7) !important
+    }
+
+    .has-ast-global-color-8-color {
+      color: var(--wp--preset--color--ast-global-color-8) !important
+    }
+
+    .has-black-background-color {
+      background-color: var(--wp--preset--color--black) !important
+    }
+
+    .has-cyan-bluish-gray-background-color {
+      background-color: var(--wp--preset--color--cyan-bluish-gray) !important
+    }
+
+    .has-white-background-color {
+      background-color: var(--wp--preset--color--white) !important
+    }
+
+    .has-pale-pink-background-color {
+      background-color: var(--wp--preset--color--pale-pink) !important
+    }
+
+    .has-vivid-red-background-color {
+      background-color: var(--wp--preset--color--vivid-red) !important
+    }
+
+    .has-luminous-vivid-orange-background-color {
+      background-color: var(--wp--preset--color--luminous-vivid-orange) !important
+    }
+
+    .has-luminous-vivid-amber-background-color {
+      background-color: var(--wp--preset--color--luminous-vivid-amber) !important
+    }
+
+    .has-light-green-cyan-background-color {
+      background-color: var(--wp--preset--color--light-green-cyan) !important
+    }
+
+    .has-vivid-green-cyan-background-color {
+      background-color: var(--wp--preset--color--vivid-green-cyan) !important
+    }
+
+    .has-pale-cyan-blue-background-color {
+      background-color: var(--wp--preset--color--pale-cyan-blue) !important
+    }
+
+    .has-vivid-cyan-blue-background-color {
+      background-color: var(--wp--preset--color--vivid-cyan-blue) !important
+    }
+
+    .has-vivid-purple-background-color {
+      background-color: var(--wp--preset--color--vivid-purple) !important
+    }
+
+    .has-ast-global-color-0-background-color {
+      background-color: var(--wp--preset--color--ast-global-color-0) !important
+    }
+
+    .has-ast-global-color-1-background-color {
+      background-color: var(--wp--preset--color--ast-global-color-1) !important
+    }
+
+    .has-ast-global-color-2-background-color {
+      background-color: var(--wp--preset--color--ast-global-color-2) !important
+    }
+
+    .has-ast-global-color-3-background-color {
+      background-color: var(--wp--preset--color--ast-global-color-3) !important
+    }
+
+    .has-ast-global-color-4-background-color {
+      background-color: var(--wp--preset--color--ast-global-color-4) !important
+    }
+
+    .has-ast-global-color-5-background-color {
+      background-color: var(--wp--preset--color--ast-global-color-5) !important
+    }
+
+    .has-ast-global-color-6-background-color {
+      background-color: var(--wp--preset--color--ast-global-color-6) !important
+    }
+
+    .has-ast-global-color-7-background-color {
+      background-color: var(--wp--preset--color--ast-global-color-7) !important
+    }
+
+    .has-ast-global-color-8-background-color {
+      background-color: var(--wp--preset--color--ast-global-color-8) !important
+    }
+
+    .has-black-border-color {
+      border-color: var(--wp--preset--color--black) !important
+    }
+
+    .has-cyan-bluish-gray-border-color {
+      border-color: var(--wp--preset--color--cyan-bluish-gray) !important
+    }
+
+    .has-white-border-color {
+      border-color: var(--wp--preset--color--white) !important
+    }
+
+    .has-pale-pink-border-color {
+      border-color: var(--wp--preset--color--pale-pink) !important
+    }
+
+    .has-vivid-red-border-color {
+      border-color: var(--wp--preset--color--vivid-red) !important
+    }
+
+    .has-luminous-vivid-orange-border-color {
+      border-color: var(--wp--preset--color--luminous-vivid-orange) !important
+    }
+
+    .has-luminous-vivid-amber-border-color {
+      border-color: var(--wp--preset--color--luminous-vivid-amber) !important
+    }
+
+    .has-light-green-cyan-border-color {
+      border-color: var(--wp--preset--color--light-green-cyan) !important
+    }
+
+    .has-vivid-green-cyan-border-color {
+      border-color: var(--wp--preset--color--vivid-green-cyan) !important
+    }
+
+    .has-pale-cyan-blue-border-color {
+      border-color: var(--wp--preset--color--pale-cyan-blue) !important
+    }
+
+    .has-vivid-cyan-blue-border-color {
+      border-color: var(--wp--preset--color--vivid-cyan-blue) !important
+    }
+
+    .has-vivid-purple-border-color {
+      border-color: var(--wp--preset--color--vivid-purple) !important
+    }
+
+    .has-ast-global-color-0-border-color {
+      border-color: var(--wp--preset--color--ast-global-color-0) !important
+    }
+
+    .has-ast-global-color-1-border-color {
+      border-color: var(--wp--preset--color--ast-global-color-1) !important
+    }
+
+    .has-ast-global-color-2-border-color {
+      border-color: var(--wp--preset--color--ast-global-color-2) !important
+    }
+
+    .has-ast-global-color-3-border-color {
+      border-color: var(--wp--preset--color--ast-global-color-3) !important
+    }
+
+    .has-ast-global-color-4-border-color {
+      border-color: var(--wp--preset--color--ast-global-color-4) !important
+    }
+
+    .has-ast-global-color-5-border-color {
+      border-color: var(--wp--preset--color--ast-global-color-5) !important
+    }
+
+    .has-ast-global-color-6-border-color {
+      border-color: var(--wp--preset--color--ast-global-color-6) !important
+    }
+
+    .has-ast-global-color-7-border-color {
+      border-color: var(--wp--preset--color--ast-global-color-7) !important
+    }
+
+    .has-ast-global-color-8-border-color {
+      border-color: var(--wp--preset--color--ast-global-color-8) !important
+    }
+
+    .has-vivid-cyan-blue-to-vivid-purple-gradient-background {
+      background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important
+    }
+
+    .has-light-green-cyan-to-vivid-green-cyan-gradient-background {
+      background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important
+    }
+
+    .has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background {
+      background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important
+    }
+
+    .has-luminous-vivid-orange-to-vivid-red-gradient-background {
+      background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important
+    }
+
+    .has-very-light-gray-to-cyan-bluish-gray-gradient-background {
+      background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important
+    }
+
+    .has-cool-to-warm-spectrum-gradient-background {
+      background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important
+    }
+
+    .has-blush-light-purple-gradient-background {
+      background: var(--wp--preset--gradient--blush-light-purple) !important
+    }
+
+    .has-blush-bordeaux-gradient-background {
+      background: var(--wp--preset--gradient--blush-bordeaux) !important
+    }
+
+    .has-luminous-dusk-gradient-background {
+      background: var(--wp--preset--gradient--luminous-dusk) !important
+    }
+
+    .has-pale-ocean-gradient-background {
+      background: var(--wp--preset--gradient--pale-ocean) !important
+    }
+
+    .has-electric-grass-gradient-background {
+      background: var(--wp--preset--gradient--electric-grass) !important
+    }
+
+    .has-midnight-gradient-background {
+      background: var(--wp--preset--gradient--midnight) !important
+    }
+
+    .has-small-font-size {
+      font-size: var(--wp--preset--font-size--small) !important
+    }
+
+    .has-medium-font-size {
+      font-size: var(--wp--preset--font-size--medium) !important
+    }
+
+    .has-large-font-size {
+      font-size: var(--wp--preset--font-size--large) !important
+    }
+
+    .has-x-large-font-size {
+      font-size: var(--wp--preset--font-size--x-large) !important
+    }
+
+    :root :where(.wp-block-pullquote) {
+      font-size: 1.5em;
+      line-height: 1.6
+    }
+  </style>
+  <link data-optimized="1" rel="stylesheet" id="ssp-search-css" href="https://mtws.one/wp-content/litespeed/css/4625d6ce9623603e17fe85d3534101fa.css?ver=101fa" media="all">
+  <link data-optimized="1" rel="stylesheet" id="taxopress-frontend-css-css" href="https://mtws.one/wp-content/litespeed/css/85598baf1bf1cfb7777ac26d444e3851.css?ver=e3851" media="all">
+  <link data-optimized="1" rel="stylesheet" id="astra-addon-css-css" href="https://mtws.one/wp-content/litespeed/css/2851e18d97c5eb5797082672b0b670ae.css?ver=670ae" media="all">
+  <style id="astra-addon-css-inline-css">
+    #content:before {
+      content: "921";
+      position: absolute;
+      overflow: hidden;
+      opacity: 0;
+      visibility: hidden
+    }
+
+    .single .ast-author-details .author-title {
+      color: var(--ast-global-color-6)
+    }
+
+    .single.ast-page-builder-template .ast-single-author-box {
+      padding: 2em 20px
+    }
+
+    .single.ast-separate-container .ast-author-meta {
+      padding: 3em
+    }
+
+    @media (max-width:921px) {
+      .single.ast-separate-container .ast-author-meta {
+        padding: 1.5em 2.14em
+      }
+
+      .single .ast-author-meta .post-author-avatar {
+        margin-bottom: 1em
+      }
+
+      .ast-separate-container .ast-grid-2 .ast-article-post,
+      .ast-separate-container .ast-grid-3 .ast-article-post,
+      .ast-separate-container .ast-grid-4 .ast-article-post {
+        width: 100%
+      }
+
+      .blog-layout-1 .ast-blog-featured-section,
+      .blog-layout-1 .post-content {
+        float: none
+      }
+
+      .ast-separate-container .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .square .posted-on {
+        margin-top: 0
+      }
+
+      .ast-separate-container .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .circle .posted-on {
+        margin-top: 1em
+      }
+
+      .ast-separate-container .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-content .ast-blog-featured-section:first-child .post-thumb-img-content {
+        margin-top: -1.5em
+      }
+
+      .ast-separate-container .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-thumb-img-content {
+        margin-left: -2.14em;
+        margin-right: -2.14em
+      }
+
+      .ast-separate-container .ast-article-single.remove-featured-img-padding .single-layout-1 .entry-header .post-thumb-img-content:first-child {
+        margin-top: -1.5em
+      }
+
+      .ast-separate-container .ast-article-single.remove-featured-img-padding .single-layout-1 .post-thumb-img-content {
+        margin-left: -2.14em;
+        margin-right: -2.14em
+      }
+
+      .ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .square .posted-on,
+      .ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .square .posted-on,
+      .ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .square .posted-on {
+        margin-left: -1.5em;
+        margin-right: -1.5em
+      }
+
+      .ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .circle .posted-on,
+      .ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .circle .posted-on,
+      .ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .circle .posted-on {
+        margin-left: -.5em;
+        margin-right: -.5em
+      }
+
+      .ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .square .posted-on,
+      .ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .square .posted-on,
+      .ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .square .posted-on {
+        margin-top: 0
+      }
+
+      .ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .circle .posted-on,
+      .ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .circle .posted-on,
+      .ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .circle .posted-on {
+        margin-top: 1em
+      }
+
+      .ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-content .ast-blog-featured-section:first-child .post-thumb-img-content,
+      .ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-content .ast-blog-featured-section:first-child .post-thumb-img-content,
+      .ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-content .ast-blog-featured-section:first-child .post-thumb-img-content {
+        margin-top: -1.5em
+      }
+
+      .ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-thumb-img-content,
+      .ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-thumb-img-content,
+      .ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-thumb-img-content {
+        margin-left: -1.5em;
+        margin-right: -1.5em
+      }
+
+      .blog-layout-2 {
+        display: flex;
+        flex-direction: column-reverse
+      }
+
+      .ast-separate-container .blog-layout-1,
+      .ast-separate-container .blog-layout-3 {
+        display: block
+      }
+
+      .ast-page-builder-template .ast-grid-2 .ast-article-post,
+      .ast-page-builder-template .ast-grid-3 .ast-article-post,
+      .ast-page-builder-template .ast-grid-4 .ast-article-post,
+      .ast-plain-container .ast-grid-2 .ast-article-post,
+      .ast-plain-container .ast-grid-3 .ast-article-post,
+      .ast-plain-container .ast-grid-4 .ast-article-post {
+        width: 100%
+      }
+    }
+
+    @media (max-width:921px) {
+      .ast-separate-container .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .square .posted-on {
+        margin-top: 0;
+        margin-left: -2.14em
+      }
+
+      .ast-separate-container .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .circle .posted-on {
+        margin-top: 0;
+        margin-left: -1.14em
+      }
+    }
+
+    @media (min-width:922px) {
+
+      .ast-separate-container.ast-blog-grid-2 .ast-archive-description,
+      .ast-separate-container.ast-blog-grid-3 .ast-archive-description,
+      .ast-separate-container.ast-blog-grid-4 .ast-archive-description {
+        margin-bottom: 1.33333em
+      }
+
+      .blog-layout-2.ast-no-thumb .post-content,
+      .blog-layout-3.ast-no-thumb .post-content {
+        width: calc(100% - 5.714285714em)
+      }
+
+      .blog-layout-2.ast-no-thumb.ast-no-date-box .post-content,
+      .blog-layout-3.ast-no-thumb.ast-no-date-box .post-content {
+        width: 100%
+      }
+
+      .ast-separate-container .ast-grid-2 .ast-article-post.ast-separate-posts,
+      .ast-separate-container .ast-grid-3 .ast-article-post.ast-separate-posts,
+      .ast-separate-container .ast-grid-4 .ast-article-post.ast-separate-posts {
+        border-bottom: 0
+      }
+
+      .ast-separate-container .ast-grid-2>.site-main>.ast-row,
+      .ast-separate-container .ast-grid-3>.site-main>.ast-row,
+      .ast-separate-container .ast-grid-4>.site-main>.ast-row {
+        margin-left: 0;
+        margin-right: 0;
+        display: flex;
+        flex-flow: row wrap;
+        align-items: stretch
+      }
+
+      .ast-separate-container .ast-grid-2>.site-main>.ast-row:after,
+      .ast-separate-container .ast-grid-2>.site-main>.ast-row:before,
+      .ast-separate-container .ast-grid-3>.site-main>.ast-row:after,
+      .ast-separate-container .ast-grid-3>.site-main>.ast-row:before,
+      .ast-separate-container .ast-grid-4>.site-main>.ast-row:after,
+      .ast-separate-container .ast-grid-4>.site-main>.ast-row:before {
+        flex-basis: 0;
+        width: 0
+      }
+
+      .ast-separate-container .ast-grid-2 .ast-article-post,
+      .ast-separate-container .ast-grid-3 .ast-article-post,
+      .ast-separate-container .ast-grid-4 .ast-article-post {
+        display: flex;
+        padding: 0
+      }
+
+      .ast-page-builder-template .ast-grid-2>.site-main>.ast-row,
+      .ast-page-builder-template .ast-grid-3>.site-main>.ast-row,
+      .ast-page-builder-template .ast-grid-4>.site-main>.ast-row,
+      .ast-plain-container .ast-grid-2>.site-main>.ast-row,
+      .ast-plain-container .ast-grid-3>.site-main>.ast-row,
+      .ast-plain-container .ast-grid-4>.site-main>.ast-row {
+        margin-left: -1em;
+        margin-right: -1em;
+        display: flex;
+        flex-flow: row wrap;
+        align-items: stretch
+      }
+
+      .ast-page-builder-template .ast-grid-2>.site-main>.ast-row:after,
+      .ast-page-builder-template .ast-grid-2>.site-main>.ast-row:before,
+      .ast-page-builder-template .ast-grid-3>.site-main>.ast-row:after,
+      .ast-page-builder-template .ast-grid-3>.site-main>.ast-row:before,
+      .ast-page-builder-template .ast-grid-4>.site-main>.ast-row:after,
+      .ast-page-builder-template .ast-grid-4>.site-main>.ast-row:before,
+      .ast-plain-container .ast-grid-2>.site-main>.ast-row:after,
+      .ast-plain-container .ast-grid-2>.site-main>.ast-row:before,
+      .ast-plain-container .ast-grid-3>.site-main>.ast-row:after,
+      .ast-plain-container .ast-grid-3>.site-main>.ast-row:before,
+      .ast-plain-container .ast-grid-4>.site-main>.ast-row:after,
+      .ast-plain-container .ast-grid-4>.site-main>.ast-row:before {
+        flex-basis: 0;
+        width: 0
+      }
+
+      .ast-page-builder-template .ast-grid-2 .ast-article-post,
+      .ast-page-builder-template .ast-grid-3 .ast-article-post,
+      .ast-page-builder-template .ast-grid-4 .ast-article-post,
+      .ast-plain-container .ast-grid-2 .ast-article-post,
+      .ast-plain-container .ast-grid-3 .ast-article-post,
+      .ast-plain-container .ast-grid-4 .ast-article-post {
+        display: flex
+      }
+
+      .ast-page-builder-template .ast-grid-2 .ast-article-post:last-child,
+      .ast-page-builder-template .ast-grid-3 .ast-article-post:last-child,
+      .ast-page-builder-template .ast-grid-4 .ast-article-post:last-child,
+      .ast-plain-container .ast-grid-2 .ast-article-post:last-child,
+      .ast-plain-container .ast-grid-3 .ast-article-post:last-child,
+      .ast-plain-container .ast-grid-4 .ast-article-post:last-child {
+        margin-bottom: 2.5em
+      }
+
+      .single .ast-author-meta .ast-author-details {
+        display: flex;
+        align-items: center
+      }
+
+      .post-author-bio .author-title {
+        margin-bottom: 10px
+      }
+    }
+
+    @media (min-width:922px) {
+
+      .single .post-author-avatar,
+      .single .post-author-bio {
+        float: left;
+        clear: right
+      }
+
+      .single .ast-author-meta .post-author-avatar {
+        margin-right: 1.33333em
+      }
+
+      .single .ast-author-meta .about-author-title-wrapper,
+      .single .ast-author-meta .post-author-bio {
+        text-align: left
+      }
+
+      .blog-layout-2 .post-content {
+        padding-right: 2em
+      }
+
+      .blog-layout-2.ast-no-date-box.ast-no-thumb .post-content {
+        padding-right: 0
+      }
+
+      .blog-layout-3 .post-content {
+        padding-left: 2em
+      }
+
+      .blog-layout-3.ast-no-date-box.ast-no-thumb .post-content {
+        padding-left: 0
+      }
+
+      .ast-separate-container .ast-grid-2 .ast-article-post.ast-separate-posts:nth-child(2n+0),
+      .ast-separate-container .ast-grid-2 .ast-article-post.ast-separate-posts:nth-child(2n+1),
+      .ast-separate-container .ast-grid-3 .ast-article-post.ast-separate-posts:nth-child(2n+0),
+      .ast-separate-container .ast-grid-3 .ast-article-post.ast-separate-posts:nth-child(2n+1),
+      .ast-separate-container .ast-grid-4 .ast-article-post.ast-separate-posts:nth-child(2n+0),
+      .ast-separate-container .ast-grid-4 .ast-article-post.ast-separate-posts:nth-child(2n+1) {
+        padding: 0 1em 0
+      }
+    }
+
+    @media (max-width:544px) {
+      .ast-separate-container .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .circle .posted-on {
+        margin-top: .5em
+      }
+
+      .ast-separate-container .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-thumb-img-content,
+      .ast-separate-container .ast-article-single.remove-featured-img-padding .single-layout-1 .post-thumb-img-content,
+      .ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .square .posted-on,
+      .ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .square .posted-on,
+      .ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .square .posted-on {
+        margin-left: -1em;
+        margin-right: -1em
+      }
+
+      .ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .circle .posted-on,
+      .ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .circle .posted-on,
+      .ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .circle .posted-on {
+        margin-left: -.5em;
+        margin-right: -.5em
+      }
+
+      .ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .circle .posted-on,
+      .ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .circle .posted-on,
+      .ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section:first-child .circle .posted-on {
+        margin-top: .5em
+      }
+
+      .ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-content .ast-blog-featured-section:first-child .post-thumb-img-content,
+      .ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-content .ast-blog-featured-section:first-child .post-thumb-img-content,
+      .ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-content .ast-blog-featured-section:first-child .post-thumb-img-content {
+        margin-top: -1.33333em
+      }
+
+      .ast-separate-container.ast-blog-grid-2 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-thumb-img-content,
+      .ast-separate-container.ast-blog-grid-3 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-thumb-img-content,
+      .ast-separate-container.ast-blog-grid-4 .ast-article-post.remove-featured-img-padding .blog-layout-1 .post-thumb-img-content {
+        margin-left: -1em;
+        margin-right: -1em
+      }
+
+      .ast-separate-container .ast-grid-2 .ast-article-post .blog-layout-1,
+      .ast-separate-container .ast-grid-2 .ast-article-post .blog-layout-2,
+      .ast-separate-container .ast-grid-2 .ast-article-post .blog-layout-3 {
+        padding: 1.33333em 1em
+      }
+
+      .ast-separate-container .ast-grid-3 .ast-article-post .blog-layout-1,
+      .ast-separate-container .ast-grid-4 .ast-article-post .blog-layout-1 {
+        padding: 1.33333em 1em
+      }
+
+      .single.ast-separate-container .ast-author-meta {
+        padding: 1.5em 1em
+      }
+    }
+
+    @media (max-width:544px) {
+      .ast-separate-container .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .square .posted-on {
+        margin-left: -1em
+      }
+
+      .ast-separate-container .ast-article-post.remove-featured-img-padding.has-post-thumbnail .blog-layout-1 .post-content .ast-blog-featured-section .circle .posted-on {
+        margin-left: -.5em
+      }
+    }
+
+    @media (min-width:922px) {
+      .ast-hide-display-device-desktop {
+        display: none
+      }
+    }
+
+    @media (min-width:545px) and (max-width:921px) {
+      .ast-hide-display-device-tablet {
+        display: none
+      }
+    }
+
+    @media (max-width:544px) {
+      .ast-hide-display-device-mobile {
+        display: none
+      }
+    }
+
+    .ast-article-post .ast-date-meta .posted-on,
+    .ast-article-post .ast-date-meta .posted-on * {
+      background: var(--ast-global-color-6);
+      color: #fff
+    }
+
+    .ast-article-post .ast-date-meta .posted-on .date-month,
+    .ast-article-post .ast-date-meta .posted-on .date-year {
+      color: #fff
+    }
+
+    .ast-load-more:hover {
+      color: #fff;
+      border-color: var(--ast-global-color-6);
+      background-color: var(--ast-global-color-6)
+    }
+
+    .ast-loader>div {
+      background-color: var(--ast-global-color-6)
+    }
+
+    .ast-page-builder-template .ast-archive-description {
+      margin-bottom: 2em
+    }
+
+    .entry-content h1,
+    h1 {
+      color: var(--ast-global-color-8)
+    }
+
+    .entry-content h2,
+    h2 {
+      color: var(--ast-global-color-8)
+    }
+
+    .entry-content h3,
+    h3 {
+      color: var(--ast-global-color-8)
+    }
+
+    .entry-content h4,
+    h4 {
+      color: var(--ast-global-color-8)
+    }
+
+    .entry-content h5,
+    h5 {
+      color: var(--ast-global-color-8)
+    }
+
+    .entry-content h6,
+    h6 {
+      color: var(--ast-global-color-8)
+    }
+
+    .ast-header-search .ast-search-menu-icon .search-field {
+      border-radius: 2px
+    }
+
+    .ast-header-search .ast-search-menu-icon .search-submit {
+      border-radius: 2px
+    }
+
+    .ast-header-search .ast-search-menu-icon .search-form {
+      border-top-width: 1px;
+      border-bottom-width: 1px;
+      border-left-width: 1px;
+      border-right-width: 1px;
+      border-color: #ddd;
+      border-radius: 2px
+    }
+
+    @media (min-width:922px) {
+      .ast-container {
+        max-width: 1240px
+      }
+    }
+
+    @media (min-width:993px) {
+      .ast-container {
+        max-width: 1240px
+      }
+    }
+
+    @media (min-width:1201px) {
+      .ast-container {
+        max-width: 1240px
+      }
+    }
+
+    .ast-separate-container .ast-article-post,
+    .ast-separate-container .ast-article-single,
+    .ast-separate-container .ast-comment-list li.depth-1,
+    .ast-separate-container .ast-related-posts-wrap,
+    .ast-separate-container .ast-woocommerce-container,
+    .ast-separate-container .comment-respond,
+    .single.ast-separate-container .ast-author-details {
+      padding-top: 20px;
+      padding-bottom: 20px
+    }
+
+    .ast-narrow-container .ast-article-post,
+    .ast-narrow-container .ast-article-single,
+    .ast-narrow-container .ast-comment-list li.depth-1,
+    .ast-narrow-container .ast-related-posts-wrap,
+    .ast-narrow-container .ast-single-related-posts-container,
+    .ast-narrow-container .ast-woocommerce-container,
+    .ast-narrow-container .comment-respond,
+    .single.ast-narrow-container .ast-author-details {
+      padding-top: 20px;
+      padding-bottom: 20px
+    }
+
+    .ast-separate-container .ast-article-post,
+    .ast-separate-container .ast-article-single,
+    .ast-separate-container .ast-comment-list li.depth-1,
+    .ast-separate-container .ast-related-posts-wrap,
+    .ast-separate-container .ast-woocommerce-container,
+    .ast-separate-container .comment-respond,
+    .ast-separate-container .comments-count-wrapper,
+    .ast-separate-container .related-posts-title-wrapper,
+    .single.ast-separate-container .about-author-title-wrapper,
+    .single.ast-separate-container .ast-author-details {
+      padding-right: 20px;
+      padding-left: 20px
+    }
+
+    .ast-narrow-container .ast-article-post,
+    .ast-narrow-container .ast-article-single,
+    .ast-narrow-container .ast-comment-list li.depth-1,
+    .ast-narrow-container .ast-related-posts-wrap,
+    .ast-narrow-container .ast-single-related-posts-container,
+    .ast-narrow-container .ast-woocommerce-container,
+    .ast-narrow-container .comment-respond,
+    .ast-narrow-container .comments-count-wrapper,
+    .ast-narrow-container .related-posts-title-wrapper,
+    .single.ast-narrow-container .about-author-title-wrapper,
+    .single.ast-narrow-container .ast-author-details {
+      padding-right: 20px;
+      padding-left: 20px
+    }
+
+    .ast-narrow-container #primary,
+    .ast-plain-container #primary,
+    .ast-separate-container #primary,
+    .ast-separate-container.ast-left-sidebar #primary,
+    .ast-separate-container.ast-right-sidebar #primary {
+      margin-top: 20px;
+      margin-bottom: 20px
+    }
+
+    .ast-left-sidebar #primary,
+    .ast-narrow-container #primary,
+    .ast-right-sidebar #primary,
+    .ast-separate-container #primary,
+    .ast-separate-container.ast-left-sidebar #primary,
+    .ast-separate-container.ast-right-sidebar #primary {
+      padding-left: 20px;
+      padding-right: 20px
+    }
+
+    .ast-no-sidebar.ast-narrow-container .entry-content .alignfull,
+    .ast-no-sidebar.ast-separate-container .entry-content .alignfull {
+      margin-right: -20px;
+      margin-left: -20px
+    }
+
+    .ast-narrow-container .comments-title,
+    .ast-separate-container .comments-title {
+      padding-bottom: 0
+    }
+
+    @media (max-width:921px) {
+
+      .ast-separate-container .ast-article-post,
+      .ast-separate-container .ast-article-single,
+      .ast-separate-container .ast-comment-list li.depth-1,
+      .ast-separate-container .ast-related-posts-wrap,
+      .ast-separate-container .ast-woocommerce-container,
+      .ast-separate-container .comment-respond,
+      .single.ast-separate-container .ast-author-details {
+        padding-top: 1.5em;
+        padding-bottom: 1.5em
+      }
+
+      .ast-separate-container .ast-article-post,
+      .ast-separate-container .ast-article-single,
+      .ast-separate-container .ast-comment-list li.depth-1,
+      .ast-separate-container .ast-related-posts-wrap,
+      .ast-separate-container .ast-single-related-posts-container,
+      .ast-separate-container .ast-woocommerce-container,
+      .ast-separate-container .comment-respond,
+      .ast-separate-container .comments-count-wrapper,
+      .ast-separate-container .related-posts-title-wrapper,
+      .single.ast-separate-container .about-author-title-wrapper,
+      .single.ast-separate-container .ast-author-details {
+        padding-right: 2.14em;
+        padding-left: 2.14em
+      }
+
+      .ast-narrow-container .ast-article-post,
+      .ast-narrow-container .ast-article-single,
+      .ast-narrow-container .ast-comment-list li.depth-1,
+      .ast-narrow-container .ast-related-posts-wrap,
+      .ast-narrow-container .ast-single-related-posts-container,
+      .ast-narrow-container .ast-woocommerce-container,
+      .ast-narrow-container .comment-respond,
+      .single.ast-narrow-container .ast-author-details {
+        padding-top: 1.5em;
+        padding-bottom: 1.5em
+      }
+
+      .ast-narrow-container .ast-article-post,
+      .ast-narrow-container .ast-article-single,
+      .ast-narrow-container .ast-comment-list li.depth-1,
+      .ast-narrow-container .ast-related-posts-wrap,
+      .ast-narrow-container .ast-single-related-posts-container,
+      .ast-narrow-container .ast-woocommerce-container,
+      .ast-narrow-container .comment-respond,
+      .ast-narrow-container .comments-count-wrapper,
+      .ast-narrow-container .related-posts-title-wrapper,
+      .single.ast-narrow-container .about-author-title-wrapper,
+      .single.ast-narrow-container .ast-author-details {
+        padding-right: 2.14em;
+        padding-left: 2.14em
+      }
+
+      .ast-narrow-container #primary,
+      .ast-plain-container #primary,
+      .ast-separate-container #primary,
+      .ast-separate-container.ast-left-sidebar #primary,
+      .ast-separate-container.ast-right-sidebar #primary {
+        margin-top: 1.5em;
+        margin-bottom: 1.5em
+      }
+
+      .ast-left-sidebar #primary,
+      .ast-narrow-container #primary,
+      .ast-right-sidebar #primary,
+      .ast-separate-container #primary,
+      .ast-separate-container.ast-left-sidebar #primary,
+      .ast-separate-container.ast-right-sidebar #primary {
+        padding-left: 0;
+        padding-right: 0
+      }
+
+      .ast-no-sidebar.ast-narrow-container .entry-content .alignfull,
+      .ast-no-sidebar.ast-separate-container .entry-content .alignfull {
+        margin-right: -2.14em;
+        margin-left: -2.14em
+      }
+
+      .ast-narrow-container .comments-title,
+      .ast-separate-container .comments-title {
+        padding-bottom: 0
+      }
+    }
+
+    @media (max-width:544px) {
+
+      .ast-separate-container .ast-article-post,
+      .ast-separate-container .ast-article-single,
+      .ast-separate-container .ast-comment-list li.depth-1,
+      .ast-separate-container .ast-related-posts-wrap,
+      .ast-separate-container .ast-woocommerce-container,
+      .ast-separate-container .comment-respond,
+      .single.ast-separate-container .ast-author-details {
+        padding-top: 1.5em;
+        padding-bottom: 1.5em
+      }
+
+      .ast-narrow-container .ast-article-post,
+      .ast-narrow-container .ast-article-single,
+      .ast-narrow-container .ast-comment-list li.depth-1,
+      .ast-narrow-container .ast-related-posts-wrap,
+      .ast-narrow-container .ast-single-related-posts-container,
+      .ast-narrow-container .ast-woocommerce-container,
+      .ast-narrow-container .comment-respond,
+      .single.ast-narrow-container .ast-author-details {
+        padding-top: 1.5em;
+        padding-bottom: 1.5em
+      }
+
+      .ast-separate-container .ast-article-post,
+      .ast-separate-container .ast-article-single,
+      .ast-separate-container .ast-comment-list li.depth-1,
+      .ast-separate-container .ast-related-posts-wrap,
+      .ast-separate-container .ast-woocommerce-container,
+      .ast-separate-container .comment-respond,
+      .ast-separate-container .comments-count-wrapper,
+      .ast-separate-container .related-posts-title-wrapper,
+      .single.ast-separate-container .about-author-title-wrapper,
+      .single.ast-separate-container .ast-author-details {
+        padding-right: 1em;
+        padding-left: 1em
+      }
+
+      .ast-narrow-container .ast-article-post,
+      .ast-narrow-container .ast-article-single,
+      .ast-narrow-container .ast-comment-list li.depth-1,
+      .ast-narrow-container .ast-related-posts-wrap,
+      .ast-narrow-container .ast-single-related-posts-container,
+      .ast-narrow-container .ast-woocommerce-container,
+      .ast-narrow-container .comment-respond,
+      .ast-narrow-container .comments-count-wrapper,
+      .ast-narrow-container .related-posts-title-wrapper,
+      .single.ast-narrow-container .about-author-title-wrapper,
+      .single.ast-narrow-container .ast-author-details {
+        padding-right: 1em;
+        padding-left: 1em
+      }
+
+      .ast-no-sidebar.ast-narrow-container .entry-content .alignfull,
+      .ast-no-sidebar.ast-separate-container .entry-content .alignfull {
+        margin-right: -1em;
+        margin-left: -1em
+      }
+
+      .ast-narrow-container .comments-title,
+      .ast-separate-container .comments-title {
+        padding-bottom: 0
+      }
+    }
+
+    @media (max-width:921px) {
+      .ast-header-break-point .main-header-bar .main-header-bar-navigation .menu-item-has-children>.ast-menu-toggle {
+        top: 0;
+        right: calc(20px - .907em)
+      }
+
+      .ast-flyout-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .main-header-menu>.menu-item-has-children>.ast-menu-toggle {
+        right: calc(20px - .907em)
+      }
+    }
+
+    @media (max-width:544px) {
+
+      .ast-header-break-point .ast-mobile-header-stack .ast-mobile-menu-buttons,
+      .ast-header-break-point .header-main-layout-2 .site-branding {
+        padding-bottom: 0
+      }
+    }
+
+    @media (max-width:921px) {
+
+      .ast-separate-container #secondary .widget,
+      .ast-separate-container.ast-two-container #secondary .widget {
+        margin-bottom: 1.5em
+      }
+    }
+
+    .ast-narrow-container #primary,
+    .ast-separate-container #primary {
+      padding-top: 0
+    }
+
+    @media (max-width:921px) {
+
+      .ast-narrow-container #primary,
+      .ast-separate-container #primary {
+        padding-top: 0
+      }
+    }
+
+    .ast-narrow-container #primary,
+    .ast-separate-container #primary {
+      padding-bottom: 0
+    }
+
+    @media (max-width:921px) {
+
+      .ast-narrow-container #primary,
+      .ast-separate-container #primary {
+        padding-bottom: 0
+      }
+    }
+
+    .ast-builder-menu-1 .main-header-menu.submenu-with-border .astra-full-megamenu-wrapper,
+    .ast-builder-menu-1 .main-header-menu.submenu-with-border .astra-megamenu {
+      border-top-width: 2px;
+      border-bottom-width: 0;
+      border-right-width: 0;
+      border-left-width: 0;
+      border-style: solid
+    }
+
+    @media (max-width:921px) {
+      .ast-header-break-point .ast-builder-menu-1 .main-header-menu .sub-menu>.menu-item>.menu-link {
+        padding-top: 0;
+        padding-bottom: 0;
+        padding-left: 30px;
+        padding-right: 20px
+      }
+
+      .ast-header-break-point .ast-builder-menu-1 .sub-menu .menu-item.menu-item-has-children>.ast-menu-toggle {
+        top: 0;
+        right: calc(20px - .907em)
+      }
+    }
+
+    @media (max-width:544px) {
+      .ast-header-break-point .ast-builder-menu-1 .sub-menu .menu-item.menu-item-has-children>.ast-menu-toggle {
+        top: 0
+      }
+    }
+
+    [CLASS*="-sticky-header-active"] .ast-header-sticked [data-section=section-header-mobile-trigger] .ast-button-wrap .mobile-menu-toggle-icon .ast-mobile-svg {
+      fill: var(--ast-global-color-8)
+    }
+
+    [CLASS*="-sticky-header-active"] .ast-header-sticked [data-section=section-header-mobile-trigger] .ast-button-wrap .mobile-menu-wrap .mobile-menu {
+      color: var(--ast-global-color-8)
+    }
+
+    [CLASS*="-sticky-header-active"] .ast-header-sticked [data-section=section-header-mobile-trigger] .ast-button-wrap .ast-mobile-menu-trigger-minimal {
+      background: 0 0
+    }
+
+    .site-title,
+    .site-title a {
+      font-weight: 600;
+      font-family: "Playfair Display", serif;
+      line-height: 1.23em
+    }
+
+    .entry-meta,
+    .read-more {
+      font-size: 16px;
+      font-size: 1rem
+    }
+
+    .ast-pagination .page-navigation,
+    .ast-pagination .page-numbers {
+      font-size: 16px;
+      font-size: 1rem
+    }
+
+    .secondary .widget-title,
+    .woocommerce-page #secondary .widget .widget-title {
+      font-size: 26px;
+      font-size: 1.625rem;
+      font-weight: 600;
+      font-family: "Playfair Display", serif;
+      line-height: 1.23em
+    }
+
+    .secondary .widget>:not(.widget-title) {
+      font-size: 16px;
+      font-size: 1rem
+    }
+
+    .archive .entry-title,
+    .archive .entry-title a,
+    .blog .entry-title,
+    .blog .entry-title a,
+    .search .entry-title,
+    .search .entry-title a {
+      font-family: "Playfair Display", serif;
+      font-weight: 500;
+      line-height: 1.23em
+    }
+
+    .ast-button,
+    button,
+    input#submit,
+    input[type=button],
+    input[type=reset],
+    input[type=submit] {
+      font-size: 20px;
+      font-size: 1.25rem;
+      font-weight: 600
+    }
+
+    h4.widget-title {
+      font-weight: 600
+    }
+
+    h5.widget-title {
+      font-weight: 600
+    }
+
+    h6.widget-title {
+      font-weight: 600
+    }
+
+    .ast-hfb-header.ast-desktop .ast-builder-menu-1 .main-header-menu .menu-item.menu-item-heading>.menu-link {
+      font-weight: 700
+    }
+
+    .ast-desktop .ast-mm-widget-content .ast-mm-widget-item {
+      padding: 0
+    }
+
+    .ast-desktop .menu-link>.icon-arrow:first-child,
+    .ast-header-break-point .astra-mm-highlight-label+.icon-arrow,
+    .ast-header-break-point .main-header-menu>.menu-item>.menu-link .icon-arrow,
+    .ast-header-break-point .menu-text+.icon-arrow {
+      display: none
+    }
+
+    .ast-advanced-headers-layout.ast-advanced-headers-layout-2 .ast-container {
+      flex-direction: column
+    }
+
+    .ast-advanced-headers-different-logo .advanced-header-logo,
+    .ast-header-break-point .ast-has-mobile-header-logo .advanced-header-logo {
+      display: inline-block
+    }
+
+    .ast-header-break-point.ast-advanced-headers-different-logo .ast-has-mobile-header-logo .ast-mobile-header-logo {
+      display: none
+    }
+
+    .ast-advanced-headers-layout {
+      width: 100%
+    }
+
+    .ast-header-break-point .ast-advanced-headers-parallax {
+      background-attachment: fixed
+    }
+  </style>
+  <link data-optimized="1" rel="stylesheet" id="dflip-style-css" href="https://mtws.one/wp-content/litespeed/css/8599a5c0a4c70fedb3cba5f9efdc1b23.css?ver=c1b23" media="all">
+  <link data-optimized="1" rel="stylesheet" id="popup-maker-site-css" href="https://mtws.one/wp-content/litespeed/css/166b364bd6ee0a5b36710809c61fba4e.css?ver=fba4e" media="all">
+  <link data-optimized="1" rel="stylesheet" id="elementor-frontend-css" href="https://mtws.one/wp-content/litespeed/css/5146755a52bf2a7c70dbf99eed3eaf8d.css?ver=eaf8d" media="all">
+  <link data-optimized="1" rel="stylesheet" id="swiper-css" href="https://mtws.one/wp-content/litespeed/css/7b31e11cfc4da72f1c9b93da7c37695b.css?ver=7695b" media="all">
+  <link data-optimized="1" rel="stylesheet" id="e-swiper-css" href="https://mtws.one/wp-content/litespeed/css/b0e2505a1df4c8ea556f0cb62e4f49fe.css?ver=f49fe" media="all">
+  <link data-optimized="1" rel="stylesheet" id="elementor-post-55-css" href="https://mtws.one/wp-content/litespeed/css/25990bfca0290ceccc0a1e98edb85f9e.css?ver=85f9e" media="all">
+  <link data-optimized="1" rel="stylesheet" id="elementor-pro-css" href="https://mtws.one/wp-content/litespeed/css/b568357f7ae46f39b604316dea89ff8d.css?ver=9ff8d" media="all">
+  <link data-optimized="1" rel="stylesheet" id="widget-image-css" href="https://mtws.one/wp-content/litespeed/css/bc3e9af5b75feb24a66816b4a1e99733.css?ver=99733" media="all">
+  <link data-optimized="1" rel="stylesheet" id="widget-text-editor-css" href="https://mtws.one/wp-content/litespeed/css/62f15e7af4bf18b046aa6d06e04f9d1a.css?ver=f9d1a" media="all">
+  <link data-optimized="1" rel="stylesheet" id="widget-spacer-css" href="https://mtws.one/wp-content/litespeed/css/0fdff94aa5c58c9e38a949d91e06e3b5.css?ver=6e3b5" media="all">
+  <link data-optimized="1" rel="stylesheet" id="widget-heading-css" href="https://mtws.one/wp-content/litespeed/css/baeedae13978df3d888bf088ee97db2f.css?ver=7db2f" media="all">
+  <link data-optimized="1" rel="stylesheet" id="elementor-post-1153-css" href="https://mtws.one/wp-content/litespeed/css/38b2f4ffa8289ea7769f6be43a471493.css?ver=71493" media="all">
+  <link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=DM+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.7" media="all">
+  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+  <!--[if IE]>
       <script
         src="https://mtws.one/wp-content/themes/astra/assets/js/minified/flexibility.min.js"
         id="astra-flexibility-js"
@@ -166,4 +4499,771 @@ HTML code
       <script id="astra-flexibility-js-after">
         flexibility(document.documentElement);
       </script>
-    <![endif]--><script src="https://mtws.one/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/b6442fa9e43c3588d5ed7ec79fbefa57.js?ver=efa57" id="jquery-migrate-js" defer data-deferred="1"></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/ff558406a6fdfa7bb6b74810840459ce.js?ver=459ce" id="taxopress-frontend-js-js" defer data-deferred="1"></script><script src="https://www.googletagmanager.com/gtag/js?id=GT-T9HSBTP" id="google_gtagjs-js" defer data-deferred="1"></script><script id="google_gtagjs-js-after" src="data:text/javascript;base64,d2luZG93LmRhdGFMYXllcj13aW5kb3cuZGF0YUxheWVyfHxbXTtmdW5jdGlvbiBndGFnKCl7ZGF0YUxheWVyLnB1c2goYXJndW1lbnRzKX0KZ3RhZygic2V0IiwibGlua2VyIix7ImRvbWFpbnMiOlsibXR3cy5vbmUiXX0pO2d0YWcoImpzIixuZXcgRGF0ZSgpKTtndGFnKCJzZXQiLCJkZXZlbG9wZXJfaWQuZFpUTmlNVCIsITApO2d0YWcoImNvbmZpZyIsIkdULVQ5SFNCVFAiKQ==" defer></script><link rel="https://api.w.org/" href="https://mtws.one/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mtws.one/xmlrpc.php?rsd"><link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://mtws.one/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmtws.one%2Fdawah%2F"><link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://mtws.one/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmtws.one%2Fdawah%2F&#038;format=xml"><meta name="cdp-version" content="1.4.9"><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><script src="data:text/javascript;base64,JChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24oKXt2YXIgJHRlbXA9JCgiPGlucHV0PiIpO3ZhciAkdXJsPSdodHRwczovL2wubXR3cy5vbmUvZGF3YWgnOyQoJyNjb3B5LWRhd2FoJykuY2xpY2soZnVuY3Rpb24oKXskKCJib2R5IikuYXBwZW5kKCR0ZW1wKTskdGVtcC52YWwoJHVybCkuc2VsZWN0KCk7ZG9jdW1lbnQuZXhlY0NvbW1hbmQoImNvcHkiKTskdGVtcC5yZW1vdmUoKTskKCIjdXJsIikudGV4dCgiVVJMIGNvcGllZCEiKX0pfSk=" defer></script><meta name="generator" content="Site Kit by Google 1.139.0"><script type="text/javascript" src="data:text/javascript;base64,KGZ1bmN0aW9uKGMsbCxhLHIsaSx0LHkpe2NbYV09Y1thXXx8ZnVuY3Rpb24oKXsoY1thXS5xPWNbYV0ucXx8W10pLnB1c2goYXJndW1lbnRzKX07dD1sLmNyZWF0ZUVsZW1lbnQocik7dC5hc3luYz0xO3Quc3JjPSJodHRwczovL3d3dy5jbGFyaXR5Lm1zL3RhZy8iK2krIj9yZWY9d29yZHByZXNzIjt5PWwuZ2V0RWxlbWVudHNCeVRhZ05hbWUocilbMF07eS5wYXJlbnROb2RlLmluc2VydEJlZm9yZSh0LHkpfSkod2luZG93LGRvY3VtZW50LCJjbGFyaXR5Iiwic2NyaXB0IiwiajYwdzRmOG1xbCIp" defer></script><style>img#wpstats{display:none}</style><meta name="ssp-config-path" content="/wp-content/media/simply-static/configs/"><link rel="pingback" href="https://mtws.one/xmlrpc.php"><meta name="generator" content="Elementor 3.25.6; features: e_font_icon_svg, additional_custom_breakpoints, e_optimized_control_loading; settings: css_print_method-external, google_font-enabled, font_display-auto"><style>.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) *{background-image:none!important}@media screen and (max-height:1024px){.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) *{background-image:none!important}}@media screen and (max-height:640px){.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) *{background-image:none!important}}</style><script>(function(e,t,a,n,r){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var g=t.getElementsByTagName(a)[0],m=t.createElement(a),s="dataLayer"!=n?"&l="+n:"";m.async=!0,m.src="https://www.googletagmanager.com/gtm.js?id="+r+s,g.parentNode.insertBefore(m,g)})(window,document,"script","dataLayer","GTM-W45KFLV")</script><meta name="theme-color" content="#FFFFFF"><link rel="icon" href="https://i0.wp.com/mtws.one/wp-content/uploads/2023/04/cropped-logo.png?fit=32%2C32&#038;ssl=1" sizes="32x32"><link rel="icon" href="https://i0.wp.com/mtws.one/wp-content/uploads/2023/04/cropped-logo.png?fit=192%2C192&#038;ssl=1" sizes="192x192"><link rel="apple-touch-icon" href="https://i0.wp.com/mtws.one/wp-content/uploads/2023/04/cropped-logo.png?fit=180%2C180&#038;ssl=1"><meta name="msapplication-TileImage" content="https://i0.wp.com/mtws.one/wp-content/uploads/2023/04/cropped-logo.png?fit=270%2C270&#038;ssl=1"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"></head><body data-rsssl="1" class="e-landing-page-template e-landing-page-template-elementor_canvas single single-e-landing-page postid-1153 single-format-standard wp-custom-logo ast-desktop ast-page-builder-template ast-no-sidebar astra-4.6.8 ast-blog-single-style-1 ast-custom-post-type ast-single-post ast-inherit-site-logo-transparent ast-hfb-header ast-full-width-layout ast-sticky-header-shrink ast-inherit-site-logo-sticky elementor-default elementor-template-canvas elementor-kit-55 elementor-page elementor-page-1153 astra-addon-4.3.3"><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W45KFLV" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div data-elementor-type="landing-page" data-elementor-id="1153" class="elementor elementor-1153" data-elementor-post-type="e-landing-page"><div class="elementor-element elementor-element-da9b6e7 e-con-full e-flex e-con e-parent" data-id="da9b6e7" data-element_type="container" data-settings="{&#34;background_background&#34;:&#34;classic&#34;}"><div class="elementor-element elementor-element-5640c56 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="5640c56" data-element_type="widget" data-widget_type="image.default"><div class="elementor-widget-container"><img decoding="async" src="https://i0.wp.com/mtws.one/wp-content/uploads/2023/04/logo.webp?fit=1000%2C1000&#038;ssl=1" title="logo" alt="logo" loading="lazy"></div></div><div class="elementor-element elementor-element-e90bdc9 e-flex e-con-boxed e-con e-child" data-id="e90bdc9" data-element_type="container"><div class="e-con-inner"><div class="elementor-element elementor-element-3298b19 elementor-widget elementor-widget-text-editor" data-id="3298b19" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><h3 style="text-align:center">Welcome! Take a moment to learn more about Islām.</h3></div></div></div></div></div><div class="elementor-element elementor-element-0fb3957 e-con-full e-flex e-con e-parent" data-id="0fb3957" data-element_type="container"><div class="elementor-element elementor-element-68aa254 e-con-full e-flex e-con e-child" data-id="68aa254" data-element_type="container"><div class="elementor-element elementor-element-dbbd01f elementor-widget elementor-widget-spacer" data-id="dbbd01f" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-95cefc7 elementor-widget elementor-widget-heading" data-id="95cefc7" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">A Guide to Islām Audiobook</h2></div></div><div class="elementor-element elementor-element-f9de16e elementor-widget elementor-widget-music-player" data-id="f9de16e" data-element_type="widget" data-widget_type="music-player.default"><div class="elementor-widget-container"><article id="arbitrary-instance-6738ffa2c4f84" class="iron_widget_radio"><div class="iron-audioplayer sonaar-no-artwork srp_post_player playlist_has_no_ctas skin_floated" id="arbitrary-instance-6738ffa2c4f84-949dfb6dc9" data-id="arbitrary-instance-6738ffa2c4f84" data-track-sw-cursor="" data-lazyload="" data-albums="1058" data-category="" data-url-playlist="https://mtws.one/?load=playlist.json&#038;title=&#038;albums=1058&#038;category=&#038;posts_not_in=&#038;category_not_in=&#038;feed_title=&#038;feed=&#038;feed_img=&#038;el_widget_id=&#038;artwork=&#038;posts_per_pages=-1&#038;all_category=&#038;single_playlist=1&#038;reverse_tracklist=&#038;audio_meta_field=&#038;repeater_meta_field=&#038;import_file=&#038;rss_items=-1&#038;rss_item_title=&#038;is_favorite=&#038;is_recentlyplayed=&#038;srp_order=date_DESC" data-sticky-player="" data-shuffle="false" data-playlist_title="" data-scrollbar="" data-wave-color="" data-wave-progress-color="" data-spectro="" data-no-wave="" data-hide-progressbar="" data-progress-bar-style="" data-feedurl="0" data-notrackskip="" data-no-loop-tracklist="" data-playertemplate="skin_float_tracklist" data-hide-artwork="1" data-speedrate="1" data-tracks-per-page="" data-pagination_scroll_offset="" data-adaptive-colors="" data-adaptive-colors-freeze="" style="opacity:0"><div class="sonaar-grid" style=""><div class="playlist sr_waveform_mediaElement" id="playlist_arbitrary-instance-6738ffa2c4f84"><h3 class="sr_it-playlist-title"></h3><div class="srp_subtitle"></div><div class="srp_tracklist"><ul class="srp_list"><li class="sr-playlist-item" data-audiopath="https://mtws.one/wp-content/uploads/2023/04/A-Glimpse-into-the-Religion-of-Islam-Audiobook1.mp3" data-showloading="1" data-albumtitle="A Glimpse into the Religion of Islam" data-albumart="https://i0.wp.com/mtws.one/wp-content/uploads/2023/04/A-Glimpse-into-the-Religion-of-Islam-Audiobook1-mp3-image-jpg.webp?fit=500,500&#038;ssl=1" data-releasedate="" data-date="2024/03/07" data-date-formated="March 7, 2024" data-show-date="" data-tracktitle="A Glimpse into the Religion of Islam Audiobook" data-artist="AudioDeen" data-trackid="399" data-tracktime="25:56" data-relatedtrack="" data-post-url="" data-post-id="1058" data-track-pos="0" data-peakfile="https://mtws.one/wp-content/uploads/audio_peaks/399.peak" data-peakfile-allow="1" data-is-preview="" data-track-lyric="" data-icecast_json="" data-icecast_mount=""><div class="sr-playlist-item-flex"><span class="store-list"></span></div><div class="srp_track_description"></div></li></ul></div></div></div><div class="album-player sr_waveform_mediaElement"><div class="srp_miniplayer_metas"><div class="srp_meta srp_meta_0 track-title" data-prefix="" aria-label="Track title"></div><div class="srp_meta srp_meta_1 album-title" data-prefix="" aria-label="Title"></div></div><div class="player"><div class="sr_progressbar"><div class="currentTime">00:00</div><div id="arbitrary-instance-6738ffa2c4f84-11ed1749f3-wave" class="wave"><div class="sonaar_fake_wave" style="height:70px"><audio src="" class="sonaar_media_element"></audio><div class="sonaar_wave_base"><canvas id="sonaar_wave_base_canvas" class="" height="70" width="2540"></canvas><svg></svg></div><div class="sonaar_wave_cut"><canvas id="sonaar_wave_cut_canvas" class="" height="70" width="2540"></canvas><svg></svg></div></div></div><div class="totalTime"></div></div><div class="srp_main_control srp_oneColumn"><div class="control"><div class="play" style="opacity:0" aria-label="Play" title="Play/Pause"><i class="sricon-play"></i></div></div><div class="control"></div></div></div></div><div class="album-store"></div></div><script id="srp_js_params_6738ffa2c4f84" src="data:text/javascript;base64,dmFyIHNycF9wbGF5ZXJfcGFyYW1zXzY3MzhmZmEyYzRmODQ9eyJ0aXRsZSI6IiIsInN0b3JlX3RpdGxlX3RleHQiOiIiLCJhbGJ1bXMiOiIxMDU4IiwiaGlkZV9hcnR3b3JrIjoidHJ1ZSIsInN0aWNreV9wbGF5ZXIiOiIiLCJzaG93X2FsYnVtX21hcmtldCI6InRydWUiLCJzaG93X3RyYWNrX21hcmtldCI6InRydWUiLCJoaWRlX3RpbWVsaW5lIjoiZmFsc2UiLCJlbGVtZW50b3IiOiJ0cnVlIiwidHJhY2tzX3Blcl9wYWdlIjoiIiwidGl0bGV0YWdfc291bmR3YXZlIjoiZGl2IiwidGl0bGV0YWdfcGxheWxpc3QiOiJoMyIsInNob3dfY29udHJvbF9vbl9ob3ZlciI6ImZhbHNlIiwic2hvd19wbGF5bGlzdCI6ImZhbHNlIiwicmV2ZXJzZV90cmFja2xpc3QiOiIiLCJ3YXZlX2NvbG9yIjoiIiwid2F2ZV9wcm9ncmVzc19jb2xvciI6IiIsInNwZWN0cm8iOiIiLCJzaHVmZmxlIjoiIiwic2VhcmNoYmFyIjoiIiwic2VhcmNoYmFyX3BsYWNlaG9sZGVyIjoiIiwicGxheWVyX2xheW91dCI6InNraW5fZmxvYXRfdHJhY2tsaXN0IiwiYXJ0d29yayI6IiIsIm9yZGVyYnkiOiJkYXRlIiwib3JkZXIiOiJERVNDIiwidXNlX3BsYXlfbGFiZWxfd2l0aF9pY29uIjoiZmFsc2UiLCJtYWluX3NldHRpbmdzIjoifHwifQp2YXIgc3JwX3BsYXllcl9wYXJhbXNfYXJnc182NzM4ZmZhMmM0Zjg0PXsiYmVmb3JlX3dpZGdldCI6IjxhcnRpY2xlIGlkPVwiYXJiaXRyYXJ5LWluc3RhbmNlLTY3MzhmZmEyYzRmODRcIiBjbGFzcz1cImlyb25fd2lkZ2V0X3JhZGlvXCI+IiwiYWZ0ZXJfd2lkZ2V0IjoiPFwvYXJ0aWNsZT4iLCJiZWZvcmVfdGl0bGUiOiI8c3BhbiBjbGFzcz0naGVhZGluZy10Myc+PFwvc3Bhbj48aDMgY2xhc3M9XCJ3aWRnZXR0aXRsZVwiPiIsImFmdGVyX3RpdGxlIjoiPFwvaDM+Iiwid2lkZ2V0X2lkIjoiYXJiaXRyYXJ5LWluc3RhbmNlLTY3MzhmZmEyYzRmODQifQ==" defer></script><script src="data:text/javascript;base64,aWYodHlwZW9mIHNldElyb25BdWRpb3BsYXllcnMhPT0idW5kZWZpbmVkIil7c2V0SXJvbkF1ZGlvcGxheWVycygiYXJiaXRyYXJ5LWluc3RhbmNlLTY3MzhmZmEyYzRmODQiKX0=" defer></script></article></div></div><div class="elementor-element elementor-element-95ffaf7 elementor-align-center elementor-widget elementor-widget-button" data-id="95ffaf7" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="https://mtws.one/a-glimpse-into-the-religion-of-islam/"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Read the Book</span></span></a></div></div></div></div></div><div class="elementor-element elementor-element-53987ec e-con-full e-flex e-con e-parent" data-id="53987ec" data-element_type="container"><div class="elementor-element elementor-element-9b2de29 e-con-full e-flex e-con e-child" data-id="9b2de29" data-element_type="container"><div class="elementor-element elementor-element-e433aa5 elementor-widget elementor-widget-heading" data-id="e433aa5" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">Who is Allāh?</h2></div></div><div class="elementor-element elementor-element-decdf74 elementor-align-center elementor-widget elementor-widget-button" data-id="decdf74" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="#popmake-1115"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Explore</span></span></a></div></div></div></div><div class="elementor-element elementor-element-2b52c02 e-con-full e-flex e-con e-child" data-id="2b52c02" data-element_type="container"><div class="elementor-element elementor-element-0870e71 elementor-widget elementor-widget-heading" data-id="0870e71" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">What is Prayer?</h2></div></div><div class="elementor-element elementor-element-b6210f2 elementor-align-center elementor-widget elementor-widget-button" data-id="b6210f2" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="#popmake-1143"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Explore</span></span></a></div></div></div></div><div class="elementor-element elementor-element-cf1aa7e e-con-full e-flex e-con e-child" data-id="cf1aa7e" data-element_type="container"><div class="elementor-element elementor-element-92a7770 elementor-widget elementor-widget-heading" data-id="92a7770" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">What is Islām?</h2></div></div><div class="elementor-element elementor-element-af6f9de elementor-align-center elementor-widget elementor-widget-button" data-id="af6f9de" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="#popmake-1134"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Explore</span></span></a></div></div></div></div><div class="elementor-element elementor-element-29e3ca2 e-con-full e-flex e-con e-child" data-id="29e3ca2" data-element_type="container"><div class="elementor-element elementor-element-3a90536 elementor-widget elementor-widget-heading" data-id="3a90536" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default"><h2 data-elementor-setting-key="title" data-pen-placeholder="Type Here..." style="font-style:normal">Un Vistazo Dentro de la Religión del Islām</h2></h2></div></div><div class="elementor-element elementor-element-3268584 elementor-align-center elementor-widget elementor-widget-button" data-id="3268584" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="https://mtws.one/un-vistazo-dentro-de-la-religion-del-islam"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Listen</span></span></a></div></div></div></div><div class="elementor-element elementor-element-c4b1253 e-con-full e-flex e-con e-child" data-id="c4b1253" data-element_type="container"><div class="elementor-element elementor-element-51f9291 elementor-widget elementor-widget-heading" data-id="51f9291" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">How to become Muslim</h2></div></div><div class="elementor-element elementor-element-5b046d9 elementor-align-center elementor-widget elementor-widget-button" data-id="5b046d9" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="#popmake-1374"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Explore</span></span></a></div></div></div></div><div class="elementor-element elementor-element-48c68c0 e-con-full e-flex e-con e-child" data-id="48c68c0" data-element_type="container"><div class="elementor-element elementor-element-50a6b9d elementor-widget elementor-widget-heading" data-id="50a6b9d" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">How to make Wudū (ablution)?</h2></div></div><div class="elementor-element elementor-element-09cb4c2 elementor-align-center elementor-widget elementor-widget-button" data-id="09cb4c2" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="https://mtws.one/how-to-make-wudu-video/"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Watch</span></span></a></div></div></div></div><div class="elementor-element elementor-element-d2a315b e-con-full e-flex e-con e-child" data-id="d2a315b" data-element_type="container"><div class="elementor-element elementor-element-7cdb53e elementor-widget elementor-widget-heading" data-id="7cdb53e" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">How to Pray?</h2></div></div><div class="elementor-element elementor-element-bbe81e2 elementor-align-center elementor-widget elementor-widget-button" data-id="bbe81e2" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="https://mtws.one/how-to-pray-video/"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Watch</span></span></a></div></div></div></div><div class="elementor-element elementor-element-d7889df e-con-full e-flex e-con e-child" data-id="d7889df" data-element_type="container"><div class="elementor-element elementor-element-2657d9c elementor-widget elementor-widget-heading" data-id="2657d9c" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">A Comprehensive Guide to the New Muslim</h2></div></div><div class="elementor-element elementor-element-941f44c elementor-align-center elementor-widget elementor-widget-button" data-id="941f44c" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="https://mtws.one/a-comprehensive-guide-for-the-new-muslim-by-anwar-wright/"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Listen</span></span></a></div></div></div></div><div class="elementor-element elementor-element-68bf25a e-con-full e-flex e-con e-child" data-id="68bf25a" data-element_type="container"><div class="elementor-element elementor-element-50c75fa elementor-widget elementor-widget-heading" data-id="50c75fa" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">Listen to the Holy Qu'rān</h2></div></div><div class="elementor-element elementor-element-a895732 elementor-align-center elementor-widget elementor-widget-button" data-id="a895732" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="https://mtws.one/listen-to-the-quran-juz-amma"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Listen</span></span></a></div></div></div></div></div><div class="elementor-element elementor-element-099e1fd e-con-full e-flex e-con e-parent" data-id="099e1fd" data-element_type="container"><div class="elementor-element elementor-element-fdac8c5 e-con-full e-flex e-con e-child" data-id="fdac8c5" data-element_type="container"><div class="elementor-element elementor-element-dcd54dc elementor-widget elementor-widget-heading" data-id="dcd54dc" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">The Opening Chapter of the Qur'ān (Arabic)</h2></div></div><div class="elementor-element elementor-element-c050d59 elementor-widget elementor-widget-text-editor" data-id="c050d59" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container">These are from the words revealed from God to mankind.</div></div><div class="elementor-element elementor-element-32257d9 elementor-widget elementor-widget-music-player" data-id="32257d9" data-element_type="widget" data-widget_type="music-player.default"><div class="elementor-widget-container"><article id="arbitrary-instance-6738ffa2e777f" class="iron_widget_radio"><div class="iron-audioplayer srp_post_player playlist_has_no_ctas skin_floated" id="arbitrary-instance-6738ffa2e777f-70367f546e" data-id="arbitrary-instance-6738ffa2e777f" data-track-sw-cursor="" data-lazyload="" data-albums="1407" data-category="" data-url-playlist="https://mtws.one/?load=playlist.json&#038;title=&#038;albums=1407&#038;category=&#038;posts_not_in=&#038;category_not_in=&#038;feed_title=&#038;feed=&#038;feed_img=&#038;el_widget_id=&#038;artwork=&#038;posts_per_pages=-1&#038;all_category=&#038;single_playlist=1&#038;reverse_tracklist=&#038;audio_meta_field=&#038;repeater_meta_field=&#038;import_file=&#038;rss_items=-1&#038;rss_item_title=&#038;is_favorite=&#038;is_recentlyplayed=&#038;srp_order=date_DESC" data-sticky-player="" data-shuffle="false" data-playlist_title="" data-scrollbar="" data-wave-color="" data-wave-progress-color="" data-spectro="" data-no-wave="" data-hide-progressbar="" data-progress-bar-style="" data-feedurl="0" data-notrackskip="" data-no-loop-tracklist="" data-playertemplate="skin_float_tracklist" data-hide-artwork="" data-speedrate="1" data-tracks-per-page="" data-pagination_scroll_offset="" data-adaptive-colors="" data-adaptive-colors-freeze="" style="opacity:0"><div class="sonaar-grid"><div class="sonaar-Artwort-box"><div class="control"></div><div class="album"><div class="album-art"><img alt="album-art"></div></div></div><div class="playlist sr_waveform_mediaElement" id="playlist_arbitrary-instance-6738ffa2e777f"><h3 class="sr_it-playlist-title"></h3><div class="srp_subtitle">These are from the words revealed from God to mankind.</div><div class="srp_tracklist"><ul class="srp_list"><li class="sr-playlist-item" data-audiopath="https://mtws-one.s3.amazonaws.com/audio/f%C4%81tihah/full-f%C4%81tihah.mp3" data-showloading="1" data-albumtitle="Opening Chapter of the Qur&#039;ān" data-albumart="" data-releasedate="These are from the words revealed from God to mankind." data-date="2024/03/28" data-date-formated="March 28, 2024" data-show-date="" data-tracktitle="-" data-artist="" data-trackid="" data-tracktime="" data-relatedtrack="" data-post-url="" data-post-id="1407" data-track-pos="0" data-peakfile="" data-peakfile-allow="" data-is-preview="" data-track-lyric="" data-icecast_json="" data-icecast_mount=""><div class="sr-playlist-item-flex"><span class="store-list"></span></div><div class="srp_track_description"></div></li></ul></div></div></div><div class="album-player sr_waveform_mediaElement"><div class="srp_miniplayer_metas"><div class="srp_meta srp_meta_0 track-title" data-prefix="" aria-label="Track title"></div><div class="srp_meta srp_meta_1 album-title" data-prefix="" aria-label="Title"></div></div><div class="player"><div class="sr_progressbar"><div class="currentTime">00:00</div><div id="arbitrary-instance-6738ffa2e777f-de0e9316e2-wave" class="wave"><div class="sonaar_fake_wave" style="height:70px"><audio src="" class="sonaar_media_element"></audio><div class="sonaar_wave_base"><canvas id="sonaar_wave_base_canvas" class="" height="70" width="2540"></canvas><svg></svg></div><div class="sonaar_wave_cut"><canvas id="sonaar_wave_cut_canvas" class="" height="70" width="2540"></canvas><svg></svg></div></div></div><div class="totalTime"></div></div><div class="srp_main_control srp_oneColumn"><div class="control"><div class="play" style="opacity:0" aria-label="Play" title="Play/Pause"><i class="sricon-play"></i></div></div><div class="control"></div></div></div></div><div class="album-store"></div></div><script id="srp_js_params_6738ffa2e777f" src="data:text/javascript;base64,dmFyIHNycF9wbGF5ZXJfcGFyYW1zXzY3MzhmZmEyZTc3N2Y9eyJ0aXRsZSI6IiIsInN0b3JlX3RpdGxlX3RleHQiOiIiLCJhbGJ1bXMiOiIxNDA3IiwiaGlkZV9hcnR3b3JrIjoiZmFsc2UiLCJzdGlja3lfcGxheWVyIjoiIiwic2hvd19hbGJ1bV9tYXJrZXQiOiJmYWxzZSIsInNob3dfdHJhY2tfbWFya2V0IjoidHJ1ZSIsImhpZGVfdGltZWxpbmUiOiJmYWxzZSIsImVsZW1lbnRvciI6InRydWUiLCJ0cmFja3NfcGVyX3BhZ2UiOiIiLCJ0aXRsZXRhZ19zb3VuZHdhdmUiOiJkaXYiLCJ0aXRsZXRhZ19wbGF5bGlzdCI6ImgzIiwic2hvd19jb250cm9sX29uX2hvdmVyIjoiZmFsc2UiLCJzaG93X3BsYXlsaXN0IjoiZmFsc2UiLCJyZXZlcnNlX3RyYWNrbGlzdCI6IiIsIndhdmVfY29sb3IiOiIiLCJ3YXZlX3Byb2dyZXNzX2NvbG9yIjoiIiwic3BlY3RybyI6IiIsInNodWZmbGUiOiIiLCJzZWFyY2hiYXIiOiIiLCJzZWFyY2hiYXJfcGxhY2Vob2xkZXIiOiIiLCJwbGF5ZXJfbGF5b3V0Ijoic2tpbl9mbG9hdF90cmFja2xpc3QiLCJhcnR3b3JrIjoiIiwib3JkZXJieSI6ImRhdGUiLCJvcmRlciI6IkRFU0MiLCJ1c2VfcGxheV9sYWJlbF93aXRoX2ljb24iOiJmYWxzZSIsIm1haW5fc2V0dGluZ3MiOiJ8fCJ9CnZhciBzcnBfcGxheWVyX3BhcmFtc19hcmdzXzY3MzhmZmEyZTc3N2Y9eyJiZWZvcmVfd2lkZ2V0IjoiPGFydGljbGUgaWQ9XCJhcmJpdHJhcnktaW5zdGFuY2UtNjczOGZmYTJlNzc3ZlwiIGNsYXNzPVwiaXJvbl93aWRnZXRfcmFkaW9cIj4iLCJhZnRlcl93aWRnZXQiOiI8XC9hcnRpY2xlPiIsImJlZm9yZV90aXRsZSI6IjxzcGFuIGNsYXNzPSdoZWFkaW5nLXQzJz48XC9zcGFuPjxoMyBjbGFzcz1cIndpZGdldHRpdGxlXCI+IiwiYWZ0ZXJfdGl0bGUiOiI8XC9oMz4iLCJ3aWRnZXRfaWQiOiJhcmJpdHJhcnktaW5zdGFuY2UtNjczOGZmYTJlNzc3ZiJ9" defer></script><script src="data:text/javascript;base64,aWYodHlwZW9mIHNldElyb25BdWRpb3BsYXllcnMhPT0idW5kZWZpbmVkIil7c2V0SXJvbkF1ZGlvcGxheWVycygiYXJiaXRyYXJ5LWluc3RhbmNlLTY3MzhmZmEyZTc3N2YiKX0=" defer></script></article></div></div></div><div class="elementor-element elementor-element-d628f73 e-con-full e-flex e-con e-child" data-id="d628f73" data-element_type="container"><div class="elementor-element elementor-element-61141fc elementor-widget elementor-widget-heading" data-id="61141fc" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">The Opening Chapter of the Qur'ān (English)</h2></div></div><div class="elementor-element elementor-element-556937c elementor-widget elementor-widget-text-editor" data-id="556937c" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container">These are from the words revealed from God to mankind.</div></div><div class="elementor-element elementor-element-62c890a elementor-widget elementor-widget-music-player" data-id="62c890a" data-element_type="widget" data-widget_type="music-player.default"><div class="elementor-widget-container"><article id="arbitrary-instance-6738ffa2e9a58" class="iron_widget_radio"><div class="iron-audioplayer srp_post_player playlist_has_no_ctas skin_floated" id="arbitrary-instance-6738ffa2e9a58-0eb4307490" data-id="arbitrary-instance-6738ffa2e9a58" data-track-sw-cursor="" data-lazyload="" data-albums="1444" data-category="" data-url-playlist="https://mtws.one/?load=playlist.json&#038;title=&#038;albums=1444&#038;category=&#038;posts_not_in=&#038;category_not_in=&#038;feed_title=&#038;feed=&#038;feed_img=&#038;el_widget_id=&#038;artwork=&#038;posts_per_pages=-1&#038;all_category=&#038;single_playlist=1&#038;reverse_tracklist=&#038;audio_meta_field=&#038;repeater_meta_field=&#038;import_file=&#038;rss_items=-1&#038;rss_item_title=&#038;is_favorite=&#038;is_recentlyplayed=&#038;srp_order=date_DESC" data-sticky-player="" data-shuffle="false" data-playlist_title="" data-scrollbar="" data-wave-color="" data-wave-progress-color="" data-spectro="" data-no-wave="" data-hide-progressbar="" data-progress-bar-style="" data-feedurl="0" data-notrackskip="" data-no-loop-tracklist="" data-playertemplate="skin_float_tracklist" data-hide-artwork="" data-speedrate="1" data-tracks-per-page="" data-pagination_scroll_offset="" data-adaptive-colors="" data-adaptive-colors-freeze="" style="opacity:0"><div class="sonaar-grid"><div class="sonaar-Artwort-box"><div class="control"></div><div class="album"><div class="album-art"><img alt="album-art"></div></div></div><div class="playlist sr_waveform_mediaElement" id="playlist_arbitrary-instance-6738ffa2e9a58"><h3 class="sr_it-playlist-title"></h3><div class="srp_subtitle"></div><div class="srp_tracklist"><ul class="srp_list"><li class="sr-playlist-item" data-audiopath="https://mtws-one.s3.amazonaws.com/audio/f%C4%81tihah/full-fa%CC%84tihah-english.mp3" data-showloading="1" data-albumtitle="Opening Chapter of the Qurān" data-albumart="" data-releasedate="" data-date="2024/03/29" data-date-formated="March 29, 2024" data-show-date="" data-tracktitle="-" data-artist="" data-trackid="" data-tracktime="" data-relatedtrack="" data-post-url="" data-post-id="1444" data-track-pos="0" data-peakfile="" data-peakfile-allow="" data-is-preview="" data-track-lyric="" data-icecast_json="" data-icecast_mount=""><div class="sr-playlist-item-flex"><span class="store-list"></span></div><div class="srp_track_description"></div></li></ul></div></div></div><div class="album-player sr_waveform_mediaElement"><div class="srp_miniplayer_metas"><div class="srp_meta srp_meta_0 track-title" data-prefix="" aria-label="Track title"></div><div class="srp_meta srp_meta_1 album-title" data-prefix="" aria-label="Title"></div></div><div class="player"><div class="sr_progressbar"><div class="currentTime">00:00</div><div id="arbitrary-instance-6738ffa2e9a58-97dfa94b4d-wave" class="wave"><div class="sonaar_fake_wave" style="height:70px"><audio src="" class="sonaar_media_element"></audio><div class="sonaar_wave_base"><canvas id="sonaar_wave_base_canvas" class="" height="70" width="2540"></canvas><svg></svg></div><div class="sonaar_wave_cut"><canvas id="sonaar_wave_cut_canvas" class="" height="70" width="2540"></canvas><svg></svg></div></div></div><div class="totalTime"></div></div><div class="srp_main_control srp_oneColumn"><div class="control"><div class="play" style="opacity:0" aria-label="Play" title="Play/Pause"><i class="sricon-play"></i></div></div><div class="control"></div></div></div></div><div class="album-store"></div></div><script id="srp_js_params_6738ffa2e9a58" src="data:text/javascript;base64,dmFyIHNycF9wbGF5ZXJfcGFyYW1zXzY3MzhmZmEyZTlhNTg9eyJ0aXRsZSI6IiIsInN0b3JlX3RpdGxlX3RleHQiOiIiLCJhbGJ1bXMiOiIxNDQ0IiwiaGlkZV9hcnR3b3JrIjoiZmFsc2UiLCJzdGlja3lfcGxheWVyIjoiIiwic2hvd19hbGJ1bV9tYXJrZXQiOiJmYWxzZSIsInNob3dfdHJhY2tfbWFya2V0IjoidHJ1ZSIsImhpZGVfdGltZWxpbmUiOiJmYWxzZSIsImVsZW1lbnRvciI6InRydWUiLCJ0cmFja3NfcGVyX3BhZ2UiOiIiLCJ0aXRsZXRhZ19zb3VuZHdhdmUiOiJkaXYiLCJ0aXRsZXRhZ19wbGF5bGlzdCI6ImgzIiwic2hvd19jb250cm9sX29uX2hvdmVyIjoiZmFsc2UiLCJzaG93X3BsYXlsaXN0IjoiZmFsc2UiLCJyZXZlcnNlX3RyYWNrbGlzdCI6IiIsIndhdmVfY29sb3IiOiIiLCJ3YXZlX3Byb2dyZXNzX2NvbG9yIjoiIiwic3BlY3RybyI6IiIsInNodWZmbGUiOiIiLCJzZWFyY2hiYXIiOiIiLCJzZWFyY2hiYXJfcGxhY2Vob2xkZXIiOiIiLCJwbGF5ZXJfbGF5b3V0Ijoic2tpbl9mbG9hdF90cmFja2xpc3QiLCJhcnR3b3JrIjoiIiwib3JkZXJieSI6ImRhdGUiLCJvcmRlciI6IkRFU0MiLCJ1c2VfcGxheV9sYWJlbF93aXRoX2ljb24iOiJmYWxzZSIsIm1haW5fc2V0dGluZ3MiOiJ8fCJ9CnZhciBzcnBfcGxheWVyX3BhcmFtc19hcmdzXzY3MzhmZmEyZTlhNTg9eyJiZWZvcmVfd2lkZ2V0IjoiPGFydGljbGUgaWQ9XCJhcmJpdHJhcnktaW5zdGFuY2UtNjczOGZmYTJlOWE1OFwiIGNsYXNzPVwiaXJvbl93aWRnZXRfcmFkaW9cIj4iLCJhZnRlcl93aWRnZXQiOiI8XC9hcnRpY2xlPiIsImJlZm9yZV90aXRsZSI6IjxzcGFuIGNsYXNzPSdoZWFkaW5nLXQzJz48XC9zcGFuPjxoMyBjbGFzcz1cIndpZGdldHRpdGxlXCI+IiwiYWZ0ZXJfdGl0bGUiOiI8XC9oMz4iLCJ3aWRnZXRfaWQiOiJhcmJpdHJhcnktaW5zdGFuY2UtNjczOGZmYTJlOWE1OCJ9" defer></script><script src="data:text/javascript;base64,aWYodHlwZW9mIHNldElyb25BdWRpb3BsYXllcnMhPT0idW5kZWZpbmVkIil7c2V0SXJvbkF1ZGlvcGxheWVycygiYXJiaXRyYXJ5LWluc3RhbmNlLTY3MzhmZmEyZTlhNTgiKX0=" defer></script></article></div></div></div></div><div class="elementor-element elementor-element-f33a35f e-con-full e-flex e-con e-parent" data-id="f33a35f" data-element_type="container"><div class="elementor-element elementor-element-dfb7226 e-con-full e-flex e-con e-child" data-id="dfb7226" data-element_type="container"><div class="elementor-element elementor-element-8cd96b4 elementor-widget elementor-widget-heading" data-id="8cd96b4" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">Contact Us</h2></div></div><div class="elementor-element elementor-element-d98eb71 e-con-full e-flex e-con e-child" data-id="d98eb71" data-element_type="container"><div class="elementor-element elementor-element-dd2baf1 e-flex e-con-boxed e-con e-child" data-id="dd2baf1" data-element_type="container"><div class="e-con-inner"><div class="elementor-element elementor-element-e280f9c elementor-view-framed elementor-shape-circle elementor-widget elementor-widget-icon" data-id="e280f9c" data-element_type="widget" data-widget_type="icon.default"><div class="elementor-widget-container"><div class="elementor-icon-wrapper"><div class="elementor-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" viewBox="0 0 375 374.999991" height="500" preserveAspectRatio="xMidYMid meet"><defs><clipPath id="7607ed4a55"><path d="M 1 29 L 374 29 L 374 347.933594 L 1 347.933594 Z M 1 29 " clip-rule="nonzero"></path></clipPath></defs><rect x="-37.5" width="450" fill="#ffffff" y="-37.499999" height="449.999989" fill-opacity="1"></rect><rect x="-37.5" width="450" fill="#ffffff" y="-37.499999" height="449.999989" fill-opacity="1"></rect><g clip-path="url(#7607ed4a55)"><path fill="#000000" d="M 353.765625 93.410156 L 256.222656 93.410156 C 253.054688 55.421875 219.804688 26.933594 181.800781 30.097656 C 147.914062 32.945312 121.3125 59.539062 118.460938 93.410156 L 21.234375 93.410156 C 10.46875 93.410156 1.601562 102.273438 1.285156 113.039062 L 1.285156 327.988281 C 1.285156 339.066406 10.152344 347.613281 21.234375 347.933594 L 353.765625 347.933594 C 364.847656 347.933594 373.398438 339.066406 373.714844 327.988281 L 373.714844 113.039062 C 373.398438 102.273438 364.53125 93.410156 353.765625 93.410156 Z M 12.683594 327.988281 L 12.683594 113.039062 C 12.683594 112.40625 12.683594 111.773438 13 111.140625 L 136.828125 220.355469 L 12.683594 329.570312 C 12.683594 329.253906 12.683594 328.621094 12.683594 327.988281 Z M 187.5 167.804688 C 223.601562 167.804688 253.371094 140.261719 256.222656 104.175781 L 353.132812 104.175781 L 194.152344 244.097656 C 190.351562 247.578125 184.332031 247.578125 180.53125 244.097656 L 21.550781 104.492188 L 118.460938 104.492188 C 121.628906 140.261719 151.398438 167.804688 187.5 167.804688 Z M 145.378906 227.953125 L 173.566406 252.644531 C 181.800781 259.609375 193.832031 259.609375 201.75 252.644531 L 229.9375 227.953125 L 353.449219 336.851562 L 21.550781 336.851562 Z M 238.171875 220.355469 L 362.316406 111.140625 C 362.316406 111.773438 362.632812 112.40625 362.632812 113.039062 L 362.632812 327.988281 C 362.632812 328.621094 362.632812 329.253906 362.316406 329.886719 Z M 187.5 40.859375 C 219.484375 40.859375 245.457031 66.820312 245.457031 98.792969 C 245.457031 130.765625 219.484375 156.726562 187.5 156.726562 C 155.515625 156.726562 129.542969 130.765625 129.542969 98.792969 C 129.542969 66.820312 155.515625 40.859375 187.5 40.859375 Z M 187.5 40.859375 " fill-opacity="1" fill-rule="nonzero"></path></g><path fill="#000000" d="M 192.25 60.804688 L 182.75 60.804688 C 164.382812 60.804688 149.496094 75.683594 149.496094 94.042969 L 149.496094 103.542969 C 149.496094 121.902344 164.382812 136.78125 182.75 136.78125 L 188.132812 136.78125 C 191.300781 136.78125 193.515625 134.25 193.515625 131.082031 C 193.515625 127.917969 190.984375 125.382812 188.132812 125.382812 L 182.75 125.382812 C 170.398438 125.382812 160.582031 115.570312 160.582031 103.226562 L 160.582031 93.726562 C 160.582031 81.382812 170.398438 71.566406 182.75 71.566406 L 192.25 71.566406 C 204.601562 71.566406 214.417969 81.382812 214.417969 93.726562 L 214.417969 110.503906 C 214.417969 112.089844 213.152344 113.355469 211.570312 113.355469 L 208.085938 113.355469 C 206.5 113.355469 205.234375 112.089844 205.234375 110.503906 L 205.234375 94.992188 C 205.234375 87.078125 198.902344 80.75 190.984375 80.75 L 184.332031 80.75 C 176.414062 80.75 170.082031 87.078125 170.082031 94.992188 L 170.082031 101.640625 C 170.082031 109.554688 176.414062 115.886719 184.332031 115.886719 L 195.417969 115.886719 C 197.632812 120.953125 202.382812 124.433594 208.085938 124.433594 L 211.570312 124.433594 C 219.167969 124.433594 225.503906 118.101562 225.503906 110.503906 L 225.503906 93.726562 C 225.503906 75.683594 210.617188 60.804688 192.25 60.804688 Z M 181.167969 102.273438 L 181.167969 95.628906 C 181.167969 94.042969 182.433594 92.460938 184.332031 92.460938 L 190.984375 92.460938 C 192.566406 92.460938 194.152344 93.726562 194.152344 95.628906 L 194.152344 105.441406 L 184.332031 105.441406 C 182.433594 105.441406 181.167969 103.859375 181.167969 102.273438 Z M 181.167969 102.273438 " fill-opacity="1" fill-rule="nonzero"></path></svg></div></div></div></div><div class="elementor-element elementor-element-3710601 elementor-widget elementor-widget-text-editor" data-id="3710601" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><a href="https://l.mtws.one/contact-rasheed" target="_blank" rel="noopener">rasheed.mtwsnc@gmail.com</a></div></div></div></div><div class="elementor-element elementor-element-0efdf3b e-flex e-con-boxed e-con e-child" data-id="0efdf3b" data-element_type="container"><div class="e-con-inner"><div class="elementor-element elementor-element-36374c1 elementor-view-framed elementor-shape-circle elementor-widget elementor-widget-icon" data-id="36374c1" data-element_type="widget" data-widget_type="icon.default"><div class="elementor-widget-container"><div class="elementor-icon-wrapper"><div class="elementor-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" viewBox="0 0 375 374.999991" height="500" preserveAspectRatio="xMidYMid meet"><rect x="-37.5" width="450" fill="#ffffff" y="-37.499999" height="449.999989" fill-opacity="1"></rect><rect x="-37.5" width="450" fill="#ffffff" y="-37.499999" height="449.999989" fill-opacity="1"></rect><path fill="#1b1c1f" d="M 155.570312 144.726562 C 120.535156 164.953125 173.992188 265.164062 212.328125 243.03125 L 247.871094 304.59375 C 231.695312 313.933594 218.003906 319.820312 199.253906 309.101562 C 147.1875 279.335938 89.871094 180.109375 91.507812 120.917969 C 92.074219 100.359375 104.183594 92.304688 120.027344 83.160156 L 155.570312 144.722656 Z M 155.570312 144.726562 " fill-opacity="1" fill-rule="evenodd"></path><path fill="#1b1c1f" d="M 170.265625 143.050781 C 166.480469 145.238281 161.609375 143.933594 159.421875 140.148438 L 125.914062 82.109375 C 123.726562 78.324219 125.03125 73.453125 128.816406 71.265625 L 146.429688 61.097656 C 150.214844 58.914062 155.085938 60.21875 157.273438 64.003906 L 190.78125 122.042969 C 192.964844 125.828125 191.660156 130.699219 187.875 132.882812 Z M 170.265625 143.050781 " fill-opacity="1" fill-rule="evenodd"></path><path fill="#1b1c1f" d="M 261.808594 301.609375 C 258.023438 303.796875 253.152344 302.492188 250.964844 298.707031 L 217.457031 240.667969 C 215.269531 236.878906 216.574219 232.007812 220.359375 229.824219 L 237.972656 219.65625 C 241.757812 217.46875 246.628906 218.777344 248.816406 222.5625 L 282.324219 280.601562 C 284.507812 284.386719 283.203125 289.257812 279.417969 291.441406 Z M 261.808594 301.609375 " fill-opacity="1" fill-rule="evenodd"></path><path fill="#1b1c1f" d="M 187.441406 0 L 187.445312 0 L 187.445312 0.0429688 C 239.222656 0.0429688 286.082031 21.011719 319.976562 54.90625 C 353.867188 88.804688 374.835938 135.660156 374.835938 187.4375 L 374.882812 187.4375 L 374.882812 187.445312 L 374.835938 187.445312 C 374.835938 239.226562 353.867188 286.085938 319.972656 319.976562 C 286.078125 353.867188 239.222656 374.839844 187.441406 374.839844 L 187.441406 374.882812 L 187.433594 374.882812 L 187.433594 374.839844 C 135.65625 374.839844 88.796875 353.871094 54.902344 319.976562 C 21.011719 286.078125 0.0429688 239.222656 0.0429688 187.445312 L -0.00390625 187.445312 L -0.00390625 187.4375 L 0.0429688 187.4375 C 0.0429688 135.65625 21.011719 88.796875 54.90625 54.90625 C 88.800781 21.015625 135.65625 0.046875 187.4375 0.0429688 L 187.4375 0 Z M 187.445312 22.355469 L 187.445312 22.402344 L 187.4375 22.402344 L 187.4375 22.355469 C 141.902344 22.359375 100.640625 40.851562 70.75 70.746094 C 40.859375 100.636719 22.359375 141.90625 22.359375 187.4375 L 22.402344 187.4375 L 22.402344 187.445312 L 22.359375 187.445312 C 22.359375 232.980469 40.855469 274.242188 70.746094 304.132812 C 100.640625 334.023438 141.90625 352.523438 187.441406 352.523438 L 187.441406 352.480469 L 187.449219 352.480469 L 187.449219 352.523438 C 232.984375 352.523438 274.246094 334.027344 304.136719 304.136719 C 334.027344 274.242188 352.527344 232.976562 352.527344 187.441406 L 352.480469 187.441406 L 352.480469 187.433594 L 352.527344 187.433594 C 352.523438 141.898438 334.03125 100.636719 304.140625 70.746094 C 274.246094 40.855469 232.980469 22.355469 187.445312 22.355469 Z M 187.445312 22.355469 " fill-opacity="1" fill-rule="nonzero"></path></svg></div></div></div></div><div class="elementor-element elementor-element-de0339c elementor-widget elementor-widget-text-editor" data-id="de0339c" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><a href="https://l.mtws.one/call-mtws">+1 919-980-9903</a></div></div></div></div><div class="elementor-element elementor-element-df4ec06 e-flex e-con-boxed e-con e-child" data-id="df4ec06" data-element_type="container"><div class="e-con-inner"><div class="elementor-element elementor-element-190c763 elementor-view-framed elementor-shape-circle elementor-widget elementor-widget-icon" data-id="190c763" data-element_type="widget" data-widget_type="icon.default"><div class="elementor-widget-container"><div class="elementor-icon-wrapper"><div class="elementor-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" viewBox="0 0 375 374.999991" height="500" preserveAspectRatio="xMidYMid meet"><defs><clipPath id="7607ed4a55"><path d="M 1 29 L 374 29 L 374 347.933594 L 1 347.933594 Z M 1 29 " clip-rule="nonzero"></path></clipPath></defs><rect x="-37.5" width="450" fill="#ffffff" y="-37.499999" height="449.999989" fill-opacity="1"></rect><rect x="-37.5" width="450" fill="#ffffff" y="-37.499999" height="449.999989" fill-opacity="1"></rect><g clip-path="url(#7607ed4a55)"><path fill="#000000" d="M 353.765625 93.410156 L 256.222656 93.410156 C 253.054688 55.421875 219.804688 26.933594 181.800781 30.097656 C 147.914062 32.945312 121.3125 59.539062 118.460938 93.410156 L 21.234375 93.410156 C 10.46875 93.410156 1.601562 102.273438 1.285156 113.039062 L 1.285156 327.988281 C 1.285156 339.066406 10.152344 347.613281 21.234375 347.933594 L 353.765625 347.933594 C 364.847656 347.933594 373.398438 339.066406 373.714844 327.988281 L 373.714844 113.039062 C 373.398438 102.273438 364.53125 93.410156 353.765625 93.410156 Z M 12.683594 327.988281 L 12.683594 113.039062 C 12.683594 112.40625 12.683594 111.773438 13 111.140625 L 136.828125 220.355469 L 12.683594 329.570312 C 12.683594 329.253906 12.683594 328.621094 12.683594 327.988281 Z M 187.5 167.804688 C 223.601562 167.804688 253.371094 140.261719 256.222656 104.175781 L 353.132812 104.175781 L 194.152344 244.097656 C 190.351562 247.578125 184.332031 247.578125 180.53125 244.097656 L 21.550781 104.492188 L 118.460938 104.492188 C 121.628906 140.261719 151.398438 167.804688 187.5 167.804688 Z M 145.378906 227.953125 L 173.566406 252.644531 C 181.800781 259.609375 193.832031 259.609375 201.75 252.644531 L 229.9375 227.953125 L 353.449219 336.851562 L 21.550781 336.851562 Z M 238.171875 220.355469 L 362.316406 111.140625 C 362.316406 111.773438 362.632812 112.40625 362.632812 113.039062 L 362.632812 327.988281 C 362.632812 328.621094 362.632812 329.253906 362.316406 329.886719 Z M 187.5 40.859375 C 219.484375 40.859375 245.457031 66.820312 245.457031 98.792969 C 245.457031 130.765625 219.484375 156.726562 187.5 156.726562 C 155.515625 156.726562 129.542969 130.765625 129.542969 98.792969 C 129.542969 66.820312 155.515625 40.859375 187.5 40.859375 Z M 187.5 40.859375 " fill-opacity="1" fill-rule="nonzero"></path></g><path fill="#000000" d="M 192.25 60.804688 L 182.75 60.804688 C 164.382812 60.804688 149.496094 75.683594 149.496094 94.042969 L 149.496094 103.542969 C 149.496094 121.902344 164.382812 136.78125 182.75 136.78125 L 188.132812 136.78125 C 191.300781 136.78125 193.515625 134.25 193.515625 131.082031 C 193.515625 127.917969 190.984375 125.382812 188.132812 125.382812 L 182.75 125.382812 C 170.398438 125.382812 160.582031 115.570312 160.582031 103.226562 L 160.582031 93.726562 C 160.582031 81.382812 170.398438 71.566406 182.75 71.566406 L 192.25 71.566406 C 204.601562 71.566406 214.417969 81.382812 214.417969 93.726562 L 214.417969 110.503906 C 214.417969 112.089844 213.152344 113.355469 211.570312 113.355469 L 208.085938 113.355469 C 206.5 113.355469 205.234375 112.089844 205.234375 110.503906 L 205.234375 94.992188 C 205.234375 87.078125 198.902344 80.75 190.984375 80.75 L 184.332031 80.75 C 176.414062 80.75 170.082031 87.078125 170.082031 94.992188 L 170.082031 101.640625 C 170.082031 109.554688 176.414062 115.886719 184.332031 115.886719 L 195.417969 115.886719 C 197.632812 120.953125 202.382812 124.433594 208.085938 124.433594 L 211.570312 124.433594 C 219.167969 124.433594 225.503906 118.101562 225.503906 110.503906 L 225.503906 93.726562 C 225.503906 75.683594 210.617188 60.804688 192.25 60.804688 Z M 181.167969 102.273438 L 181.167969 95.628906 C 181.167969 94.042969 182.433594 92.460938 184.332031 92.460938 L 190.984375 92.460938 C 192.566406 92.460938 194.152344 93.726562 194.152344 95.628906 L 194.152344 105.441406 L 184.332031 105.441406 C 182.433594 105.441406 181.167969 103.859375 181.167969 102.273438 Z M 181.167969 102.273438 " fill-opacity="1" fill-rule="nonzero"></path></svg></div></div></div></div><div class="elementor-element elementor-element-7bce0b7 elementor-widget elementor-widget-text-editor" data-id="7bce0b7" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><a href="https://l.mtws.one/masjid-directions" title="Masjid Directions">3714 S Alston Ave,<wbr> Durham, NC 27713</a></div></div></div></div></div></div></div><div class="elementor-element elementor-element-6c5b328 e-flex e-con-boxed e-con e-parent" data-id="6c5b328" data-element_type="container"><div class="e-con-inner"><div class="elementor-element elementor-element-e512396 elementor-widget elementor-widget-text-editor" data-id="e512396" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><p>Share this link with family and friends:</p></div></div><div class="elementor-element elementor-element-1b69abf elementor-align-center elementor-widget elementor-widget-button" data-id="1b69abf" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="#" id="copy-dawah"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Copy Link</span></span></a></div></div></div></div></div><div class="elementor-element elementor-element-0626b94 e-flex e-con-boxed e-con e-parent" data-id="0626b94" data-element_type="container"><div class="e-con-inner"><div class="elementor-element elementor-element-406a79f elementor-widget elementor-widget-heading" data-id="406a79f" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">Have Questions?</h2></div></div><div class="elementor-element elementor-element-f37393e elementor-button-align-center elementor-widget elementor-widget-form" data-id="f37393e" data-element_type="widget" data-settings="{&#34;step_next_label&#34;:&#34;Next&#34;,&#34;step_previous_label&#34;:&#34;Previous&#34;,&#34;button_width&#34;:&#34;100&#34;,&#34;step_type&#34;:&#34;number_text&#34;,&#34;step_icon_shape&#34;:&#34;circle&#34;}" data-widget_type="form.default"><div class="elementor-widget-container"><form class="elementor-form" method="post" name="Have Questions?"><input type="hidden" name="post_id" value="1153"> <input type="hidden" name="form_id" value="f37393e"> <input type="hidden" name="referer_title" value="Information about Islām"><input type="hidden" name="queried_id" value="1153"><div class="elementor-form-fields-wrapper elementor-labels-above"><div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-50 elementor-field-required elementor-mark-required"><label for="form-field-name" class="elementor-field-label">Name</label> <input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Name" required aria-required="true"></div><div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-50 elementor-field-required elementor-mark-required"><label for="form-field-email" class="elementor-field-label">Email</label> <input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Email" required aria-required="true"></div><div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100 elementor-field-required elementor-mark-required"><label for="form-field-message" class="elementor-field-label">Question/Message</label><textarea class="elementor-field-textual elementor-field elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Message" required aria-required="true"></textarea></div><div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons"><button type="submit" class="elementor-button elementor-size-sm"><span><span class="elementor-button-icon"></span> <span class="elementor-button-text">Send</span></span></button></div></div></form></div></div></div></div><div class="elementor-element elementor-element-40c876c e-flex e-con-boxed e-con e-parent" data-id="40c876c" data-element_type="container"><div class="e-con-inner"><div class="elementor-element elementor-element-27ee74e elementor-widget elementor-widget-spacer" data-id="27ee74e" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div></div></div><div class="elementor-element elementor-element-122bf4d e-con-full e-flex e-con e-parent" data-id="122bf4d" data-element_type="container" data-settings="{&#34;background_background&#34;:&#34;classic&#34;}"><div class="elementor-element elementor-element-fbdf472 elementor-widget elementor-widget-text-editor" data-id="fbdf472" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><p style="text-align:center">Masjid Tawheed Was Sunnah</p><p><a href="https://l.mtws.one/masjid-directions"><u>3714 S. Alston Ave.</u></a>, <a style="font-style:inherit;font-weight:inherit;background-color:#eee;text-align:var(--text-align)" href="https://l.mtws.one/masjid-directions"><u>Durham, NC 27713</u></a></p></div></div></div></div><div id="pum-1374" role="dialog" aria-modal="false" class="pum pum-overlay pum-theme-1113 pum-theme-content-only popmake-overlay click_open" data-popmake="{&#34;id&#34;:1374,&#34;slug&#34;:&#34;how-to-become-muslim&#34;,&#34;theme_id&#34;:1113,&#34;cookies&#34;:[],&#34;triggers&#34;:[{&#34;type&#34;:&#34;click_open&#34;,&#34;settings&#34;:{&#34;extra_selectors&#34;:&#34;&#34;,&#34;cookie_name&#34;:null}}],&#34;mobile_disabled&#34;:null,&#34;tablet_disabled&#34;:null,&#34;meta&#34;:{&#34;display&#34;:{&#34;stackable&#34;:false,&#34;overlay_disabled&#34;:false,&#34;scrollable_content&#34;:false,&#34;disable_reposition&#34;:false,&#34;size&#34;:&#34;medium&#34;,&#34;responsive_min_width&#34;:&#34;0%&#34;,&#34;responsive_min_width_unit&#34;:false,&#34;responsive_max_width&#34;:&#34;100%&#34;,&#34;responsive_max_width_unit&#34;:false,&#34;custom_width&#34;:&#34;640px&#34;,&#34;custom_width_unit&#34;:false,&#34;custom_height&#34;:&#34;380px&#34;,&#34;custom_height_unit&#34;:false,&#34;custom_height_auto&#34;:false,&#34;location&#34;:&#34;center top&#34;,&#34;position_from_trigger&#34;:false,&#34;position_top&#34;:&#34;100&#34;,&#34;position_left&#34;:&#34;0&#34;,&#34;position_bottom&#34;:&#34;0&#34;,&#34;position_right&#34;:&#34;0&#34;,&#34;position_fixed&#34;:false,&#34;animation_type&#34;:&#34;fade&#34;,&#34;animation_speed&#34;:&#34;350&#34;,&#34;animation_origin&#34;:&#34;center top&#34;,&#34;overlay_zindex&#34;:false,&#34;zindex&#34;:&#34;1999999999&#34;},&#34;close&#34;:{&#34;text&#34;:&#34;&#34;,&#34;button_delay&#34;:&#34;0&#34;,&#34;overlay_click&#34;:false,&#34;esc_press&#34;:false,&#34;f4_press&#34;:false},&#34;click_open&#34;:[]}}"><div id="popmake-1374" class="pum-container popmake theme-1113 pum-responsive pum-responsive-medium responsive size-medium"><div class="pum-content popmake-content" tabindex="0"><div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div><p class="has-large-font-size"><br>You become a Muslim by saying with your tongue, sincerely from your heart, “I bear witness that nothing has the right to worshipped except Allah and I bear witness that Muhammad is the Messenger of Allah.”</p><p class="has-large-font-size">You are not required to have any witnesses or a ceremony for the validity of this testimony of faith. You do not have to change your name.</p></div><button type="button" class="pum-close popmake-close" aria-label="Close">×</button></div></div><div id="pum-1143" role="dialog" aria-modal="false" class="pum pum-overlay pum-theme-1113 pum-theme-content-only popmake-overlay click_open" data-popmake="{&#34;id&#34;:1143,&#34;slug&#34;:&#34;what-is-prayer&#34;,&#34;theme_id&#34;:1113,&#34;cookies&#34;:[],&#34;triggers&#34;:[{&#34;type&#34;:&#34;click_open&#34;,&#34;settings&#34;:{&#34;extra_selectors&#34;:&#34;&#34;,&#34;cookie_name&#34;:null}}],&#34;mobile_disabled&#34;:null,&#34;tablet_disabled&#34;:null,&#34;meta&#34;:{&#34;display&#34;:{&#34;stackable&#34;:false,&#34;overlay_disabled&#34;:false,&#34;scrollable_content&#34;:false,&#34;disable_reposition&#34;:false,&#34;size&#34;:&#34;medium&#34;,&#34;responsive_min_width&#34;:&#34;0%&#34;,&#34;responsive_min_width_unit&#34;:false,&#34;responsive_max_width&#34;:&#34;100%&#34;,&#34;responsive_max_width_unit&#34;:false,&#34;custom_width&#34;:&#34;640px&#34;,&#34;custom_width_unit&#34;:false,&#34;custom_height&#34;:&#34;380px&#34;,&#34;custom_height_unit&#34;:false,&#34;custom_height_auto&#34;:false,&#34;location&#34;:&#34;center top&#34;,&#34;position_from_trigger&#34;:false,&#34;position_top&#34;:&#34;100&#34;,&#34;position_left&#34;:&#34;0&#34;,&#34;position_bottom&#34;:&#34;0&#34;,&#34;position_right&#34;:&#34;0&#34;,&#34;position_fixed&#34;:false,&#34;animation_type&#34;:&#34;fade&#34;,&#34;animation_speed&#34;:&#34;350&#34;,&#34;animation_origin&#34;:&#34;center top&#34;,&#34;overlay_zindex&#34;:false,&#34;zindex&#34;:&#34;1999999999&#34;},&#34;close&#34;:{&#34;text&#34;:&#34;&#34;,&#34;button_delay&#34;:&#34;0&#34;,&#34;overlay_click&#34;:false,&#34;esc_press&#34;:false,&#34;f4_press&#34;:false},&#34;click_open&#34;:[]}}"><div id="popmake-1143" class="pum-container popmake theme-1113 pum-responsive pum-responsive-medium responsive size-medium"><div class="pum-content popmake-content" tabindex="0"><div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div><p class="has-large-font-size">Muslims pray five times a day. The prayer is the connection between man and his Creator. The similitude for the prayer is that of the person who bathes at the riverbank five times a day. Would this person have any traces of filth upon them?</p></div><button type="button" class="pum-close popmake-close" aria-label="Close">×</button></div></div><div id="pum-1134" role="dialog" aria-modal="false" class="pum pum-overlay pum-theme-1113 pum-theme-content-only popmake-overlay click_open" data-popmake="{&#34;id&#34;:1134,&#34;slug&#34;:&#34;what-is-islam&#34;,&#34;theme_id&#34;:1113,&#34;cookies&#34;:[],&#34;triggers&#34;:[{&#34;type&#34;:&#34;click_open&#34;,&#34;settings&#34;:{&#34;extra_selectors&#34;:&#34;&#34;,&#34;cookie_name&#34;:null}}],&#34;mobile_disabled&#34;:null,&#34;tablet_disabled&#34;:null,&#34;meta&#34;:{&#34;display&#34;:{&#34;stackable&#34;:false,&#34;overlay_disabled&#34;:false,&#34;scrollable_content&#34;:false,&#34;disable_reposition&#34;:false,&#34;size&#34;:&#34;medium&#34;,&#34;responsive_min_width&#34;:&#34;0%&#34;,&#34;responsive_min_width_unit&#34;:false,&#34;responsive_max_width&#34;:&#34;100%&#34;,&#34;responsive_max_width_unit&#34;:false,&#34;custom_width&#34;:&#34;640px&#34;,&#34;custom_width_unit&#34;:false,&#34;custom_height&#34;:&#34;380px&#34;,&#34;custom_height_unit&#34;:false,&#34;custom_height_auto&#34;:false,&#34;location&#34;:&#34;center top&#34;,&#34;position_from_trigger&#34;:false,&#34;position_top&#34;:&#34;100&#34;,&#34;position_left&#34;:&#34;0&#34;,&#34;position_bottom&#34;:&#34;0&#34;,&#34;position_right&#34;:&#34;0&#34;,&#34;position_fixed&#34;:false,&#34;animation_type&#34;:&#34;fade&#34;,&#34;animation_speed&#34;:&#34;350&#34;,&#34;animation_origin&#34;:&#34;center top&#34;,&#34;overlay_zindex&#34;:false,&#34;zindex&#34;:&#34;1999999999&#34;},&#34;close&#34;:{&#34;text&#34;:&#34;&#34;,&#34;button_delay&#34;:&#34;0&#34;,&#34;overlay_click&#34;:false,&#34;esc_press&#34;:false,&#34;f4_press&#34;:false},&#34;click_open&#34;:[]}}"><div id="popmake-1134" class="pum-container popmake theme-1113 pum-responsive pum-responsive-medium responsive size-medium"><div class="pum-content popmake-content" tabindex="0"><div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div><p class="has-large-font-size">There are an estimated <strong>4,200</strong> religions in the world today! This is astounding when you consider there is only one God, who alone, created the Universe and everything in it. How can there be over <strong>4,000</strong> religions for one Creator?</p><p class="has-large-font-size">The notion that everyone can worship God according to their desires, and thus there can be countless religions, is inconceivable. Likewise, the thought that we can ignore God, and live our lives without accountability is unimaginable.</p><p class="has-large-font-size">God did not create us in vain or leave us without guidance. Due to His mercy, He outlined for us a complete way of life, for our prosperity in this life and the Hereafter.</p><p class="has-large-font-size">With so many religions in the world, how do we know which one to follow? You may be surprised to learn that out of all the world religions, there is only one religion that directs all aspects of worship to the Creator alone, without associating any partners with Him or deeming Him to be similar to His creation.</p><p class="has-large-font-size">There are religions that believe the Universe contains many gods, like Greek mythology. Some religions believe idols are a physical representation of God, so they direct their worship toward carvings or statues. Others teach a doctrine of intercessory prayer to so-called saints. Some practice a form of ancestral worship, believing the dead can influence the fortune of the living; while many believe God begot a son who is also worshipped and serves as an intermediary between man and God.</p><p class="has-large-font-size">All of the mentioned examples have different rituals, carrying distinctive names, while sharing a common practice. They all direct aspects of worship toward the creation; either something that was created or someone that was born.</p><p class="has-large-font-size">The correct religion, the natural way of life, is to worship your Creator, alone, not the creation. Prophet Muhammad simplified this when asked, “What is the greatest of all sins?” He said, “That you set up rivals with Allah in worship, while He, alone, created you.”</p><p class="has-large-font-size">This is Islam. This is the religion of Abraham.</p><blockquote class="wp-block-quote has-ast-global-color-0-color has-text-color has-link-color wp-elements-8dfb6efb723c6b5ba68e9af44a4fb30b is-layout-flow wp-block-quote-is-layout-flow"><p>“Say, ‘Indeed, my Lord has guided me to a straight path—a correct religion—the way of Abraham, inclining toward truth. And he was not among those who associated partners with Allah.’” (<strong>Quran, Chapter 6, Verses 161</strong>)</p></blockquote></div><button type="button" class="pum-close popmake-close" aria-label="Close">×</button></div></div><div id="pum-1115" role="dialog" aria-modal="false" class="pum pum-overlay pum-theme-1113 pum-theme-content-only popmake-overlay click_open" data-popmake="{&#34;id&#34;:1115,&#34;slug&#34;:&#34;who-is-allah&#34;,&#34;theme_id&#34;:1113,&#34;cookies&#34;:[],&#34;triggers&#34;:[{&#34;type&#34;:&#34;click_open&#34;,&#34;settings&#34;:{&#34;extra_selectors&#34;:&#34;&#34;,&#34;cookie_name&#34;:null}}],&#34;mobile_disabled&#34;:null,&#34;tablet_disabled&#34;:null,&#34;meta&#34;:{&#34;display&#34;:{&#34;stackable&#34;:false,&#34;overlay_disabled&#34;:false,&#34;scrollable_content&#34;:false,&#34;disable_reposition&#34;:false,&#34;size&#34;:&#34;medium&#34;,&#34;responsive_min_width&#34;:&#34;0%&#34;,&#34;responsive_min_width_unit&#34;:false,&#34;responsive_max_width&#34;:&#34;100%&#34;,&#34;responsive_max_width_unit&#34;:false,&#34;custom_width&#34;:&#34;640px&#34;,&#34;custom_width_unit&#34;:false,&#34;custom_height&#34;:&#34;380px&#34;,&#34;custom_height_unit&#34;:false,&#34;custom_height_auto&#34;:false,&#34;location&#34;:&#34;center&#34;,&#34;position_from_trigger&#34;:false,&#34;position_top&#34;:&#34;100&#34;,&#34;position_left&#34;:&#34;0&#34;,&#34;position_bottom&#34;:&#34;0&#34;,&#34;position_right&#34;:&#34;0&#34;,&#34;position_fixed&#34;:false,&#34;animation_type&#34;:&#34;fade&#34;,&#34;animation_speed&#34;:&#34;350&#34;,&#34;animation_origin&#34;:&#34;center top&#34;,&#34;overlay_zindex&#34;:false,&#34;zindex&#34;:&#34;1999999999&#34;},&#34;close&#34;:{&#34;text&#34;:&#34;&#34;,&#34;button_delay&#34;:&#34;0&#34;,&#34;overlay_click&#34;:false,&#34;esc_press&#34;:false,&#34;f4_press&#34;:false},&#34;click_open&#34;:[]}}"><div id="popmake-1115" class="pum-container popmake theme-1113 pum-responsive pum-responsive-medium responsive size-medium"><div class="pum-content popmake-content" tabindex="0"><div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div><p class="has-large-font-size"><span class="p">Muslims believe in one, incomparable God who, alone, created the entire universe and controls all affairs within it. He alone gives life, causes death, and all affairs are in His Hands. He has no sons or daughters, no siblings, no mother, no father, and no wife.</span></p><p class="has-large-font-size"><span class="p">Allah has no likeness and no equal; consequently, </span><span class="p">He </span>is the only One that deserves to be worshipped. Directing any aspect of worship to anyone other than Him is the greatest of all sins.</p><p class="has-large-font-size">Muslims do not worship prophets, ancestors, trees, stones, idols, stars, the sun, the moon, or anything from the creation. Muslims only worship Allah, praying directly to Him with no intermediary.</p></div><button type="button" class="pum-close popmake-close" aria-label="Close">×</button></div></div><span class="ssp-id" style="display:none">1153</span> <span style="display:none"><div class="ssp-search"><form class="search-form"><div class="form-row"><div class="search-input-container"><input class="search-input fuse-search" name="search-input" placeholder="Search" autocomplete="off" data-noresult="No results found."><div class="search-auto-complete"></div><button type="submit" class="search-submit"><svg viewBox="0 0 24 24"><path d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z"/></svg></button></div></div></form><div class="result"></div></div></span><div id="ast-scroll-top" tabindex="0" class="ast-scroll-top-icon ast-scroll-to-top-right" data-on-devices="both"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve"><path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/></svg></span><span class="screen-reader-text">Scroll to Top</span></div><script type="text/javascript" src="data:text/javascript;base64,Y29uc3QgbGF6eWxvYWRSdW5PYnNlcnZlcj0oKT0+e2NvbnN0IGxhenlsb2FkQmFja2dyb3VuZHM9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbChgLmUtY29uLmUtcGFyZW50Om5vdCguZS1sYXp5bG9hZGVkKWApO2NvbnN0IGxhenlsb2FkQmFja2dyb3VuZE9ic2VydmVyPW5ldyBJbnRlcnNlY3Rpb25PYnNlcnZlcigoZW50cmllcyk9PntlbnRyaWVzLmZvckVhY2goKGVudHJ5KT0+e2lmKGVudHJ5LmlzSW50ZXJzZWN0aW5nKXtsZXQgbGF6eWxvYWRCYWNrZ3JvdW5kPWVudHJ5LnRhcmdldDtpZihsYXp5bG9hZEJhY2tncm91bmQpe2xhenlsb2FkQmFja2dyb3VuZC5jbGFzc0xpc3QuYWRkKCdlLWxhenlsb2FkZWQnKX0KbGF6eWxvYWRCYWNrZ3JvdW5kT2JzZXJ2ZXIudW5vYnNlcnZlKGVudHJ5LnRhcmdldCl9fSl9LHtyb290TWFyZ2luOicyMDBweCAwcHggMjAwcHggMHB4J30pO2xhenlsb2FkQmFja2dyb3VuZHMuZm9yRWFjaCgobGF6eWxvYWRCYWNrZ3JvdW5kKT0+e2xhenlsb2FkQmFja2dyb3VuZE9ic2VydmVyLm9ic2VydmUobGF6eWxvYWRCYWNrZ3JvdW5kKX0pfTtjb25zdCBldmVudHM9WydET01Db250ZW50TG9hZGVkJywnZWxlbWVudG9yL2xhenlsb2FkL29ic2VydmUnLF07ZXZlbnRzLmZvckVhY2goKGV2ZW50KT0+e2RvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoZXZlbnQsbGF6eWxvYWRSdW5PYnNlcnZlcil9KQ==" defer></script><link data-optimized="1" rel="stylesheet" id="sonaar-music-css" href="https://mtws.one/wp-content/litespeed/css/a40b1d3b301c809279e62d29ed8521db.css?ver=521db" media="all"><style id="sonaar-music-inline-css">:root{--srp-global-tracklist-color:#000000}.iron-audioplayer .srp_player_boxed,.single-album .iron-audioplayer[data-playertemplate=skin_float_tracklist] .album-player{background:rgba(226,226,226,1)}.iron-audioplayer .playlist .current .audio-track,.playlist .current .track-number{color:rgba(0,0,0,1)}.iron-audioplayer .playlist .song-store-list-menu .fa-ellipsis-v{color:#bbb}.iron-audioplayer .playlist .audio-track path,.iron-audioplayer .playlist .sricon-play{color:rgba(0,0,0,1)}.iron-audioplayer .control .sricon-play,.srp-play-button .sricon-play,.srp_pagination .active{color:rgba(127,127,127,1)}.iron-audioplayer .srp-play-circle{border-color:rgba(127,127,127,1)}.iron-audioplayer .control,.iron-audioplayer[data-playertemplate=skin_boxed_tracklist] .sr_progressbar,.srp_player_boxed .srp_noteButton{color:rgba(127,127,127,1)}.iron-audioplayer .sr_speedRate div{border-color:rgba(127,127,127,1)}.iron-audioplayer .srp-play-button-label-container,.iron-audioplayer .ui-slider-handle,.iron-audioplayer .ui-slider-range{background:rgba(127,127,127,1)}.iron-audioplayer.sr_player_on_artwork .sonaar-Artwort-box .control [class*=sricon-]{color:#f1f1f1}.iron-audioplayer.sr_player_on_artwork .sonaar-Artwort-box .control .play{border-color:#f1f1f1}@media screen and (max-width:540px){#sonaar-player .playlist .tracklist span.track-album,#sonaar-player .playlist .tracklist span.track-artist,#sonaar-player .playlist .tracklist span.track-title{padding-left:35px}}.iron-audioplayer .sonaar_fake_wave .sonaar_wave_cut rect{fill:rgba(116,1,223,1)}</style><style id="core-block-supports-inline-css">.wp-elements-8dfb6efb723c6b5ba68e9af44a4fb30b a:where(:not(.wp-element-button)){color:var(--wp--preset--color--ast-global-color-0)}</style><script id="astra-theme-js-js-extra" src="data:text/javascript;base64,dmFyIGFzdHJhPXsiYnJlYWtfcG9pbnQiOiI5MjEiLCJpc1J0bCI6IiIsImlzX3Njcm9sbF90b19pZCI6IjEiLCJpc19zY3JvbGxfdG9fdG9wIjoiMSIsImlzX2hlYWRlcl9mb290ZXJfYnVpbGRlcl9hY3RpdmUiOiIxIiwiZWRpdF9wb3N0X3VybCI6Imh0dHBzOlwvXC9tdHdzLm9uZVwvd3AtYWRtaW5cL3Bvc3QucGhwP3Bvc3Q9e3tpZH19JmFjdGlvbj1lZGl0IiwiYWpheF91cmwiOiJodHRwczpcL1wvbXR3cy5vbmVcL3dwLWFkbWluXC9hZG1pbi1hamF4LnBocCIsImluZmluaXRlX2NvdW50IjoiMiIsImluZmluaXRlX3RvdGFsIjoiMCIsInBhZ2luYXRpb24iOiJudW1iZXIiLCJpbmZpbml0ZV9zY3JvbGxfZXZlbnQiOiJzY3JvbGwiLCJub19tb3JlX3Bvc3RfbWVzc2FnZSI6Ik5vIG1vcmUgcG9zdHMgdG8gc2hvdy4iLCJncmlkX2xheW91dCI6IjEiLCJzaXRlX3VybCI6Imh0dHBzOlwvXC9tdHdzLm9uZSIsInNob3dfY29tbWVudHMiOiJTaG93IENvbW1lbnRzIiwibWFzb25yeUVuYWJsZWQiOiIiLCJibG9nTWFzb25yeUJyZWFrUG9pbnQiOiI5MjEifQ==" defer></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/09d5d2944f7c475d93fd29e83f9a97c8.js?ver=a97c8" id="astra-theme-js-js" defer data-deferred="1"></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/f045851223cd53c3bbe5f2ff55521711.js?ver=21711" id="ssp-fuse-js" defer data-deferred="1"></script><script id="ssp-search-js-extra" src="data:text/javascript;base64,dmFyIHNzcF9zZWFyY2g9eyJodG1sIjoiICAgICAgICAgICAgPGRpdiBjbGFzcz1cInNzcC1zZWFyY2hcIj5cbiAgICAgICAgICAgICAgICA8Zm9ybSBjbGFzcz1cInNlYXJjaC1mb3JtXCI+XG4gICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9XCJmb3JtLXJvd1wiPlxuICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz1cInNlYXJjaC1pbnB1dC1jb250YWluZXJcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9XCJzZWFyY2gtaW5wdXQgZnVzZS1zZWFyY2hcIiBuYW1lPVwic2VhcmNoLWlucHV0XCJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9XCJTZWFyY2hcIlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdXRvY29tcGxldGU9XCJvZmZcIlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLW5vcmVzdWx0PVwiTm8gcmVzdWx0cyBmb3VuZC5cIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPVwic2VhcmNoLWF1dG8tY29tcGxldGVcIj48XC9kaXY+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSdzdWJtaXQnIGNsYXNzPSdzZWFyY2gtc3VibWl0Jz5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHN2ZyB2aWV3Qm94PScwIDAgMjQgMjQnPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0nTTkuNSwzQTYuNSw2LjUgMCAwLDEgMTYsOS41QzE2LDExLjExIDE1LjQxLDEyLjU5IDE0LjQ0LDEzLjczTDE0LjcxLDE0SDE1LjVMMjAuNSwxOUwxOSwyMC41TDE0LDE1LjVWMTQuNzFMMTMuNzMsMTQuNDRDMTIuNTksMTUuNDEgMTEuMTEsMTYgOS41LDE2QTYuNSw2LjUgMCAwLDEgMyw5LjVBNi41LDYuNSAwIDAsMSA5LjUsM005LjUsNUM3LDUgNSw3IDUsOS41QzUsMTIgNywxNCA5LjUsMTRDMTIsMTQgMTQsMTIgMTQsOS41QzE0LDcgMTIsNSA5LjUsNVonXC8+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxcL3N2Zz5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8XC9idXR0b24+XG4gICAgICAgICAgICAgICAgICAgICAgICA8XC9kaXY+XG4gICAgICAgICAgICAgICAgICAgIDxcL2Rpdj5cbiAgICAgICAgICAgICAgICA8XC9mb3JtPlxuICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9XCJyZXN1bHRcIj48XC9kaXY+XG4gICAgICAgICAgICA8XC9kaXY+XG5cdFx0XHQiLCJ1c2Vfc2VsZWN0b3IiOiIxIn0=" defer></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/09f574d7452b90b28be1c456e42b5eb8.js?ver=b5eb8" id="ssp-search-js" defer data-deferred="1"></script><script id="astra-addon-js-js-extra" src="data:text/javascript;base64,dmFyIGFzdHJhQWRkb249eyJzdGlja3lfYWN0aXZlIjoiIiwic3ZnSWNvbkNsb3NlIjoiPHNwYW4gY2xhc3M9XCJhc3QtaWNvbiBpY29uLWNsb3NlXCI+PHN2ZyB2aWV3Qm94PVwiMCAwIDUxMiA1MTJcIiBhcmlhLWhpZGRlbj1cInRydWVcIiByb2xlPVwiaW1nXCIgdmVyc2lvbj1cIjEuMVwiIHhtbG5zPVwiaHR0cDpcL1wvd3d3LnczLm9yZ1wvMjAwMFwvc3ZnXCIgeG1sbnM6eGxpbms9XCJodHRwOlwvXC93d3cudzMub3JnXC8xOTk5XC94bGlua1wiIHdpZHRoPVwiMThweFwiIGhlaWdodD1cIjE4cHhcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD1cIk03MS4wMjkgNzEuMDI5YzkuMzczLTkuMzcyIDI0LjU2OS05LjM3MiAzMy45NDIgMEwyNTYgMjIyLjA1OWwxNTEuMDI5LTE1MS4wM2M5LjM3My05LjM3MiAyNC41NjktOS4zNzIgMzMuOTQyIDAgOS4zNzIgOS4zNzMgOS4zNzIgMjQuNTY5IDAgMzMuOTQyTDI4OS45NDEgMjU2bDE1MS4wMyAxNTEuMDI5YzkuMzcyIDkuMzczIDkuMzcyIDI0LjU2OSAwIDMzLjk0Mi05LjM3MyA5LjM3Mi0yNC41NjkgOS4zNzItMzMuOTQyIDBMMjU2IDI4OS45NDFsLTE1MS4wMjkgMTUxLjAzYy05LjM3MyA5LjM3Mi0yNC41NjkgOS4zNzItMzMuOTQyIDAtOS4zNzItOS4zNzMtOS4zNzItMjQuNTY5IDAtMzMuOTQyTDIyMi4wNTkgMjU2IDcxLjAyOSAxMDQuOTcxYy05LjM3Mi05LjM3My05LjM3Mi0yNC41NjkgMC0zMy45NDJ6XCIgXC8+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgPFwvc3ZnPjxcL3NwYW4+IiwiaGZfYWNjb3VudF9zaG93X21lbnVfb24iOiJob3ZlciIsImhmX2FjY291bnRfYWN0aW9uX3R5cGUiOiJsaW5rIiwiaGVhZGVyX21haW5fc3RpY2siOiIwIiwiaGVhZGVyX2Fib3ZlX3N0aWNrIjoiMCIsImhlYWRlcl9iZWxvd19zdGljayI6IjAiLCJzdGlja19oZWFkZXJfbWV0YSI6IiIsImhlYWRlcl9tYWluX3N0aWNrX21ldGEiOiIiLCJoZWFkZXJfYWJvdmVfc3RpY2tfbWV0YSI6IiIsImhlYWRlcl9iZWxvd19zdGlja19tZXRhIjoiIiwic3RpY2t5X2hlYWRlcl9vbl9kZXZpY2VzIjoiZGVza3RvcCIsInN0aWNreV9oZWFkZXJfc3R5bGUiOiJub25lIiwic3RpY2t5X2hpZGVfb25fc2Nyb2xsIjoiMCIsImJyZWFrX3BvaW50IjoiOTIxIiwidGFibGV0X2JyZWFrX3BvaW50IjoiOTIxIiwibW9iaWxlX2JyZWFrX3BvaW50IjoiNTQ0IiwiaGVhZGVyX21haW5fc2hyaW5rIjoiMSIsImhlYWRlcl9sb2dvX3dpZHRoIjoiIiwicmVzcG9uc2l2ZV9oZWFkZXJfbG9nb193aWR0aCI6eyJkZXNrdG9wIjoyMTcsInRhYmxldCI6IiIsIm1vYmlsZSI6NzB9LCJzdGlja19vcmlnaW5fcG9zaXRpb24iOiIiLCJzaXRlX2xheW91dCI6ImFzdC1mdWxsLXdpZHRoLWxheW91dCIsInNpdGVfY29udGVudF93aWR0aCI6IjEyNDAiLCJzaXRlX2xheW91dF9wYWRkZWRfd2lkdGgiOiIxNDg4Iiwic2l0ZV9sYXlvdXRfYm94X3dpZHRoIjoiMTkyMCIsImhlYWRlcl9idWlsZGVyX2FjdGl2ZSI6IjEiLCJjb21wb25lbnRfbGltaXQiOiIxMCIsImlzX2hlYWRlcl9idWlsZGVyX2FjdGl2ZSI6IjEifQ==" defer></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/66884368238310f4e266f19f08b2754f.js?ver=2754f" id="astra-addon-js-js" defer data-deferred="1"></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/b6d56f285a30e10e3b0a4c7a68d0e38f.js?ver=0e38f" id="googlesitekit-consent-mode-js" defer data-deferred="1"></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/152e71bf87444ee242f0b94a22c84611.js?ver=84611" id="dflip-script-js" defer data-deferred="1"></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/7fcb6787c00b84587f9103e7bcaf3e69.js?ver=f3e69" id="jquery-ui-core-js" defer data-deferred="1"></script><script id="popup-maker-site-js-extra" src="data:text/javascript;base64,dmFyIHB1bV92YXJzPXsidmVyc2lvbiI6IjEuMjAuMiIsInBtX2Rpcl91cmwiOiJodHRwczpcL1wvbXR3cy5vbmVcL3dwLWNvbnRlbnRcL3BsdWdpbnNcL3BvcHVwLW1ha2VyXC8iLCJhamF4dXJsIjoiaHR0cHM6XC9cL210d3Mub25lXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLCJyZXN0YXBpIjoiaHR0cHM6XC9cL210d3Mub25lXC93cC1qc29uXC9wdW1cL3YxIiwicmVzdF9ub25jZSI6bnVsbCwiZGVmYXVsdF90aGVtZSI6IjExMTMiLCJkZWJ1Z19tb2RlIjoiIiwiZGlzYWJsZV90cmFja2luZyI6IiIsImhvbWVfdXJsIjoiXC8iLCJtZXNzYWdlX3Bvc2l0aW9uIjoidG9wIiwiY29yZV9zdWJfZm9ybXNfZW5hYmxlZCI6IjEiLCJwb3B1cHMiOltdLCJjb29raWVfZG9tYWluIjoiIiwiYW5hbHl0aWNzX3JvdXRlIjoiYW5hbHl0aWNzIiwiYW5hbHl0aWNzX2FwaSI6Imh0dHBzOlwvXC9tdHdzLm9uZVwvd3AtanNvblwvcHVtXC92MSJ9O3ZhciBwdW1fc3ViX3ZhcnM9eyJhamF4dXJsIjoiaHR0cHM6XC9cL210d3Mub25lXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLCJtZXNzYWdlX3Bvc2l0aW9uIjoidG9wIn07dmFyIHB1bV9wb3B1cHM9eyJwdW0tMTM3NCI6eyJ0cmlnZ2VycyI6W10sImNvb2tpZXMiOltdLCJkaXNhYmxlX29uX21vYmlsZSI6ITEsImRpc2FibGVfb25fdGFibGV0IjohMSwiYXRjX3Byb21vdGlvbiI6bnVsbCwiZXhwbGFpbiI6bnVsbCwidHlwZV9zZWN0aW9uIjpudWxsLCJ0aGVtZV9pZCI6IjExMTMiLCJzaXplIjoibWVkaXVtIiwicmVzcG9uc2l2ZV9taW5fd2lkdGgiOiIwJSIsInJlc3BvbnNpdmVfbWF4X3dpZHRoIjoiMTAwJSIsImN1c3RvbV93aWR0aCI6IjY0MHB4IiwiY3VzdG9tX2hlaWdodF9hdXRvIjohMSwiY3VzdG9tX2hlaWdodCI6IjM4MHB4Iiwic2Nyb2xsYWJsZV9jb250ZW50IjohMSwiYW5pbWF0aW9uX3R5cGUiOiJmYWRlIiwiYW5pbWF0aW9uX3NwZWVkIjoiMzUwIiwiYW5pbWF0aW9uX29yaWdpbiI6ImNlbnRlciB0b3AiLCJvcGVuX3NvdW5kIjoibm9uZSIsImN1c3RvbV9zb3VuZCI6IiIsImxvY2F0aW9uIjoiY2VudGVyIHRvcCIsInBvc2l0aW9uX3RvcCI6IjEwMCIsInBvc2l0aW9uX2JvdHRvbSI6IjAiLCJwb3NpdGlvbl9sZWZ0IjoiMCIsInBvc2l0aW9uX3JpZ2h0IjoiMCIsInBvc2l0aW9uX2Zyb21fdHJpZ2dlciI6ITEsInBvc2l0aW9uX2ZpeGVkIjohMSwib3ZlcmxheV9kaXNhYmxlZCI6ITEsInN0YWNrYWJsZSI6ITEsImRpc2FibGVfcmVwb3NpdGlvbiI6ITEsInppbmRleCI6IjE5OTk5OTk5OTkiLCJjbG9zZV9idXR0b25fZGVsYXkiOiIwIiwiZmlfcHJvbW90aW9uIjpudWxsLCJjbG9zZV9vbl9mb3JtX3N1Ym1pc3Npb24iOiExLCJjbG9zZV9vbl9mb3JtX3N1Ym1pc3Npb25fZGVsYXkiOiIwIiwiY2xvc2Vfb25fb3ZlcmxheV9jbGljayI6ITEsImNsb3NlX29uX2VzY19wcmVzcyI6ITEsImNsb3NlX29uX2Y0X3ByZXNzIjohMSwiZGlzYWJsZV9mb3JtX3Jlb3BlbiI6ITEsImRpc2FibGVfYWNjZXNzaWJpbGl0eSI6ITEsInRoZW1lX3NsdWciOiJjb250ZW50LW9ubHkiLCJpZCI6MTM3NCwic2x1ZyI6Imhvdy10by1iZWNvbWUtbXVzbGltIn0sInB1bS0xMTQzIjp7InRyaWdnZXJzIjpbXSwiY29va2llcyI6W10sImRpc2FibGVfb25fbW9iaWxlIjohMSwiZGlzYWJsZV9vbl90YWJsZXQiOiExLCJhdGNfcHJvbW90aW9uIjpudWxsLCJleHBsYWluIjpudWxsLCJ0eXBlX3NlY3Rpb24iOm51bGwsInRoZW1lX2lkIjoiMTExMyIsInNpemUiOiJtZWRpdW0iLCJyZXNwb25zaXZlX21pbl93aWR0aCI6IjAlIiwicmVzcG9uc2l2ZV9tYXhfd2lkdGgiOiIxMDAlIiwiY3VzdG9tX3dpZHRoIjoiNjQwcHgiLCJjdXN0b21faGVpZ2h0X2F1dG8iOiExLCJjdXN0b21faGVpZ2h0IjoiMzgwcHgiLCJzY3JvbGxhYmxlX2NvbnRlbnQiOiExLCJhbmltYXRpb25fdHlwZSI6ImZhZGUiLCJhbmltYXRpb25fc3BlZWQiOiIzNTAiLCJhbmltYXRpb25fb3JpZ2luIjoiY2VudGVyIHRvcCIsIm9wZW5fc291bmQiOiJub25lIiwiY3VzdG9tX3NvdW5kIjoiIiwibG9jYXRpb24iOiJjZW50ZXIgdG9wIiwicG9zaXRpb25fdG9wIjoiMTAwIiwicG9zaXRpb25fYm90dG9tIjoiMCIsInBvc2l0aW9uX2xlZnQiOiIwIiwicG9zaXRpb25fcmlnaHQiOiIwIiwicG9zaXRpb25fZnJvbV90cmlnZ2VyIjohMSwicG9zaXRpb25fZml4ZWQiOiExLCJvdmVybGF5X2Rpc2FibGVkIjohMSwic3RhY2thYmxlIjohMSwiZGlzYWJsZV9yZXBvc2l0aW9uIjohMSwiemluZGV4IjoiMTk5OTk5OTk5OSIsImNsb3NlX2J1dHRvbl9kZWxheSI6IjAiLCJmaV9wcm9tb3Rpb24iOm51bGwsImNsb3NlX29uX2Zvcm1fc3VibWlzc2lvbiI6ITEsImNsb3NlX29uX2Zvcm1fc3VibWlzc2lvbl9kZWxheSI6IjAiLCJjbG9zZV9vbl9vdmVybGF5X2NsaWNrIjohMSwiY2xvc2Vfb25fZXNjX3ByZXNzIjohMSwiY2xvc2Vfb25fZjRfcHJlc3MiOiExLCJkaXNhYmxlX2Zvcm1fcmVvcGVuIjohMSwiZGlzYWJsZV9hY2Nlc3NpYmlsaXR5IjohMSwidGhlbWVfc2x1ZyI6ImNvbnRlbnQtb25seSIsImlkIjoxMTQzLCJzbHVnIjoid2hhdC1pcy1wcmF5ZXIifSwicHVtLTExMzQiOnsidHJpZ2dlcnMiOltdLCJjb29raWVzIjpbXSwiZGlzYWJsZV9vbl9tb2JpbGUiOiExLCJkaXNhYmxlX29uX3RhYmxldCI6ITEsImF0Y19wcm9tb3Rpb24iOm51bGwsImV4cGxhaW4iOm51bGwsInR5cGVfc2VjdGlvbiI6bnVsbCwidGhlbWVfaWQiOiIxMTEzIiwic2l6ZSI6Im1lZGl1bSIsInJlc3BvbnNpdmVfbWluX3dpZHRoIjoiMCUiLCJyZXNwb25zaXZlX21heF93aWR0aCI6IjEwMCUiLCJjdXN0b21fd2lkdGgiOiI2NDBweCIsImN1c3RvbV9oZWlnaHRfYXV0byI6ITEsImN1c3RvbV9oZWlnaHQiOiIzODBweCIsInNjcm9sbGFibGVfY29udGVudCI6ITEsImFuaW1hdGlvbl90eXBlIjoiZmFkZSIsImFuaW1hdGlvbl9zcGVlZCI6IjM1MCIsImFuaW1hdGlvbl9vcmlnaW4iOiJjZW50ZXIgdG9wIiwib3Blbl9zb3VuZCI6Im5vbmUiLCJjdXN0b21fc291bmQiOiIiLCJsb2NhdGlvbiI6ImNlbnRlciB0b3AiLCJwb3NpdGlvbl90b3AiOiIxMDAiLCJwb3NpdGlvbl9ib3R0b20iOiIwIiwicG9zaXRpb25fbGVmdCI6IjAiLCJwb3NpdGlvbl9yaWdodCI6IjAiLCJwb3NpdGlvbl9mcm9tX3RyaWdnZXIiOiExLCJwb3NpdGlvbl9maXhlZCI6ITEsIm92ZXJsYXlfZGlzYWJsZWQiOiExLCJzdGFja2FibGUiOiExLCJkaXNhYmxlX3JlcG9zaXRpb24iOiExLCJ6aW5kZXgiOiIxOTk5OTk5OTk5IiwiY2xvc2VfYnV0dG9uX2RlbGF5IjoiMCIsImZpX3Byb21vdGlvbiI6bnVsbCwiY2xvc2Vfb25fZm9ybV9zdWJtaXNzaW9uIjohMSwiY2xvc2Vfb25fZm9ybV9zdWJtaXNzaW9uX2RlbGF5IjoiMCIsImNsb3NlX29uX292ZXJsYXlfY2xpY2siOiExLCJjbG9zZV9vbl9lc2NfcHJlc3MiOiExLCJjbG9zZV9vbl9mNF9wcmVzcyI6ITEsImRpc2FibGVfZm9ybV9yZW9wZW4iOiExLCJkaXNhYmxlX2FjY2Vzc2liaWxpdHkiOiExLCJ0aGVtZV9zbHVnIjoiY29udGVudC1vbmx5IiwiaWQiOjExMzQsInNsdWciOiJ3aGF0LWlzLWlzbGFtIn0sInB1bS0xMTE1Ijp7InRyaWdnZXJzIjpbXSwiY29va2llcyI6W10sImRpc2FibGVfb25fbW9iaWxlIjohMSwiZGlzYWJsZV9vbl90YWJsZXQiOiExLCJhdGNfcHJvbW90aW9uIjpudWxsLCJleHBsYWluIjpudWxsLCJ0eXBlX3NlY3Rpb24iOm51bGwsInRoZW1lX2lkIjoiMTExMyIsInNpemUiOiJtZWRpdW0iLCJyZXNwb25zaXZlX21pbl93aWR0aCI6IjAlIiwicmVzcG9uc2l2ZV9tYXhfd2lkdGgiOiIxMDAlIiwiY3VzdG9tX3dpZHRoIjoiNjQwcHgiLCJjdXN0b21faGVpZ2h0X2F1dG8iOiExLCJjdXN0b21faGVpZ2h0IjoiMzgwcHgiLCJzY3JvbGxhYmxlX2NvbnRlbnQiOiExLCJhbmltYXRpb25fdHlwZSI6ImZhZGUiLCJhbmltYXRpb25fc3BlZWQiOiIzNTAiLCJhbmltYXRpb25fb3JpZ2luIjoiY2VudGVyIHRvcCIsIm9wZW5fc291bmQiOiJub25lIiwiY3VzdG9tX3NvdW5kIjoiIiwibG9jYXRpb24iOiJjZW50ZXIiLCJwb3NpdGlvbl90b3AiOiIxMDAiLCJwb3NpdGlvbl9ib3R0b20iOiIwIiwicG9zaXRpb25fbGVmdCI6IjAiLCJwb3NpdGlvbl9yaWdodCI6IjAiLCJwb3NpdGlvbl9mcm9tX3RyaWdnZXIiOiExLCJwb3NpdGlvbl9maXhlZCI6ITEsIm92ZXJsYXlfZGlzYWJsZWQiOiExLCJzdGFja2FibGUiOiExLCJkaXNhYmxlX3JlcG9zaXRpb24iOiExLCJ6aW5kZXgiOiIxOTk5OTk5OTk5IiwiY2xvc2VfYnV0dG9uX2RlbGF5IjoiMCIsImZpX3Byb21vdGlvbiI6bnVsbCwiY2xvc2Vfb25fZm9ybV9zdWJtaXNzaW9uIjohMSwiY2xvc2Vfb25fZm9ybV9zdWJtaXNzaW9uX2RlbGF5IjoiMCIsImNsb3NlX29uX292ZXJsYXlfY2xpY2siOiExLCJjbG9zZV9vbl9lc2NfcHJlc3MiOiExLCJjbG9zZV9vbl9mNF9wcmVzcyI6ITEsImRpc2FibGVfZm9ybV9yZW9wZW4iOiExLCJkaXNhYmxlX2FjY2Vzc2liaWxpdHkiOiExLCJ0aGVtZV9zbHVnIjoiY29udGVudC1vbmx5IiwiaWQiOjExMTUsInNsdWciOiJ3aG8taXMtYWxsYWgifX0=" defer></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/b345d3c3849076ef056fbbc9b6abb39d.js?ver=bb39d" id="popup-maker-site-js" defer data-deferred="1"></script><script src="https://stats.wp.com/e-202446.js" id="jetpack-stats-js" data-wp-strategy="defer"></script><script id="jetpack-stats-js-after">_stq=window._stq||[],_stq.push(["view",JSON.parse('{"v":"ext","blog":"218020991","post":"1153","tz":"-5","srv":"mtws.one","j":"1:14.0"}')]),_stq.push(["clickTrackerInit","218020991","1153"])</script><script id="wp-consent-api-js-extra" src="data:text/javascript;base64,dmFyIGNvbnNlbnRfYXBpPXsiY29uc2VudF90eXBlIjoiIiwid2FpdGZvcl9jb25zZW50X2hvb2siOiIiLCJjb29raWVfZXhwaXJhdGlvbiI6IjMwIiwiY29va2llX3ByZWZpeCI6IndwX2NvbnNlbnQifQ==" defer></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/da4233690cf24f2d72bd098158529059.js?ver=29059" id="wp-consent-api-js" defer data-deferred="1"></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/174b1e552d328afa94724dd70d724bf2.js?ver=24bf2" id="sonaar-music-js" defer data-deferred="1"></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/bd45589f529255efc26acce6e8203362.js?ver=03362" id="moments-js" defer data-deferred="1"></script><script id="sonaar-music-mp3player-js-extra" src="data:text/javascript;base64,dmFyIHNvbmFhcl9tdXNpYz17InBsdWdpbl92ZXJzaW9uX2ZyZWUiOiI1LjkuMSIsInBsdWdpbl9kaXJfdXJsX2ZyZWUiOiJcL2JpdG5hbWlcL3dvcmRwcmVzc1wvd3AtY29udGVudFwvcGx1Z2luc1wvbXAzLW11c2ljLXBsYXllci1ieS1zb25hYXJcLyIsInBsdWdpbl92ZXJzaW9uX3BybyI6Ik5vdCBJbnN0YWxsZWQiLCJwbHVnaW5fZGlyX3VybCI6Imh0dHBzOlwvXC9tdHdzLm9uZVwvd3AtY29udGVudFwvcGx1Z2luc1wvbXAzLW11c2ljLXBsYXllci1ieS1zb25hYXJcL3B1YmxpY1wvIiwib3B0aW9uIjp7InBsYXllcl90eXBlIjoicG9kY2FzdCIsInBsYXllcl93aWRnZXRfdHlwZSI6InNraW5fZmxvYXRfdHJhY2tsaXN0Iiwic3JtcDNfcG9zdHR5cGVzIjpbInBvc3QiLCJwYWdlIiwiZS1sYW5kaW5nLXBhZ2UiLCJzcl9wbGF5bGlzdCIsImFzdHJhLWFkdmFuY2VkLWhvb2siXSwid2F2ZWZvcm1UeXBlIjoibWVkaWFFbGVtZW50IiwibXVzaWNfcGxheWVyX2JhcndpZHRoIjoiMSIsIm11c2ljX3BsYXllcl9iYXJnYXAiOiIxIiwibXVzaWNfcGxheWVyX2xpbmVjYXAiOiJzcXVhcmUiLCJzcl9zb3VuZHdhdmVfaGVpZ2h0IjoiNzAiLCJwbGF5YmFja19zcGVlZCI6IjAuNSwgMSwgMS4yLCAxLjUsIDIsIDIuNSwzIiwiY29sbGFwc2VfdHJhY2tsaXN0X2JhY2tlbmQiOiJmYWxzZSIsInVzZV93eXNpd3lnX2Zvcl90cmFja2Rlc2MiOiJmYWxzZSIsImFsd2F5c19sb2FkX3NjcmlwdHMiOiJvbiIsInBvZGNhc3Rfc2V0dGluZ19yc3NmZWVkX2Rpc2FibGUiOiJmYWxzZSIsInBvZGNhc3Rfc2V0dGluZ19yc3NmZWVkX3JlZGlyZWN0IjoidHJ1ZSIsIm11c2ljX3BsYXllcl9pY29uX2NvbG9yIjoicmdiYSgxMjcsIDEyNywgMTI3LCAxKSIsIm11c2ljX3BsYXllcl9hcnR3b3JrX2ljb25fY29sb3IiOiIjZjFmMWYxIiwibXVzaWNfcGxheWVyX3Byb2dyZXNzX2NvbG9yIjoicmdiYSgxMTYsIDEsIDIyMywgMSkiLCJtdXNpY19wbGF5ZXJfdGltZWxpbmVfY29sb3IiOiJyZ2JhKDMxLCAzMSwgMzEsIDEpIiwibXVzaWNfcGxheWVyX2JnY29sb3IiOiJyZ2JhKDIyNiwgMjI2LCAyMjYsIDEpIiwibXVzaWNfcGxheWVyX2NvdmVyU2l6ZSI6ImxhcmdlIiwibXVzaWNfcGxheWVyX2ZlYXR1cmVkX2NvbG9yIjoicmdiYSgwLCAwLCAwLCAxKSIsIm11c2ljX3BsYXllcl9zdG9yZV9kcmF3ZXIiOiIjQkJCQkJCIiwibGFiZWxQbGF5VHh0IjoiUGxheSIsImxhYmVsUGF1c2VUeHQiOiJQYXVzZSIsInBsYXllcl9zaG93X3RyYWNrc19jb3VudF9sYWJlbCI6IlRyYWNrcyIsInBsYXllcl9ob3Vyc19sYWJlbCI6ImhyLiIsInBsYXllcl9taW51dGVzX2xhYmVsIjoibWluLiIsInBsYXllcl9kYXRlX2Zvcm1hdCI6IiIsInRvb2x0aXBfdHJhY2tsaXN0X2J0biI6IlZpZXcgVHJhY2tsaXN0IiwidG9vbHRpcF9yd2RfYnRuIjoiUmV3aW5kIDE1IHNlY29uZHMiLCJ0b29sdGlwX3ByZXZfYnRuIjoiUHJldmlvdXMiLCJ0b29sdGlwX3BsYXlfYnRuIjoiUGxheVwvUGF1c2UiLCJ0b29sdGlwX25leHRfYnRuIjoiTmV4dCAiLCJ0b29sdGlwX2Z3cmRfYnRuIjoiRm9yd2FyZCAzMCBzZWNvbmRzIiwidG9vbHRpcF9zcGVlZF9idG4iOiJTcGVlZCBSYXRlcyIsInRvb2x0aXBfc2h1ZmZsZV9idG4iOiJTaHVmZmxlICIsInRvb2x0aXBfcmVwZWF0X3BsYXlsaXN0X2J0biI6IkVuYWJsZSBSZXBlYXQiLCJ0b29sdGlwX3JlcGVhdF90cmFja19idG4iOiJFbmFibGUgUmVwZWF0IFRyYWNrIiwidG9vbHRpcF9yZXBlYXRfZGlzYWJsZV9idG4iOiJEaXNhYmxlIFJlcGVhdCIsInRvb2x0aXBfdm9sdW1lX2J0biI6IlZvbHVtZSIsInByb21vX3BsYXllcl9zaG93X3ZvbHVtZV9idCI6MCwicHJvbW9fcGxheWVyX3Nob3dfc2tpcF9idCI6MCwicHJvbW9fcGxheWVyX3Nob3dfc3BlZWRfYnQiOjAsInByb21vX3BsYXllcl9zaG93X3NodWZmbGVfYnQiOjAsInByb21vX3BsYXllcl9zaG93X3RyYWNrX3B1Ymxpc2hfZGF0ZSI6MCwicHJvbW9fc2hvd19sYWJlbCI6ImZhbHNlIiwicHJvbW9fc3Jfc2luZ2xlX3Bvc3RfdXNlX2N1c3RvbV9zaG9ydGNvZGUiOjAsInByb21vX2N0YS1wb3B1cCI6MH0sImFqYXgiOnsiYWpheF91cmwiOiJodHRwczpcL1wvbXR3cy5vbmVcL3dwLWFkbWluXC9hZG1pbi1hamF4LnBocCIsImFqYXhfbm9uY2UiOiIyNGZiMWZkODEwIiwiYWpheF9ub25jZV9wZWFrcyI6ImM4MThhZjUzZDAifX0=" defer></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/f1060532df76972745d9b32b5c08578c.js?ver=8578c" id="sonaar-music-mp3player-js" defer data-deferred="1"></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/ce0f6814bc8ac1918f50ddc63ad2668d.js?ver=2668d" id="elementor-pro-webpack-runtime-js" defer data-deferred="1"></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/3ad2498832aae5cace9a228a918b9e66.js?ver=b9e66" id="elementor-webpack-runtime-js" defer data-deferred="1"></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/a9f130e28c71cc1aaccb308fdfeef022.js?ver=ef022" id="elementor-frontend-modules-js" defer data-deferred="1"></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/a7e25e3e7d3e616e953e9e36dc8f1d58.js?ver=f1d58" id="wp-hooks-js" defer data-deferred="1"></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/3edafa1c8999a59b990c33ee95bdf0a4.js?ver=df0a4" id="wp-i18n-js" defer data-deferred="1"></script><script id="wp-i18n-js-after" src="data:text/javascript;base64,d3AuaTE4bi5zZXRMb2NhbGVEYXRhKHsndGV4dCBkaXJlY3Rpb25cdTAwMDRsdHInOlsnbHRyJ119KQ==" defer></script><script id="elementor-pro-frontend-js-before" src="data:text/javascript;base64,dmFyIEVsZW1lbnRvclByb0Zyb250ZW5kQ29uZmlnPXsiYWpheHVybCI6Imh0dHBzOlwvXC9tdHdzLm9uZVwvd3AtYWRtaW5cL2FkbWluLWFqYXgucGhwIiwibm9uY2UiOiIyMTUzYzExM2E0IiwidXJscyI6eyJhc3NldHMiOiJodHRwczpcL1wvbXR3cy5vbmVcL3dwLWNvbnRlbnRcL3BsdWdpbnNcL2VsZW1lbnRvci1wcm9cL2Fzc2V0c1wvIiwicmVzdCI6Imh0dHBzOlwvXC9tdHdzLm9uZVwvd3AtanNvblwvIn0sInNoYXJlQnV0dG9uc05ldHdvcmtzIjp7ImZhY2Vib29rIjp7InRpdGxlIjoiRmFjZWJvb2siLCJoYXNfY291bnRlciI6ITB9LCJ0d2l0dGVyIjp7InRpdGxlIjoiVHdpdHRlciJ9LCJsaW5rZWRpbiI6eyJ0aXRsZSI6IkxpbmtlZEluIiwiaGFzX2NvdW50ZXIiOiEwfSwicGludGVyZXN0Ijp7InRpdGxlIjoiUGludGVyZXN0IiwiaGFzX2NvdW50ZXIiOiEwfSwicmVkZGl0Ijp7InRpdGxlIjoiUmVkZGl0IiwiaGFzX2NvdW50ZXIiOiEwfSwidmsiOnsidGl0bGUiOiJWSyIsImhhc19jb3VudGVyIjohMH0sIm9kbm9rbGFzc25pa2kiOnsidGl0bGUiOiJPSyIsImhhc19jb3VudGVyIjohMH0sInR1bWJsciI6eyJ0aXRsZSI6IlR1bWJsciJ9LCJkaWdnIjp7InRpdGxlIjoiRGlnZyJ9LCJza3lwZSI6eyJ0aXRsZSI6IlNreXBlIn0sInN0dW1ibGV1cG9uIjp7InRpdGxlIjoiU3R1bWJsZVVwb24iLCJoYXNfY291bnRlciI6ITB9LCJtaXgiOnsidGl0bGUiOiJNaXgifSwidGVsZWdyYW0iOnsidGl0bGUiOiJUZWxlZ3JhbSJ9LCJwb2NrZXQiOnsidGl0bGUiOiJQb2NrZXQiLCJoYXNfY291bnRlciI6ITB9LCJ4aW5nIjp7InRpdGxlIjoiWElORyIsImhhc19jb3VudGVyIjohMH0sIndoYXRzYXBwIjp7InRpdGxlIjoiV2hhdHNBcHAifSwiZW1haWwiOnsidGl0bGUiOiJFbWFpbCJ9LCJwcmludCI6eyJ0aXRsZSI6IlByaW50In0sIngtdHdpdHRlciI6eyJ0aXRsZSI6IlgifSwidGhyZWFkcyI6eyJ0aXRsZSI6IlRocmVhZHMifX0sImZhY2Vib29rX3NkayI6eyJsYW5nIjoiZW5fVVMiLCJhcHBfaWQiOiIifSwibG90dGllIjp7ImRlZmF1bHRBbmltYXRpb25VcmwiOiJodHRwczpcL1wvbXR3cy5vbmVcL3dwLWNvbnRlbnRcL3BsdWdpbnNcL2VsZW1lbnRvci1wcm9cL21vZHVsZXNcL2xvdHRpZVwvYXNzZXRzXC9hbmltYXRpb25zXC9kZWZhdWx0Lmpzb24ifX0=" defer></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/85bfa5e59ea61345f5331bc5535e85d2.js?ver=e85d2" id="elementor-pro-frontend-js" defer data-deferred="1"></script><script id="elementor-frontend-js-before" src="data:text/javascript;base64,dmFyIGVsZW1lbnRvckZyb250ZW5kQ29uZmlnPXsiZW52aXJvbm1lbnRNb2RlIjp7ImVkaXQiOiExLCJ3cFByZXZpZXciOiExLCJpc1NjcmlwdERlYnVnIjohMX0sImkxOG4iOnsic2hhcmVPbkZhY2Vib29rIjoiU2hhcmUgb24gRmFjZWJvb2siLCJzaGFyZU9uVHdpdHRlciI6IlNoYXJlIG9uIFR3aXR0ZXIiLCJwaW5JdCI6IlBpbiBpdCIsImRvd25sb2FkIjoiRG93bmxvYWQiLCJkb3dubG9hZEltYWdlIjoiRG93bmxvYWQgaW1hZ2UiLCJmdWxsc2NyZWVuIjoiRnVsbHNjcmVlbiIsInpvb20iOiJab29tIiwic2hhcmUiOiJTaGFyZSIsInBsYXlWaWRlbyI6IlBsYXkgVmlkZW8iLCJwcmV2aW91cyI6IlByZXZpb3VzIiwibmV4dCI6Ik5leHQiLCJjbG9zZSI6IkNsb3NlIiwiYTExeUNhcm91c2VsV3JhcHBlckFyaWFMYWJlbCI6IkNhcm91c2VsIHwgSG9yaXpvbnRhbCBzY3JvbGxpbmc6IEFycm93IExlZnQgJiBSaWdodCIsImExMXlDYXJvdXNlbFByZXZTbGlkZU1lc3NhZ2UiOiJQcmV2aW91cyBzbGlkZSIsImExMXlDYXJvdXNlbE5leHRTbGlkZU1lc3NhZ2UiOiJOZXh0IHNsaWRlIiwiYTExeUNhcm91c2VsRmlyc3RTbGlkZU1lc3NhZ2UiOiJUaGlzIGlzIHRoZSBmaXJzdCBzbGlkZSIsImExMXlDYXJvdXNlbExhc3RTbGlkZU1lc3NhZ2UiOiJUaGlzIGlzIHRoZSBsYXN0IHNsaWRlIiwiYTExeUNhcm91c2VsUGFnaW5hdGlvbkJ1bGxldE1lc3NhZ2UiOiJHbyB0byBzbGlkZSJ9LCJpc19ydGwiOiExLCJicmVha3BvaW50cyI6eyJ4cyI6MCwic20iOjQ4MCwibWQiOjc2OCwibGciOjEwMjUsInhsIjoxNDQwLCJ4eGwiOjE2MDB9LCJyZXNwb25zaXZlIjp7ImJyZWFrcG9pbnRzIjp7Im1vYmlsZSI6eyJsYWJlbCI6Ik1vYmlsZSBQb3J0cmFpdCIsInZhbHVlIjo3NjcsImRlZmF1bHRfdmFsdWUiOjc2NywiZGlyZWN0aW9uIjoibWF4IiwiaXNfZW5hYmxlZCI6ITB9LCJtb2JpbGVfZXh0cmEiOnsibGFiZWwiOiJNb2JpbGUgTGFuZHNjYXBlIiwidmFsdWUiOjg4MCwiZGVmYXVsdF92YWx1ZSI6ODgwLCJkaXJlY3Rpb24iOiJtYXgiLCJpc19lbmFibGVkIjohMX0sInRhYmxldCI6eyJsYWJlbCI6IlRhYmxldCBQb3J0cmFpdCIsInZhbHVlIjoxMDI0LCJkZWZhdWx0X3ZhbHVlIjoxMDI0LCJkaXJlY3Rpb24iOiJtYXgiLCJpc19lbmFibGVkIjohMH0sInRhYmxldF9leHRyYSI6eyJsYWJlbCI6IlRhYmxldCBMYW5kc2NhcGUiLCJ2YWx1ZSI6MTIwMCwiZGVmYXVsdF92YWx1ZSI6MTIwMCwiZGlyZWN0aW9uIjoibWF4IiwiaXNfZW5hYmxlZCI6ITF9LCJsYXB0b3AiOnsibGFiZWwiOiJMYXB0b3AiLCJ2YWx1ZSI6MTM2NiwiZGVmYXVsdF92YWx1ZSI6MTM2NiwiZGlyZWN0aW9uIjoibWF4IiwiaXNfZW5hYmxlZCI6ITF9LCJ3aWRlc2NyZWVuIjp7ImxhYmVsIjoiV2lkZXNjcmVlbiIsInZhbHVlIjoyNDAwLCJkZWZhdWx0X3ZhbHVlIjoyNDAwLCJkaXJlY3Rpb24iOiJtaW4iLCJpc19lbmFibGVkIjohMX19LCJoYXNDdXN0b21CcmVha3BvaW50cyI6ITF9LCJ2ZXJzaW9uIjoiMy4yNS42IiwiaXNfc3RhdGljIjohMSwiZXhwZXJpbWVudGFsRmVhdHVyZXMiOnsiZV9mb250X2ljb25fc3ZnIjohMCwiYWRkaXRpb25hbF9jdXN0b21fYnJlYWtwb2ludHMiOiEwLCJjb250YWluZXIiOiEwLCJlX3N3aXBlcl9sYXRlc3QiOiEwLCJlX25lc3RlZF9hdG9taWNfcmVwZWF0ZXJzIjohMCwiZV9vcHRpbWl6ZWRfY29udHJvbF9sb2FkaW5nIjohMCwiZV9vbmJvYXJkaW5nIjohMCwiZV9jc3Nfc21vb3RoX3Njcm9sbCI6ITAsInRoZW1lX2J1aWxkZXJfdjIiOiEwLCJob21lX3NjcmVlbiI6ITAsImxhbmRpbmctcGFnZXMiOiEwLCJuZXN0ZWQtZWxlbWVudHMiOiEwLCJlZGl0b3JfdjIiOiEwLCJsaW5rLWluLWJpbyI6ITAsImZsb2F0aW5nLWJ1dHRvbnMiOiEwLCJub3RlcyI6ITAsImZvcm0tc3VibWlzc2lvbnMiOiEwLCJtZWdhLW1lbnUiOiEwfSwidXJscyI6eyJhc3NldHMiOiJodHRwczpcL1wvbXR3cy5vbmVcL3dwLWNvbnRlbnRcL3BsdWdpbnNcL2VsZW1lbnRvclwvYXNzZXRzXC8iLCJhamF4dXJsIjoiaHR0cHM6XC9cL210d3Mub25lXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLCJ1cGxvYWRVcmwiOiJodHRwczpcL1wvbXR3cy5vbmVcL3dwLWNvbnRlbnRcL3VwbG9hZHMifSwibm9uY2VzIjp7ImZsb2F0aW5nQnV0dG9uc0NsaWNrVHJhY2tpbmciOiIxNjkxNmUzNWEyIn0sInN3aXBlckNsYXNzIjoic3dpcGVyIiwic2V0dGluZ3MiOnsicGFnZSI6W10sImVkaXRvclByZWZlcmVuY2VzIjpbXX0sImtpdCI6eyJib2R5X2JhY2tncm91bmRfYmFja2dyb3VuZCI6ImNsYXNzaWMiLCJhY3RpdmVfYnJlYWtwb2ludHMiOlsidmlld3BvcnRfbW9iaWxlIiwidmlld3BvcnRfdGFibGV0Il0sImdsb2JhbF9pbWFnZV9saWdodGJveCI6InllcyIsImxpZ2h0Ym94X2VuYWJsZV9jb3VudGVyIjoieWVzIiwibGlnaHRib3hfZW5hYmxlX2Z1bGxzY3JlZW4iOiJ5ZXMiLCJsaWdodGJveF9lbmFibGVfem9vbSI6InllcyIsImxpZ2h0Ym94X2VuYWJsZV9zaGFyZSI6InllcyIsImxpZ2h0Ym94X3RpdGxlX3NyYyI6InRpdGxlIiwibGlnaHRib3hfZGVzY3JpcHRpb25fc3JjIjoiZGVzY3JpcHRpb24ifSwicG9zdCI6eyJpZCI6MTE1MywidGl0bGUiOiJJbmZvcm1hdGlvbiUyMGFib3V0JTIwSXNsJUM0JTgxbSIsImV4Y2VycHQiOiIiLCJmZWF0dXJlZEltYWdlIjoiaHR0cHM6XC9cL2kwLndwLmNvbVwvbXR3cy5vbmVcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAzXC9Tb2NpYWwtU2hhcmUtSW1hZ2VzLnBuZz9maXQ9MTAyNCUyQzUzOCZzc2w9MSJ9fQ==" defer></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/61afb7b6cfed806a3bf9a9eaa52c96bf.js?ver=c96bf" id="elementor-frontend-js" defer data-deferred="1"></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/e10d5583f3c553a90464aa4be49709ad.js?ver=709ad" id="pro-preloaded-elements-handlers-js" defer data-deferred="1"></script><script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/69a204cca23c3088a56b280bcf41f6e4.js?ver=1f6e4" id="sr-scripts-js" defer data-deferred="1"></script><script src="data:text/javascript;base64,Lyh0cmlkZW50fG1zaWUpL2kudGVzdChuYXZpZ2F0b3IudXNlckFnZW50KSYmZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQmJndpbmRvdy5hZGRFdmVudExpc3RlbmVyJiZ3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigiaGFzaGNoYW5nZSIsZnVuY3Rpb24oKXt2YXIgdCxlPWxvY2F0aW9uLmhhc2guc3Vic3RyaW5nKDEpOy9eW0EtejAtOV8tXSskLy50ZXN0KGUpJiYodD1kb2N1bWVudC5nZXRFbGVtZW50QnlJZChlKSkmJigvXig/OmF8c2VsZWN0fGlucHV0fGJ1dHRvbnx0ZXh0YXJlYSkkL2kudGVzdCh0LnRhZ05hbWUpfHwodC50YWJJbmRleD0tMSksdC5mb2N1cygpKX0sITEp" defer></script><script data-cfasync="false">var dFlipLocation="https://mtws.one/wp-content/plugins/3d-flipbook-dflip-lite/assets/",dFlipWPGlobal={text:{toggleSound:"Turn on/off Sound",toggleThumbnails:"Toggle Thumbnails",toggleOutline:"Toggle Outline/Bookmark",previousPage:"Previous Page",nextPage:"Next Page",toggleFullscreen:"Toggle Fullscreen",zoomIn:"Zoom In",zoomOut:"Zoom Out",toggleHelp:"Toggle Help",singlePageMode:"Single Page Mode",doublePageMode:"Double Page Mode",downloadPDFFile:"Download PDF File",gotoFirstPage:"Goto First Page",gotoLastPage:"Goto Last Page",share:"Share",mailSubject:"I wanted you to see this FlipBook",mailBody:"Check out this site {{url}}",loading:"DearFlip: Loading "},viewerType:"flipbook",moreControls:"download,pageMode,startPage,endPage,sound",hideControls:"",scrollWheel:"false",backgroundColor:"#777",backgroundImage:"",height:"auto",paddingLeft:"20",paddingRight:"20",controlsPosition:"bottom",duration:800,soundEnable:"true",enableDownload:"true",showSearchControl:"false",showPrintControl:"false",enableAnnotation:!1,enableAnalytics:"false",webgl:"true",hard:"none",maxTextureSize:"1600",rangeChunkSize:"524288",zoomRatio:1.5,stiffness:3,pageMode:"0",singlePageMode:"0",pageSize:"0",autoPlay:"false",autoPlayDuration:5e3,autoPlayStart:"false",linkTarget:"2",sharePrefix:"flipbook-"}</script></body></html>```
+    <![endif]-->
+  <script src="https://mtws.one/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/b6442fa9e43c3588d5ed7ec79fbefa57.js?ver=efa57" id="jquery-migrate-js" defer data-deferred="1"></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/ff558406a6fdfa7bb6b74810840459ce.js?ver=459ce" id="taxopress-frontend-js-js" defer data-deferred="1"></script>
+  <script src="https://www.googletagmanager.com/gtag/js?id=GT-T9HSBTP" id="google_gtagjs-js" defer data-deferred="1"></script>
+  <script id="google_gtagjs-js-after" src="data:text/javascript;base64,d2luZG93LmRhdGFMYXllcj13aW5kb3cuZGF0YUxheWVyfHxbXTtmdW5jdGlvbiBndGFnKCl7ZGF0YUxheWVyLnB1c2goYXJndW1lbnRzKX0KZ3RhZygic2V0IiwibGlua2VyIix7ImRvbWFpbnMiOlsibXR3cy5vbmUiXX0pO2d0YWcoImpzIixuZXcgRGF0ZSgpKTtndGFnKCJzZXQiLCJkZXZlbG9wZXJfaWQuZFpUTmlNVCIsITApO2d0YWcoImNvbmZpZyIsIkdULVQ5SFNCVFAiKQ==" defer></script>
+  <link rel="https://api.w.org/" href="https://mtws.one/wp-json/">
+  <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mtws.one/xmlrpc.php?rsd">
+  <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://mtws.one/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmtws.one%2Fdawah%2F">
+  <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://mtws.one/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmtws.one%2Fdawah%2F&#038;format=xml">
+  <meta name="cdp-version" content="1.4.9">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="data:text/javascript;base64,JChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24oKXt2YXIgJHRlbXA9JCgiPGlucHV0PiIpO3ZhciAkdXJsPSdodHRwczovL2wubXR3cy5vbmUvZGF3YWgnOyQoJyNjb3B5LWRhd2FoJykuY2xpY2soZnVuY3Rpb24oKXskKCJib2R5IikuYXBwZW5kKCR0ZW1wKTskdGVtcC52YWwoJHVybCkuc2VsZWN0KCk7ZG9jdW1lbnQuZXhlY0NvbW1hbmQoImNvcHkiKTskdGVtcC5yZW1vdmUoKTskKCIjdXJsIikudGV4dCgiVVJMIGNvcGllZCEiKX0pfSk=" defer></script>
+  <meta name="generator" content="Site Kit by Google 1.139.0">
+  <script type="text/javascript" src="data:text/javascript;base64,KGZ1bmN0aW9uKGMsbCxhLHIsaSx0LHkpe2NbYV09Y1thXXx8ZnVuY3Rpb24oKXsoY1thXS5xPWNbYV0ucXx8W10pLnB1c2goYXJndW1lbnRzKX07dD1sLmNyZWF0ZUVsZW1lbnQocik7dC5hc3luYz0xO3Quc3JjPSJodHRwczovL3d3dy5jbGFyaXR5Lm1zL3RhZy8iK2krIj9yZWY9d29yZHByZXNzIjt5PWwuZ2V0RWxlbWVudHNCeVRhZ05hbWUocilbMF07eS5wYXJlbnROb2RlLmluc2VydEJlZm9yZSh0LHkpfSkod2luZG93LGRvY3VtZW50LCJjbGFyaXR5Iiwic2NyaXB0IiwiajYwdzRmOG1xbCIp" defer></script>
+  <style>
+    img#wpstats {
+      display: none
+    }
+  </style>
+  <meta name="ssp-config-path" content="/wp-content/media/simply-static/configs/">
+  <link rel="pingback" href="https://mtws.one/xmlrpc.php">
+  <meta name="generator" content="Elementor 3.25.6; features: e_font_icon_svg, additional_custom_breakpoints, e_optimized_control_loading; settings: css_print_method-external, google_font-enabled, font_display-auto">
+  <style>
+    .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+    .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+      background-image: none !important
+    }
+
+    @media screen and (max-height:1024px) {
+
+      .e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+      .e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+        background-image: none !important
+      }
+    }
+
+    @media screen and (max-height:640px) {
+
+      .e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+      .e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+        background-image: none !important
+      }
+    }
+  </style>
+  <script>
+    (function(e, t, a, n, r) {
+      e[n] = e[n] || [], e[n].push({
+        "gtm.start": (new Date).getTime(),
+        event: "gtm.js"
+      });
+      var g = t.getElementsByTagName(a)[0],
+        m = t.createElement(a),
+        s = "dataLayer" != n ? "&l=" + n : "";
+      m.async = !0, m.src = "https://www.googletagmanager.com/gtm.js?id=" + r + s, g.parentNode.insertBefore(m, g)
+    })(window, document, "script", "dataLayer", "GTM-W45KFLV")
+  </script>
+  <meta name="theme-color" content="#FFFFFF">
+  <link rel="icon" href="https://i0.wp.com/mtws.one/wp-content/uploads/2023/04/cropped-logo.png?fit=32%2C32&#038;ssl=1" sizes="32x32">
+  <link rel="icon" href="https://i0.wp.com/mtws.one/wp-content/uploads/2023/04/cropped-logo.png?fit=192%2C192&#038;ssl=1" sizes="192x192">
+  <link rel="apple-touch-icon" href="https://i0.wp.com/mtws.one/wp-content/uploads/2023/04/cropped-logo.png?fit=180%2C180&#038;ssl=1">
+  <meta name="msapplication-TileImage" content="https://i0.wp.com/mtws.one/wp-content/uploads/2023/04/cropped-logo.png?fit=270%2C270&#038;ssl=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+</head>
+
+<body data-rsssl="1" class="e-landing-page-template e-landing-page-template-elementor_canvas single single-e-landing-page postid-1153 single-format-standard wp-custom-logo ast-desktop ast-page-builder-template ast-no-sidebar astra-4.6.8 ast-blog-single-style-1 ast-custom-post-type ast-single-post ast-inherit-site-logo-transparent ast-hfb-header ast-full-width-layout ast-sticky-header-shrink ast-inherit-site-logo-sticky elementor-default elementor-template-canvas elementor-kit-55 elementor-page elementor-page-1153 astra-addon-4.3.3"><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W45KFLV" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <div data-elementor-type="landing-page" data-elementor-id="1153" class="elementor elementor-1153" data-elementor-post-type="e-landing-page">
+    <div class="elementor-element elementor-element-da9b6e7 e-con-full e-flex e-con e-parent" data-id="da9b6e7" data-element_type="container" data-settings="{&#34;background_background&#34;:&#34;classic&#34;}">
+      <div class="elementor-element elementor-element-5640c56 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="5640c56" data-element_type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container"><img decoding="async" src="https://i0.wp.com/mtws.one/wp-content/uploads/2023/04/logo.webp?fit=1000%2C1000&#038;ssl=1" title="logo" alt="logo" loading="lazy"></div>
+      </div>
+      <div class="elementor-element elementor-element-e90bdc9 e-flex e-con-boxed e-con e-child" data-id="e90bdc9" data-element_type="container">
+        <div class="e-con-inner">
+          <div class="elementor-element elementor-element-3298b19 elementor-widget elementor-widget-text-editor" data-id="3298b19" data-element_type="widget" data-widget_type="text-editor.default">
+            <div class="elementor-widget-container">
+              <h3 style="text-align:center">Welcome! Take a moment to learn more about Islām.</h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="elementor-element elementor-element-0fb3957 e-con-full e-flex e-con e-parent" data-id="0fb3957" data-element_type="container">
+      <div class="elementor-element elementor-element-68aa254 e-con-full e-flex e-con e-child" data-id="68aa254" data-element_type="container">
+        <div class="elementor-element elementor-element-dbbd01f elementor-widget elementor-widget-spacer" data-id="dbbd01f" data-element_type="widget" data-widget_type="spacer.default">
+          <div class="elementor-widget-container">
+            <div class="elementor-spacer">
+              <div class="elementor-spacer-inner"></div>
+            </div>
+          </div>
+        </div>
+        <div class="elementor-element elementor-element-95cefc7 elementor-widget elementor-widget-heading" data-id="95cefc7" data-element_type="widget" data-widget_type="heading.default">
+          <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">A Guide to Islām Audiobook</h2>
+          </div>
+        </div>
+        <div class="elementor-element elementor-element-f9de16e elementor-widget elementor-widget-music-player" data-id="f9de16e" data-element_type="widget" data-widget_type="music-player.default">
+          <div class="elementor-widget-container">
+            <article id="arbitrary-instance-6738ffa2c4f84" class="iron_widget_radio">
+              <div class="iron-audioplayer sonaar-no-artwork srp_post_player playlist_has_no_ctas skin_floated" id="arbitrary-instance-6738ffa2c4f84-949dfb6dc9" data-id="arbitrary-instance-6738ffa2c4f84" data-track-sw-cursor="" data-lazyload="" data-albums="1058" data-category="" data-url-playlist="https://mtws.one/?load=playlist.json&#038;title=&#038;albums=1058&#038;category=&#038;posts_not_in=&#038;category_not_in=&#038;feed_title=&#038;feed=&#038;feed_img=&#038;el_widget_id=&#038;artwork=&#038;posts_per_pages=-1&#038;all_category=&#038;single_playlist=1&#038;reverse_tracklist=&#038;audio_meta_field=&#038;repeater_meta_field=&#038;import_file=&#038;rss_items=-1&#038;rss_item_title=&#038;is_favorite=&#038;is_recentlyplayed=&#038;srp_order=date_DESC" data-sticky-player="" data-shuffle="false" data-playlist_title="" data-scrollbar="" data-wave-color="" data-wave-progress-color="" data-spectro="" data-no-wave="" data-hide-progressbar="" data-progress-bar-style="" data-feedurl="0" data-notrackskip="" data-no-loop-tracklist="" data-playertemplate="skin_float_tracklist" data-hide-artwork="1" data-speedrate="1" data-tracks-per-page="" data-pagination_scroll_offset="" data-adaptive-colors="" data-adaptive-colors-freeze="" style="opacity:0">
+                <div class="sonaar-grid" style="">
+                  <div class="playlist sr_waveform_mediaElement" id="playlist_arbitrary-instance-6738ffa2c4f84">
+                    <h3 class="sr_it-playlist-title"></h3>
+                    <div class="srp_subtitle"></div>
+                    <div class="srp_tracklist">
+                      <ul class="srp_list">
+                        <li class="sr-playlist-item" data-audiopath="https://mtws.one/wp-content/uploads/2023/04/A-Glimpse-into-the-Religion-of-Islam-Audiobook1.mp3" data-showloading="1" data-albumtitle="A Glimpse into the Religion of Islam" data-albumart="https://i0.wp.com/mtws.one/wp-content/uploads/2023/04/A-Glimpse-into-the-Religion-of-Islam-Audiobook1-mp3-image-jpg.webp?fit=500,500&#038;ssl=1" data-releasedate="" data-date="2024/03/07" data-date-formated="March 7, 2024" data-show-date="" data-tracktitle="A Glimpse into the Religion of Islam Audiobook" data-artist="AudioDeen" data-trackid="399" data-tracktime="25:56" data-relatedtrack="" data-post-url="" data-post-id="1058" data-track-pos="0" data-peakfile="https://mtws.one/wp-content/uploads/audio_peaks/399.peak" data-peakfile-allow="1" data-is-preview="" data-track-lyric="" data-icecast_json="" data-icecast_mount="">
+                          <div class="sr-playlist-item-flex"><span class="store-list"></span></div>
+                          <div class="srp_track_description"></div>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="album-player sr_waveform_mediaElement">
+                  <div class="srp_miniplayer_metas">
+                    <div class="srp_meta srp_meta_0 track-title" data-prefix="" aria-label="Track title"></div>
+                    <div class="srp_meta srp_meta_1 album-title" data-prefix="" aria-label="Title"></div>
+                  </div>
+                  <div class="player">
+                    <div class="sr_progressbar">
+                      <div class="currentTime">00:00</div>
+                      <div id="arbitrary-instance-6738ffa2c4f84-11ed1749f3-wave" class="wave">
+                        <div class="sonaar_fake_wave" style="height:70px"><audio src="" class="sonaar_media_element"></audio>
+                          <div class="sonaar_wave_base"><canvas id="sonaar_wave_base_canvas" class="" height="70" width="2540"></canvas><svg></svg></div>
+                          <div class="sonaar_wave_cut"><canvas id="sonaar_wave_cut_canvas" class="" height="70" width="2540"></canvas><svg></svg></div>
+                        </div>
+                      </div>
+                      <div class="totalTime"></div>
+                    </div>
+                    <div class="srp_main_control srp_oneColumn">
+                      <div class="control">
+                        <div class="play" style="opacity:0" aria-label="Play" title="Play/Pause"><i class="sricon-play"></i></div>
+                      </div>
+                      <div class="control"></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="album-store"></div>
+              </div>
+              <script id="srp_js_params_6738ffa2c4f84" src="data:text/javascript;base64,dmFyIHNycF9wbGF5ZXJfcGFyYW1zXzY3MzhmZmEyYzRmODQ9eyJ0aXRsZSI6IiIsInN0b3JlX3RpdGxlX3RleHQiOiIiLCJhbGJ1bXMiOiIxMDU4IiwiaGlkZV9hcnR3b3JrIjoidHJ1ZSIsInN0aWNreV9wbGF5ZXIiOiIiLCJzaG93X2FsYnVtX21hcmtldCI6InRydWUiLCJzaG93X3RyYWNrX21hcmtldCI6InRydWUiLCJoaWRlX3RpbWVsaW5lIjoiZmFsc2UiLCJlbGVtZW50b3IiOiJ0cnVlIiwidHJhY2tzX3Blcl9wYWdlIjoiIiwidGl0bGV0YWdfc291bmR3YXZlIjoiZGl2IiwidGl0bGV0YWdfcGxheWxpc3QiOiJoMyIsInNob3dfY29udHJvbF9vbl9ob3ZlciI6ImZhbHNlIiwic2hvd19wbGF5bGlzdCI6ImZhbHNlIiwicmV2ZXJzZV90cmFja2xpc3QiOiIiLCJ3YXZlX2NvbG9yIjoiIiwid2F2ZV9wcm9ncmVzc19jb2xvciI6IiIsInNwZWN0cm8iOiIiLCJzaHVmZmxlIjoiIiwic2VhcmNoYmFyIjoiIiwic2VhcmNoYmFyX3BsYWNlaG9sZGVyIjoiIiwicGxheWVyX2xheW91dCI6InNraW5fZmxvYXRfdHJhY2tsaXN0IiwiYXJ0d29yayI6IiIsIm9yZGVyYnkiOiJkYXRlIiwib3JkZXIiOiJERVNDIiwidXNlX3BsYXlfbGFiZWxfd2l0aF9pY29uIjoiZmFsc2UiLCJtYWluX3NldHRpbmdzIjoifHwifQp2YXIgc3JwX3BsYXllcl9wYXJhbXNfYXJnc182NzM4ZmZhMmM0Zjg0PXsiYmVmb3JlX3dpZGdldCI6IjxhcnRpY2xlIGlkPVwiYXJiaXRyYXJ5LWluc3RhbmNlLTY3MzhmZmEyYzRmODRcIiBjbGFzcz1cImlyb25fd2lkZ2V0X3JhZGlvXCI+IiwiYWZ0ZXJfd2lkZ2V0IjoiPFwvYXJ0aWNsZT4iLCJiZWZvcmVfdGl0bGUiOiI8c3BhbiBjbGFzcz0naGVhZGluZy10Myc+PFwvc3Bhbj48aDMgY2xhc3M9XCJ3aWRnZXR0aXRsZVwiPiIsImFmdGVyX3RpdGxlIjoiPFwvaDM+Iiwid2lkZ2V0X2lkIjoiYXJiaXRyYXJ5LWluc3RhbmNlLTY3MzhmZmEyYzRmODQifQ==" defer></script>
+              <script src="data:text/javascript;base64,aWYodHlwZW9mIHNldElyb25BdWRpb3BsYXllcnMhPT0idW5kZWZpbmVkIil7c2V0SXJvbkF1ZGlvcGxheWVycygiYXJiaXRyYXJ5LWluc3RhbmNlLTY3MzhmZmEyYzRmODQiKX0=" defer></script>
+            </article>
+          </div>
+        </div>
+        <div class="elementor-element elementor-element-95ffaf7 elementor-align-center elementor-widget elementor-widget-button" data-id="95ffaf7" data-element_type="widget" data-widget_type="button.default">
+          <div class="elementor-widget-container">
+            <div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="https://mtws.one/a-glimpse-into-the-religion-of-islam/"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Read the Book</span></span></a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="elementor-element elementor-element-53987ec e-con-full e-flex e-con e-parent" data-id="53987ec" data-element_type="container">
+      <div class="elementor-element elementor-element-9b2de29 e-con-full e-flex e-con e-child" data-id="9b2de29" data-element_type="container">
+        <div class="elementor-element elementor-element-e433aa5 elementor-widget elementor-widget-heading" data-id="e433aa5" data-element_type="widget" data-widget_type="heading.default">
+          <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">Who is Allāh?</h2>
+          </div>
+        </div>
+        <div class="elementor-element elementor-element-decdf74 elementor-align-center elementor-widget elementor-widget-button" data-id="decdf74" data-element_type="widget" data-widget_type="button.default">
+          <div class="elementor-widget-container">
+            <div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="#popmake-1115"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Explore</span></span></a></div>
+          </div>
+        </div>
+      </div>
+      <div class="elementor-element elementor-element-2b52c02 e-con-full e-flex e-con e-child" data-id="2b52c02" data-element_type="container">
+        <div class="elementor-element elementor-element-0870e71 elementor-widget elementor-widget-heading" data-id="0870e71" data-element_type="widget" data-widget_type="heading.default">
+          <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">What is Prayer?</h2>
+          </div>
+        </div>
+        <div class="elementor-element elementor-element-b6210f2 elementor-align-center elementor-widget elementor-widget-button" data-id="b6210f2" data-element_type="widget" data-widget_type="button.default">
+          <div class="elementor-widget-container">
+            <div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="#popmake-1143"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Explore</span></span></a></div>
+          </div>
+        </div>
+      </div>
+      <div class="elementor-element elementor-element-cf1aa7e e-con-full e-flex e-con e-child" data-id="cf1aa7e" data-element_type="container">
+        <div class="elementor-element elementor-element-92a7770 elementor-widget elementor-widget-heading" data-id="92a7770" data-element_type="widget" data-widget_type="heading.default">
+          <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">What is Islām?</h2>
+          </div>
+        </div>
+        <div class="elementor-element elementor-element-af6f9de elementor-align-center elementor-widget elementor-widget-button" data-id="af6f9de" data-element_type="widget" data-widget_type="button.default">
+          <div class="elementor-widget-container">
+            <div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="#popmake-1134"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Explore</span></span></a></div>
+          </div>
+        </div>
+      </div>
+      <div class="elementor-element elementor-element-29e3ca2 e-con-full e-flex e-con e-child" data-id="29e3ca2" data-element_type="container">
+        <div class="elementor-element elementor-element-3a90536 elementor-widget elementor-widget-heading" data-id="3a90536" data-element_type="widget" data-widget_type="heading.default">
+          <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">
+              <h2 data-elementor-setting-key="title" data-pen-placeholder="Type Here..." style="font-style:normal">Un Vistazo Dentro de la Religión del Islām</h2>
+            </h2>
+          </div>
+        </div>
+        <div class="elementor-element elementor-element-3268584 elementor-align-center elementor-widget elementor-widget-button" data-id="3268584" data-element_type="widget" data-widget_type="button.default">
+          <div class="elementor-widget-container">
+            <div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="https://mtws.one/un-vistazo-dentro-de-la-religion-del-islam"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Listen</span></span></a></div>
+          </div>
+        </div>
+      </div>
+      <div class="elementor-element elementor-element-c4b1253 e-con-full e-flex e-con e-child" data-id="c4b1253" data-element_type="container">
+        <div class="elementor-element elementor-element-51f9291 elementor-widget elementor-widget-heading" data-id="51f9291" data-element_type="widget" data-widget_type="heading.default">
+          <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">How to become Muslim</h2>
+          </div>
+        </div>
+        <div class="elementor-element elementor-element-5b046d9 elementor-align-center elementor-widget elementor-widget-button" data-id="5b046d9" data-element_type="widget" data-widget_type="button.default">
+          <div class="elementor-widget-container">
+            <div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="#popmake-1374"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Explore</span></span></a></div>
+          </div>
+        </div>
+      </div>
+      <div class="elementor-element elementor-element-48c68c0 e-con-full e-flex e-con e-child" data-id="48c68c0" data-element_type="container">
+        <div class="elementor-element elementor-element-50a6b9d elementor-widget elementor-widget-heading" data-id="50a6b9d" data-element_type="widget" data-widget_type="heading.default">
+          <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">How to make Wudū (ablution)?</h2>
+          </div>
+        </div>
+        <div class="elementor-element elementor-element-09cb4c2 elementor-align-center elementor-widget elementor-widget-button" data-id="09cb4c2" data-element_type="widget" data-widget_type="button.default">
+          <div class="elementor-widget-container">
+            <div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="https://mtws.one/how-to-make-wudu-video/"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Watch</span></span></a></div>
+          </div>
+        </div>
+      </div>
+      <div class="elementor-element elementor-element-d2a315b e-con-full e-flex e-con e-child" data-id="d2a315b" data-element_type="container">
+        <div class="elementor-element elementor-element-7cdb53e elementor-widget elementor-widget-heading" data-id="7cdb53e" data-element_type="widget" data-widget_type="heading.default">
+          <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">How to Pray?</h2>
+          </div>
+        </div>
+        <div class="elementor-element elementor-element-bbe81e2 elementor-align-center elementor-widget elementor-widget-button" data-id="bbe81e2" data-element_type="widget" data-widget_type="button.default">
+          <div class="elementor-widget-container">
+            <div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="https://mtws.one/how-to-pray-video/"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Watch</span></span></a></div>
+          </div>
+        </div>
+      </div>
+      <div class="elementor-element elementor-element-d7889df e-con-full e-flex e-con e-child" data-id="d7889df" data-element_type="container">
+        <div class="elementor-element elementor-element-2657d9c elementor-widget elementor-widget-heading" data-id="2657d9c" data-element_type="widget" data-widget_type="heading.default">
+          <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">A Comprehensive Guide to the New Muslim</h2>
+          </div>
+        </div>
+        <div class="elementor-element elementor-element-941f44c elementor-align-center elementor-widget elementor-widget-button" data-id="941f44c" data-element_type="widget" data-widget_type="button.default">
+          <div class="elementor-widget-container">
+            <div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="https://mtws.one/a-comprehensive-guide-for-the-new-muslim-by-anwar-wright/"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Listen</span></span></a></div>
+          </div>
+        </div>
+      </div>
+      <div class="elementor-element elementor-element-68bf25a e-con-full e-flex e-con e-child" data-id="68bf25a" data-element_type="container">
+        <div class="elementor-element elementor-element-50c75fa elementor-widget elementor-widget-heading" data-id="50c75fa" data-element_type="widget" data-widget_type="heading.default">
+          <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">Listen to the Holy Qu'rān</h2>
+          </div>
+        </div>
+        <div class="elementor-element elementor-element-a895732 elementor-align-center elementor-widget elementor-widget-button" data-id="a895732" data-element_type="widget" data-widget_type="button.default">
+          <div class="elementor-widget-container">
+            <div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="https://mtws.one/listen-to-the-quran-juz-amma"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Listen</span></span></a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="elementor-element elementor-element-099e1fd e-con-full e-flex e-con e-parent" data-id="099e1fd" data-element_type="container">
+      <div class="elementor-element elementor-element-fdac8c5 e-con-full e-flex e-con e-child" data-id="fdac8c5" data-element_type="container">
+        <div class="elementor-element elementor-element-dcd54dc elementor-widget elementor-widget-heading" data-id="dcd54dc" data-element_type="widget" data-widget_type="heading.default">
+          <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">The Opening Chapter of the Qur'ān (Arabic)</h2>
+          </div>
+        </div>
+        <div class="elementor-element elementor-element-c050d59 elementor-widget elementor-widget-text-editor" data-id="c050d59" data-element_type="widget" data-widget_type="text-editor.default">
+          <div class="elementor-widget-container">These are from the words revealed from God to mankind.</div>
+        </div>
+        <div class="elementor-element elementor-element-32257d9 elementor-widget elementor-widget-music-player" data-id="32257d9" data-element_type="widget" data-widget_type="music-player.default">
+          <div class="elementor-widget-container">
+            <article id="arbitrary-instance-6738ffa2e777f" class="iron_widget_radio">
+              <div class="iron-audioplayer srp_post_player playlist_has_no_ctas skin_floated" id="arbitrary-instance-6738ffa2e777f-70367f546e" data-id="arbitrary-instance-6738ffa2e777f" data-track-sw-cursor="" data-lazyload="" data-albums="1407" data-category="" data-url-playlist="https://mtws.one/?load=playlist.json&#038;title=&#038;albums=1407&#038;category=&#038;posts_not_in=&#038;category_not_in=&#038;feed_title=&#038;feed=&#038;feed_img=&#038;el_widget_id=&#038;artwork=&#038;posts_per_pages=-1&#038;all_category=&#038;single_playlist=1&#038;reverse_tracklist=&#038;audio_meta_field=&#038;repeater_meta_field=&#038;import_file=&#038;rss_items=-1&#038;rss_item_title=&#038;is_favorite=&#038;is_recentlyplayed=&#038;srp_order=date_DESC" data-sticky-player="" data-shuffle="false" data-playlist_title="" data-scrollbar="" data-wave-color="" data-wave-progress-color="" data-spectro="" data-no-wave="" data-hide-progressbar="" data-progress-bar-style="" data-feedurl="0" data-notrackskip="" data-no-loop-tracklist="" data-playertemplate="skin_float_tracklist" data-hide-artwork="" data-speedrate="1" data-tracks-per-page="" data-pagination_scroll_offset="" data-adaptive-colors="" data-adaptive-colors-freeze="" style="opacity:0">
+                <div class="sonaar-grid">
+                  <div class="sonaar-Artwort-box">
+                    <div class="control"></div>
+                    <div class="album">
+                      <div class="album-art"><img alt="album-art"></div>
+                    </div>
+                  </div>
+                  <div class="playlist sr_waveform_mediaElement" id="playlist_arbitrary-instance-6738ffa2e777f">
+                    <h3 class="sr_it-playlist-title"></h3>
+                    <div class="srp_subtitle">These are from the words revealed from God to mankind.</div>
+                    <div class="srp_tracklist">
+                      <ul class="srp_list">
+                        <li class="sr-playlist-item" data-audiopath="https://mtws-one.s3.amazonaws.com/audio/f%C4%81tihah/full-f%C4%81tihah.mp3" data-showloading="1" data-albumtitle="Opening Chapter of the Qur&#039;ān" data-albumart="" data-releasedate="These are from the words revealed from God to mankind." data-date="2024/03/28" data-date-formated="March 28, 2024" data-show-date="" data-tracktitle="-" data-artist="" data-trackid="" data-tracktime="" data-relatedtrack="" data-post-url="" data-post-id="1407" data-track-pos="0" data-peakfile="" data-peakfile-allow="" data-is-preview="" data-track-lyric="" data-icecast_json="" data-icecast_mount="">
+                          <div class="sr-playlist-item-flex"><span class="store-list"></span></div>
+                          <div class="srp_track_description"></div>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="album-player sr_waveform_mediaElement">
+                  <div class="srp_miniplayer_metas">
+                    <div class="srp_meta srp_meta_0 track-title" data-prefix="" aria-label="Track title"></div>
+                    <div class="srp_meta srp_meta_1 album-title" data-prefix="" aria-label="Title"></div>
+                  </div>
+                  <div class="player">
+                    <div class="sr_progressbar">
+                      <div class="currentTime">00:00</div>
+                      <div id="arbitrary-instance-6738ffa2e777f-de0e9316e2-wave" class="wave">
+                        <div class="sonaar_fake_wave" style="height:70px"><audio src="" class="sonaar_media_element"></audio>
+                          <div class="sonaar_wave_base"><canvas id="sonaar_wave_base_canvas" class="" height="70" width="2540"></canvas><svg></svg></div>
+                          <div class="sonaar_wave_cut"><canvas id="sonaar_wave_cut_canvas" class="" height="70" width="2540"></canvas><svg></svg></div>
+                        </div>
+                      </div>
+                      <div class="totalTime"></div>
+                    </div>
+                    <div class="srp_main_control srp_oneColumn">
+                      <div class="control">
+                        <div class="play" style="opacity:0" aria-label="Play" title="Play/Pause"><i class="sricon-play"></i></div>
+                      </div>
+                      <div class="control"></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="album-store"></div>
+              </div>
+              <script id="srp_js_params_6738ffa2e777f" src="data:text/javascript;base64,dmFyIHNycF9wbGF5ZXJfcGFyYW1zXzY3MzhmZmEyZTc3N2Y9eyJ0aXRsZSI6IiIsInN0b3JlX3RpdGxlX3RleHQiOiIiLCJhbGJ1bXMiOiIxNDA3IiwiaGlkZV9hcnR3b3JrIjoiZmFsc2UiLCJzdGlja3lfcGxheWVyIjoiIiwic2hvd19hbGJ1bV9tYXJrZXQiOiJmYWxzZSIsInNob3dfdHJhY2tfbWFya2V0IjoidHJ1ZSIsImhpZGVfdGltZWxpbmUiOiJmYWxzZSIsImVsZW1lbnRvciI6InRydWUiLCJ0cmFja3NfcGVyX3BhZ2UiOiIiLCJ0aXRsZXRhZ19zb3VuZHdhdmUiOiJkaXYiLCJ0aXRsZXRhZ19wbGF5bGlzdCI6ImgzIiwic2hvd19jb250cm9sX29uX2hvdmVyIjoiZmFsc2UiLCJzaG93X3BsYXlsaXN0IjoiZmFsc2UiLCJyZXZlcnNlX3RyYWNrbGlzdCI6IiIsIndhdmVfY29sb3IiOiIiLCJ3YXZlX3Byb2dyZXNzX2NvbG9yIjoiIiwic3BlY3RybyI6IiIsInNodWZmbGUiOiIiLCJzZWFyY2hiYXIiOiIiLCJzZWFyY2hiYXJfcGxhY2Vob2xkZXIiOiIiLCJwbGF5ZXJfbGF5b3V0Ijoic2tpbl9mbG9hdF90cmFja2xpc3QiLCJhcnR3b3JrIjoiIiwib3JkZXJieSI6ImRhdGUiLCJvcmRlciI6IkRFU0MiLCJ1c2VfcGxheV9sYWJlbF93aXRoX2ljb24iOiJmYWxzZSIsIm1haW5fc2V0dGluZ3MiOiJ8fCJ9CnZhciBzcnBfcGxheWVyX3BhcmFtc19hcmdzXzY3MzhmZmEyZTc3N2Y9eyJiZWZvcmVfd2lkZ2V0IjoiPGFydGljbGUgaWQ9XCJhcmJpdHJhcnktaW5zdGFuY2UtNjczOGZmYTJlNzc3ZlwiIGNsYXNzPVwiaXJvbl93aWRnZXRfcmFkaW9cIj4iLCJhZnRlcl93aWRnZXQiOiI8XC9hcnRpY2xlPiIsImJlZm9yZV90aXRsZSI6IjxzcGFuIGNsYXNzPSdoZWFkaW5nLXQzJz48XC9zcGFuPjxoMyBjbGFzcz1cIndpZGdldHRpdGxlXCI+IiwiYWZ0ZXJfdGl0bGUiOiI8XC9oMz4iLCJ3aWRnZXRfaWQiOiJhcmJpdHJhcnktaW5zdGFuY2UtNjczOGZmYTJlNzc3ZiJ9" defer></script>
+              <script src="data:text/javascript;base64,aWYodHlwZW9mIHNldElyb25BdWRpb3BsYXllcnMhPT0idW5kZWZpbmVkIil7c2V0SXJvbkF1ZGlvcGxheWVycygiYXJiaXRyYXJ5LWluc3RhbmNlLTY3MzhmZmEyZTc3N2YiKX0=" defer></script>
+            </article>
+          </div>
+        </div>
+      </div>
+      <div class="elementor-element elementor-element-d628f73 e-con-full e-flex e-con e-child" data-id="d628f73" data-element_type="container">
+        <div class="elementor-element elementor-element-61141fc elementor-widget elementor-widget-heading" data-id="61141fc" data-element_type="widget" data-widget_type="heading.default">
+          <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">The Opening Chapter of the Qur'ān (English)</h2>
+          </div>
+        </div>
+        <div class="elementor-element elementor-element-556937c elementor-widget elementor-widget-text-editor" data-id="556937c" data-element_type="widget" data-widget_type="text-editor.default">
+          <div class="elementor-widget-container">These are from the words revealed from God to mankind.</div>
+        </div>
+        <div class="elementor-element elementor-element-62c890a elementor-widget elementor-widget-music-player" data-id="62c890a" data-element_type="widget" data-widget_type="music-player.default">
+          <div class="elementor-widget-container">
+            <article id="arbitrary-instance-6738ffa2e9a58" class="iron_widget_radio">
+              <div class="iron-audioplayer srp_post_player playlist_has_no_ctas skin_floated" id="arbitrary-instance-6738ffa2e9a58-0eb4307490" data-id="arbitrary-instance-6738ffa2e9a58" data-track-sw-cursor="" data-lazyload="" data-albums="1444" data-category="" data-url-playlist="https://mtws.one/?load=playlist.json&#038;title=&#038;albums=1444&#038;category=&#038;posts_not_in=&#038;category_not_in=&#038;feed_title=&#038;feed=&#038;feed_img=&#038;el_widget_id=&#038;artwork=&#038;posts_per_pages=-1&#038;all_category=&#038;single_playlist=1&#038;reverse_tracklist=&#038;audio_meta_field=&#038;repeater_meta_field=&#038;import_file=&#038;rss_items=-1&#038;rss_item_title=&#038;is_favorite=&#038;is_recentlyplayed=&#038;srp_order=date_DESC" data-sticky-player="" data-shuffle="false" data-playlist_title="" data-scrollbar="" data-wave-color="" data-wave-progress-color="" data-spectro="" data-no-wave="" data-hide-progressbar="" data-progress-bar-style="" data-feedurl="0" data-notrackskip="" data-no-loop-tracklist="" data-playertemplate="skin_float_tracklist" data-hide-artwork="" data-speedrate="1" data-tracks-per-page="" data-pagination_scroll_offset="" data-adaptive-colors="" data-adaptive-colors-freeze="" style="opacity:0">
+                <div class="sonaar-grid">
+                  <div class="sonaar-Artwort-box">
+                    <div class="control"></div>
+                    <div class="album">
+                      <div class="album-art"><img alt="album-art"></div>
+                    </div>
+                  </div>
+                  <div class="playlist sr_waveform_mediaElement" id="playlist_arbitrary-instance-6738ffa2e9a58">
+                    <h3 class="sr_it-playlist-title"></h3>
+                    <div class="srp_subtitle"></div>
+                    <div class="srp_tracklist">
+                      <ul class="srp_list">
+                        <li class="sr-playlist-item" data-audiopath="https://mtws-one.s3.amazonaws.com/audio/f%C4%81tihah/full-fa%CC%84tihah-english.mp3" data-showloading="1" data-albumtitle="Opening Chapter of the Qurān" data-albumart="" data-releasedate="" data-date="2024/03/29" data-date-formated="March 29, 2024" data-show-date="" data-tracktitle="-" data-artist="" data-trackid="" data-tracktime="" data-relatedtrack="" data-post-url="" data-post-id="1444" data-track-pos="0" data-peakfile="" data-peakfile-allow="" data-is-preview="" data-track-lyric="" data-icecast_json="" data-icecast_mount="">
+                          <div class="sr-playlist-item-flex"><span class="store-list"></span></div>
+                          <div class="srp_track_description"></div>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="album-player sr_waveform_mediaElement">
+                  <div class="srp_miniplayer_metas">
+                    <div class="srp_meta srp_meta_0 track-title" data-prefix="" aria-label="Track title"></div>
+                    <div class="srp_meta srp_meta_1 album-title" data-prefix="" aria-label="Title"></div>
+                  </div>
+                  <div class="player">
+                    <div class="sr_progressbar">
+                      <div class="currentTime">00:00</div>
+                      <div id="arbitrary-instance-6738ffa2e9a58-97dfa94b4d-wave" class="wave">
+                        <div class="sonaar_fake_wave" style="height:70px"><audio src="" class="sonaar_media_element"></audio>
+                          <div class="sonaar_wave_base"><canvas id="sonaar_wave_base_canvas" class="" height="70" width="2540"></canvas><svg></svg></div>
+                          <div class="sonaar_wave_cut"><canvas id="sonaar_wave_cut_canvas" class="" height="70" width="2540"></canvas><svg></svg></div>
+                        </div>
+                      </div>
+                      <div class="totalTime"></div>
+                    </div>
+                    <div class="srp_main_control srp_oneColumn">
+                      <div class="control">
+                        <div class="play" style="opacity:0" aria-label="Play" title="Play/Pause"><i class="sricon-play"></i></div>
+                      </div>
+                      <div class="control"></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="album-store"></div>
+              </div>
+              <script id="srp_js_params_6738ffa2e9a58" src="data:text/javascript;base64,dmFyIHNycF9wbGF5ZXJfcGFyYW1zXzY3MzhmZmEyZTlhNTg9eyJ0aXRsZSI6IiIsInN0b3JlX3RpdGxlX3RleHQiOiIiLCJhbGJ1bXMiOiIxNDQ0IiwiaGlkZV9hcnR3b3JrIjoiZmFsc2UiLCJzdGlja3lfcGxheWVyIjoiIiwic2hvd19hbGJ1bV9tYXJrZXQiOiJmYWxzZSIsInNob3dfdHJhY2tfbWFya2V0IjoidHJ1ZSIsImhpZGVfdGltZWxpbmUiOiJmYWxzZSIsImVsZW1lbnRvciI6InRydWUiLCJ0cmFja3NfcGVyX3BhZ2UiOiIiLCJ0aXRsZXRhZ19zb3VuZHdhdmUiOiJkaXYiLCJ0aXRsZXRhZ19wbGF5bGlzdCI6ImgzIiwic2hvd19jb250cm9sX29uX2hvdmVyIjoiZmFsc2UiLCJzaG93X3BsYXlsaXN0IjoiZmFsc2UiLCJyZXZlcnNlX3RyYWNrbGlzdCI6IiIsIndhdmVfY29sb3IiOiIiLCJ3YXZlX3Byb2dyZXNzX2NvbG9yIjoiIiwic3BlY3RybyI6IiIsInNodWZmbGUiOiIiLCJzZWFyY2hiYXIiOiIiLCJzZWFyY2hiYXJfcGxhY2Vob2xkZXIiOiIiLCJwbGF5ZXJfbGF5b3V0Ijoic2tpbl9mbG9hdF90cmFja2xpc3QiLCJhcnR3b3JrIjoiIiwib3JkZXJieSI6ImRhdGUiLCJvcmRlciI6IkRFU0MiLCJ1c2VfcGxheV9sYWJlbF93aXRoX2ljb24iOiJmYWxzZSIsIm1haW5fc2V0dGluZ3MiOiJ8fCJ9CnZhciBzcnBfcGxheWVyX3BhcmFtc19hcmdzXzY3MzhmZmEyZTlhNTg9eyJiZWZvcmVfd2lkZ2V0IjoiPGFydGljbGUgaWQ9XCJhcmJpdHJhcnktaW5zdGFuY2UtNjczOGZmYTJlOWE1OFwiIGNsYXNzPVwiaXJvbl93aWRnZXRfcmFkaW9cIj4iLCJhZnRlcl93aWRnZXQiOiI8XC9hcnRpY2xlPiIsImJlZm9yZV90aXRsZSI6IjxzcGFuIGNsYXNzPSdoZWFkaW5nLXQzJz48XC9zcGFuPjxoMyBjbGFzcz1cIndpZGdldHRpdGxlXCI+IiwiYWZ0ZXJfdGl0bGUiOiI8XC9oMz4iLCJ3aWRnZXRfaWQiOiJhcmJpdHJhcnktaW5zdGFuY2UtNjczOGZmYTJlOWE1OCJ9" defer></script>
+              <script src="data:text/javascript;base64,aWYodHlwZW9mIHNldElyb25BdWRpb3BsYXllcnMhPT0idW5kZWZpbmVkIil7c2V0SXJvbkF1ZGlvcGxheWVycygiYXJiaXRyYXJ5LWluc3RhbmNlLTY3MzhmZmEyZTlhNTgiKX0=" defer></script>
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="elementor-element elementor-element-f33a35f e-con-full e-flex e-con e-parent" data-id="f33a35f" data-element_type="container">
+      <div class="elementor-element elementor-element-dfb7226 e-con-full e-flex e-con e-child" data-id="dfb7226" data-element_type="container">
+        <div class="elementor-element elementor-element-8cd96b4 elementor-widget elementor-widget-heading" data-id="8cd96b4" data-element_type="widget" data-widget_type="heading.default">
+          <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">Contact Us</h2>
+          </div>
+        </div>
+        <div class="elementor-element elementor-element-d98eb71 e-con-full e-flex e-con e-child" data-id="d98eb71" data-element_type="container">
+          <div class="elementor-element elementor-element-dd2baf1 e-flex e-con-boxed e-con e-child" data-id="dd2baf1" data-element_type="container">
+            <div class="e-con-inner">
+              <div class="elementor-element elementor-element-e280f9c elementor-view-framed elementor-shape-circle elementor-widget elementor-widget-icon" data-id="e280f9c" data-element_type="widget" data-widget_type="icon.default">
+                <div class="elementor-widget-container">
+                  <div class="elementor-icon-wrapper">
+                    <div class="elementor-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" viewBox="0 0 375 374.999991" height="500" preserveAspectRatio="xMidYMid meet">
+                        <defs>
+                          <clipPath id="7607ed4a55">
+                            <path d="M 1 29 L 374 29 L 374 347.933594 L 1 347.933594 Z M 1 29 " clip-rule="nonzero"></path>
+                          </clipPath>
+                        </defs>
+                        <rect x="-37.5" width="450" fill="#ffffff" y="-37.499999" height="449.999989" fill-opacity="1"></rect>
+                        <rect x="-37.5" width="450" fill="#ffffff" y="-37.499999" height="449.999989" fill-opacity="1"></rect>
+                        <g clip-path="url(#7607ed4a55)">
+                          <path fill="#000000" d="M 353.765625 93.410156 L 256.222656 93.410156 C 253.054688 55.421875 219.804688 26.933594 181.800781 30.097656 C 147.914062 32.945312 121.3125 59.539062 118.460938 93.410156 L 21.234375 93.410156 C 10.46875 93.410156 1.601562 102.273438 1.285156 113.039062 L 1.285156 327.988281 C 1.285156 339.066406 10.152344 347.613281 21.234375 347.933594 L 353.765625 347.933594 C 364.847656 347.933594 373.398438 339.066406 373.714844 327.988281 L 373.714844 113.039062 C 373.398438 102.273438 364.53125 93.410156 353.765625 93.410156 Z M 12.683594 327.988281 L 12.683594 113.039062 C 12.683594 112.40625 12.683594 111.773438 13 111.140625 L 136.828125 220.355469 L 12.683594 329.570312 C 12.683594 329.253906 12.683594 328.621094 12.683594 327.988281 Z M 187.5 167.804688 C 223.601562 167.804688 253.371094 140.261719 256.222656 104.175781 L 353.132812 104.175781 L 194.152344 244.097656 C 190.351562 247.578125 184.332031 247.578125 180.53125 244.097656 L 21.550781 104.492188 L 118.460938 104.492188 C 121.628906 140.261719 151.398438 167.804688 187.5 167.804688 Z M 145.378906 227.953125 L 173.566406 252.644531 C 181.800781 259.609375 193.832031 259.609375 201.75 252.644531 L 229.9375 227.953125 L 353.449219 336.851562 L 21.550781 336.851562 Z M 238.171875 220.355469 L 362.316406 111.140625 C 362.316406 111.773438 362.632812 112.40625 362.632812 113.039062 L 362.632812 327.988281 C 362.632812 328.621094 362.632812 329.253906 362.316406 329.886719 Z M 187.5 40.859375 C 219.484375 40.859375 245.457031 66.820312 245.457031 98.792969 C 245.457031 130.765625 219.484375 156.726562 187.5 156.726562 C 155.515625 156.726562 129.542969 130.765625 129.542969 98.792969 C 129.542969 66.820312 155.515625 40.859375 187.5 40.859375 Z M 187.5 40.859375 " fill-opacity="1" fill-rule="nonzero"></path>
+                        </g>
+                        <path fill="#000000" d="M 192.25 60.804688 L 182.75 60.804688 C 164.382812 60.804688 149.496094 75.683594 149.496094 94.042969 L 149.496094 103.542969 C 149.496094 121.902344 164.382812 136.78125 182.75 136.78125 L 188.132812 136.78125 C 191.300781 136.78125 193.515625 134.25 193.515625 131.082031 C 193.515625 127.917969 190.984375 125.382812 188.132812 125.382812 L 182.75 125.382812 C 170.398438 125.382812 160.582031 115.570312 160.582031 103.226562 L 160.582031 93.726562 C 160.582031 81.382812 170.398438 71.566406 182.75 71.566406 L 192.25 71.566406 C 204.601562 71.566406 214.417969 81.382812 214.417969 93.726562 L 214.417969 110.503906 C 214.417969 112.089844 213.152344 113.355469 211.570312 113.355469 L 208.085938 113.355469 C 206.5 113.355469 205.234375 112.089844 205.234375 110.503906 L 205.234375 94.992188 C 205.234375 87.078125 198.902344 80.75 190.984375 80.75 L 184.332031 80.75 C 176.414062 80.75 170.082031 87.078125 170.082031 94.992188 L 170.082031 101.640625 C 170.082031 109.554688 176.414062 115.886719 184.332031 115.886719 L 195.417969 115.886719 C 197.632812 120.953125 202.382812 124.433594 208.085938 124.433594 L 211.570312 124.433594 C 219.167969 124.433594 225.503906 118.101562 225.503906 110.503906 L 225.503906 93.726562 C 225.503906 75.683594 210.617188 60.804688 192.25 60.804688 Z M 181.167969 102.273438 L 181.167969 95.628906 C 181.167969 94.042969 182.433594 92.460938 184.332031 92.460938 L 190.984375 92.460938 C 192.566406 92.460938 194.152344 93.726562 194.152344 95.628906 L 194.152344 105.441406 L 184.332031 105.441406 C 182.433594 105.441406 181.167969 103.859375 181.167969 102.273438 Z M 181.167969 102.273438 " fill-opacity="1" fill-rule="nonzero"></path>
+                      </svg></div>
+                  </div>
+                </div>
+              </div>
+              <div class="elementor-element elementor-element-3710601 elementor-widget elementor-widget-text-editor" data-id="3710601" data-element_type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container"><a href="https://l.mtws.one/contact-rasheed" target="_blank" rel="noopener">rasheed.mtwsnc@gmail.com</a></div>
+              </div>
+            </div>
+          </div>
+          <div class="elementor-element elementor-element-0efdf3b e-flex e-con-boxed e-con e-child" data-id="0efdf3b" data-element_type="container">
+            <div class="e-con-inner">
+              <div class="elementor-element elementor-element-36374c1 elementor-view-framed elementor-shape-circle elementor-widget elementor-widget-icon" data-id="36374c1" data-element_type="widget" data-widget_type="icon.default">
+                <div class="elementor-widget-container">
+                  <div class="elementor-icon-wrapper">
+                    <div class="elementor-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" viewBox="0 0 375 374.999991" height="500" preserveAspectRatio="xMidYMid meet">
+                        <rect x="-37.5" width="450" fill="#ffffff" y="-37.499999" height="449.999989" fill-opacity="1"></rect>
+                        <rect x="-37.5" width="450" fill="#ffffff" y="-37.499999" height="449.999989" fill-opacity="1"></rect>
+                        <path fill="#1b1c1f" d="M 155.570312 144.726562 C 120.535156 164.953125 173.992188 265.164062 212.328125 243.03125 L 247.871094 304.59375 C 231.695312 313.933594 218.003906 319.820312 199.253906 309.101562 C 147.1875 279.335938 89.871094 180.109375 91.507812 120.917969 C 92.074219 100.359375 104.183594 92.304688 120.027344 83.160156 L 155.570312 144.722656 Z M 155.570312 144.726562 " fill-opacity="1" fill-rule="evenodd"></path>
+                        <path fill="#1b1c1f" d="M 170.265625 143.050781 C 166.480469 145.238281 161.609375 143.933594 159.421875 140.148438 L 125.914062 82.109375 C 123.726562 78.324219 125.03125 73.453125 128.816406 71.265625 L 146.429688 61.097656 C 150.214844 58.914062 155.085938 60.21875 157.273438 64.003906 L 190.78125 122.042969 C 192.964844 125.828125 191.660156 130.699219 187.875 132.882812 Z M 170.265625 143.050781 " fill-opacity="1" fill-rule="evenodd"></path>
+                        <path fill="#1b1c1f" d="M 261.808594 301.609375 C 258.023438 303.796875 253.152344 302.492188 250.964844 298.707031 L 217.457031 240.667969 C 215.269531 236.878906 216.574219 232.007812 220.359375 229.824219 L 237.972656 219.65625 C 241.757812 217.46875 246.628906 218.777344 248.816406 222.5625 L 282.324219 280.601562 C 284.507812 284.386719 283.203125 289.257812 279.417969 291.441406 Z M 261.808594 301.609375 " fill-opacity="1" fill-rule="evenodd"></path>
+                        <path fill="#1b1c1f" d="M 187.441406 0 L 187.445312 0 L 187.445312 0.0429688 C 239.222656 0.0429688 286.082031 21.011719 319.976562 54.90625 C 353.867188 88.804688 374.835938 135.660156 374.835938 187.4375 L 374.882812 187.4375 L 374.882812 187.445312 L 374.835938 187.445312 C 374.835938 239.226562 353.867188 286.085938 319.972656 319.976562 C 286.078125 353.867188 239.222656 374.839844 187.441406 374.839844 L 187.441406 374.882812 L 187.433594 374.882812 L 187.433594 374.839844 C 135.65625 374.839844 88.796875 353.871094 54.902344 319.976562 C 21.011719 286.078125 0.0429688 239.222656 0.0429688 187.445312 L -0.00390625 187.445312 L -0.00390625 187.4375 L 0.0429688 187.4375 C 0.0429688 135.65625 21.011719 88.796875 54.90625 54.90625 C 88.800781 21.015625 135.65625 0.046875 187.4375 0.0429688 L 187.4375 0 Z M 187.445312 22.355469 L 187.445312 22.402344 L 187.4375 22.402344 L 187.4375 22.355469 C 141.902344 22.359375 100.640625 40.851562 70.75 70.746094 C 40.859375 100.636719 22.359375 141.90625 22.359375 187.4375 L 22.402344 187.4375 L 22.402344 187.445312 L 22.359375 187.445312 C 22.359375 232.980469 40.855469 274.242188 70.746094 304.132812 C 100.640625 334.023438 141.90625 352.523438 187.441406 352.523438 L 187.441406 352.480469 L 187.449219 352.480469 L 187.449219 352.523438 C 232.984375 352.523438 274.246094 334.027344 304.136719 304.136719 C 334.027344 274.242188 352.527344 232.976562 352.527344 187.441406 L 352.480469 187.441406 L 352.480469 187.433594 L 352.527344 187.433594 C 352.523438 141.898438 334.03125 100.636719 304.140625 70.746094 C 274.246094 40.855469 232.980469 22.355469 187.445312 22.355469 Z M 187.445312 22.355469 " fill-opacity="1" fill-rule="nonzero"></path>
+                      </svg></div>
+                  </div>
+                </div>
+              </div>
+              <div class="elementor-element elementor-element-de0339c elementor-widget elementor-widget-text-editor" data-id="de0339c" data-element_type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container"><a href="https://l.mtws.one/call-mtws">+1 919-980-9903</a></div>
+              </div>
+            </div>
+          </div>
+          <div class="elementor-element elementor-element-df4ec06 e-flex e-con-boxed e-con e-child" data-id="df4ec06" data-element_type="container">
+            <div class="e-con-inner">
+              <div class="elementor-element elementor-element-190c763 elementor-view-framed elementor-shape-circle elementor-widget elementor-widget-icon" data-id="190c763" data-element_type="widget" data-widget_type="icon.default">
+                <div class="elementor-widget-container">
+                  <div class="elementor-icon-wrapper">
+                    <div class="elementor-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" viewBox="0 0 375 374.999991" height="500" preserveAspectRatio="xMidYMid meet">
+                        <defs>
+                          <clipPath id="7607ed4a55">
+                            <path d="M 1 29 L 374 29 L 374 347.933594 L 1 347.933594 Z M 1 29 " clip-rule="nonzero"></path>
+                          </clipPath>
+                        </defs>
+                        <rect x="-37.5" width="450" fill="#ffffff" y="-37.499999" height="449.999989" fill-opacity="1"></rect>
+                        <rect x="-37.5" width="450" fill="#ffffff" y="-37.499999" height="449.999989" fill-opacity="1"></rect>
+                        <g clip-path="url(#7607ed4a55)">
+                          <path fill="#000000" d="M 353.765625 93.410156 L 256.222656 93.410156 C 253.054688 55.421875 219.804688 26.933594 181.800781 30.097656 C 147.914062 32.945312 121.3125 59.539062 118.460938 93.410156 L 21.234375 93.410156 C 10.46875 93.410156 1.601562 102.273438 1.285156 113.039062 L 1.285156 327.988281 C 1.285156 339.066406 10.152344 347.613281 21.234375 347.933594 L 353.765625 347.933594 C 364.847656 347.933594 373.398438 339.066406 373.714844 327.988281 L 373.714844 113.039062 C 373.398438 102.273438 364.53125 93.410156 353.765625 93.410156 Z M 12.683594 327.988281 L 12.683594 113.039062 C 12.683594 112.40625 12.683594 111.773438 13 111.140625 L 136.828125 220.355469 L 12.683594 329.570312 C 12.683594 329.253906 12.683594 328.621094 12.683594 327.988281 Z M 187.5 167.804688 C 223.601562 167.804688 253.371094 140.261719 256.222656 104.175781 L 353.132812 104.175781 L 194.152344 244.097656 C 190.351562 247.578125 184.332031 247.578125 180.53125 244.097656 L 21.550781 104.492188 L 118.460938 104.492188 C 121.628906 140.261719 151.398438 167.804688 187.5 167.804688 Z M 145.378906 227.953125 L 173.566406 252.644531 C 181.800781 259.609375 193.832031 259.609375 201.75 252.644531 L 229.9375 227.953125 L 353.449219 336.851562 L 21.550781 336.851562 Z M 238.171875 220.355469 L 362.316406 111.140625 C 362.316406 111.773438 362.632812 112.40625 362.632812 113.039062 L 362.632812 327.988281 C 362.632812 328.621094 362.632812 329.253906 362.316406 329.886719 Z M 187.5 40.859375 C 219.484375 40.859375 245.457031 66.820312 245.457031 98.792969 C 245.457031 130.765625 219.484375 156.726562 187.5 156.726562 C 155.515625 156.726562 129.542969 130.765625 129.542969 98.792969 C 129.542969 66.820312 155.515625 40.859375 187.5 40.859375 Z M 187.5 40.859375 " fill-opacity="1" fill-rule="nonzero"></path>
+                        </g>
+                        <path fill="#000000" d="M 192.25 60.804688 L 182.75 60.804688 C 164.382812 60.804688 149.496094 75.683594 149.496094 94.042969 L 149.496094 103.542969 C 149.496094 121.902344 164.382812 136.78125 182.75 136.78125 L 188.132812 136.78125 C 191.300781 136.78125 193.515625 134.25 193.515625 131.082031 C 193.515625 127.917969 190.984375 125.382812 188.132812 125.382812 L 182.75 125.382812 C 170.398438 125.382812 160.582031 115.570312 160.582031 103.226562 L 160.582031 93.726562 C 160.582031 81.382812 170.398438 71.566406 182.75 71.566406 L 192.25 71.566406 C 204.601562 71.566406 214.417969 81.382812 214.417969 93.726562 L 214.417969 110.503906 C 214.417969 112.089844 213.152344 113.355469 211.570312 113.355469 L 208.085938 113.355469 C 206.5 113.355469 205.234375 112.089844 205.234375 110.503906 L 205.234375 94.992188 C 205.234375 87.078125 198.902344 80.75 190.984375 80.75 L 184.332031 80.75 C 176.414062 80.75 170.082031 87.078125 170.082031 94.992188 L 170.082031 101.640625 C 170.082031 109.554688 176.414062 115.886719 184.332031 115.886719 L 195.417969 115.886719 C 197.632812 120.953125 202.382812 124.433594 208.085938 124.433594 L 211.570312 124.433594 C 219.167969 124.433594 225.503906 118.101562 225.503906 110.503906 L 225.503906 93.726562 C 225.503906 75.683594 210.617188 60.804688 192.25 60.804688 Z M 181.167969 102.273438 L 181.167969 95.628906 C 181.167969 94.042969 182.433594 92.460938 184.332031 92.460938 L 190.984375 92.460938 C 192.566406 92.460938 194.152344 93.726562 194.152344 95.628906 L 194.152344 105.441406 L 184.332031 105.441406 C 182.433594 105.441406 181.167969 103.859375 181.167969 102.273438 Z M 181.167969 102.273438 " fill-opacity="1" fill-rule="nonzero"></path>
+                      </svg></div>
+                  </div>
+                </div>
+              </div>
+              <div class="elementor-element elementor-element-7bce0b7 elementor-widget elementor-widget-text-editor" data-id="7bce0b7" data-element_type="widget" data-widget_type="text-editor.default">
+                <div class="elementor-widget-container"><a href="https://l.mtws.one/masjid-directions" title="Masjid Directions">3714 S Alston Ave,<wbr> Durham, NC 27713</a></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="elementor-element elementor-element-6c5b328 e-flex e-con-boxed e-con e-parent" data-id="6c5b328" data-element_type="container">
+      <div class="e-con-inner">
+        <div class="elementor-element elementor-element-e512396 elementor-widget elementor-widget-text-editor" data-id="e512396" data-element_type="widget" data-widget_type="text-editor.default">
+          <div class="elementor-widget-container">
+            <p>Share this link with family and friends:</p>
+          </div>
+        </div>
+        <div class="elementor-element elementor-element-1b69abf elementor-align-center elementor-widget elementor-widget-button" data-id="1b69abf" data-element_type="widget" data-widget_type="button.default">
+          <div class="elementor-widget-container">
+            <div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="#" id="copy-dawah"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Copy Link</span></span></a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="elementor-element elementor-element-0626b94 e-flex e-con-boxed e-con e-parent" data-id="0626b94" data-element_type="container">
+      <div class="e-con-inner">
+        <div class="elementor-element elementor-element-406a79f elementor-widget elementor-widget-heading" data-id="406a79f" data-element_type="widget" data-widget_type="heading.default">
+          <div class="elementor-widget-container">
+            <h2 class="elementor-heading-title elementor-size-default">Have Questions?</h2>
+          </div>
+        </div>
+        <div class="elementor-element elementor-element-f37393e elementor-button-align-center elementor-widget elementor-widget-form" data-id="f37393e" data-element_type="widget" data-settings="{&#34;step_next_label&#34;:&#34;Next&#34;,&#34;step_previous_label&#34;:&#34;Previous&#34;,&#34;button_width&#34;:&#34;100&#34;,&#34;step_type&#34;:&#34;number_text&#34;,&#34;step_icon_shape&#34;:&#34;circle&#34;}" data-widget_type="form.default">
+          <div class="elementor-widget-container">
+            <form class="elementor-form" method="post" name="Have Questions?"><input type="hidden" name="post_id" value="1153"> <input type="hidden" name="form_id" value="f37393e"> <input type="hidden" name="referer_title" value="Information about Islām"><input type="hidden" name="queried_id" value="1153">
+              <div class="elementor-form-fields-wrapper elementor-labels-above">
+                <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-50 elementor-field-required elementor-mark-required"><label for="form-field-name" class="elementor-field-label">Name</label> <input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Name" required aria-required="true"></div>
+                <div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-50 elementor-field-required elementor-mark-required"><label for="form-field-email" class="elementor-field-label">Email</label> <input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Email" required aria-required="true"></div>
+                <div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100 elementor-field-required elementor-mark-required"><label for="form-field-message" class="elementor-field-label">Question/Message</label><textarea class="elementor-field-textual elementor-field elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Message" required aria-required="true"></textarea></div>
+                <div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons"><button type="submit" class="elementor-button elementor-size-sm"><span><span class="elementor-button-icon"></span> <span class="elementor-button-text">Send</span></span></button></div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="elementor-element elementor-element-40c876c e-flex e-con-boxed e-con e-parent" data-id="40c876c" data-element_type="container">
+      <div class="e-con-inner">
+        <div class="elementor-element elementor-element-27ee74e elementor-widget elementor-widget-spacer" data-id="27ee74e" data-element_type="widget" data-widget_type="spacer.default">
+          <div class="elementor-widget-container">
+            <div class="elementor-spacer">
+              <div class="elementor-spacer-inner"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="elementor-element elementor-element-122bf4d e-con-full e-flex e-con e-parent" data-id="122bf4d" data-element_type="container" data-settings="{&#34;background_background&#34;:&#34;classic&#34;}">
+      <div class="elementor-element elementor-element-fbdf472 elementor-widget elementor-widget-text-editor" data-id="fbdf472" data-element_type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+          <p style="text-align:center">Masjid Tawheed Was Sunnah</p>
+          <p><a href="https://l.mtws.one/masjid-directions"><u>3714 S. Alston Ave.</u></a>, <a style="font-style:inherit;font-weight:inherit;background-color:#eee;text-align:var(--text-align)" href="https://l.mtws.one/masjid-directions"><u>Durham, NC 27713</u></a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="pum-1374" role="dialog" aria-modal="false" class="pum pum-overlay pum-theme-1113 pum-theme-content-only popmake-overlay click_open" data-popmake="{&#34;id&#34;:1374,&#34;slug&#34;:&#34;how-to-become-muslim&#34;,&#34;theme_id&#34;:1113,&#34;cookies&#34;:[],&#34;triggers&#34;:[{&#34;type&#34;:&#34;click_open&#34;,&#34;settings&#34;:{&#34;extra_selectors&#34;:&#34;&#34;,&#34;cookie_name&#34;:null}}],&#34;mobile_disabled&#34;:null,&#34;tablet_disabled&#34;:null,&#34;meta&#34;:{&#34;display&#34;:{&#34;stackable&#34;:false,&#34;overlay_disabled&#34;:false,&#34;scrollable_content&#34;:false,&#34;disable_reposition&#34;:false,&#34;size&#34;:&#34;medium&#34;,&#34;responsive_min_width&#34;:&#34;0%&#34;,&#34;responsive_min_width_unit&#34;:false,&#34;responsive_max_width&#34;:&#34;100%&#34;,&#34;responsive_max_width_unit&#34;:false,&#34;custom_width&#34;:&#34;640px&#34;,&#34;custom_width_unit&#34;:false,&#34;custom_height&#34;:&#34;380px&#34;,&#34;custom_height_unit&#34;:false,&#34;custom_height_auto&#34;:false,&#34;location&#34;:&#34;center top&#34;,&#34;position_from_trigger&#34;:false,&#34;position_top&#34;:&#34;100&#34;,&#34;position_left&#34;:&#34;0&#34;,&#34;position_bottom&#34;:&#34;0&#34;,&#34;position_right&#34;:&#34;0&#34;,&#34;position_fixed&#34;:false,&#34;animation_type&#34;:&#34;fade&#34;,&#34;animation_speed&#34;:&#34;350&#34;,&#34;animation_origin&#34;:&#34;center top&#34;,&#34;overlay_zindex&#34;:false,&#34;zindex&#34;:&#34;1999999999&#34;},&#34;close&#34;:{&#34;text&#34;:&#34;&#34;,&#34;button_delay&#34;:&#34;0&#34;,&#34;overlay_click&#34;:false,&#34;esc_press&#34;:false,&#34;f4_press&#34;:false},&#34;click_open&#34;:[]}}">
+    <div id="popmake-1374" class="pum-container popmake theme-1113 pum-responsive pum-responsive-medium responsive size-medium">
+      <div class="pum-content popmake-content" tabindex="0">
+        <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+        <p class="has-large-font-size"><br>You become a Muslim by saying with your tongue, sincerely from your heart, “I bear witness that nothing has the right to worshipped except Allah and I bear witness that Muhammad is the Messenger of Allah.”</p>
+        <p class="has-large-font-size">You are not required to have any witnesses or a ceremony for the validity of this testimony of faith. You do not have to change your name.</p>
+      </div><button type="button" class="pum-close popmake-close" aria-label="Close">×</button>
+    </div>
+  </div>
+  <div id="pum-1143" role="dialog" aria-modal="false" class="pum pum-overlay pum-theme-1113 pum-theme-content-only popmake-overlay click_open" data-popmake="{&#34;id&#34;:1143,&#34;slug&#34;:&#34;what-is-prayer&#34;,&#34;theme_id&#34;:1113,&#34;cookies&#34;:[],&#34;triggers&#34;:[{&#34;type&#34;:&#34;click_open&#34;,&#34;settings&#34;:{&#34;extra_selectors&#34;:&#34;&#34;,&#34;cookie_name&#34;:null}}],&#34;mobile_disabled&#34;:null,&#34;tablet_disabled&#34;:null,&#34;meta&#34;:{&#34;display&#34;:{&#34;stackable&#34;:false,&#34;overlay_disabled&#34;:false,&#34;scrollable_content&#34;:false,&#34;disable_reposition&#34;:false,&#34;size&#34;:&#34;medium&#34;,&#34;responsive_min_width&#34;:&#34;0%&#34;,&#34;responsive_min_width_unit&#34;:false,&#34;responsive_max_width&#34;:&#34;100%&#34;,&#34;responsive_max_width_unit&#34;:false,&#34;custom_width&#34;:&#34;640px&#34;,&#34;custom_width_unit&#34;:false,&#34;custom_height&#34;:&#34;380px&#34;,&#34;custom_height_unit&#34;:false,&#34;custom_height_auto&#34;:false,&#34;location&#34;:&#34;center top&#34;,&#34;position_from_trigger&#34;:false,&#34;position_top&#34;:&#34;100&#34;,&#34;position_left&#34;:&#34;0&#34;,&#34;position_bottom&#34;:&#34;0&#34;,&#34;position_right&#34;:&#34;0&#34;,&#34;position_fixed&#34;:false,&#34;animation_type&#34;:&#34;fade&#34;,&#34;animation_speed&#34;:&#34;350&#34;,&#34;animation_origin&#34;:&#34;center top&#34;,&#34;overlay_zindex&#34;:false,&#34;zindex&#34;:&#34;1999999999&#34;},&#34;close&#34;:{&#34;text&#34;:&#34;&#34;,&#34;button_delay&#34;:&#34;0&#34;,&#34;overlay_click&#34;:false,&#34;esc_press&#34;:false,&#34;f4_press&#34;:false},&#34;click_open&#34;:[]}}">
+    <div id="popmake-1143" class="pum-container popmake theme-1113 pum-responsive pum-responsive-medium responsive size-medium">
+      <div class="pum-content popmake-content" tabindex="0">
+        <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+        <p class="has-large-font-size">Muslims pray five times a day. The prayer is the connection between man and his Creator. The similitude for the prayer is that of the person who bathes at the riverbank five times a day. Would this person have any traces of filth upon them?</p>
+      </div><button type="button" class="pum-close popmake-close" aria-label="Close">×</button>
+    </div>
+  </div>
+  <div id="pum-1134" role="dialog" aria-modal="false" class="pum pum-overlay pum-theme-1113 pum-theme-content-only popmake-overlay click_open" data-popmake="{&#34;id&#34;:1134,&#34;slug&#34;:&#34;what-is-islam&#34;,&#34;theme_id&#34;:1113,&#34;cookies&#34;:[],&#34;triggers&#34;:[{&#34;type&#34;:&#34;click_open&#34;,&#34;settings&#34;:{&#34;extra_selectors&#34;:&#34;&#34;,&#34;cookie_name&#34;:null}}],&#34;mobile_disabled&#34;:null,&#34;tablet_disabled&#34;:null,&#34;meta&#34;:{&#34;display&#34;:{&#34;stackable&#34;:false,&#34;overlay_disabled&#34;:false,&#34;scrollable_content&#34;:false,&#34;disable_reposition&#34;:false,&#34;size&#34;:&#34;medium&#34;,&#34;responsive_min_width&#34;:&#34;0%&#34;,&#34;responsive_min_width_unit&#34;:false,&#34;responsive_max_width&#34;:&#34;100%&#34;,&#34;responsive_max_width_unit&#34;:false,&#34;custom_width&#34;:&#34;640px&#34;,&#34;custom_width_unit&#34;:false,&#34;custom_height&#34;:&#34;380px&#34;,&#34;custom_height_unit&#34;:false,&#34;custom_height_auto&#34;:false,&#34;location&#34;:&#34;center top&#34;,&#34;position_from_trigger&#34;:false,&#34;position_top&#34;:&#34;100&#34;,&#34;position_left&#34;:&#34;0&#34;,&#34;position_bottom&#34;:&#34;0&#34;,&#34;position_right&#34;:&#34;0&#34;,&#34;position_fixed&#34;:false,&#34;animation_type&#34;:&#34;fade&#34;,&#34;animation_speed&#34;:&#34;350&#34;,&#34;animation_origin&#34;:&#34;center top&#34;,&#34;overlay_zindex&#34;:false,&#34;zindex&#34;:&#34;1999999999&#34;},&#34;close&#34;:{&#34;text&#34;:&#34;&#34;,&#34;button_delay&#34;:&#34;0&#34;,&#34;overlay_click&#34;:false,&#34;esc_press&#34;:false,&#34;f4_press&#34;:false},&#34;click_open&#34;:[]}}">
+    <div id="popmake-1134" class="pum-container popmake theme-1113 pum-responsive pum-responsive-medium responsive size-medium">
+      <div class="pum-content popmake-content" tabindex="0">
+        <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+        <p class="has-large-font-size">There are an estimated <strong>4,200</strong> religions in the world today! This is astounding when you consider there is only one God, who alone, created the Universe and everything in it. How can there be over <strong>4,000</strong> religions for one Creator?</p>
+        <p class="has-large-font-size">The notion that everyone can worship God according to their desires, and thus there can be countless religions, is inconceivable. Likewise, the thought that we can ignore God, and live our lives without accountability is unimaginable.</p>
+        <p class="has-large-font-size">God did not create us in vain or leave us without guidance. Due to His mercy, He outlined for us a complete way of life, for our prosperity in this life and the Hereafter.</p>
+        <p class="has-large-font-size">With so many religions in the world, how do we know which one to follow? You may be surprised to learn that out of all the world religions, there is only one religion that directs all aspects of worship to the Creator alone, without associating any partners with Him or deeming Him to be similar to His creation.</p>
+        <p class="has-large-font-size">There are religions that believe the Universe contains many gods, like Greek mythology. Some religions believe idols are a physical representation of God, so they direct their worship toward carvings or statues. Others teach a doctrine of intercessory prayer to so-called saints. Some practice a form of ancestral worship, believing the dead can influence the fortune of the living; while many believe God begot a son who is also worshipped and serves as an intermediary between man and God.</p>
+        <p class="has-large-font-size">All of the mentioned examples have different rituals, carrying distinctive names, while sharing a common practice. They all direct aspects of worship toward the creation; either something that was created or someone that was born.</p>
+        <p class="has-large-font-size">The correct religion, the natural way of life, is to worship your Creator, alone, not the creation. Prophet Muhammad simplified this when asked, “What is the greatest of all sins?” He said, “That you set up rivals with Allah in worship, while He, alone, created you.”</p>
+        <p class="has-large-font-size">This is Islam. This is the religion of Abraham.</p>
+        <blockquote class="wp-block-quote has-ast-global-color-0-color has-text-color has-link-color wp-elements-8dfb6efb723c6b5ba68e9af44a4fb30b is-layout-flow wp-block-quote-is-layout-flow">
+          <p>“Say, ‘Indeed, my Lord has guided me to a straight path—a correct religion—the way of Abraham, inclining toward truth. And he was not among those who associated partners with Allah.’” (<strong>Quran, Chapter 6, Verses 161</strong>)</p>
+        </blockquote>
+      </div><button type="button" class="pum-close popmake-close" aria-label="Close">×</button>
+    </div>
+  </div>
+  <div id="pum-1115" role="dialog" aria-modal="false" class="pum pum-overlay pum-theme-1113 pum-theme-content-only popmake-overlay click_open" data-popmake="{&#34;id&#34;:1115,&#34;slug&#34;:&#34;who-is-allah&#34;,&#34;theme_id&#34;:1113,&#34;cookies&#34;:[],&#34;triggers&#34;:[{&#34;type&#34;:&#34;click_open&#34;,&#34;settings&#34;:{&#34;extra_selectors&#34;:&#34;&#34;,&#34;cookie_name&#34;:null}}],&#34;mobile_disabled&#34;:null,&#34;tablet_disabled&#34;:null,&#34;meta&#34;:{&#34;display&#34;:{&#34;stackable&#34;:false,&#34;overlay_disabled&#34;:false,&#34;scrollable_content&#34;:false,&#34;disable_reposition&#34;:false,&#34;size&#34;:&#34;medium&#34;,&#34;responsive_min_width&#34;:&#34;0%&#34;,&#34;responsive_min_width_unit&#34;:false,&#34;responsive_max_width&#34;:&#34;100%&#34;,&#34;responsive_max_width_unit&#34;:false,&#34;custom_width&#34;:&#34;640px&#34;,&#34;custom_width_unit&#34;:false,&#34;custom_height&#34;:&#34;380px&#34;,&#34;custom_height_unit&#34;:false,&#34;custom_height_auto&#34;:false,&#34;location&#34;:&#34;center&#34;,&#34;position_from_trigger&#34;:false,&#34;position_top&#34;:&#34;100&#34;,&#34;position_left&#34;:&#34;0&#34;,&#34;position_bottom&#34;:&#34;0&#34;,&#34;position_right&#34;:&#34;0&#34;,&#34;position_fixed&#34;:false,&#34;animation_type&#34;:&#34;fade&#34;,&#34;animation_speed&#34;:&#34;350&#34;,&#34;animation_origin&#34;:&#34;center top&#34;,&#34;overlay_zindex&#34;:false,&#34;zindex&#34;:&#34;1999999999&#34;},&#34;close&#34;:{&#34;text&#34;:&#34;&#34;,&#34;button_delay&#34;:&#34;0&#34;,&#34;overlay_click&#34;:false,&#34;esc_press&#34;:false,&#34;f4_press&#34;:false},&#34;click_open&#34;:[]}}">
+    <div id="popmake-1115" class="pum-container popmake theme-1113 pum-responsive pum-responsive-medium responsive size-medium">
+      <div class="pum-content popmake-content" tabindex="0">
+        <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+        <p class="has-large-font-size"><span class="p">Muslims believe in one, incomparable God who, alone, created the entire universe and controls all affairs within it. He alone gives life, causes death, and all affairs are in His Hands. He has no sons or daughters, no siblings, no mother, no father, and no wife.</span></p>
+        <p class="has-large-font-size"><span class="p">Allah has no likeness and no equal; consequently, </span><span class="p">He </span>is the only One that deserves to be worshipped. Directing any aspect of worship to anyone other than Him is the greatest of all sins.</p>
+        <p class="has-large-font-size">Muslims do not worship prophets, ancestors, trees, stones, idols, stars, the sun, the moon, or anything from the creation. Muslims only worship Allah, praying directly to Him with no intermediary.</p>
+      </div><button type="button" class="pum-close popmake-close" aria-label="Close">×</button>
+    </div>
+  </div><span class="ssp-id" style="display:none">1153</span> <span style="display:none">
+    <div class="ssp-search">
+      <form class="search-form">
+        <div class="form-row">
+          <div class="search-input-container"><input class="search-input fuse-search" name="search-input" placeholder="Search" autocomplete="off" data-noresult="No results found.">
+            <div class="search-auto-complete"></div><button type="submit" class="search-submit"><svg viewBox="0 0 24 24">
+                <path d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z" />
+              </svg></button>
+          </div>
+        </div>
+      </form>
+      <div class="result"></div>
+    </div>
+  </span>
+  <div id="ast-scroll-top" tabindex="0" class="ast-scroll-top-icon ast-scroll-to-top-right" data-on-devices="both"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+        <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
+      </svg></span><span class="screen-reader-text">Scroll to Top</span></div>
+  <script type="text/javascript" src="data:text/javascript;base64,Y29uc3QgbGF6eWxvYWRSdW5PYnNlcnZlcj0oKT0+e2NvbnN0IGxhenlsb2FkQmFja2dyb3VuZHM9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbChgLmUtY29uLmUtcGFyZW50Om5vdCguZS1sYXp5bG9hZGVkKWApO2NvbnN0IGxhenlsb2FkQmFja2dyb3VuZE9ic2VydmVyPW5ldyBJbnRlcnNlY3Rpb25PYnNlcnZlcigoZW50cmllcyk9PntlbnRyaWVzLmZvckVhY2goKGVudHJ5KT0+e2lmKGVudHJ5LmlzSW50ZXJzZWN0aW5nKXtsZXQgbGF6eWxvYWRCYWNrZ3JvdW5kPWVudHJ5LnRhcmdldDtpZihsYXp5bG9hZEJhY2tncm91bmQpe2xhenlsb2FkQmFja2dyb3VuZC5jbGFzc0xpc3QuYWRkKCdlLWxhenlsb2FkZWQnKX0KbGF6eWxvYWRCYWNrZ3JvdW5kT2JzZXJ2ZXIudW5vYnNlcnZlKGVudHJ5LnRhcmdldCl9fSl9LHtyb290TWFyZ2luOicyMDBweCAwcHggMjAwcHggMHB4J30pO2xhenlsb2FkQmFja2dyb3VuZHMuZm9yRWFjaCgobGF6eWxvYWRCYWNrZ3JvdW5kKT0+e2xhenlsb2FkQmFja2dyb3VuZE9ic2VydmVyLm9ic2VydmUobGF6eWxvYWRCYWNrZ3JvdW5kKX0pfTtjb25zdCBldmVudHM9WydET01Db250ZW50TG9hZGVkJywnZWxlbWVudG9yL2xhenlsb2FkL29ic2VydmUnLF07ZXZlbnRzLmZvckVhY2goKGV2ZW50KT0+e2RvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoZXZlbnQsbGF6eWxvYWRSdW5PYnNlcnZlcil9KQ==" defer></script>
+  <link data-optimized="1" rel="stylesheet" id="sonaar-music-css" href="https://mtws.one/wp-content/litespeed/css/a40b1d3b301c809279e62d29ed8521db.css?ver=521db" media="all">
+  <style id="sonaar-music-inline-css">
+    :root {
+      --srp-global-tracklist-color: #000000
+    }
+
+    .iron-audioplayer .srp_player_boxed,
+    .single-album .iron-audioplayer[data-playertemplate=skin_float_tracklist] .album-player {
+      background: rgba(226, 226, 226, 1)
+    }
+
+    .iron-audioplayer .playlist .current .audio-track,
+    .playlist .current .track-number {
+      color: rgba(0, 0, 0, 1)
+    }
+
+    .iron-audioplayer .playlist .song-store-list-menu .fa-ellipsis-v {
+      color: #bbb
+    }
+
+    .iron-audioplayer .playlist .audio-track path,
+    .iron-audioplayer .playlist .sricon-play {
+      color: rgba(0, 0, 0, 1)
+    }
+
+    .iron-audioplayer .control .sricon-play,
+    .srp-play-button .sricon-play,
+    .srp_pagination .active {
+      color: rgba(127, 127, 127, 1)
+    }
+
+    .iron-audioplayer .srp-play-circle {
+      border-color: rgba(127, 127, 127, 1)
+    }
+
+    .iron-audioplayer .control,
+    .iron-audioplayer[data-playertemplate=skin_boxed_tracklist] .sr_progressbar,
+    .srp_player_boxed .srp_noteButton {
+      color: rgba(127, 127, 127, 1)
+    }
+
+    .iron-audioplayer .sr_speedRate div {
+      border-color: rgba(127, 127, 127, 1)
+    }
+
+    .iron-audioplayer .srp-play-button-label-container,
+    .iron-audioplayer .ui-slider-handle,
+    .iron-audioplayer .ui-slider-range {
+      background: rgba(127, 127, 127, 1)
+    }
+
+    .iron-audioplayer.sr_player_on_artwork .sonaar-Artwort-box .control [class*=sricon-] {
+      color: #f1f1f1
+    }
+
+    .iron-audioplayer.sr_player_on_artwork .sonaar-Artwort-box .control .play {
+      border-color: #f1f1f1
+    }
+
+    @media screen and (max-width:540px) {
+
+      #sonaar-player .playlist .tracklist span.track-album,
+      #sonaar-player .playlist .tracklist span.track-artist,
+      #sonaar-player .playlist .tracklist span.track-title {
+        padding-left: 35px
+      }
+    }
+
+    .iron-audioplayer .sonaar_fake_wave .sonaar_wave_cut rect {
+      fill: rgba(116, 1, 223, 1)
+    }
+  </style>
+  <style id="core-block-supports-inline-css">
+    .wp-elements-8dfb6efb723c6b5ba68e9af44a4fb30b a:where(:not(.wp-element-button)) {
+      color: var(--wp--preset--color--ast-global-color-0)
+    }
+  </style>
+  <script id="astra-theme-js-js-extra" src="data:text/javascript;base64,dmFyIGFzdHJhPXsiYnJlYWtfcG9pbnQiOiI5MjEiLCJpc1J0bCI6IiIsImlzX3Njcm9sbF90b19pZCI6IjEiLCJpc19zY3JvbGxfdG9fdG9wIjoiMSIsImlzX2hlYWRlcl9mb290ZXJfYnVpbGRlcl9hY3RpdmUiOiIxIiwiZWRpdF9wb3N0X3VybCI6Imh0dHBzOlwvXC9tdHdzLm9uZVwvd3AtYWRtaW5cL3Bvc3QucGhwP3Bvc3Q9e3tpZH19JmFjdGlvbj1lZGl0IiwiYWpheF91cmwiOiJodHRwczpcL1wvbXR3cy5vbmVcL3dwLWFkbWluXC9hZG1pbi1hamF4LnBocCIsImluZmluaXRlX2NvdW50IjoiMiIsImluZmluaXRlX3RvdGFsIjoiMCIsInBhZ2luYXRpb24iOiJudW1iZXIiLCJpbmZpbml0ZV9zY3JvbGxfZXZlbnQiOiJzY3JvbGwiLCJub19tb3JlX3Bvc3RfbWVzc2FnZSI6Ik5vIG1vcmUgcG9zdHMgdG8gc2hvdy4iLCJncmlkX2xheW91dCI6IjEiLCJzaXRlX3VybCI6Imh0dHBzOlwvXC9tdHdzLm9uZSIsInNob3dfY29tbWVudHMiOiJTaG93IENvbW1lbnRzIiwibWFzb25yeUVuYWJsZWQiOiIiLCJibG9nTWFzb25yeUJyZWFrUG9pbnQiOiI5MjEifQ==" defer></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/09d5d2944f7c475d93fd29e83f9a97c8.js?ver=a97c8" id="astra-theme-js-js" defer data-deferred="1"></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/f045851223cd53c3bbe5f2ff55521711.js?ver=21711" id="ssp-fuse-js" defer data-deferred="1"></script>
+  <script id="ssp-search-js-extra" src="data:text/javascript;base64,dmFyIHNzcF9zZWFyY2g9eyJodG1sIjoiICAgICAgICAgICAgPGRpdiBjbGFzcz1cInNzcC1zZWFyY2hcIj5cbiAgICAgICAgICAgICAgICA8Zm9ybSBjbGFzcz1cInNlYXJjaC1mb3JtXCI+XG4gICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9XCJmb3JtLXJvd1wiPlxuICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz1cInNlYXJjaC1pbnB1dC1jb250YWluZXJcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9XCJzZWFyY2gtaW5wdXQgZnVzZS1zZWFyY2hcIiBuYW1lPVwic2VhcmNoLWlucHV0XCJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9XCJTZWFyY2hcIlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdXRvY29tcGxldGU9XCJvZmZcIlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLW5vcmVzdWx0PVwiTm8gcmVzdWx0cyBmb3VuZC5cIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPVwic2VhcmNoLWF1dG8tY29tcGxldGVcIj48XC9kaXY+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSdzdWJtaXQnIGNsYXNzPSdzZWFyY2gtc3VibWl0Jz5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHN2ZyB2aWV3Qm94PScwIDAgMjQgMjQnPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0nTTkuNSwzQTYuNSw2LjUgMCAwLDEgMTYsOS41QzE2LDExLjExIDE1LjQxLDEyLjU5IDE0LjQ0LDEzLjczTDE0LjcxLDE0SDE1LjVMMjAuNSwxOUwxOSwyMC41TDE0LDE1LjVWMTQuNzFMMTMuNzMsMTQuNDRDMTIuNTksMTUuNDEgMTEuMTEsMTYgOS41LDE2QTYuNSw2LjUgMCAwLDEgMyw5LjVBNi41LDYuNSAwIDAsMSA5LjUsM005LjUsNUM3LDUgNSw3IDUsOS41QzUsMTIgNywxNCA5LjUsMTRDMTIsMTQgMTQsMTIgMTQsOS41QzE0LDcgMTIsNSA5LjUsNVonXC8+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxcL3N2Zz5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8XC9idXR0b24+XG4gICAgICAgICAgICAgICAgICAgICAgICA8XC9kaXY+XG4gICAgICAgICAgICAgICAgICAgIDxcL2Rpdj5cbiAgICAgICAgICAgICAgICA8XC9mb3JtPlxuICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9XCJyZXN1bHRcIj48XC9kaXY+XG4gICAgICAgICAgICA8XC9kaXY+XG5cdFx0XHQiLCJ1c2Vfc2VsZWN0b3IiOiIxIn0=" defer></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/09f574d7452b90b28be1c456e42b5eb8.js?ver=b5eb8" id="ssp-search-js" defer data-deferred="1"></script>
+  <script id="astra-addon-js-js-extra" src="data:text/javascript;base64,dmFyIGFzdHJhQWRkb249eyJzdGlja3lfYWN0aXZlIjoiIiwic3ZnSWNvbkNsb3NlIjoiPHNwYW4gY2xhc3M9XCJhc3QtaWNvbiBpY29uLWNsb3NlXCI+PHN2ZyB2aWV3Qm94PVwiMCAwIDUxMiA1MTJcIiBhcmlhLWhpZGRlbj1cInRydWVcIiByb2xlPVwiaW1nXCIgdmVyc2lvbj1cIjEuMVwiIHhtbG5zPVwiaHR0cDpcL1wvd3d3LnczLm9yZ1wvMjAwMFwvc3ZnXCIgeG1sbnM6eGxpbms9XCJodHRwOlwvXC93d3cudzMub3JnXC8xOTk5XC94bGlua1wiIHdpZHRoPVwiMThweFwiIGhlaWdodD1cIjE4cHhcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD1cIk03MS4wMjkgNzEuMDI5YzkuMzczLTkuMzcyIDI0LjU2OS05LjM3MiAzMy45NDIgMEwyNTYgMjIyLjA1OWwxNTEuMDI5LTE1MS4wM2M5LjM3My05LjM3MiAyNC41NjktOS4zNzIgMzMuOTQyIDAgOS4zNzIgOS4zNzMgOS4zNzIgMjQuNTY5IDAgMzMuOTQyTDI4OS45NDEgMjU2bDE1MS4wMyAxNTEuMDI5YzkuMzcyIDkuMzczIDkuMzcyIDI0LjU2OSAwIDMzLjk0Mi05LjM3MyA5LjM3Mi0yNC41NjkgOS4zNzItMzMuOTQyIDBMMjU2IDI4OS45NDFsLTE1MS4wMjkgMTUxLjAzYy05LjM3MyA5LjM3Mi0yNC41NjkgOS4zNzItMzMuOTQyIDAtOS4zNzItOS4zNzMtOS4zNzItMjQuNTY5IDAtMzMuOTQyTDIyMi4wNTkgMjU2IDcxLjAyOSAxMDQuOTcxYy05LjM3Mi05LjM3My05LjM3Mi0yNC41NjkgMC0zMy45NDJ6XCIgXC8+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgPFwvc3ZnPjxcL3NwYW4+IiwiaGZfYWNjb3VudF9zaG93X21lbnVfb24iOiJob3ZlciIsImhmX2FjY291bnRfYWN0aW9uX3R5cGUiOiJsaW5rIiwiaGVhZGVyX21haW5fc3RpY2siOiIwIiwiaGVhZGVyX2Fib3ZlX3N0aWNrIjoiMCIsImhlYWRlcl9iZWxvd19zdGljayI6IjAiLCJzdGlja19oZWFkZXJfbWV0YSI6IiIsImhlYWRlcl9tYWluX3N0aWNrX21ldGEiOiIiLCJoZWFkZXJfYWJvdmVfc3RpY2tfbWV0YSI6IiIsImhlYWRlcl9iZWxvd19zdGlja19tZXRhIjoiIiwic3RpY2t5X2hlYWRlcl9vbl9kZXZpY2VzIjoiZGVza3RvcCIsInN0aWNreV9oZWFkZXJfc3R5bGUiOiJub25lIiwic3RpY2t5X2hpZGVfb25fc2Nyb2xsIjoiMCIsImJyZWFrX3BvaW50IjoiOTIxIiwidGFibGV0X2JyZWFrX3BvaW50IjoiOTIxIiwibW9iaWxlX2JyZWFrX3BvaW50IjoiNTQ0IiwiaGVhZGVyX21haW5fc2hyaW5rIjoiMSIsImhlYWRlcl9sb2dvX3dpZHRoIjoiIiwicmVzcG9uc2l2ZV9oZWFkZXJfbG9nb193aWR0aCI6eyJkZXNrdG9wIjoyMTcsInRhYmxldCI6IiIsIm1vYmlsZSI6NzB9LCJzdGlja19vcmlnaW5fcG9zaXRpb24iOiIiLCJzaXRlX2xheW91dCI6ImFzdC1mdWxsLXdpZHRoLWxheW91dCIsInNpdGVfY29udGVudF93aWR0aCI6IjEyNDAiLCJzaXRlX2xheW91dF9wYWRkZWRfd2lkdGgiOiIxNDg4Iiwic2l0ZV9sYXlvdXRfYm94X3dpZHRoIjoiMTkyMCIsImhlYWRlcl9idWlsZGVyX2FjdGl2ZSI6IjEiLCJjb21wb25lbnRfbGltaXQiOiIxMCIsImlzX2hlYWRlcl9idWlsZGVyX2FjdGl2ZSI6IjEifQ==" defer></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/66884368238310f4e266f19f08b2754f.js?ver=2754f" id="astra-addon-js-js" defer data-deferred="1"></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/b6d56f285a30e10e3b0a4c7a68d0e38f.js?ver=0e38f" id="googlesitekit-consent-mode-js" defer data-deferred="1"></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/152e71bf87444ee242f0b94a22c84611.js?ver=84611" id="dflip-script-js" defer data-deferred="1"></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/7fcb6787c00b84587f9103e7bcaf3e69.js?ver=f3e69" id="jquery-ui-core-js" defer data-deferred="1"></script>
+  <script id="popup-maker-site-js-extra" src="data:text/javascript;base64,dmFyIHB1bV92YXJzPXsidmVyc2lvbiI6IjEuMjAuMiIsInBtX2Rpcl91cmwiOiJodHRwczpcL1wvbXR3cy5vbmVcL3dwLWNvbnRlbnRcL3BsdWdpbnNcL3BvcHVwLW1ha2VyXC8iLCJhamF4dXJsIjoiaHR0cHM6XC9cL210d3Mub25lXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLCJyZXN0YXBpIjoiaHR0cHM6XC9cL210d3Mub25lXC93cC1qc29uXC9wdW1cL3YxIiwicmVzdF9ub25jZSI6bnVsbCwiZGVmYXVsdF90aGVtZSI6IjExMTMiLCJkZWJ1Z19tb2RlIjoiIiwiZGlzYWJsZV90cmFja2luZyI6IiIsImhvbWVfdXJsIjoiXC8iLCJtZXNzYWdlX3Bvc2l0aW9uIjoidG9wIiwiY29yZV9zdWJfZm9ybXNfZW5hYmxlZCI6IjEiLCJwb3B1cHMiOltdLCJjb29raWVfZG9tYWluIjoiIiwiYW5hbHl0aWNzX3JvdXRlIjoiYW5hbHl0aWNzIiwiYW5hbHl0aWNzX2FwaSI6Imh0dHBzOlwvXC9tdHdzLm9uZVwvd3AtanNvblwvcHVtXC92MSJ9O3ZhciBwdW1fc3ViX3ZhcnM9eyJhamF4dXJsIjoiaHR0cHM6XC9cL210d3Mub25lXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLCJtZXNzYWdlX3Bvc2l0aW9uIjoidG9wIn07dmFyIHB1bV9wb3B1cHM9eyJwdW0tMTM3NCI6eyJ0cmlnZ2VycyI6W10sImNvb2tpZXMiOltdLCJkaXNhYmxlX29uX21vYmlsZSI6ITEsImRpc2FibGVfb25fdGFibGV0IjohMSwiYXRjX3Byb21vdGlvbiI6bnVsbCwiZXhwbGFpbiI6bnVsbCwidHlwZV9zZWN0aW9uIjpudWxsLCJ0aGVtZV9pZCI6IjExMTMiLCJzaXplIjoibWVkaXVtIiwicmVzcG9uc2l2ZV9taW5fd2lkdGgiOiIwJSIsInJlc3BvbnNpdmVfbWF4X3dpZHRoIjoiMTAwJSIsImN1c3RvbV93aWR0aCI6IjY0MHB4IiwiY3VzdG9tX2hlaWdodF9hdXRvIjohMSwiY3VzdG9tX2hlaWdodCI6IjM4MHB4Iiwic2Nyb2xsYWJsZV9jb250ZW50IjohMSwiYW5pbWF0aW9uX3R5cGUiOiJmYWRlIiwiYW5pbWF0aW9uX3NwZWVkIjoiMzUwIiwiYW5pbWF0aW9uX29yaWdpbiI6ImNlbnRlciB0b3AiLCJvcGVuX3NvdW5kIjoibm9uZSIsImN1c3RvbV9zb3VuZCI6IiIsImxvY2F0aW9uIjoiY2VudGVyIHRvcCIsInBvc2l0aW9uX3RvcCI6IjEwMCIsInBvc2l0aW9uX2JvdHRvbSI6IjAiLCJwb3NpdGlvbl9sZWZ0IjoiMCIsInBvc2l0aW9uX3JpZ2h0IjoiMCIsInBvc2l0aW9uX2Zyb21fdHJpZ2dlciI6ITEsInBvc2l0aW9uX2ZpeGVkIjohMSwib3ZlcmxheV9kaXNhYmxlZCI6ITEsInN0YWNrYWJsZSI6ITEsImRpc2FibGVfcmVwb3NpdGlvbiI6ITEsInppbmRleCI6IjE5OTk5OTk5OTkiLCJjbG9zZV9idXR0b25fZGVsYXkiOiIwIiwiZmlfcHJvbW90aW9uIjpudWxsLCJjbG9zZV9vbl9mb3JtX3N1Ym1pc3Npb24iOiExLCJjbG9zZV9vbl9mb3JtX3N1Ym1pc3Npb25fZGVsYXkiOiIwIiwiY2xvc2Vfb25fb3ZlcmxheV9jbGljayI6ITEsImNsb3NlX29uX2VzY19wcmVzcyI6ITEsImNsb3NlX29uX2Y0X3ByZXNzIjohMSwiZGlzYWJsZV9mb3JtX3Jlb3BlbiI6ITEsImRpc2FibGVfYWNjZXNzaWJpbGl0eSI6ITEsInRoZW1lX3NsdWciOiJjb250ZW50LW9ubHkiLCJpZCI6MTM3NCwic2x1ZyI6Imhvdy10by1iZWNvbWUtbXVzbGltIn0sInB1bS0xMTQzIjp7InRyaWdnZXJzIjpbXSwiY29va2llcyI6W10sImRpc2FibGVfb25fbW9iaWxlIjohMSwiZGlzYWJsZV9vbl90YWJsZXQiOiExLCJhdGNfcHJvbW90aW9uIjpudWxsLCJleHBsYWluIjpudWxsLCJ0eXBlX3NlY3Rpb24iOm51bGwsInRoZW1lX2lkIjoiMTExMyIsInNpemUiOiJtZWRpdW0iLCJyZXNwb25zaXZlX21pbl93aWR0aCI6IjAlIiwicmVzcG9uc2l2ZV9tYXhfd2lkdGgiOiIxMDAlIiwiY3VzdG9tX3dpZHRoIjoiNjQwcHgiLCJjdXN0b21faGVpZ2h0X2F1dG8iOiExLCJjdXN0b21faGVpZ2h0IjoiMzgwcHgiLCJzY3JvbGxhYmxlX2NvbnRlbnQiOiExLCJhbmltYXRpb25fdHlwZSI6ImZhZGUiLCJhbmltYXRpb25fc3BlZWQiOiIzNTAiLCJhbmltYXRpb25fb3JpZ2luIjoiY2VudGVyIHRvcCIsIm9wZW5fc291bmQiOiJub25lIiwiY3VzdG9tX3NvdW5kIjoiIiwibG9jYXRpb24iOiJjZW50ZXIgdG9wIiwicG9zaXRpb25fdG9wIjoiMTAwIiwicG9zaXRpb25fYm90dG9tIjoiMCIsInBvc2l0aW9uX2xlZnQiOiIwIiwicG9zaXRpb25fcmlnaHQiOiIwIiwicG9zaXRpb25fZnJvbV90cmlnZ2VyIjohMSwicG9zaXRpb25fZml4ZWQiOiExLCJvdmVybGF5X2Rpc2FibGVkIjohMSwic3RhY2thYmxlIjohMSwiZGlzYWJsZV9yZXBvc2l0aW9uIjohMSwiemluZGV4IjoiMTk5OTk5OTk5OSIsImNsb3NlX2J1dHRvbl9kZWxheSI6IjAiLCJmaV9wcm9tb3Rpb24iOm51bGwsImNsb3NlX29uX2Zvcm1fc3VibWlzc2lvbiI6ITEsImNsb3NlX29uX2Zvcm1fc3VibWlzc2lvbl9kZWxheSI6IjAiLCJjbG9zZV9vbl9vdmVybGF5X2NsaWNrIjohMSwiY2xvc2Vfb25fZXNjX3ByZXNzIjohMSwiY2xvc2Vfb25fZjRfcHJlc3MiOiExLCJkaXNhYmxlX2Zvcm1fcmVvcGVuIjohMSwiZGlzYWJsZV9hY2Nlc3NpYmlsaXR5IjohMSwidGhlbWVfc2x1ZyI6ImNvbnRlbnQtb25seSIsImlkIjoxMTQzLCJzbHVnIjoid2hhdC1pcy1wcmF5ZXIifSwicHVtLTExMzQiOnsidHJpZ2dlcnMiOltdLCJjb29raWVzIjpbXSwiZGlzYWJsZV9vbl9tb2JpbGUiOiExLCJkaXNhYmxlX29uX3RhYmxldCI6ITEsImF0Y19wcm9tb3Rpb24iOm51bGwsImV4cGxhaW4iOm51bGwsInR5cGVfc2VjdGlvbiI6bnVsbCwidGhlbWVfaWQiOiIxMTEzIiwic2l6ZSI6Im1lZGl1bSIsInJlc3BvbnNpdmVfbWluX3dpZHRoIjoiMCUiLCJyZXNwb25zaXZlX21heF93aWR0aCI6IjEwMCUiLCJjdXN0b21fd2lkdGgiOiI2NDBweCIsImN1c3RvbV9oZWlnaHRfYXV0byI6ITEsImN1c3RvbV9oZWlnaHQiOiIzODBweCIsInNjcm9sbGFibGVfY29udGVudCI6ITEsImFuaW1hdGlvbl90eXBlIjoiZmFkZSIsImFuaW1hdGlvbl9zcGVlZCI6IjM1MCIsImFuaW1hdGlvbl9vcmlnaW4iOiJjZW50ZXIgdG9wIiwib3Blbl9zb3VuZCI6Im5vbmUiLCJjdXN0b21fc291bmQiOiIiLCJsb2NhdGlvbiI6ImNlbnRlciB0b3AiLCJwb3NpdGlvbl90b3AiOiIxMDAiLCJwb3NpdGlvbl9ib3R0b20iOiIwIiwicG9zaXRpb25fbGVmdCI6IjAiLCJwb3NpdGlvbl9yaWdodCI6IjAiLCJwb3NpdGlvbl9mcm9tX3RyaWdnZXIiOiExLCJwb3NpdGlvbl9maXhlZCI6ITEsIm92ZXJsYXlfZGlzYWJsZWQiOiExLCJzdGFja2FibGUiOiExLCJkaXNhYmxlX3JlcG9zaXRpb24iOiExLCJ6aW5kZXgiOiIxOTk5OTk5OTk5IiwiY2xvc2VfYnV0dG9uX2RlbGF5IjoiMCIsImZpX3Byb21vdGlvbiI6bnVsbCwiY2xvc2Vfb25fZm9ybV9zdWJtaXNzaW9uIjohMSwiY2xvc2Vfb25fZm9ybV9zdWJtaXNzaW9uX2RlbGF5IjoiMCIsImNsb3NlX29uX292ZXJsYXlfY2xpY2siOiExLCJjbG9zZV9vbl9lc2NfcHJlc3MiOiExLCJjbG9zZV9vbl9mNF9wcmVzcyI6ITEsImRpc2FibGVfZm9ybV9yZW9wZW4iOiExLCJkaXNhYmxlX2FjY2Vzc2liaWxpdHkiOiExLCJ0aGVtZV9zbHVnIjoiY29udGVudC1vbmx5IiwiaWQiOjExMzQsInNsdWciOiJ3aGF0LWlzLWlzbGFtIn0sInB1bS0xMTE1Ijp7InRyaWdnZXJzIjpbXSwiY29va2llcyI6W10sImRpc2FibGVfb25fbW9iaWxlIjohMSwiZGlzYWJsZV9vbl90YWJsZXQiOiExLCJhdGNfcHJvbW90aW9uIjpudWxsLCJleHBsYWluIjpudWxsLCJ0eXBlX3NlY3Rpb24iOm51bGwsInRoZW1lX2lkIjoiMTExMyIsInNpemUiOiJtZWRpdW0iLCJyZXNwb25zaXZlX21pbl93aWR0aCI6IjAlIiwicmVzcG9uc2l2ZV9tYXhfd2lkdGgiOiIxMDAlIiwiY3VzdG9tX3dpZHRoIjoiNjQwcHgiLCJjdXN0b21faGVpZ2h0X2F1dG8iOiExLCJjdXN0b21faGVpZ2h0IjoiMzgwcHgiLCJzY3JvbGxhYmxlX2NvbnRlbnQiOiExLCJhbmltYXRpb25fdHlwZSI6ImZhZGUiLCJhbmltYXRpb25fc3BlZWQiOiIzNTAiLCJhbmltYXRpb25fb3JpZ2luIjoiY2VudGVyIHRvcCIsIm9wZW5fc291bmQiOiJub25lIiwiY3VzdG9tX3NvdW5kIjoiIiwibG9jYXRpb24iOiJjZW50ZXIiLCJwb3NpdGlvbl90b3AiOiIxMDAiLCJwb3NpdGlvbl9ib3R0b20iOiIwIiwicG9zaXRpb25fbGVmdCI6IjAiLCJwb3NpdGlvbl9yaWdodCI6IjAiLCJwb3NpdGlvbl9mcm9tX3RyaWdnZXIiOiExLCJwb3NpdGlvbl9maXhlZCI6ITEsIm92ZXJsYXlfZGlzYWJsZWQiOiExLCJzdGFja2FibGUiOiExLCJkaXNhYmxlX3JlcG9zaXRpb24iOiExLCJ6aW5kZXgiOiIxOTk5OTk5OTk5IiwiY2xvc2VfYnV0dG9uX2RlbGF5IjoiMCIsImZpX3Byb21vdGlvbiI6bnVsbCwiY2xvc2Vfb25fZm9ybV9zdWJtaXNzaW9uIjohMSwiY2xvc2Vfb25fZm9ybV9zdWJtaXNzaW9uX2RlbGF5IjoiMCIsImNsb3NlX29uX292ZXJsYXlfY2xpY2siOiExLCJjbG9zZV9vbl9lc2NfcHJlc3MiOiExLCJjbG9zZV9vbl9mNF9wcmVzcyI6ITEsImRpc2FibGVfZm9ybV9yZW9wZW4iOiExLCJkaXNhYmxlX2FjY2Vzc2liaWxpdHkiOiExLCJ0aGVtZV9zbHVnIjoiY29udGVudC1vbmx5IiwiaWQiOjExMTUsInNsdWciOiJ3aG8taXMtYWxsYWgifX0=" defer></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/b345d3c3849076ef056fbbc9b6abb39d.js?ver=bb39d" id="popup-maker-site-js" defer data-deferred="1"></script>
+  <script src="https://stats.wp.com/e-202446.js" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+  <script id="jetpack-stats-js-after">
+    _stq = window._stq || [], _stq.push(["view", JSON.parse('{"v":"ext","blog":"218020991","post":"1153","tz":"-5","srv":"mtws.one","j":"1:14.0"}')]), _stq.push(["clickTrackerInit", "218020991", "1153"])
+  </script>
+  <script id="wp-consent-api-js-extra" src="data:text/javascript;base64,dmFyIGNvbnNlbnRfYXBpPXsiY29uc2VudF90eXBlIjoiIiwid2FpdGZvcl9jb25zZW50X2hvb2siOiIiLCJjb29raWVfZXhwaXJhdGlvbiI6IjMwIiwiY29va2llX3ByZWZpeCI6IndwX2NvbnNlbnQifQ==" defer></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/da4233690cf24f2d72bd098158529059.js?ver=29059" id="wp-consent-api-js" defer data-deferred="1"></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/174b1e552d328afa94724dd70d724bf2.js?ver=24bf2" id="sonaar-music-js" defer data-deferred="1"></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/bd45589f529255efc26acce6e8203362.js?ver=03362" id="moments-js" defer data-deferred="1"></script>
+  <script id="sonaar-music-mp3player-js-extra" src="data:text/javascript;base64,dmFyIHNvbmFhcl9tdXNpYz17InBsdWdpbl92ZXJzaW9uX2ZyZWUiOiI1LjkuMSIsInBsdWdpbl9kaXJfdXJsX2ZyZWUiOiJcL2JpdG5hbWlcL3dvcmRwcmVzc1wvd3AtY29udGVudFwvcGx1Z2luc1wvbXAzLW11c2ljLXBsYXllci1ieS1zb25hYXJcLyIsInBsdWdpbl92ZXJzaW9uX3BybyI6Ik5vdCBJbnN0YWxsZWQiLCJwbHVnaW5fZGlyX3VybCI6Imh0dHBzOlwvXC9tdHdzLm9uZVwvd3AtY29udGVudFwvcGx1Z2luc1wvbXAzLW11c2ljLXBsYXllci1ieS1zb25hYXJcL3B1YmxpY1wvIiwib3B0aW9uIjp7InBsYXllcl90eXBlIjoicG9kY2FzdCIsInBsYXllcl93aWRnZXRfdHlwZSI6InNraW5fZmxvYXRfdHJhY2tsaXN0Iiwic3JtcDNfcG9zdHR5cGVzIjpbInBvc3QiLCJwYWdlIiwiZS1sYW5kaW5nLXBhZ2UiLCJzcl9wbGF5bGlzdCIsImFzdHJhLWFkdmFuY2VkLWhvb2siXSwid2F2ZWZvcm1UeXBlIjoibWVkaWFFbGVtZW50IiwibXVzaWNfcGxheWVyX2JhcndpZHRoIjoiMSIsIm11c2ljX3BsYXllcl9iYXJnYXAiOiIxIiwibXVzaWNfcGxheWVyX2xpbmVjYXAiOiJzcXVhcmUiLCJzcl9zb3VuZHdhdmVfaGVpZ2h0IjoiNzAiLCJwbGF5YmFja19zcGVlZCI6IjAuNSwgMSwgMS4yLCAxLjUsIDIsIDIuNSwzIiwiY29sbGFwc2VfdHJhY2tsaXN0X2JhY2tlbmQiOiJmYWxzZSIsInVzZV93eXNpd3lnX2Zvcl90cmFja2Rlc2MiOiJmYWxzZSIsImFsd2F5c19sb2FkX3NjcmlwdHMiOiJvbiIsInBvZGNhc3Rfc2V0dGluZ19yc3NmZWVkX2Rpc2FibGUiOiJmYWxzZSIsInBvZGNhc3Rfc2V0dGluZ19yc3NmZWVkX3JlZGlyZWN0IjoidHJ1ZSIsIm11c2ljX3BsYXllcl9pY29uX2NvbG9yIjoicmdiYSgxMjcsIDEyNywgMTI3LCAxKSIsIm11c2ljX3BsYXllcl9hcnR3b3JrX2ljb25fY29sb3IiOiIjZjFmMWYxIiwibXVzaWNfcGxheWVyX3Byb2dyZXNzX2NvbG9yIjoicmdiYSgxMTYsIDEsIDIyMywgMSkiLCJtdXNpY19wbGF5ZXJfdGltZWxpbmVfY29sb3IiOiJyZ2JhKDMxLCAzMSwgMzEsIDEpIiwibXVzaWNfcGxheWVyX2JnY29sb3IiOiJyZ2JhKDIyNiwgMjI2LCAyMjYsIDEpIiwibXVzaWNfcGxheWVyX2NvdmVyU2l6ZSI6ImxhcmdlIiwibXVzaWNfcGxheWVyX2ZlYXR1cmVkX2NvbG9yIjoicmdiYSgwLCAwLCAwLCAxKSIsIm11c2ljX3BsYXllcl9zdG9yZV9kcmF3ZXIiOiIjQkJCQkJCIiwibGFiZWxQbGF5VHh0IjoiUGxheSIsImxhYmVsUGF1c2VUeHQiOiJQYXVzZSIsInBsYXllcl9zaG93X3RyYWNrc19jb3VudF9sYWJlbCI6IlRyYWNrcyIsInBsYXllcl9ob3Vyc19sYWJlbCI6ImhyLiIsInBsYXllcl9taW51dGVzX2xhYmVsIjoibWluLiIsInBsYXllcl9kYXRlX2Zvcm1hdCI6IiIsInRvb2x0aXBfdHJhY2tsaXN0X2J0biI6IlZpZXcgVHJhY2tsaXN0IiwidG9vbHRpcF9yd2RfYnRuIjoiUmV3aW5kIDE1IHNlY29uZHMiLCJ0b29sdGlwX3ByZXZfYnRuIjoiUHJldmlvdXMiLCJ0b29sdGlwX3BsYXlfYnRuIjoiUGxheVwvUGF1c2UiLCJ0b29sdGlwX25leHRfYnRuIjoiTmV4dCAiLCJ0b29sdGlwX2Z3cmRfYnRuIjoiRm9yd2FyZCAzMCBzZWNvbmRzIiwidG9vbHRpcF9zcGVlZF9idG4iOiJTcGVlZCBSYXRlcyIsInRvb2x0aXBfc2h1ZmZsZV9idG4iOiJTaHVmZmxlICIsInRvb2x0aXBfcmVwZWF0X3BsYXlsaXN0X2J0biI6IkVuYWJsZSBSZXBlYXQiLCJ0b29sdGlwX3JlcGVhdF90cmFja19idG4iOiJFbmFibGUgUmVwZWF0IFRyYWNrIiwidG9vbHRpcF9yZXBlYXRfZGlzYWJsZV9idG4iOiJEaXNhYmxlIFJlcGVhdCIsInRvb2x0aXBfdm9sdW1lX2J0biI6IlZvbHVtZSIsInByb21vX3BsYXllcl9zaG93X3ZvbHVtZV9idCI6MCwicHJvbW9fcGxheWVyX3Nob3dfc2tpcF9idCI6MCwicHJvbW9fcGxheWVyX3Nob3dfc3BlZWRfYnQiOjAsInByb21vX3BsYXllcl9zaG93X3NodWZmbGVfYnQiOjAsInByb21vX3BsYXllcl9zaG93X3RyYWNrX3B1Ymxpc2hfZGF0ZSI6MCwicHJvbW9fc2hvd19sYWJlbCI6ImZhbHNlIiwicHJvbW9fc3Jfc2luZ2xlX3Bvc3RfdXNlX2N1c3RvbV9zaG9ydGNvZGUiOjAsInByb21vX2N0YS1wb3B1cCI6MH0sImFqYXgiOnsiYWpheF91cmwiOiJodHRwczpcL1wvbXR3cy5vbmVcL3dwLWFkbWluXC9hZG1pbi1hamF4LnBocCIsImFqYXhfbm9uY2UiOiIyNGZiMWZkODEwIiwiYWpheF9ub25jZV9wZWFrcyI6ImM4MThhZjUzZDAifX0=" defer></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/f1060532df76972745d9b32b5c08578c.js?ver=8578c" id="sonaar-music-mp3player-js" defer data-deferred="1"></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/ce0f6814bc8ac1918f50ddc63ad2668d.js?ver=2668d" id="elementor-pro-webpack-runtime-js" defer data-deferred="1"></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/3ad2498832aae5cace9a228a918b9e66.js?ver=b9e66" id="elementor-webpack-runtime-js" defer data-deferred="1"></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/a9f130e28c71cc1aaccb308fdfeef022.js?ver=ef022" id="elementor-frontend-modules-js" defer data-deferred="1"></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/a7e25e3e7d3e616e953e9e36dc8f1d58.js?ver=f1d58" id="wp-hooks-js" defer data-deferred="1"></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/3edafa1c8999a59b990c33ee95bdf0a4.js?ver=df0a4" id="wp-i18n-js" defer data-deferred="1"></script>
+  <script id="wp-i18n-js-after" src="data:text/javascript;base64,d3AuaTE4bi5zZXRMb2NhbGVEYXRhKHsndGV4dCBkaXJlY3Rpb25cdTAwMDRsdHInOlsnbHRyJ119KQ==" defer></script>
+  <script id="elementor-pro-frontend-js-before" src="data:text/javascript;base64,dmFyIEVsZW1lbnRvclByb0Zyb250ZW5kQ29uZmlnPXsiYWpheHVybCI6Imh0dHBzOlwvXC9tdHdzLm9uZVwvd3AtYWRtaW5cL2FkbWluLWFqYXgucGhwIiwibm9uY2UiOiIyMTUzYzExM2E0IiwidXJscyI6eyJhc3NldHMiOiJodHRwczpcL1wvbXR3cy5vbmVcL3dwLWNvbnRlbnRcL3BsdWdpbnNcL2VsZW1lbnRvci1wcm9cL2Fzc2V0c1wvIiwicmVzdCI6Imh0dHBzOlwvXC9tdHdzLm9uZVwvd3AtanNvblwvIn0sInNoYXJlQnV0dG9uc05ldHdvcmtzIjp7ImZhY2Vib29rIjp7InRpdGxlIjoiRmFjZWJvb2siLCJoYXNfY291bnRlciI6ITB9LCJ0d2l0dGVyIjp7InRpdGxlIjoiVHdpdHRlciJ9LCJsaW5rZWRpbiI6eyJ0aXRsZSI6IkxpbmtlZEluIiwiaGFzX2NvdW50ZXIiOiEwfSwicGludGVyZXN0Ijp7InRpdGxlIjoiUGludGVyZXN0IiwiaGFzX2NvdW50ZXIiOiEwfSwicmVkZGl0Ijp7InRpdGxlIjoiUmVkZGl0IiwiaGFzX2NvdW50ZXIiOiEwfSwidmsiOnsidGl0bGUiOiJWSyIsImhhc19jb3VudGVyIjohMH0sIm9kbm9rbGFzc25pa2kiOnsidGl0bGUiOiJPSyIsImhhc19jb3VudGVyIjohMH0sInR1bWJsciI6eyJ0aXRsZSI6IlR1bWJsciJ9LCJkaWdnIjp7InRpdGxlIjoiRGlnZyJ9LCJza3lwZSI6eyJ0aXRsZSI6IlNreXBlIn0sInN0dW1ibGV1cG9uIjp7InRpdGxlIjoiU3R1bWJsZVVwb24iLCJoYXNfY291bnRlciI6ITB9LCJtaXgiOnsidGl0bGUiOiJNaXgifSwidGVsZWdyYW0iOnsidGl0bGUiOiJUZWxlZ3JhbSJ9LCJwb2NrZXQiOnsidGl0bGUiOiJQb2NrZXQiLCJoYXNfY291bnRlciI6ITB9LCJ4aW5nIjp7InRpdGxlIjoiWElORyIsImhhc19jb3VudGVyIjohMH0sIndoYXRzYXBwIjp7InRpdGxlIjoiV2hhdHNBcHAifSwiZW1haWwiOnsidGl0bGUiOiJFbWFpbCJ9LCJwcmludCI6eyJ0aXRsZSI6IlByaW50In0sIngtdHdpdHRlciI6eyJ0aXRsZSI6IlgifSwidGhyZWFkcyI6eyJ0aXRsZSI6IlRocmVhZHMifX0sImZhY2Vib29rX3NkayI6eyJsYW5nIjoiZW5fVVMiLCJhcHBfaWQiOiIifSwibG90dGllIjp7ImRlZmF1bHRBbmltYXRpb25VcmwiOiJodHRwczpcL1wvbXR3cy5vbmVcL3dwLWNvbnRlbnRcL3BsdWdpbnNcL2VsZW1lbnRvci1wcm9cL21vZHVsZXNcL2xvdHRpZVwvYXNzZXRzXC9hbmltYXRpb25zXC9kZWZhdWx0Lmpzb24ifX0=" defer></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/85bfa5e59ea61345f5331bc5535e85d2.js?ver=e85d2" id="elementor-pro-frontend-js" defer data-deferred="1"></script>
+  <script id="elementor-frontend-js-before" src="data:text/javascript;base64,dmFyIGVsZW1lbnRvckZyb250ZW5kQ29uZmlnPXsiZW52aXJvbm1lbnRNb2RlIjp7ImVkaXQiOiExLCJ3cFByZXZpZXciOiExLCJpc1NjcmlwdERlYnVnIjohMX0sImkxOG4iOnsic2hhcmVPbkZhY2Vib29rIjoiU2hhcmUgb24gRmFjZWJvb2siLCJzaGFyZU9uVHdpdHRlciI6IlNoYXJlIG9uIFR3aXR0ZXIiLCJwaW5JdCI6IlBpbiBpdCIsImRvd25sb2FkIjoiRG93bmxvYWQiLCJkb3dubG9hZEltYWdlIjoiRG93bmxvYWQgaW1hZ2UiLCJmdWxsc2NyZWVuIjoiRnVsbHNjcmVlbiIsInpvb20iOiJab29tIiwic2hhcmUiOiJTaGFyZSIsInBsYXlWaWRlbyI6IlBsYXkgVmlkZW8iLCJwcmV2aW91cyI6IlByZXZpb3VzIiwibmV4dCI6Ik5leHQiLCJjbG9zZSI6IkNsb3NlIiwiYTExeUNhcm91c2VsV3JhcHBlckFyaWFMYWJlbCI6IkNhcm91c2VsIHwgSG9yaXpvbnRhbCBzY3JvbGxpbmc6IEFycm93IExlZnQgJiBSaWdodCIsImExMXlDYXJvdXNlbFByZXZTbGlkZU1lc3NhZ2UiOiJQcmV2aW91cyBzbGlkZSIsImExMXlDYXJvdXNlbE5leHRTbGlkZU1lc3NhZ2UiOiJOZXh0IHNsaWRlIiwiYTExeUNhcm91c2VsRmlyc3RTbGlkZU1lc3NhZ2UiOiJUaGlzIGlzIHRoZSBmaXJzdCBzbGlkZSIsImExMXlDYXJvdXNlbExhc3RTbGlkZU1lc3NhZ2UiOiJUaGlzIGlzIHRoZSBsYXN0IHNsaWRlIiwiYTExeUNhcm91c2VsUGFnaW5hdGlvbkJ1bGxldE1lc3NhZ2UiOiJHbyB0byBzbGlkZSJ9LCJpc19ydGwiOiExLCJicmVha3BvaW50cyI6eyJ4cyI6MCwic20iOjQ4MCwibWQiOjc2OCwibGciOjEwMjUsInhsIjoxNDQwLCJ4eGwiOjE2MDB9LCJyZXNwb25zaXZlIjp7ImJyZWFrcG9pbnRzIjp7Im1vYmlsZSI6eyJsYWJlbCI6Ik1vYmlsZSBQb3J0cmFpdCIsInZhbHVlIjo3NjcsImRlZmF1bHRfdmFsdWUiOjc2NywiZGlyZWN0aW9uIjoibWF4IiwiaXNfZW5hYmxlZCI6ITB9LCJtb2JpbGVfZXh0cmEiOnsibGFiZWwiOiJNb2JpbGUgTGFuZHNjYXBlIiwidmFsdWUiOjg4MCwiZGVmYXVsdF92YWx1ZSI6ODgwLCJkaXJlY3Rpb24iOiJtYXgiLCJpc19lbmFibGVkIjohMX0sInRhYmxldCI6eyJsYWJlbCI6IlRhYmxldCBQb3J0cmFpdCIsInZhbHVlIjoxMDI0LCJkZWZhdWx0X3ZhbHVlIjoxMDI0LCJkaXJlY3Rpb24iOiJtYXgiLCJpc19lbmFibGVkIjohMH0sInRhYmxldF9leHRyYSI6eyJsYWJlbCI6IlRhYmxldCBMYW5kc2NhcGUiLCJ2YWx1ZSI6MTIwMCwiZGVmYXVsdF92YWx1ZSI6MTIwMCwiZGlyZWN0aW9uIjoibWF4IiwiaXNfZW5hYmxlZCI6ITF9LCJsYXB0b3AiOnsibGFiZWwiOiJMYXB0b3AiLCJ2YWx1ZSI6MTM2NiwiZGVmYXVsdF92YWx1ZSI6MTM2NiwiZGlyZWN0aW9uIjoibWF4IiwiaXNfZW5hYmxlZCI6ITF9LCJ3aWRlc2NyZWVuIjp7ImxhYmVsIjoiV2lkZXNjcmVlbiIsInZhbHVlIjoyNDAwLCJkZWZhdWx0X3ZhbHVlIjoyNDAwLCJkaXJlY3Rpb24iOiJtaW4iLCJpc19lbmFibGVkIjohMX19LCJoYXNDdXN0b21CcmVha3BvaW50cyI6ITF9LCJ2ZXJzaW9uIjoiMy4yNS42IiwiaXNfc3RhdGljIjohMSwiZXhwZXJpbWVudGFsRmVhdHVyZXMiOnsiZV9mb250X2ljb25fc3ZnIjohMCwiYWRkaXRpb25hbF9jdXN0b21fYnJlYWtwb2ludHMiOiEwLCJjb250YWluZXIiOiEwLCJlX3N3aXBlcl9sYXRlc3QiOiEwLCJlX25lc3RlZF9hdG9taWNfcmVwZWF0ZXJzIjohMCwiZV9vcHRpbWl6ZWRfY29udHJvbF9sb2FkaW5nIjohMCwiZV9vbmJvYXJkaW5nIjohMCwiZV9jc3Nfc21vb3RoX3Njcm9sbCI6ITAsInRoZW1lX2J1aWxkZXJfdjIiOiEwLCJob21lX3NjcmVlbiI6ITAsImxhbmRpbmctcGFnZXMiOiEwLCJuZXN0ZWQtZWxlbWVudHMiOiEwLCJlZGl0b3JfdjIiOiEwLCJsaW5rLWluLWJpbyI6ITAsImZsb2F0aW5nLWJ1dHRvbnMiOiEwLCJub3RlcyI6ITAsImZvcm0tc3VibWlzc2lvbnMiOiEwLCJtZWdhLW1lbnUiOiEwfSwidXJscyI6eyJhc3NldHMiOiJodHRwczpcL1wvbXR3cy5vbmVcL3dwLWNvbnRlbnRcL3BsdWdpbnNcL2VsZW1lbnRvclwvYXNzZXRzXC8iLCJhamF4dXJsIjoiaHR0cHM6XC9cL210d3Mub25lXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLCJ1cGxvYWRVcmwiOiJodHRwczpcL1wvbXR3cy5vbmVcL3dwLWNvbnRlbnRcL3VwbG9hZHMifSwibm9uY2VzIjp7ImZsb2F0aW5nQnV0dG9uc0NsaWNrVHJhY2tpbmciOiIxNjkxNmUzNWEyIn0sInN3aXBlckNsYXNzIjoic3dpcGVyIiwic2V0dGluZ3MiOnsicGFnZSI6W10sImVkaXRvclByZWZlcmVuY2VzIjpbXX0sImtpdCI6eyJib2R5X2JhY2tncm91bmRfYmFja2dyb3VuZCI6ImNsYXNzaWMiLCJhY3RpdmVfYnJlYWtwb2ludHMiOlsidmlld3BvcnRfbW9iaWxlIiwidmlld3BvcnRfdGFibGV0Il0sImdsb2JhbF9pbWFnZV9saWdodGJveCI6InllcyIsImxpZ2h0Ym94X2VuYWJsZV9jb3VudGVyIjoieWVzIiwibGlnaHRib3hfZW5hYmxlX2Z1bGxzY3JlZW4iOiJ5ZXMiLCJsaWdodGJveF9lbmFibGVfem9vbSI6InllcyIsImxpZ2h0Ym94X2VuYWJsZV9zaGFyZSI6InllcyIsImxpZ2h0Ym94X3RpdGxlX3NyYyI6InRpdGxlIiwibGlnaHRib3hfZGVzY3JpcHRpb25fc3JjIjoiZGVzY3JpcHRpb24ifSwicG9zdCI6eyJpZCI6MTE1MywidGl0bGUiOiJJbmZvcm1hdGlvbiUyMGFib3V0JTIwSXNsJUM0JTgxbSIsImV4Y2VycHQiOiIiLCJmZWF0dXJlZEltYWdlIjoiaHR0cHM6XC9cL2kwLndwLmNvbVwvbXR3cy5vbmVcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAzXC9Tb2NpYWwtU2hhcmUtSW1hZ2VzLnBuZz9maXQ9MTAyNCUyQzUzOCZzc2w9MSJ9fQ==" defer></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/61afb7b6cfed806a3bf9a9eaa52c96bf.js?ver=c96bf" id="elementor-frontend-js" defer data-deferred="1"></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/e10d5583f3c553a90464aa4be49709ad.js?ver=709ad" id="pro-preloaded-elements-handlers-js" defer data-deferred="1"></script>
+  <script data-optimized="1" src="https://mtws.one/wp-content/litespeed/js/69a204cca23c3088a56b280bcf41f6e4.js?ver=1f6e4" id="sr-scripts-js" defer data-deferred="1"></script>
+  <script src="data:text/javascript;base64,Lyh0cmlkZW50fG1zaWUpL2kudGVzdChuYXZpZ2F0b3IudXNlckFnZW50KSYmZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQmJndpbmRvdy5hZGRFdmVudExpc3RlbmVyJiZ3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigiaGFzaGNoYW5nZSIsZnVuY3Rpb24oKXt2YXIgdCxlPWxvY2F0aW9uLmhhc2guc3Vic3RyaW5nKDEpOy9eW0EtejAtOV8tXSskLy50ZXN0KGUpJiYodD1kb2N1bWVudC5nZXRFbGVtZW50QnlJZChlKSkmJigvXig/OmF8c2VsZWN0fGlucHV0fGJ1dHRvbnx0ZXh0YXJlYSkkL2kudGVzdCh0LnRhZ05hbWUpfHwodC50YWJJbmRleD0tMSksdC5mb2N1cygpKX0sITEp" defer></script>
+  <script data-cfasync="false">
+    var dFlipLocation = "https://mtws.one/wp-content/plugins/3d-flipbook-dflip-lite/assets/",
+      dFlipWPGlobal = {
+        text: {
+          toggleSound: "Turn on/off Sound",
+          toggleThumbnails: "Toggle Thumbnails",
+          toggleOutline: "Toggle Outline/Bookmark",
+          previousPage: "Previous Page",
+          nextPage: "Next Page",
+          toggleFullscreen: "Toggle Fullscreen",
+          zoomIn: "Zoom In",
+          zoomOut: "Zoom Out",
+          toggleHelp: "Toggle Help",
+          singlePageMode: "Single Page Mode",
+          doublePageMode: "Double Page Mode",
+          downloadPDFFile: "Download PDF File",
+          gotoFirstPage: "Goto First Page",
+          gotoLastPage: "Goto Last Page",
+          share: "Share",
+          mailSubject: "I wanted you to see this FlipBook",
+          mailBody: "Check out this site {{url}}",
+          loading: "DearFlip: Loading "
+        },
+        viewerType: "flipbook",
+        moreControls: "download,pageMode,startPage,endPage,sound",
+        hideControls: "",
+        scrollWheel: "false",
+        backgroundColor: "#777",
+        backgroundImage: "",
+        height: "auto",
+        paddingLeft: "20",
+        paddingRight: "20",
+        controlsPosition: "bottom",
+        duration: 800,
+        soundEnable: "true",
+        enableDownload: "true",
+        showSearchControl: "false",
+        showPrintControl: "false",
+        enableAnnotation: !1,
+        enableAnalytics: "false",
+        webgl: "true",
+        hard: "none",
+        maxTextureSize: "1600",
+        rangeChunkSize: "524288",
+        zoomRatio: 1.5,
+        stiffness: 3,
+        pageMode: "0",
+        singlePageMode: "0",
+        pageSize: "0",
+        autoPlay: "false",
+        autoPlayDuration: 5e3,
+        autoPlayStart: "false",
+        linkTarget: "2",
+        sharePrefix: "flipbook-"
+      }
+  </script>
+</body>
+
+</html>```
+````
