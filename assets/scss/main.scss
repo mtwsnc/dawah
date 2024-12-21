@@ -1,0 +1,320 @@
+// Import Google Fonts
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+
+// Custom.scss
+// Option B: Include parts of Bootstrap
+
+// 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
+@import "../../node_modules/bootstrap/scss/functions";
+
+// 2. Disable dark mode
+$enable-dark-mode: false !default;
+
+// 3. Include any default variable overrides here
+$body-bg: #ffffff;
+$body-color: #000000;
+
+// Override Bootstrap font variables
+$font-family-sans-serif: "DM Sans", system-ui, -apple-system, "Segoe UI", Roboto,
+  "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif,
+  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+$font-family-base: $font-family-sans-serif !default;
+$body-font-family: $font-family-base !default;
+$bs-body-font-family: $body-font-family !default;
+
+// Custom brand colors
+$vanilla: #e7d296ff; // Secondary
+$dark-green: #132a1aff; // Primary
+$floral-white: #fff8edff;
+$fern-green: #4c7031ff;
+$dun: #d3c6a1ff;
+
+// Override Bootstrap brand colors
+$primary: $dark-green !default;
+$secondary: $vanilla !default;
+$success: #28a745 !default;
+$info: #17a2b8 !default;
+$warning: #ffc107 !default;
+$danger: #dc3545 !default;
+$light: $floral-white !default;
+$dark: #343a40 !default;
+
+// Define custom CSS variables
+:root {
+  --bs-secondary-color: #e7d296ff;
+  --bs-secondary-color-rgb: 231, 210, 150;
+  --bs-secondary-bg: #e7d296ff;
+  --bs-secondary-bg-rgb: 231, 210, 150;
+
+  --bs-tertiary-color: #fff8edff;
+  --bs-tertiary-color-rgb: 255, 248, 237;
+  --bs-tertiary-bg: #fff8edff;
+  --bs-tertiary-bg-rgb: 255, 248, 237;
+
+  --bs-emphasis-color: #000000;
+  --bs-emphasis-color-rgb: 0, 0, 0;
+
+  --bs-border-color: #d3c6a1ff;
+  --bs-border-color-rgb: 211, 198, 161;
+  --bs-border-color-translucent: rgba(211, 198, 161, 0.5);
+}
+
+// 4. Include remainder of required Bootstrap stylesheets (excluding any separate color mode stylesheets)
+@import "../../node_modules/bootstrap/scss/variables";
+
+// 5. Include any default map overrides here
+
+// 6. Include remainder of required parts
+@import "../../node_modules/bootstrap/scss/maps";
+@import "../../node_modules/bootstrap/scss/mixins";
+@import "../../node_modules/bootstrap/scss/root";
+// buttons
+@import "../../node_modules/bootstrap/scss/buttons";
+
+// 7. Optionally include any other parts as needed
+@import "../../node_modules/bootstrap/scss/utilities";
+@import "../../node_modules/bootstrap/scss/reboot";
+@import "../../node_modules/bootstrap/scss/type";
+@import "../../node_modules/bootstrap/scss/images";
+@import "../../node_modules/bootstrap/scss/containers";
+@import "../../node_modules/bootstrap/scss/grid";
+@import "../../node_modules/bootstrap/scss/helpers";
+
+// 8. Optionally include utilities API last to generate classes based on the Sass map in `_utilities.scss`
+@import "../../node_modules/bootstrap/scss/utilities/api";
+
+// 9. Add additional custom code here
+
+
+
+.modal {
+  display: none;
+}
+.hidden {
+  display: none;
+}
+
+.player {
+  max-width: 90%;
+  margin: 3em auto 3em auto;
+  background: #fff;
+  padding: 15px 32px 15px 32px;
+  border-radius: 14px 14px 14px 14px;
+  box-shadow: 0 20px 25px -5px rgb(238 238 238 / 0.5),
+    0 8px 10px -6px rgb(238 238 238 / 0.5);
+}
+
+.player-track-meta {
+  text-align: center;
+}
+
+.player-track-meta p {
+  margin: 0;
+  font-size: 20px;
+  color: #0e0e0e;
+  font-weight: 700;
+}
+
+.player-track-meta span {
+  font-size: 16px;
+  font-weight: 400;
+  padding: 0 2px;
+  position: relative;
+  top: 1px;
+  color: #a3a3a3;
+}
+
+.player-controls {
+  display: flex;
+  align-items: center;
+}
+
+.player-play-btn {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 36px;
+  height: 36px;
+}
+
+.icon-container {
+  fill: transparent;
+  stroke: none;
+}
+
+.player-play-btn:hover {
+  fill: #444444;
+}
+
+.player-play-btn svg {
+  color: #0e0e0e;
+  position: relative;
+  left: 0.5px;
+  width: 36px;
+  height: 36px;
+  display: block;
+}
+
+.player-play-btn:hover svg {
+  color: #ffffff;
+}
+
+.player-timeline {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 10px;
+}
+
+.player-progress {
+  display: flex;
+  position: relative;
+  height: 6px;
+  background: #a3a3a3;
+  border-radius: 25px;
+  margin: 0 5px;
+  flex: 10;
+  flex-basis: 100%;
+  overflow: hidden;
+}
+
+.player-progress-filled {
+  height: 6px;
+  background: #0e0e0e;
+  flex: 0;
+  flex-basis: 0%;
+  border-radius: 25px;
+}
+
+.player-time {
+  padding: 2px 5px;
+}
+
+.player-volume-container {
+  width: 15%;
+}
+
+.player-volume {
+  height: 28px;
+  -webkit-appearance: none;
+  margin: 10px 0;
+  width: 100%;
+  background: transparent;
+  position: relative;
+}
+
+.player-volume:focus {
+  outline: none;
+}
+
+.player-volume::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 6px;
+  cursor: pointer;
+  transition: 0.2s;
+  background: linear-gradient(
+    to right,
+    #0e0e0e 0%,
+    #0e0e0e var(--volume-level, 50%),
+    #a3a3a3 var(--volume-level, 50%),
+    #a3a3a3 100%
+  );
+  border-radius: 10px;
+}
+
+.player-volume::-webkit-slider-thumb {
+  height: 16px;
+  width: 16px;
+  border-radius: 100px;
+  border: none;
+  background: #0e0e0e;
+  cursor: pointer;
+  -webkit-appearance: none;
+  margin-top: -4px;
+  position: relative;
+  z-index: 1;
+}
+
+.player-volume:focus::-webkit-slider-runnable-track {
+  background: linear-gradient(
+    to right,
+    #0e0e0e 0%,
+    #0e0e0e var(--volume-level, 50%),
+    #a3a3a3 var(--volume-level, 50%),
+    #a3a3a3 100%
+  );
+}
+
+.player-volume::-moz-range-track {
+  width: 100%;
+  height: 6px;
+  cursor: pointer;
+  transition: 0.2s;
+  background: linear-gradient(
+    to right,
+    #0e0e0e 0%,
+    #0e0e0e var(--volume-level, 50%),
+    #a3a3a3 var(--volume-level, 50%),
+    #a3a3a3 100%
+  );
+  border-radius: 10px;
+}
+
+.player-volume::-moz-range-thumb {
+  height: 16px;
+  width: 16px;
+  border-radius: 100px;
+  border: none;
+  background: #0e0e0e;
+  cursor: pointer;
+  margin-top: -4px;
+  position: relative;
+  z-index: 1;
+}
+
+.player-volume::-ms-track {
+  width: 100%;
+  height: 6px;
+  cursor: pointer;
+  transition: 0.2s;
+  background: transparent;
+  border-color: transparent;
+  color: transparent;
+}
+
+.player-volume::-ms-fill-lower {
+  background: #0e0e0e;
+  border-radius: 10px;
+}
+
+.player-volume::-ms-fill-upper {
+  background: #a3a3a3;
+  border-radius: 10px;
+}
+
+.player-volume::-ms-thumb {
+  margin-top: 1px;
+  height: 15px;
+  width: 15px;
+  border-radius: 5px;
+  border: none;
+  background: #0e0e0e;
+  cursor: pointer;
+}
+
+.player-volume:focus::-ms-fill-lower {
+  background: #0e0e0e;
+}
+
+.player-volume:focus::-ms-fill-upper {
+  background: #a3a3a3;
+}
+
+.readbook-modal.modal-box {
+  width: 90px;
+}
