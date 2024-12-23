@@ -151,6 +151,30 @@ document.addEventListener("DOMContentLoaded", () => {
             },
           ],
         },
+        "arabic-fatihah": {
+          title: "The Opening Chapter of the Qur'ān (Arabic)",
+          artist: "MTWS Audio",
+          album: "Opening Chapter of the Qurān",
+          artwork: [
+            {
+              src: "",
+              sizes: "",
+              type: "",
+            },
+          ],
+        },
+        "english-fatihah": {
+          title: "The Opening Chapter of the Qur'ān (English)",
+          artist: "MTWS Audio",
+          album: "Opening Chapter of the Qurān",
+          artwork: [
+            {
+              src: "",
+              sizes: "",
+              type: "",
+            },
+          ],
+        },
         // Add more metadata entries for other players here
       };
       return metadata[playerId] || {};
