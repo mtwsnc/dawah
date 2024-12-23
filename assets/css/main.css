@@ -7296,6 +7296,14 @@ progress {
     display: none !important;
   }
 }
+.w-fill {
+  width: 100% !important;
+}
+
+.w-fit {
+  width: fit-content !important;
+}
+
 .w-33 {
   width: 33.333333%;
 }
