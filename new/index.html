@@ -258,6 +258,36 @@
         </div>
     </div>
 
+    <div id="copy-link-dawah"
+        class="py-2 container col d-flex flex-row justify-content-evenly w-50 align-content-center align-items-center text-center my-2">
+        <p>Share this link with family and friends:</p>
+        <!-- JS script that copies https://l.mtws.one/dawah to clipboard -->
+        <div class="btn btn-primary" id="copy-link" role="button">Copy Link</div>
+        <div id="copy-success" class="d-none">Link copied to clipboard!</div>
+        <script>document.getElementById('copy-link').addEventListener('click', function () {
+                // Create temporary input element
+                const tempInput = document.createElement('input');
+                tempInput.value = 'https://l.mtws.one/dawah';
+                document.body.appendChild(tempInput);
+
+                // Select and copy text
+                tempInput.select();
+                document.execCommand('copy');
+
+                // Remove temporary element
+                document.body.removeChild(tempInput);
+
+                // Show success message
+                const successMsg = document.getElementById('copy-success');
+                successMsg.classList.remove('d-none');
+
+                // Hide success message after 2 seconds
+                setTimeout(function () {
+                    successMsg.classList.add('d-none');
+                }, 2000);
+            });</script>
+    </div>
+
     </div>
     <script src="../assets/dflip/js/libs/jquery.min.js" type="text/javascript"></script>
     <script src="../assets/dflip/js/dflip.min.js" type="text/javascript"></script>
