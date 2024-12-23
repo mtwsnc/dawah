@@ -86,7 +86,9 @@ $dark: #343a40 !default;
 
 // 9. Add additional custom code here
 
-
+.w-33 {
+  width: 33.333333%;
+}
 
 .modal {
   display: none;
@@ -94,13 +96,13 @@ $dark: #343a40 !default;
 .hidden {
   display: none;
 }
-
 .player {
-  max-width: 90%;
-  margin: 3em auto 3em auto;
+  max-width: 100%;
+  width: 600px;
+  margin: 3em auto;
   background: #fff;
-  padding: 15px 32px 15px 32px;
-  border-radius: 14px 14px 14px 14px;
+  padding: 15px 32px;
+  border-radius: 14px;
   box-shadow: 0 20px 25px -5px rgb(238 238 238 / 0.5),
     0 8px 10px -6px rgb(238 238 238 / 0.5);
 }
@@ -127,7 +129,15 @@ $dark: #343a40 !default;
 
 .player-controls {
   display: flex;
+  flex-direction: column;
   align-items: center;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .player-controls {
+    flex-direction: row;
+  }
 }
 
 .player-play-btn {
@@ -147,7 +157,7 @@ $dark: #343a40 !default;
 }
 
 .player-play-btn:hover {
-  fill: #444444;
+  fill: #444;
 }
 
 .player-play-btn svg {
@@ -160,15 +170,16 @@ $dark: #343a40 !default;
 }
 
 .player-play-btn:hover svg {
-  color: #ffffff;
+  color: #fff;
 }
 
 .player-timeline {
   display: flex;
-  flex: 1;
+  // flex: 1;
   align-items: center;
   justify-content: space-between;
   padding-left: 10px;
+  width: 100%;
 }
 
 .player-progress {
@@ -196,7 +207,13 @@ $dark: #343a40 !default;
 }
 
 .player-volume-container {
-  width: 15%;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .player-volume-container {
+    width: auto;
+  }
 }
 
 .player-volume {
@@ -236,8 +253,6 @@ $dark: #343a40 !default;
   cursor: pointer;
   -webkit-appearance: none;
   margin-top: -4px;
-  position: relative;
-  z-index: 1;
 }
 
 .player-volume:focus::-webkit-slider-runnable-track {
@@ -273,8 +288,6 @@ $dark: #343a40 !default;
   background: #0e0e0e;
   cursor: pointer;
   margin-top: -4px;
-  position: relative;
-  z-index: 1;
 }
 
 .player-volume::-ms-track {
@@ -314,7 +327,6 @@ $dark: #343a40 !default;
 .player-volume:focus::-ms-fill-upper {
   background: #a3a3a3;
 }
-
 .readbook-modal.modal-box {
   width: 90px;
 }

@@ -15,11 +15,12 @@
 <body>
     <header class="bg-light py-3" style="background-color: #EEE!important;">
         <div class="container text-center">
-            <div class="row align-items-center">
-                <div class="col-2"><img src="../assets/img/logo.webp" width='50%' alt=""></div>
-                <div class="col-10">
-                    <h2 class="">Welcome! Take a moment to
-                        learn more about Islām.</h2>
+            <div class="row align-items-center flex-column flex-md-row">
+                <div class="col-12 col-md-2 mb-3 mb-md-0">
+                    <img src="../assets/img/logo.webp" width='50%' alt="">
+                </div>
+                <div class="col-12 col-md-10">
+                    <h2 class="">Welcome! Take a moment to learn more about Islām.</h2>
                 </div>
             </div>
         </div>
@@ -27,12 +28,12 @@
 
     <div id="a-guide-to-islam-audiobook" class="container py-5 align-content-center">
         <h3 class="text-center">A guide to Islām Audiobook</h3>
-        <div class="player">
+        <div id="audiobook-eng" class="player" style="max-width: 100%; width: 600px;">
             <div class="player-track-meta">
                 <p>A Glimpse into the Religion of Islam Audiobook</p>
                 <p><span>Rasheed Barbee (read by Taqi Mckinzie)</span></p>
             </div>
-            <div class="player-controls">
+            <div class="player-controls d-flex flex-column flex-md-row align-items-center">
                 <button class="player-play-btn" role="button" aria-label="Play" data-playing="false">
                     <div class="player-icon-play">
                         <svg xmlns="https://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
@@ -53,37 +54,169 @@
                         </svg>
                     </div>
                 </button>
-                <div class="player-timeline">
+                <div class="player-timeline flex-grow-1 d-flex align-items-center my-3 my-md-0">
                     <span class="player-time player-time-current">00:00</span>
-                    <div class="player-progress">
+                    <div class="player-progress mx-2 flex-grow-1">
                         <div class="player-progress-filled"></div>
                     </div>
                     <span class="player-time player-time-duration">00:00</span>
                 </div>
-                <div class="player-volume-container">
-                    <input type="range" id="volume" min="0" max="1" step="0.01" class="player-volume" />
+                <div class="player-volume-container mt-3 mt-md-0 w-100 w-md-auto">
+                    <input type="range" id="volume" min="0" max="1" step="0.01" class="player-volume w-100" />
                 </div>
             </div>
 
             <audio src="../assets/audio/A-Glimpse-into-the-Religion-of-Islam-Audiobook1.mp3"
                 crossorigin="anonymous"></audio>
         </div>
-        <div id="readbook-modal" class="modal" aria-hidden="true" aria-modal="true" tabindex="-1">
-            <div class="modal_box">
-                <div class="_df_book" source="../assets/pdf/A Glimpse Into the Religion of Islam by Rasheed Barbee.pdf"></div>
+        <div class="text-center align-content-center">
+            <div class="btn btn-primary _df_button" id="readbook-btn" role="button"
+                source="../assets/pdf/A Glimpse Into the Religion of Islam by Rasheed Barbee.pdf">Read the book</div>
+        </div>
+    </div>
 
+    <div class="container px-4 text-center">
+        <div class="row py-4">
+            <div class="col border border-primary rounded py-3 m-2 align-content-center">
+                <h2 class="text-center">Who is Allāh?</h2>
+                <a href="#" class="btn btn-primary" role="button">Explore</a>
+            </div>
+            <div class="col border border-primary rounded py-3 m-2 align-content-center">
+                <h2 class="text-center">What is Prayer?</h2>
+                <a href="#" class="btn btn-primary" role="button">Explore</a>
+            </div>
+            <div class="col border border-primary rounded py-3 m-2 align-content-center">
+                <h2 class="text-center">What is Islām?</h2>
+                <a href="#" class="btn btn-primary" role="button">Explore</a>
+            </div>
+        </div>
+        <div class="row py-4">
+            <div class="col border border-primary rounded py-3 m-2 align-content-center">
+                <h2 class="text-center">Un Vistazo Dentro de la Religión del Islām</h2>
+                <a href="#" class="btn btn-primary" role="button">Listen</a>
+            </div>
+            <div class="col border border-primary rounded py-3 m-2 align-content-center">
+                <h2 class="text-center">How to become Muslim</h2>
+                <a href="#" class="btn btn-primary" role="button">Explore</a>
+            </div>
+            <div class="col border border-primary rounded py-3 m-2 align-content-center">
+                <h2 class="text-center">How to make Wudū (ablution)?</h2>
+                <a href="#" class="btn btn-primary" role="button">Watch</a>
+            </div>
+        </div>
+        <div class="row py-4">
+            <div class="col border border-primary rounded py-3 m-2 align-content-center">
+                <h2 class="text-center">How to Pray?</h2>
+                <a href="#" class="btn btn-primary" role="button">Watch</a>
+            </div>
+            <div class="col border border-primary rounded py-3 m-2 align-content-center">
+                <h2 class="text-center">A Comprehensive Guide to the New Muslim</h2>
+                <a href="#" class="btn btn-primary" role="button">Listen</a>
+            </div>
+            <div class="col border border-primary rounded py-3 m-2 align-content-center">
+                <h2 class="text-center">Listen to the Holy Qu'rān</h2>
+                <a href="#" class="btn btn-primary" role="button">Listen</a>
             </div>
         </div>
     </div>
-    <div class="text-center">
-        <a name="readbook" id="readbook-btn" class="btn btn-primary" href="#" role="button"
-            onclick="openModal(document.getElementById('readbook-modal'));">Read the book</a>
+
+    <div id="quran-arabic-english">
+        <div class="row py-4">
+            <div class="col py-3 mx-2 align-content-center">
+                <h2 class="text-center">The Opening Chapter of the Qur'ān (Arabic)</h2>
+                <p class="text-center py-3">These are from the words revealed from God to mankind.</p>
+                <p class="text-center text-body-secondary">Opening Chapter of the Qurān</p>
+                <div id="arabic-fatihah" class="player" style="max-width: 100%; width: 600px;">
+                    <div class="player-track-meta">
+                        <p>A Glimpse into the Religion of Islam Audiobook</p>
+                        <p><span>Rasheed Barbee (read by Taqi Mckinzie)</span></p>
+                    </div>
+                    <div class="player-controls d-flex flex-column flex-md-row align-items-center">
+                        <button class="player-play-btn" role="button" aria-label="Play" data-playing="false">
+                            <div class="player-icon-play">
+                                <svg xmlns="https://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <title>play</title>
+                                    <polygon class="icon-play" points="19.05 12 6 3.36 6 20.64 19.05 12" />
+                                    <rect class="icon-container" width="24" height="24" />
+                                </svg>
+                            </div>
+
+                            <div class="player-icon-pause hidden">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <title>pause</title>
+                                    <g>
+                                        <rect class="icon-pause" x="6" y="3.26" width="4" height="17.48" />
+                                        <rect class="icon-pause" x="14" y="3.26" width="4" height="17.48" />
+                                    </g>
+                                    <rect class="icon-container" width="24" height="24" />
+                                </svg>
+                            </div>
+                        </button>
+                        <div class="player-timeline flex-grow-1 d-flex align-items-center my-3 my-md-0">
+                            <span class="player-time player-time-current">00:00</span>
+                            <div class="player-progress mx-2 flex-grow-1">
+                                <div class="player-progress-filled"></div>
+                            </div>
+                            <span class="player-time player-time-duration">00:00</span>
+                        </div>
+                        <div class="player-volume-container mt-3 mt-md-0 w-100 w-md-auto">
+                            <input type="range" id="volume" min="0" max="1" step="0.01" class="player-volume w-100" />
+                        </div>
+                    </div>
+
+                    <audio src="../assets/audio/A-Glimpse-into-the-Religion-of-Islam-Audiobook1.mp3"
+                        crossorigin="anonymous"></audio>
+                </div>
+
+            </div>
+            <div class="col py-3 mx-2 align-content-center">
+                <h2 class="text-center">The Opening Chapter of the Qur'ān (English)</h2>
+                <p class="text-center py-3">These are from the words revealed from God to mankind.</p>
+                <p class="text-center text-body-secondary">Opening Chapter of the Qurān</p>
+                <div id="english-fatihah" class="player" style="max-width: 100%; width: 600px;">
+                    <div class="player-track-meta">
+                        <p>A Glimpse into the Religion of Islam Audiobook</p>
+                        <p><span>Rasheed Barbee (read by Taqi Mckinzie)</span></p>
+                    </div>
+                    <div class="player-controls d-flex flex-column flex-md-row align-items-center">
+                        <button class="player-play-btn" role="button" aria-label="Play" data-playing="false">
+                            <div class="player-icon-play">
+                                <svg xmlns="https://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <title>play</title>
+                                    <polygon class="icon-play" points="19.05 12 6 3.36 6 20.64 19.05 12" />
+                                    <rect class="icon-container" width="24" height="24" />
+                                </svg>
+                            </div>
+
+                            <div class="player-icon-pause hidden">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <title>pause</title>
+                                    <g>
+                                        <rect class="icon-pause" x="6" y="3.26" width="4" height="17.48" />
+                                        <rect class="icon-pause" x="14" y="3.26" width="4" height="17.48" />
+                                    </g>
+                                    <rect class="icon-container" width="24" height="24" />
+                                </svg>
+                            </div>
+                        </button>
+                        <div class="player-timeline flex-grow-1 d-flex align-items-center my-3 my-md-0">
+                            <span class="player-time player-time-current">00:00</span>
+                            <div class="player-progress mx-2 flex-grow-1">
+                                <div class="player-progress-filled"></div>
+                            </div>
+                            <span class="player-time player-time-duration">00:00</span>
+                        </div>
+                        <div class="player-volume-container mt-3 mt-md-0 w-100 w-md-auto">
+                            <input type="range" id="volume" min="0" max="1" step="0.01" class="player-volume w-100" />
+                        </div>
+                    </div>
+
+                    <audio src="../assets/audio/A-Glimpse-into-the-Religion-of-Islam-Audiobook1.mp3"
+                        crossorigin="anonymous"></audio>
+                </div>
+            </div>
+        </div>
     </div>
-
-    </div>
-
-    <!-- <script src="https://static.elfsight.com/platform/platform.js" async></script> -->
-
 
     <script src="../assets/dflip/js/libs/jquery.min.js" type="text/javascript"></script>
     <script src="../assets/dflip/js/dflip.min.js" type="text/javascript"></script>
