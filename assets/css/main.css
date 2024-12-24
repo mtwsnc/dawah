@@ -7310,12 +7310,12 @@ progress {
 
 .modal {
   display: none;
-  transition: opacity 0.3s ease, visibility 0.3s ease;
+  transition: opacity 0.3s ease, visibility 0.3s ease !important;
 }
 
 .hidden {
   display: none;
-  transition: opacity 0.3s ease, visibility 0.3s ease;
+  transition: opacity 0.3s ease, visibility 0.3s ease !important;
 }
 
 .player {
@@ -7441,7 +7441,7 @@ progress {
   width: 100%;
   background: transparent;
   position: relative;
-  transition: background-color 0.3s ease, color 0.3s ease;
+  transition: background-color 0.3s ease, color 0.3s ease !important;
 }
 
 .player-volume:focus {
@@ -7534,20 +7534,20 @@ progress {
 }
 
 .btn {
-  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease !important;
 }
 
 a {
-  transition: color 0.3s ease;
+  transition: color 0.3s ease !important;
 }
 
 input,
 textarea {
-  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease !important;
 }
 
 svg {
-  transition: fill 0.3s ease, stroke 0.3s ease;
+  transition: fill 0.3s ease, stroke 0.3s ease !important;
 }
 
 .player-controls button,
