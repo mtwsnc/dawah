@@ -6,13 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bootstrap demo</title>
 
-    <script src="../assets/js/popups.js"></script>
-    <link rel="stylesheet" href="../assets/css/main.css">
-    <link rel="stylesheet" href="../assets/dflip/css/dflip.min.css">
-    <link rel="stylesheet" href="../assets/dflip/css/themify-icons.min.css">
+    <script src="/assets/js/popups.js"></script>
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="stylesheet" href="/assets/dflip/css/dflip.min.css">
+    <link rel="stylesheet" href="/assets/dflip/css/themify-icons.min.css">
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-    <script src="../assets/js/form-submission.js"></script>
+    <script src="/assets/js/form-submission.js"></script>
+    <script type="application/ld+json" src="/assets/js/schema.json" class="schema"></script>
 
 
 </head>
@@ -22,7 +23,7 @@
         <div class="container text-center">
             <div class="row align-items-center flex-column flex-md-row">
                 <div class="col-12 col-md-2 mb-3 mb-md-0">
-                    <img src="../assets/img/logo.webp" width='50%' alt="">
+                    <img src="/assets/img/logo.webp" width='50%' alt="">
                 </div>
                 <div class="col-12 col-md-10">
                     <h1 class="">Welcome! Take a moment to learn more about Islām.</h1>
@@ -71,12 +72,12 @@
                 </div>
             </div>
 
-            <audio src="../assets/audio/A-Glimpse-into-the-Religion-of-Islam-Audiobook1.mp3"
+            <audio src="/assets/audio/A-Glimpse-into-the-Religion-of-Islam-Audiobook1.mp3"
                 crossorigin="anonymous"></audio>
         </div>
         <div class="text-center align-content-center">
             <div class="btn btn-primary _df_button" id="readbook-btn" role="button"
-                source="../assets/pdf/A Glimpse Into the Religion of Islam by Rasheed Barbee.pdf">Read the book</div>
+                source="/assets/pdf/A Glimpse Into the Religion of Islam by Rasheed Barbee.pdf">Read the book</div>
         </div>
     </div>
 
@@ -84,60 +85,144 @@
         <div class="row py-4">
             <div class="col border border-primary rounded py-3 m-2 align-content-center">
                 <h2 class="text-center">Who is Allāh?</h2>
-                <button data-toggle="modal" data-target="#who-is-allah" class="btn btn-primary"
+                <button onclick="openModal(document.getElementById('who-is-allah'));" class="btn btn-primary"
                     role="button">Explore</button>
                 <div id="who-is-allah" class="modal" aria-hidden="true" aria-modal="true" tabindex="-1">
                     <div class="modal_box">
-                        <p>Muslims believe in one, incomparable God who, alone, created the entire universe and controls
+                        <p class="fs-4 text-start">Muslims believe in one, incomparable God who, alone, created the
+                            entire
+                            universe
+                            and
+                            controls
                             all affairs within it. He alone gives life, causes death, and all affairs are in His Hands.
                             He has no sons or daughters, no siblings, no mother, no father, and no wife.</p>
 
-                        <p>Allah has no likeness and no equal; consequently, He is the only One that deserves to be
+                        <p class="fs-4 text-start">Allah has no likeness and no equal; consequently, He is the only One
+                            that
+                            deserves to be
                             worshipped. Directing any aspect of worship to anyone other than Him is the greatest of all
                             sins.</p>
 
-                        <p>Muslims do not worship prophets, ancestors, trees, stones, idols, stars, the sun, the moon,
+                        <p class="fs-4 text-start">Muslims do not worship prophets, ancestors, trees, stones, idols,
+                            stars, the
+                            sun, the moon,
                             or anything from the creation. Muslims only worship Allah, praying directly to Him with no
                             intermediary.</p>
-
                     </div>
                 </div>
             </div>
             <div class="col border border-primary rounded py-3 m-2 align-content-center">
                 <h2 class="text-center">What is Prayer?</h2>
-                <a href="#" class="btn btn-primary" role="button">Explore</a>
+                <button onclick="openModal(document.getElementById('what-is-prayer'));" class="btn btn-primary"
+                    role="button">Explore</button>
+                <div id="what-is-prayer" class="modal" aria-hidden="true" aria-modal="true" tabindex="-1">
+                    <div class="modal_box">
+                        <p class="fs-4 text-start">
+                            Muslims pray five times a day. The prayer is the connection between man and his Creator. The
+                            similitude for the prayer is that of the person who bathes at the riverbank five times a
+                            day. Would this person have any traces of filth upon them?</p>
+                    </div>
+                </div>
             </div>
             <div class="col border border-primary rounded py-3 m-2 align-content-center">
                 <h2 class="text-center">What is Islām?</h2>
-                <a href="#" class="btn btn-primary" role="button">Explore</a>
+                <button onclick="openModal(document.getElementById('what-is-islam'));" href="#" class="btn btn-primary"
+                    role="button">Explore</button>
+                <div id="what-is-islam" class="modal" aria-hidden="true" aria-modal="true" tabindex="-1">
+                    <div class="modal_box">
+                        <p class="fs-4 text-start">There are an estimated <strong>4,200</strong> religions in the
+                            world today! This
+                            is astounding when you consider there is only one God, who alone, created the Universe and
+                            everything in it.
+                            How can there be over <strong>4,000</strong> religions for one Creator?</p>
+                        <p class="fs-4 text-start">The notion that everyone can worship God according to their
+                            desires, and thus
+                            there can be countless religions, is inconceivable. Likewise, the thought that we can ignore
+                            God, and live our
+                            lives without accountability is unimaginable.</p>
+                        <p class="fs-4 text-start">God did not create us in vain or leave us without guidance. Due
+                            to His mercy, He
+                            outlined for us a complete way of life, for our prosperity in this life and the Hereafter.
+                        </p>
+                        <p class="fs-4 text-start">With so many religions in the world, how do we know which one to
+                            follow? You may
+                            be surprised to learn that out of all the world religions, there is only one religion that
+                            directs all aspects
+                            of worship to the Creator alone, without associating any partners with Him or deeming Him to
+                            be similar to His
+                            creation.</p>
+                        <p class="fs-4 text-start">There are religions that believe the Universe contains many gods,
+                            like Greek
+                            mythology. Some religions believe idols are a physical representation of God, so they direct
+                            their worship
+                            toward carvings or statues. Others teach a doctrine of intercessory prayer to so-called
+                            saints. Some practice
+                            a form of ancestral worship, believing the dead can influence the fortune of the living;
+                            while many believe
+                            God begot a son who is also worshipped and serves as an intermediary between man and God.
+                        </p>
+                        <p class="fs-4 text-start">All of the mentioned examples have different rituals, carrying
+                            distinctive names,
+                            while sharing a common practice. They all direct aspects of worship toward the creation;
+                            either something that
+                            was created or someone that was born.</p>
+                        <p class="fs-4 text-start">The correct religion, the natural way of life, is to worship your
+                            Creator, alone,
+                            not the creation. Prophet Muhammad simplified this when asked, “What is the greatest of all
+                            sins?” He said,
+                            “That you set up rivals with Allah in worship, while He, alone, created you.”</p>
+                        <p class="fs-4 text-start">This is Islam. This is the religion of Abraham.</p>
+                        <blockquote class="blockquote text-primary">
+                            <p>“Say, ‘Indeed, my Lord has guided me to a straight path—a correct religion—the way of
+                                Abraham, inclining
+                                toward truth. And he was not among those who associated partners with Allah.’”
+                                <br>(<strong>Quran, Chapter 6,
+                                    Verse 161</strong>)
+                            </p>
+                        </blockquote>
+                    </div>
+                </div>
             </div>
-        </div>
-        <div class="row py-4">
-            <div class="col border border-primary rounded py-3 m-2 align-content-center">
-                <h2 class="text-center">Un Vistazo Dentro de la Religión del Islām</h2>
-                <a href="#" class="btn btn-primary" role="button">Listen</a>
+            <div class="row py-4">
+                <div class="col border border-primary rounded py-3 m-2 align-content-center">
+                    <h2 class="text-center">Un Vistazo Dentro de la Religión del Islām</h2>
+                    <a href="#" class="btn btn-primary" role="button">Listen</a>
+                </div>
+                <div class="col border border-primary rounded py-3 m-2 align-content-center">
+                    <h2 class="text-center">How to become Muslim</h2>
+                    <button onclick="openModal(document.getElementById('how-to-become-muslim'));"
+                        class="btn btn-primary" role="button">Explore</button>
+                    <div id="how-to-become-muslim" class="modal" aria-hidden="true" aria-modal="true" tabindex="-1">
+                        <div class="modal_box">
+                            <p class="fs-4 text-start"><br>You become a Muslim by saying with your tongue,
+                                sincerely
+                                from your heart, "<strong>I bear witness that nothing has the right to worshipped except
+                                    Allah and I
+                                    bear witness that Muhammad is the Messenger of Allah.</strong>”</p>
+                            <p class="fs-4 text-start">You are not required to have any witnesses or a ceremony
+                                for the
+                                validity of this testimony of faith. You do not have to change your name.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col border border-primary rounded py-3 m-2 align-content-center">
+                    <h2 class="text-center">How to make Wudū (ablution)?</h2>
+                    <a href="#" class="btn btn-primary" role="button">Watch</a>
+                </div>
             </div>
-            <div class="col border border-primary rounded py-3 m-2 align-content-center">
-                <h2 class="text-center">How to become Muslim</h2>
-                <a href="#" class="btn btn-primary" role="button">Explore</a>
-            </div>
-            <div class="col border border-primary rounded py-3 m-2 align-content-center">
-                <h2 class="text-center">How to make Wudū (ablution)?</h2>
-                <a href="#" class="btn btn-primary" role="button">Watch</a>
-            </div>
-        </div>
-        <div class="row py-4">
-            <div class="col border border-primary rounded py-3 m-2 align-content-center">
-                <h2 class="text-center">How to Pray?</h2>
-                <a href="#" class="btn btn-primary" role="button">Watch</a>
-            </div>
-            <div class="col border border-primary rounded py-3 m-2 align-content-center">
-                <h2 class="text-center">A Comprehensive Guide to the New Muslim</h2>
-                <a href="#" class="btn btn-primary" role="button">Listen</a>
-            </div>
-            <div class="col border border-primary rounded py-3 m-2 align-content-center">
-                <h2 class="text-center">Listen to the Holy Qu'rān</h2>
-                <a href="#" class="btn btn-primary" role="button">Listen</a>
+            <div class="row py-4">
+                <div class="col border border-primary rounded py-3 m-2 align-content-center">
+                    <h2 class="text-center">How to Pray?</h2>
+                    <a href="#" class="btn btn-primary" role="button">Watch</a>
+                </div>
+                <div class="col border border-primary rounded py-3 m-2 align-content-center">
+                    <h2 class="text-center">A Comprehensive Guide to the New Muslim</h2>
+                    <a href="#" class="btn btn-primary" role="button">Listen</a>
+                </div>
+                <div class="col border border-primary rounded py-3 m-2 align-content-center">
+                    <h2 class="text-center">Listen to the Holy Qu'rān</h2>
+                    <a href="#" class="btn btn-primary" role="button">Listen</a>
+                </div>
             </div>
         </div>
     </div>
@@ -186,7 +271,7 @@
                         </div>
                     </div>
 
-                    <audio src="../assets/audio/full-fātihah-arabic.mp3" crossorigin="anonymous"></audio>
+                    <audio src="/assets/audio/full-fātihah-arabic.mp3" crossorigin="anonymous"></audio>
                 </div>
 
             </div>
@@ -232,7 +317,7 @@
                         </div>
                     </div>
 
-                    <audio src="../assets/audio/full-fātihah-english.mp3" crossorigin="anonymous"></audio>
+                    <audio src="/assets/audio/full-fātihah-english.mp3" crossorigin="anonymous"></audio>
                 </div>
             </div>
         </div>
@@ -286,7 +371,7 @@
         <!-- JS script that copies https://l.mtws.one/dawah to clipboard -->
         <div class="btn btn-primary my-2 my-md-0 mx-md-2" id="copy-link" role="button">Copy Link</div>
         <div id="copy-success" class="d-none my-2 my-md-0 mx-md-2">Link copied to clipboard!</div>
-        <script src="../assets/js/copy-dawah-link.js"></script>
+        <script src="/assets/js/copy-dawah-link.js"></script>
     </div>
 
     <!-- Questions? Form -->
@@ -336,9 +421,10 @@
         </div>
     </footer>
 
-    <script src="../assets/dflip/js/libs/jquery.min.js" type="text/javascript"></script>
-    <script src="../assets/dflip/js/dflip.min.js" type="text/javascript"></script>
-    <script src="../assets/js/audio.js"></script>
+    <script src="/assets/dflip/js/libs/jquery.min.js" type="text/javascript"></script>
+    <script src="/assets/dflip/js/dflip.min.js" type="text/javascript"></script>
+    <script src="/assets/js/audio.js"></script>
+    <!-- <script src="/assets/js/modal.js"></script> -->
 </body>
 
 </html>

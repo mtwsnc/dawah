@@ -1,0 +1,119 @@
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "BreadcrumbList",
+            "@id": "https://dawah.mtws.one/#breadcrumblist",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "@id": "https://mtws.one/#listItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://mtws.one/",
+                    "nextItem": "https://dawah.mtws.one/#listItem"
+                },
+                {
+                    "@type": "ListItem",
+                    "@id": "https://dawah.mtws.one/#listItem",
+                    "position": 2,
+                    "name": "Information about Islām",
+                    "previousItem": "https://mtws.one/#listItem"
+                }
+            ]
+        },
+        {
+            "@type": "Organization",
+            "@id": "https://mtws.one/#organization",
+            "name": "MTWS",
+            "description": "MTWS",
+            "url": "https://mtws.one/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "../img/logo.webp",
+                "@id": "https://mtws.one/#organizationLogo",
+                "width": 512,
+                "height": 512
+            },
+            "image": {
+                "@id": "https://mtws.one/#organizationLogo"
+            },
+            "sameAs": [
+                "https://www.youtube.com/channel/UCqPjDS4zfTRp4rXqZDvasIQ",
+                "https://soundcloud.com/mtws-1"
+            ],
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "telephone": "+1-919-980-9903",
+                "contactType": "Customer Service",
+                "areaServed": "US",
+                "availableLanguage": "English"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "3714 S. Alston Ave.",
+                "addressLocality": "Durham",
+                "addressRegion": "NC",
+                "postalCode": "27713",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "Person",
+            "@id": "https://mtws.one/author/mtwsdawah/#author",
+            "url": "https://mtws.one/author/mtwsdawah/",
+            "name": "MTWS Admin",
+            "image": {
+                "@type": "ImageObject",
+                "@id": "https://mtws.one/dawah/#authorImage",
+                "url": "../img/logo.webp",
+                "width": 96,
+                "height": 96,
+                "caption": "MTWS Admin"
+            }
+        },
+        {
+            "@type": "WebPage",
+            "@id": "https://dawah.mtws.one/#webpage",
+            "url": "https://dawah.mtws.one/",
+            "name": "Information about Islām",
+            "description": "Nearly everyone has a Muslim co-worker, associate, classmate, or relative; however, many people are not well-acquainted with the actual beliefs of Islam. Learn more about Islām here",
+            "inLanguage": "en-US",
+            "isPartOf": {
+                "@id": "https://mtws.one/#website"
+            },
+            "breadcrumb": {
+                "@id": "https://dawah.mtws.one/#breadcrumblist"
+            },
+            "author": {
+                "@id": "https://mtws.one/author/mtwsdawah/#author"
+            },
+            "creator": {
+                "@id": "https://mtws.one/author/mtwsdawah/#author"
+            },
+            "image": {
+                "@type": "ImageObject",
+                "url": "../img/Social-Share-Images-for-Home.webp",
+                "@id": "https://dawah.mtws.one/#mainImage",
+                "width": 1200,
+                "height": 630
+            },
+            "primaryImageOfPage": {
+                "@id": "https://dawah.mtws.one/#mainImage"
+            },
+            "datePublished": "2023-10-05T10:16:52-04:00",
+            "dateModified": "2023-10-05T10:16:52-04:00"
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://mtws.one/#website",
+            "url": "https://mtws.one/",
+            "name": "MTWS",
+            "description": "MTWS",
+            "inLanguage": "en-US",
+            "publisher": {
+                "@id": "https://mtws.one/#organization"
+            }
+        }
+    ]
+}

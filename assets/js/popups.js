@@ -8,14 +8,17 @@ const modalStyles = `
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0,0,0,.6);
+  background: rgba(0,0,0,.8);
   justify-content: center;
   align-items: center;
   user-select: none;
   z-index: 999;
+    transition: opacity .3s ease-in-out;
+
 }
 .modal.open{
   display: flex;
+  transition: opacity .3s ease-in-out;
 }
 .modal_box{
   background: white;
@@ -24,7 +27,7 @@ const modalStyles = `
   padding: 18px 20px;
   border-radius: 8px;
   width: auto;
-  min-height: 200px;
+  min-height: 20px;
   max-width: 100%;
   max-height: calc(100% - 20px);
   overflow: auto;
@@ -32,6 +35,8 @@ const modalStyles = `
   z-index: 99;
   user-select: auto;
   pointer-events: auto;
+    transition: opacity .3s ease-in-out;
+
 }
 .modal_close{
   float: right;
@@ -40,6 +45,7 @@ const modalStyles = `
   cursor: pointer;
   font-size: 170%;
   z-index: 999;
+  transition: color .3s ease-in-out;
 }
 `;
 
