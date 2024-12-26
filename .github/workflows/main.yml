@@ -17,4 +17,4 @@ jobs:
         protocol: ftps
         server-dir: web/dawah.mtws.one/public_html/
         state-name: .github-log.json
-        log-level: verbose
+        log-level: standard
