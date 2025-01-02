@@ -67,7 +67,9 @@ document.addEventListener("DOMContentLoaded", () => {
         .post(
           "https://submit-form.com/Vi0B46vQ4",
           {
-            message: JSON.stringify(messagePayload),
+            name: messagePayload.name,
+            email: messagePayload.email,
+            message: messagePayload.message,
             "g-recaptcha-response": grecaptcha.getResponse(),
           },
           {
