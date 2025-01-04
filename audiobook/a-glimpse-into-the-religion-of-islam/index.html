@@ -50,7 +50,8 @@
 </head>
 
 <body class="d-flex flex-column min-vh-100">
-    <header class="site-header mb-5">
+
+    <header id="topBar" class="site-header mb-5">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
                 <!-- Logo -->
@@ -76,11 +77,12 @@
                                 Islām Audiobook
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="/a-glimpse-into-the-religion-of-islam/">A Glimpse
-                                        into the Religion of Islam</a>
-                                </li>
                                 <li><a class="dropdown-item active"
-                                        href="/un-vistazo-dentro-de-la-religión-del-islam/">Un
+                                        href="/audiobook/a-glimpse-into-the-religion-of-islam/">A
+                                        Glimpse into the Religion of Islam</a>
+                                </li>
+                                <li><a class="dropdown-item"
+                                        href="/audiobook/un-vistazo-dentro-de-la-religión-del-islam/">Un
                                         Vistazo Dentro de la Religión del Islam</a>
                                 </li>
                             </ul>
@@ -102,8 +104,10 @@
                                 Audios
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownAudios">
-                                <li><a class="dropdown-item" href="#">A Comprehensive Guide to the New Muslim</a></li>
-                                <li><a class="dropdown-item" href="#">Listen to the Holy Qu'rān</a></li>
+                                <li><a class="dropdown-item" href="/audio/comprehensive-guide-new-muslim/">A
+                                        Comprehensive Guide to the New Muslim</a></li>
+                                <li><a class="dropdown-item active" href="/audio/listen-to-quran/">Listen to the Holy
+                                        Qu'rān</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -116,40 +120,37 @@
         <div class="container">
             <div id="primary" class="content-area primary">
                 <main id="main" class="site-main">
-                    <h1 class="entry-title text-center" itemprop="headline">Un
-                        Vistazo Dentro de la Religión del Islam</h1>
+                    <h1 class="entry-title text-center" itemprop="headline">A Glimpse into the Religion of Islam</h1>
                     <div class="entry-content clear" itemprop="text">
                         <div class="row">
                             <div class="col-12">
-                                <h2>Acerca del libro</h2>
-                                <p>Casi todo el mundo reconoce el saludo universal del Islam, “As Salamu
-                                    Alaikum” (Que La paz este con usted). El peregrinaje anual a Mecca es pre-
-                                    senciado mundialmente por musulmanes y no musulmanes. Ramadán es
-                                    reconocido como el mes de ayuno. Durante ese mes los musulmanes se abs-
-                                    tienen de comida y bebida desde el amanecer hasta la puesta del sol. Mucha
-                                    gente tiene un amigo, un familiar o un compañero de clase que es Musul-mán. Sin
-                                    embargo, mucha gente no entiende bien las creencias del Islam.</p>
-                                <p>
-                                    Esto es un vistazo dentro la religión más mal-entendida y mal representada,
-                                    y aun así es la Religión con el crecimiento más rápido en el mundo. </p>
-                                <p>Esto es
-                                    El-Islam..</p>
+                                <h2>About the Book</h2>
+                                <p>Almost everyone is familiar with the universal greeting of Islam, “As- Salaamu
+                                    Alaikum (Peace be upon you)”. The yearly pilgrimage to Mecca is witnessed by
+                                    Muslims and Non-Muslims worldwide. Ramadan is recognized as the month wherein
+                                    Muslims abstain from food and drink from daybreak until sunset. Nearly everyone
+                                    has a Muslim co-worker, associate, classmate, or relative; however, many people
+                                    are not well-acquainted with the actual beliefs of Islam.</p>
+                                <p>This is a glimpse into the most misunderstood, misrepresented—yet
+                                    fastest-growing—religion in the world.</p>
+                                <p>This is Islam.</p>
                             </div>
                         </div>
                         <div class="text-center">
-                            <a class="btn btn-primary text-center m-2" href="#audio">Escucha el audio</a>
+                            <a class="btn btn-primary text-center m-2" href="#audio">Listen to the
+                                Audio</a>
 
 
-                            <a class="btn btn-primary text-center m-2" href="#book">Lee el libro</a>
+                            <a class="btn btn-primary text-center m-2" href="#book">Read the book</a>
                         </div>
                         <div class="row my-4">
                             <div class="col-12">
-                                <h3 id="audio">Audiolibro</h3>
+                                <h3 id="audio">Audiobook</h3>
                                 <div id="a-guide-to-islam-audiobook" class="container py-5 align-content-center">
                                     <div id="audiobook-eng" class="player" style="max-width: 100%; width: 600px;">
                                         <div class="player-track-meta">
                                             <p>A Glimpse into the Religion of Islam Audiobook</p>
-                                            <p><span>Rasheed Barbee (read by Eduardo Ruales)</span></p>
+                                            <p><span>Rasheed Barbee (read by Taqi Mckinzie)</span></p>
                                         </div>
                                         <div class="player-controls d-flex flex-column flex-md-row align-items-center">
                                             <button class="player-play-btn" role="button" aria-label="Play"
@@ -202,7 +203,7 @@
                             <div class="col-12">
                                 <h3 id="book">Read the Book</h3>
                                 <div class="_df_book"
-                                    source="/assets/pdf/Un Vistazo Dentro de la Religion del Islam.pdf">
+                                    source="/assets/pdf/A Glimpse Into the Religion of Islam by Rasheed Barbee.pdf">
                                 </div>
                             </div>
                         </div>
@@ -211,11 +212,6 @@
             </div>
         </div>
     </div>
-
-
-
-
-
 
     <footer class="mt-auto container-fluid py-4 border-top"
         style="background-color: #EEE!important; border-top-color: #35603e!important;">
@@ -227,10 +223,13 @@
             </p>
         </div>
     </footer>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>
-    <script src="/assets/dflip/js/libs/jquery.min.js" type="text/javascript"></script>
     <script src="/assets/dflip/js/dflip.min.js" type="text/javascript"></script>
     <script src="/assets/js/audio.js"></script>
     <!-- <script src="/assets/js/modal.js"></script> -->
