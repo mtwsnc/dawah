@@ -12027,4 +12027,66 @@ svg {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
+.playlist {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.playlist li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+  cursor: pointer;
+  width: 48%; /* Adjusted to fit two items per row with some gap */
+}
+
+.playlist li:hover {
+  background: #e9ecef;
+  border-color: #ced4da;
+}
+
+.playlist li .track-title {
+  flex-grow: 1;
+  margin-right: 10px;
+  font-size: 16px;
+  color: #495057;
+}
+
+.playlist li .play-btn {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+}
+
+.playlist li .play-btn svg {
+  width: 24px;
+  height: 24px;
+  fill: #495057;
+  transition: fill 0.3s ease;
+}
+
+.playlist li .play-btn:hover svg {
+  fill: #007bff;
+}
+
+.playlist li,
+.playlist li .play-btn,
+.playlist li .play-btn svg {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease, fill 0.3s ease;
+}
+
 /*# sourceMappingURL=main.css.map */

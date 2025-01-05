@@ -1,0 +1,190 @@
+{
+    "tracks": [
+        {
+            "title": "Surah An-Naba",
+            "url": "/assets/audio/quran/078.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah An-Nazi'at",
+            "url": "/assets/audio/quran/079.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Abasa",
+            "url": "/assets/audio/quran/080.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah At-Takwir",
+            "url": "/assets/audio/quran/081.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Infitar",
+            "url": "/assets/audio/quran/082.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Mutaffifin",
+            "url": "/assets/audio/quran/083.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Inshiqaq",
+            "url": "/assets/audio/quran/084.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Buruj",
+            "url": "/assets/audio/quran/085.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah At-Tariq",
+            "url": "/assets/audio/quran/086.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-A'la",
+            "url": "/assets/audio/quran/087.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Ghashiyah",
+            "url": "/assets/audio/quran/088.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Fajr",
+            "url": "/assets/audio/quran/089.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Balad",
+            "url": "/assets/audio/quran/090.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Ash-Shams",
+            "url": "/assets/audio/quran/091.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Lail",
+            "url": "/assets/audio/quran/092.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Ad-Duha",
+            "url": "/assets/audio/quran/093.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Ash-Sharh",
+            "url": "/assets/audio/quran/094.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah At-Tin",
+            "url": "/assets/audio/quran/095.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Alaq",
+            "url": "/assets/audio/quran/096.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Qadr",
+            "url": "/assets/audio/quran/097.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Bayyinah",
+            "url": "/assets/audio/quran/098.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Az-Zalzalah",
+            "url": "/assets/audio/quran/099.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Adiyat",
+            "url": "/assets/audio/quran/100.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Qari'ah",
+            "url": "/assets/audio/quran/101.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah At-Takathur",
+            "url": "/assets/audio/quran/102.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Asr",
+            "url": "/assets/audio/quran/103.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Humazah",
+            "url": "/assets/audio/quran/104.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Fil",
+            "url": "/assets/audio/quran/105.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Quraysh",
+            "url": "/assets/audio/quran/106.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Ma'un",
+            "url": "/assets/audio/quran/107.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Kawthar",
+            "url": "/assets/audio/quran/108.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Kafirun",
+            "url": "/assets/audio/quran/109.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah An-Nasr",
+            "url": "/assets/audio/quran/110.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Masad",
+            "url": "/assets/audio/quran/111.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Ikhlas",
+            "url": "/assets/audio/quran/112.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah Al-Falaq",
+            "url": "/assets/audio/quran/113.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        },
+        {
+            "title": "Surah An-Nas",
+            "url": "/assets/audio/quran/114.mp3",
+            "image": "/assets/audio/quran/album-cover.jpeg"
+        }
+    ],
+    "Filepath": "/assets/audio/quran/tracks.json"
+}
