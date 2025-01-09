@@ -1,0 +1,1299 @@
+/* Apple iPhone X */
+@media screen and (max-width: 375px) and (max-height: 812px) and (-webkit-device-pixel-ratio: 3) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 375px;
+    max-height: 812px;
+    margin: 0 auto;
+    zoom: calc(1 / 3); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Apple iPhone 6+, 6s+, 7+, 8+ */
+@media screen and (max-width: 414px) and (max-height: 736px) and (-webkit-device-pixel-ratio: 3) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 414px;
+    max-height: 736px;
+    margin: 0 auto;
+    zoom: calc(1 / 3); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Apple iPhone 7, iPhone 8 */
+@media screen and (max-width: 375px) and (max-height: 667px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 375px;
+    max-height: 667px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Apple iPhone 6, 6s */
+@media screen and (max-width: 375px) and (max-height: 667px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 375px;
+    max-height: 667px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Apple iPhone 5 */
+@media screen and (max-width: 320px) and (max-height: 568px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 320px;
+    max-height: 568px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Apple iPhone 4 */
+@media screen and (max-width: 320px) and (max-height: 480px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 320px;
+    max-height: 480px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Apple iPhone 3 */
+@media screen and (max-width: 320px) and (max-height: 480px) and (-webkit-device-pixel-ratio: 1) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 320px;
+    max-height: 480px;
+    margin: 0 auto;
+    zoom: calc(1 / 1); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Apple iPod Touch */
+@media screen and (max-width: 320px) and (max-height: 568px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 320px;
+    max-height: 568px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* LG G5 */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* LG G4 */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* LG G3 */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* LG Optimus G */
+@media screen and (max-width: 384px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 384px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy S8+ */
+@media screen and (max-width: 360px) and (max-height: 740px) and (-webkit-device-pixel-ratio: 4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 740px;
+    margin: 0 auto;
+    zoom: calc(1 / 4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy S8 */
+@media screen and (max-width: 360px) and (max-height: 740px) and (-webkit-device-pixel-ratio: 4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 740px;
+    margin: 0 auto;
+    zoom: calc(1 / 4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy S7, S7 edge */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy S6 */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy S5 */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 3); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy S4 */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 3); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy S4 mini */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 1.5) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 1.5); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy S3 */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy S3 mini */
+@media screen and (max-width: 320px) and (max-height: 533px) and (-webkit-device-pixel-ratio: 1.5) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 320px;
+    max-height: 533px;
+    margin: 0 auto;
+    zoom: calc(1 / 1.5); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy S2 */
+@media screen and (max-width: 320px) and (max-height: 533px) and (-webkit-device-pixel-ratio: 1.5) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 320px;
+    max-height: 533px;
+    margin: 0 auto;
+    zoom: calc(1 / 1.5); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy S */
+@media screen and (max-width: 320px) and (max-height: 533px) and (-webkit-device-pixel-ratio: 1.5) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 320px;
+    max-height: 533px;
+    margin: 0 auto;
+    zoom: calc(1 / 1.5); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy Nexus */
+@media screen and (max-width: 360px) and (max-height: 600px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 600px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy Note 8 */
+@media screen and (max-width: 360px) and (max-height: 740px) and (-webkit-device-pixel-ratio: 4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 740px;
+    margin: 0 auto;
+    zoom: calc(1 / 4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy Note 4 */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy Note 3 */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 3); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy Note 2 */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy Note */
+@media screen and (max-width: 400px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 400px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* LG Nexus 5 */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 3); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* LG Nexus 4 */
+@media screen and (max-width: 384px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 384px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Microsoft Lumia 1520 */
+@media screen and (max-width: 432px) and (max-height: 768px) and (-webkit-device-pixel-ratio: 2.5) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 432px;
+    max-height: 768px;
+    margin: 0 auto;
+    zoom: calc(1 / 2.5); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Microsoft Lumia 1020 */
+@media screen and (max-width: 320px) and (max-height: 480px) and (-webkit-device-pixel-ratio: 2.4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 320px;
+    max-height: 480px;
+    margin: 0 auto;
+    zoom: calc(1 / 2.4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Microsoft Lumia 925 */
+@media screen and (max-width: 320px) and (max-height: 480px) and (-webkit-device-pixel-ratio: 2.4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 320px;
+    max-height: 480px;
+    margin: 0 auto;
+    zoom: calc(1 / 2.4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Microsoft Lumia 920 */
+@media screen and (max-width: 320px) and (max-height: 480px) and (-webkit-device-pixel-ratio: 2.4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 320px;
+    max-height: 480px;
+    margin: 0 auto;
+    zoom: calc(1 / 2.4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Microsoft Lumia 900 */
+@media screen and (max-width: 320px) and (max-height: 480px) and (-webkit-device-pixel-ratio: 1.5) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 320px;
+    max-height: 480px;
+    margin: 0 auto;
+    zoom: calc(1 / 1.5); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Microsoft Lumia 830 */
+@media screen and (max-width: 320px) and (max-height: 480px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 320px;
+    max-height: 480px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Microsoft Lumia 620 */
+@media screen and (max-width: 320px) and (max-height: 480px) and (-webkit-device-pixel-ratio: 1.5) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 320px;
+    max-height: 480px;
+    margin: 0 auto;
+    zoom: calc(1 / 1.5); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Motorola Nexus 6 */
+@media screen and (max-width: 412px) and (max-height: 690px) and (-webkit-device-pixel-ratio: 3.5) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 412px;
+    max-height: 690px;
+    margin: 0 auto;
+    zoom: calc(1 / 3.5); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* HTC One */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 3); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* HTC 8X */
+@media screen and (max-width: 320px) and (max-height: 480px) and (-webkit-device-pixel-ratio: 3) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 320px;
+    max-height: 480px;
+    margin: 0 auto;
+    zoom: calc(1 / 3); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* HTC Evo 3D */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 1.5) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 1.5); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Sony Xperia Z3 */
+@media screen and (max-width: 360px) and (max-height: 598px) and (-webkit-device-pixel-ratio: 3) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 598px;
+    margin: 0 auto;
+    zoom: calc(1 / 3); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Sony Xperia Z */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 3); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Sony Xperia S */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Sony Xperia P */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 1.5) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 1.5); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Xiaomi Redmi Note 5 */
+@media screen and (max-width: 393px) and (max-height: 786px) and (-webkit-device-pixel-ratio: 2.75) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 393px;
+    max-height: 786px;
+    margin: 0 auto;
+    zoom: calc(1 / 2.75); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Xiaomi Mi 4 */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 3); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Xiaomi Mi 3 */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 3); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Lenovo K900 */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 3); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Pantech Vega n°6 */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 3); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Blackberry Leap */
+@media screen and (max-width: 390px) and (max-height: 695px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 390px;
+    max-height: 695px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Blackberry Passport */
+@media screen and (max-width: 504px) and (max-height: 504px) and (-webkit-device-pixel-ratio: 3) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 504px;
+    max-height: 504px;
+    margin: 0 auto;
+    zoom: calc(1 / 3); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Blackberry Classic */
+@media screen and (max-width: 390px) and (max-height: 390px) and (-webkit-device-pixel-ratio: 1.8) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 390px;
+    max-height: 390px;
+    margin: 0 auto;
+    zoom: calc(1 / 1.8); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Blackberry Q10 */
+@media screen and (max-width: 346px) and (max-height: 346px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 346px;
+    max-height: 346px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Blackberry Z30 */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Blackberry Z10 */
+@media screen and (max-width: 384px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 384px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Blackberry Torch 9800 */
+@media screen and (max-width: 360px) and (max-height: 480px) and (-webkit-device-pixel-ratio: 1) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 480px;
+    margin: 0 auto;
+    zoom: calc(1 / 1); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* ZTE Grand S */
+@media screen and (max-width: 360px) and (max-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 640px;
+    margin: 0 auto;
+    zoom: calc(1 / 3); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* ZTE Open (Firefox OS) */
+@media screen and (max-width: 320px) and (max-height: 480px) and (-webkit-device-pixel-ratio: 1.5) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 320px;
+    max-height: 480px;
+    margin: 0 auto;
+    zoom: calc(1 / 1.5); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy Note 9 */
+@media screen and (max-width: 360px) and (max-height: 740px) and (-webkit-device-pixel-ratio: 4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 740px;
+    margin: 0 auto;
+    zoom: calc(1 / 4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy Note 10 */
+@media screen and (max-width: 360px) and (max-height: 718px) and (-webkit-device-pixel-ratio: 4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 718px;
+    margin: 0 auto;
+    zoom: calc(1 / 4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy Note 10+ */
+@media screen and (max-width: 360px) and (max-height: 718px) and (-webkit-device-pixel-ratio: 4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 718px;
+    margin: 0 auto;
+    zoom: calc(1 / 4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy S9 */
+@media screen and (max-width: 360px) and (max-height: 740px) and (-webkit-device-pixel-ratio: 4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 740px;
+    margin: 0 auto;
+    zoom: calc(1 / 4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy S9+ */
+@media screen and (max-width: 360px) and (max-height: 740px) and (-webkit-device-pixel-ratio: 4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 740px;
+    margin: 0 auto;
+    zoom: calc(1 / 4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy S10 */
+@media screen and (max-width: 360px) and (max-height: 740px) and (-webkit-device-pixel-ratio: 4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 740px;
+    margin: 0 auto;
+    zoom: calc(1 / 4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy S10+ */
+@media screen and (max-width: 360px) and (max-height: 740px) and (-webkit-device-pixel-ratio: 4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 360px;
+    max-height: 740px;
+    margin: 0 auto;
+    zoom: calc(1 / 4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy S20 */
+@media screen and (max-width: px) and (max-height: px) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: px;
+    max-height: px;
+    margin: 0 auto;
+    zoom: 1; /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy S20+ */
+@media screen and (max-width: px) and (max-height: px) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: px;
+    max-height: px;
+    margin: 0 auto;
+    zoom: 1; /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy S20 Ultra */
+@media screen and (max-width: px) and (max-height: px) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: px;
+    max-height: px;
+    margin: 0 auto;
+    zoom: 1; /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Apple iPad Pro */
+@media screen and (max-width: 1024px) and (max-height: 1366px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 1024px;
+    max-height: 1366px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Apple iPad Pro 9.7 */
+@media screen and (max-width: 768px) and (max-height: 1024px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 768px;
+    max-height: 1024px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Apple iPad 3, 4, Air, Air2 */
+@media screen and (max-width: 768px) and (max-height: 1024px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 768px;
+    max-height: 1024px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Apple iPad 1, 2 */
+@media screen and (max-width: 768px) and (max-height: 1024px) and (-webkit-device-pixel-ratio: 1) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 768px;
+    max-height: 1024px;
+    margin: 0 auto;
+    zoom: calc(1 / 1); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Apple iPad mini 2, 3, 4 */
+@media screen and (max-width: 768px) and (max-height: 1024px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 768px;
+    max-height: 1024px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Apple iPad mini */
+@media screen and (max-width: 768px) and (max-height: 1024px) and (-webkit-device-pixel-ratio: 1) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 768px;
+    max-height: 1024px;
+    margin: 0 auto;
+    zoom: calc(1 / 1); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy Tab 3 10" */
+@media screen and (max-width: 800px) and (max-height: 1280px) and (-webkit-device-pixel-ratio: 1) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 800px;
+    max-height: 1280px;
+    margin: 0 auto;
+    zoom: calc(1 / 1); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy Tab 2 10" */
+@media screen and (max-width: 800px) and (max-height: 1280px) and (-webkit-device-pixel-ratio: 1) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 800px;
+    max-height: 1280px;
+    margin: 0 auto;
+    zoom: calc(1 / 1); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy Tab (8.9") */
+@media screen and (max-width: 800px) and (max-height: 1280px) and (-webkit-device-pixel-ratio: 1) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 800px;
+    max-height: 1280px;
+    margin: 0 auto;
+    zoom: calc(1 / 1); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Galaxy Tab 2 (7") */
+@media screen and (max-width: 600px) and (max-height: 1024px) and (-webkit-device-pixel-ratio: 1) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 600px;
+    max-height: 1024px;
+    margin: 0 auto;
+    zoom: calc(1 / 1); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Samsung Nexus 10 */
+@media screen and (max-width: 800px) and (max-height: 1280px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 800px;
+    max-height: 1280px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* HTC Nexus 9 */
+@media screen and (max-width: 768px) and (max-height: 1024px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 768px;
+    max-height: 1024px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Asus Nexus 7 (v2) */
+@media screen and (max-width: 600px) and (max-height: 960px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 600px;
+    max-height: 960px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Asus Nexus 7 (v1) */
+@media screen and (max-width: 604px) and (max-height: 966px) and (-webkit-device-pixel-ratio: 1.325) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 604px;
+    max-height: 966px;
+    margin: 0 auto;
+    zoom: calc(1 / 1.325); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* LG G Pad 8.3 */
+@media screen and (max-width: 600px) and (max-height: 960px) and (-webkit-device-pixel-ratio: 2) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 600px;
+    max-height: 960px;
+    margin: 0 auto;
+    zoom: calc(1 / 2); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Amazon Kindle Fire HD 8.9 */
+@media screen and (max-width: 800px) and (max-height: 1280px) and (-webkit-device-pixel-ratio: 1.5) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 800px;
+    max-height: 1280px;
+    margin: 0 auto;
+    zoom: calc(1 / 1.5); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Amazon Kindle Fire HD 7 */
+@media screen and (max-width: 480px) and (max-height: 800px) and (-webkit-device-pixel-ratio: 1.5) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 480px;
+    max-height: 800px;
+    margin: 0 auto;
+    zoom: calc(1 / 1.5); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Amazon Kindle Fire */
+@media screen and (max-width: 600px) and (max-height: 1024px) and (-webkit-device-pixel-ratio: 1) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 600px;
+    max-height: 1024px;
+    margin: 0 auto;
+    zoom: calc(1 / 1); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Microsoft Surface Pro 3 */
+@media screen and (max-width: 1024px) and (max-height: 1440px) and (-webkit-device-pixel-ratio: 1.5 / 1.4) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 1024px;
+    max-height: 1440px;
+    margin: 0 auto;
+    zoom: calc(1 / 1.5 / 1.4); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Microsoft Surface Pro 2 */
+@media screen and (max-width: 720px) and (max-height: 1280px) and (-webkit-device-pixel-ratio: 1.5) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 720px;
+    max-height: 1280px;
+    margin: 0 auto;
+    zoom: calc(1 / 1.5); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Microsoft Surface Pro */
+@media screen and (max-width: 720px) and (max-height: 1280px) and (-webkit-device-pixel-ratio: 1.5) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 720px;
+    max-height: 1280px;
+    margin: 0 auto;
+    zoom: calc(1 / 1.5); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Microsoft Surface */
+@media screen and (max-width: 768px) and (max-height: 1366px) and (-webkit-device-pixel-ratio: 1) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 768px;
+    max-height: 1366px;
+    margin: 0 auto;
+    zoom: calc(1 / 1); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Blackberry Playbook */
+@media screen and (max-width: 600px) and (max-height: 1024px) and (-webkit-device-pixel-ratio: 1) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 600px;
+    max-height: 1024px;
+    margin: 0 auto;
+    zoom: calc(1 / 1); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Google Glass */
+@media screen and (max-width: 427px) and (max-height: 240px) and (-webkit-device-pixel-ratio: 1.5) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 427px;
+    max-height: 240px;
+    margin: 0 auto;
+    zoom: calc(1 / 1.5); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Google Pixel */
+@media screen and (max-width: 411px) and (max-height: 731px) and (-webkit-device-pixel-ratio: 2.6) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 411px;
+    max-height: 731px;
+    margin: 0 auto;
+    zoom: calc(1 / 2.6); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Google Pixel XL */
+@media screen and (max-width: 411px) and (max-height: 731px) and (-webkit-device-pixel-ratio: 3.5) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 411px;
+    max-height: 731px;
+    margin: 0 auto;
+    zoom: calc(1 / 3.5); /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Apple Watch Series 1, 3 (38mm) */
+@media screen and (max-width: 272px) and (max-height: 340px) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 272px;
+    max-height: 340px;
+    margin: 0 auto;
+    zoom: 1; /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Apple Watch Series 1, 3 (42mm) */
+@media screen and (max-width: 312px) and (max-height: 390px) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 312px;
+    max-height: 390px;
+    margin: 0 auto;
+    zoom: 1; /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Apple Watch Series 5 (40mm) */
+@media screen and (max-width: 324px) and (max-height: 394px) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 324px;
+    max-height: 394px;
+    margin: 0 auto;
+    zoom: 1; /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}
+
+/* Apple Watch Series 5 (44mm) */
+@media screen and (max-width: 368px) and (max-height: 448px) {
+  body {
+    width: 100%;
+    height: 100%;
+    max-width: 368px;
+    max-height: 448px;
+    margin: 0 auto;
+    zoom: 1; /* Scale content for pixel ratio */
+    overflow: hidden; /* Prevent content overflow */
+  }
+}

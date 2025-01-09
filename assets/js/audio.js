@@ -13,6 +13,9 @@ document.addEventListener("DOMContentLoaded", () => {
     const playerCurrentTime = player.querySelector(".player-time-current");
     const playerDuration = player.querySelector(".player-time-duration");
     const volumeControl = player.querySelector(".player-volume");
+    const trackMeta = player.querySelector(".player-track-meta p");
+
+    let currentTrackElement = null;
 
     // Set times after page load
     setTimes();
@@ -33,12 +36,36 @@ document.addEventListener("DOMContentLoaded", () => {
         playButton.dataset.playing = "true";
         playIcon.classList.add("hidden");
         pauseIcon.classList.remove("hidden");
+        if (!trackMeta.innerText) {
+          trackMeta.innerText = "Playing...";
+        }
         updateMediaSession(player.id);
+        if (currentTrackElement) {
+          currentTrackElement.querySelector(".play-btn").innerHTML = `
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+              <title>pause</title>
+              <g>
+                <rect class="icon-pause" x="6" y="3.26" width="4" height="17.48" />
+                <rect class="icon-pause" x="14" y="3.26" width="4" height="17.48" />
+              </g>
+              <rect class="icon-container" width="24" height="24" />
+            </svg>
+          `;
+        }
       } else if (playButton.dataset.playing === "true") {
         audioElement.pause();
         playButton.dataset.playing = "false";
         pauseIcon.classList.add("hidden");
         playIcon.classList.remove("hidden");
+        if (currentTrackElement) {
+          currentTrackElement.querySelector(".play-btn").innerHTML = `
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+              <title>play</title>
+              <polygon class="icon-play" points="19.05 12 6 3.36 6 20.64 19.05 12" />
+              <rect class="icon-container" width="24" height="24" />
+            </svg>
+          `;
+        }
       }
     });
     // if the track ends, reset the player
@@ -49,6 +76,15 @@ document.addEventListener("DOMContentLoaded", () => {
       progressFilled.style.flexBasis = "0%";
       audioElement.currentTime = 0;
       audioElement.duration = audioElement.duration;
+      if (currentTrackElement) {
+        currentTrackElement.querySelector(".play-btn").innerHTML = `
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+            <title>play</title>
+            <polygon class="icon-play" points="19.05 12 6 3.36 6 20.64 19.05 12" />
+            <rect class="icon-container" width="24" height="24" />
+          </svg>
+        `;
+      }
     });
     // Bridge the gap between gainNode and AudioContext so we can manipulate volume (gain)
     const gainNode = audioCtx.createGain();
@@ -145,9 +181,9 @@ document.addEventListener("DOMContentLoaded", () => {
           album: "A Glimpse into the Religion of Islam",
           artwork: [
             {
-              src: "https://i0.wp.com/mtws.one/wp-content/uploads/2023/04/A-Glimpse-into-the-Religion-of-Islam-Audiobook1-mp3-image-jpg.webp?fit=500,500&ssl=1",
+              src: "/assets/audio/cgnm/album0cover.jpeg",
               sizes: "500x500",
-              type: "image/webp",
+              type: "image/jpeg",
             },
           ],
         },
@@ -157,21 +193,9 @@ document.addEventListener("DOMContentLoaded", () => {
           album: "Opening Chapter of the Qurān",
           artwork: [
             {
-              src: "",
-              sizes: "",
-              type: "",
-            },
-          ],
-        },
-        "english-fatihah": {
-          title: "The Opening Chapter of the Qur'ān (English)",
-          artist: "MTWS Audio",
-          album: "Opening Chapter of the Qurān",
-          artwork: [
-            {
-              src: "",
-              sizes: "",
-              type: "",
+              src: "/assets/audio/quran/album-cover.jpeg",
+              sizes: "500x500",
+              type: "image/jpeg",
             },
           ],
         },
