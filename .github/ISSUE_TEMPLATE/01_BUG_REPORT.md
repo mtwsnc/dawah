@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a report to help Information About Islam (Da'wah Website) to improve
+about: Create a report to help improve the Da'wah Website 
 title: "bug: "
 labels: "bug"
 assignees: ""
@@ -8,7 +8,7 @@ assignees: ""
 
 # Bug Report
 
-**Information About Islam (Da'wah Website) version:**
+**Site version:**
 
 <!-- Please specify commit or tag version. -->
 
