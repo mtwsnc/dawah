@@ -5,19 +5,30 @@ Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in
 
 ## Development environment setup
 
-> **[?]**
-> Proceed to describe how to setup local development environment.
-> e.g:
-
 To set up a development environment, please follow these steps:
 
 1. Clone the repo
 
    ```sh
    git clone https://github.com/mtwsnc/dawah
+   cd dawah
    ```
 
-2. TODO
+2. Install dependencies
+
+   ```sh
+   npm install
+   ```
+
+3. Build CSS files (if needed)
+
+   ```sh
+   npm run build-bulma
+   ```
+
+4. Open the project in your browser
+   - You can use a local development server or simply open the `index.html` file in your browser
+   - For development, you can use the watch mode: `npm start`
 
 ## Issues and feature requests
 
@@ -31,6 +42,8 @@ Please try to create bug reports that are:
 - _Scoped to a Single Bug._ One bug per report.
 
 **Even better: Submit a pull request with a fix or new feature!**
+
+**Important Notice:** All issues and pull requests will be thoroughly reviewed for authenticity and accuracy of information. All pull requests and issues are not guaranteed by any means to be answered or merged. We maintain high standards for content accuracy, especially given the religious nature of this project.
 
 ### How to submit a Pull Request
 
