@@ -39,12 +39,6 @@ Instead, please report security issues through one of these methods:
 
 2. **Direct Contact**:
    - Email us at **security@mtws.org** for confidential disclosures.
-   - For encrypted communication, use our PGP key:
-     ```
-     -----BEGIN PGP PUBLIC KEY BLOCK-----
-     [Insert PGP public key here]
-     -----END PGP PUBLIC KEY BLOCK-----
-     ```
    - Include "SECURITY" in the subject line
 
 ### What to Include
